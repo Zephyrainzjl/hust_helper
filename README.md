@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/hust_helper_cover.png" alt="hust_helper cover / hust_helper 封面图" width="100%">
+  <img src="docs/assets/hust_helper_cover.jpg" alt="hust_helper cover / hust_helper 封面图" width="100%">
 </p>
 
 <!--
