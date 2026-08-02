@@ -1,0 +1,569 @@
+{
+  "schema_version": "1.0",
+  "page_number": 39,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "辣，他觉得挺不错）。\n7.BLOCK 澳式料理美团信息\n（5） 悦兴小厨（武汉天地店）：湖北菜\n网上看人推荐的，据说每天都很多人吃，上次吃牛肉炒饭的时候经过了，\n确实人挺多，因此我推荐一手，菜单如图所示：\n悦兴小厨菜单\n网上推荐最多的菜是：吮指牛骨头、鱼香肉丝、咸蛋黄肉松茄子、干煸藕\n丝、炒花饭。\n悦兴小厨美团信息",
+  "lines": [
+    {
+      "page": 39,
+      "text": "辣，他觉得挺不错）。",
+      "bbox": [
+        90.024,
+        77.408,
+        207.05,
+        90.692
+      ],
+      "spans": [
+        {
+          "text": "辣，他觉得挺不错）。",
+          "bbox": [
+            90.024,
+            77.792,
+            204.024,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            204.05,
+            77.408,
+            207.05,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 665
+    },
+    {
+      "page": 39,
+      "text": "7.BLOCK 澳式料理美团信息",
+      "bbox": [
+        223.37,
+        225.608,
+        375.07,
+        238.892
+      ],
+      "spans": [
+        {
+          "text": "7.BLOCK",
+          "bbox": [
+            223.37,
+            225.608,
+            273.05,
+            238.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 澳式料理美团信息",
+          "bbox": [
+            273.05,
+            225.992,
+            372.05,
+            237.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            372.07,
+            225.608,
+            375.07,
+            238.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 666
+    },
+    {
+      "page": 39,
+      "text": "（5） 悦兴小厨（武汉天地店）：湖北菜",
+      "bbox": [
+        90.024,
+        248.87,
+        303.07,
+        262.322
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            249.422,
+            102.024,
+            261.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "5",
+          "bbox": [
+            102.02,
+            249.038,
+            108.02,
+            262.322
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            249.422,
+            120.02,
+            261.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            248.87,
+            123.356,
+            262.25
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "悦兴小厨（武汉天地店）：湖北菜",
+          "bbox": [
+            126.02,
+            249.422,
+            300.02,
+            261.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            300.07,
+            249.038,
+            303.07,
+            262.322
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 667
+    },
+    {
+      "page": 39,
+      "text": "网上看人推荐的，据说每天都很多人吃，上次吃牛肉炒饭的时候经过了，",
+      "bbox": [
+        114.02,
+        272.822,
+        498.02,
+        284.822
+      ],
+      "spans": [
+        {
+          "text": "网上看人推荐的，据说每天都很多人吃，上次吃牛肉炒饭的时候经过了，",
+          "bbox": [
+            114.02,
+            272.822,
+            498.02,
+            284.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 668
+    },
+    {
+      "page": 39,
+      "text": "确实人挺多，因此我推荐一手，菜单如图所示：",
+      "bbox": [
+        90.024,
+        295.838,
+        345.07,
+        309.122
+      ],
+      "spans": [
+        {
+          "text": "确实人挺多，因此我推荐一手，菜单如图所示：",
+          "bbox": [
+            90.024,
+            296.222,
+            342.024,
+            308.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            342.07,
+            295.838,
+            345.07,
+            309.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 669
+    },
+    {
+      "page": 39,
+      "text": "悦兴小厨菜单",
+      "bbox": [
+        261.65,
+        522.058,
+        336.67,
+        535.342
+      ],
+      "spans": [
+        {
+          "text": "悦兴小厨菜单",
+          "bbox": [
+            261.65,
+            522.442,
+            333.65,
+            534.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            333.67,
+            522.058,
+            336.67,
+            535.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 670
+    },
+    {
+      "page": 39,
+      "text": "网上推荐最多的菜是：吮指牛骨头、鱼香肉丝、咸蛋黄肉松茄子、干煸藕",
+      "bbox": [
+        114.02,
+        545.842,
+        499.022,
+        557.842
+      ],
+      "spans": [
+        {
+          "text": "网上推荐最多的菜是：",
+          "bbox": [
+            114.02,
+            545.842,
+            234.02,
+            557.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "吮指牛骨头、鱼香肉丝、咸蛋黄肉松茄子、干煸藕",
+          "bbox": [
+            234.05,
+            545.842,
+            499.022,
+            557.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "吮指牛骨头、鱼香肉丝、咸蛋黄肉松茄子、干煸藕"
+      ],
+      "red_segments": [
+        {
+          "text": "吮指牛骨头、鱼香肉丝、咸蛋黄肉松茄子、干煸藕",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 671
+    },
+    {
+      "page": 39,
+      "text": "丝、炒花饭。",
+      "bbox": [
+        90.024,
+        568.858,
+        165.26,
+        582.142
+      ],
+      "spans": [
+        {
+          "text": "丝、炒花饭",
+          "bbox": [
+            90.024,
+            569.242,
+            150.24,
+            581.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。",
+          "bbox": [
+            150.38,
+            569.242,
+            162.38,
+            581.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            162.26,
+            568.858,
+            165.26,
+            582.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "丝、炒花饭"
+      ],
+      "red_segments": [
+        {
+          "text": "丝、炒花饭",
+          "at_line_start": true,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 672
+    },
+    {
+      "page": 39,
+      "text": "悦兴小厨美团信息",
+      "bbox": [
+        249.65,
+        732.684,
+        348.67,
+        745.968
+      ],
+      "spans": [
+        {
+          "text": "悦兴小厨美团信息",
+          "bbox": [
+            249.65,
+            733.068,
+            345.65,
+            745.068
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            345.67,
+            732.684,
+            348.67,
+            745.968
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 673
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p039-01",
+      "page": 39,
+      "order_on_page": 1,
+      "file": "media/p039_img01.png",
+      "xref": 242,
+      "bbox": [
+        184.39,
+        98.37,
+        411.5,
+        217.22
+      ],
+      "pixel_width": 706,
+      "pixel_height": 369,
+      "caption": "7.BLOCK 澳式料理美团信息",
+      "sha256": "2cd854e0a6e81ec8fdc08d9e1943c549591835ffbf42f3dabe6dde0dddbb1b51",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p039-02",
+      "page": 39,
+      "order_on_page": 2,
+      "file": "media/p039_img02.png",
+      "xref": 243,
+      "bbox": [
+        135.5,
+        318.12,
+        298.95,
+        512.25
+      ],
+      "pixel_width": 504,
+      "pixel_height": 598,
+      "caption": "悦兴小厨菜单",
+      "sha256": "0c8f2e1125493377527351d0cd2855d3a0829e8ab58628d53d07dcf38e4ce765",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p039-03",
+      "page": 39,
+      "order_on_page": 3,
+      "file": "media/p039_img03.png",
+      "xref": 244,
+      "bbox": [
+        299.0,
+        318.47,
+        459.77,
+        512.27
+      ],
+      "pixel_width": 497,
+      "pixel_height": 599,
+      "caption": "悦兴小厨菜单",
+      "sha256": "ba9b62e30f2c85cea95cc972dee8f4d95c6fb7bdadfb22838b6f41380abdc8e2",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p039-04",
+      "page": 39,
+      "order_on_page": 4,
+      "file": "media/p039_img04.png",
+      "xref": 245,
+      "bbox": [
+        190.18,
+        594.42,
+        405.08,
+        719.57
+      ],
+      "pixel_width": 658,
+      "pixel_height": 383,
+      "caption": "悦兴小厨美团信息",
+      "sha256": "2d4b264f66aaf180acdca7c1171ee2ebfa685933ca03f3334859ad8adfa9fabd",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

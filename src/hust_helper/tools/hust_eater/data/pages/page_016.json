@@ -1,0 +1,1150 @@
+{
+  "schema_version": "1.0",
+  "page_number": 16,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "（8） 米雅餐厅：西餐厅\n这家店比较特殊，有点小贵，我个人觉得性价比一般，为什么要放上来\n呢，是因为我有朋友喜欢吃。\n附上我们喜欢吃的几个菜：果木熏猪排、法式香煎油封鸭腿、黑松露火腿\n温泉蛋披萨、柠檬挞。我之前看网上推荐最多的是千层面，但是我和我朋友都\n吃不太习惯，感兴趣的可以试试。\n米雅餐厅美团信息\n（9） 金家韩国料理：韩料\n其实很早就关注这家店了，但是看到网上褒贬不一，一直没去。前段时间\n鼓起勇气去了，不得不说有几个菜确实惊艳到我了。\n推荐的菜：参鸡汤（特别好喝，很鲜美，吃过最好吃的鸡汤，超过了贺胜\n桥鸡汤）、海鲜葱饼（我个人很喜欢，但是我同伴觉得一般）、薄片五花肉（我\n觉得中上水平，我同伴很喜欢）。\n金家韩国料理美团信息\n（10）老地方东北铁锅炖：东北菜\n华科附近我吃过好几家铁锅炖，感觉这家铁锅炖做的应该算是不错的，吃\n过3 次，出餐也稳定。我最喜欢他的嘎嘎香排骨锅和大鹅排骨锅。\n老地方东北菜铁锅炖美团信息",
+  "lines": [
+    {
+      "page": 16,
+      "text": "（8） 米雅餐厅：西餐厅",
+      "bbox": [
+        90.024,
+        77.24,
+        225.05,
+        90.692
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            77.792,
+            102.024,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "8",
+          "bbox": [
+            102.02,
+            77.408,
+            108.02,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            77.792,
+            120.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            77.24,
+            123.356,
+            90.62
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "米雅餐厅：西餐厅",
+          "bbox": [
+            126.02,
+            77.792,
+            222.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            222.05,
+            77.408,
+            225.05,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 282
+    },
+    {
+      "page": 16,
+      "text": "这家店比较特殊，有点小贵，我个人觉得性价比一般，为什么要放上来",
+      "bbox": [
+        114.02,
+        101.192,
+        486.05,
+        113.192
+      ],
+      "spans": [
+        {
+          "text": "这家店比较特殊，有点小贵，我个人觉得性价比一般，为什么要放上来",
+          "bbox": [
+            114.02,
+            101.192,
+            486.05,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 283
+    },
+    {
+      "page": 16,
+      "text": "呢，是因为我有朋友喜欢吃。",
+      "bbox": [
+        90.024,
+        124.208,
+        249.05,
+        137.492
+      ],
+      "spans": [
+        {
+          "text": "呢，是因为我有朋友喜欢吃。",
+          "bbox": [
+            90.024,
+            124.592,
+            246.024,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            246.05,
+            124.208,
+            249.05,
+            137.492
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 284
+    },
+    {
+      "page": 16,
+      "text": "附上我们喜欢吃的几个菜：果木熏猪排、法式香煎油封鸭腿、黑松露火腿",
+      "bbox": [
+        114.02,
+        147.992,
+        498.914,
+        159.992
+      ],
+      "spans": [
+        {
+          "text": "附上我们喜欢吃的几个菜：",
+          "bbox": [
+            114.02,
+            147.992,
+            258.02,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "果木熏猪排、法式香煎油封鸭腿、黑松露火腿",
+          "bbox": [
+            258.05,
+            147.992,
+            498.914,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "果木熏猪排、法式香煎油封鸭腿、黑松露火腿"
+      ],
+      "red_segments": [
+        {
+          "text": "果木熏猪排、法式香煎油封鸭腿、黑松露火腿",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 285
+    },
+    {
+      "page": 16,
+      "text": "温泉蛋披萨、柠檬挞。我之前看网上推荐最多的是千层面，但是我和我朋友都",
+      "bbox": [
+        90.024,
+        171.392,
+        498.53,
+        183.392
+      ],
+      "spans": [
+        {
+          "text": "温泉蛋披萨、柠檬挞",
+          "bbox": [
+            90.024,
+            171.392,
+            198.456,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。我之前看网上推荐最多的是千层面，但是我和我朋友都",
+          "bbox": [
+            198.65,
+            171.392,
+            498.53,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "温泉蛋披萨、柠檬挞"
+      ],
+      "red_segments": [
+        {
+          "text": "温泉蛋披萨、柠檬挞",
+          "at_line_start": true,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 286
+    },
+    {
+      "page": 16,
+      "text": "吃不太习惯，感兴趣的可以试试。",
+      "bbox": [
+        90.024,
+        194.408,
+        273.05,
+        207.692
+      ],
+      "spans": [
+        {
+          "text": "吃不太习惯，感兴趣的可以试试。",
+          "bbox": [
+            90.024,
+            194.792,
+            270.024,
+            206.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            270.05,
+            194.408,
+            273.05,
+            207.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 287
+    },
+    {
+      "page": 16,
+      "text": "米雅餐厅美团信息",
+      "bbox": [
+        249.65,
+        311.438,
+        348.67,
+        324.722
+      ],
+      "spans": [
+        {
+          "text": "米雅餐厅美团信息",
+          "bbox": [
+            249.65,
+            311.822,
+            345.65,
+            323.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            345.67,
+            311.438,
+            348.67,
+            324.722
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 288
+    },
+    {
+      "page": 16,
+      "text": "（9） 金家韩国料理：韩料",
+      "bbox": [
+        90.024,
+        334.67,
+        237.05,
+        348.122
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            335.222,
+            102.024,
+            347.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "9",
+          "bbox": [
+            102.02,
+            334.838,
+            108.02,
+            348.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            335.222,
+            120.02,
+            347.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            334.67,
+            123.356,
+            348.05
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "金家韩国料理：韩料",
+          "bbox": [
+            126.02,
+            335.222,
+            234.02,
+            347.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            234.05,
+            334.838,
+            237.05,
+            348.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 289
+    },
+    {
+      "page": 16,
+      "text": "其实很早就关注这家店了，但是看到网上褒贬不一，一直没去。前段时间",
+      "bbox": [
+        114.02,
+        358.622,
+        498.02,
+        370.622
+      ],
+      "spans": [
+        {
+          "text": "其实很早就关注这家店了，但是看到网上褒贬不一，一直没去。前段时间",
+          "bbox": [
+            114.02,
+            358.622,
+            498.02,
+            370.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 290
+    },
+    {
+      "page": 16,
+      "text": "鼓起勇气去了，不得不说有几个菜确实惊艳到我了。",
+      "bbox": [
+        90.024,
+        381.638,
+        369.07,
+        394.922
+      ],
+      "spans": [
+        {
+          "text": "鼓起勇气去了，不得不说有几个菜确实惊艳到我了。",
+          "bbox": [
+            90.024,
+            382.022,
+            366.02,
+            394.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            366.07,
+            381.638,
+            369.07,
+            394.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 291
+    },
+    {
+      "page": 16,
+      "text": "推荐的菜：参鸡汤（特别好喝，很鲜美，吃过最好吃的鸡汤，超过了贺胜",
+      "bbox": [
+        114.02,
+        405.442,
+        498.17,
+        417.442
+      ],
+      "spans": [
+        {
+          "text": "推荐的菜：",
+          "bbox": [
+            114.02,
+            405.442,
+            174.02,
+            417.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "参鸡汤",
+          "bbox": [
+            174.02,
+            405.442,
+            210.128,
+            417.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（特别好喝，很鲜美，吃过最好吃的鸡汤，超过了贺胜",
+          "bbox": [
+            210.29,
+            405.442,
+            498.17,
+            417.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "参鸡汤"
+      ],
+      "red_segments": [
+        {
+          "text": "参鸡汤",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 292
+    },
+    {
+      "page": 16,
+      "text": "桥鸡汤）、海鲜葱饼（我个人很喜欢，但是我同伴觉得一般）、薄片五花肉（我",
+      "bbox": [
+        90.024,
+        428.842,
+        498.7,
+        440.842
+      ],
+      "spans": [
+        {
+          "text": "桥鸡汤）、",
+          "bbox": [
+            90.024,
+            428.842,
+            144.024,
+            440.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "海鲜葱饼",
+          "bbox": [
+            144.02,
+            428.842,
+            192.236,
+            440.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（我个人很喜欢，但是我同伴觉得一般）、",
+          "bbox": [
+            192.41,
+            428.842,
+            414.29,
+            440.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "薄片五花肉",
+          "bbox": [
+            414.34,
+            428.842,
+            474.556,
+            440.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（我",
+          "bbox": [
+            474.7,
+            428.842,
+            498.7,
+            440.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "海鲜葱饼",
+        "薄片五花肉"
+      ],
+      "red_segments": [
+        {
+          "text": "海鲜葱饼",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "薄片五花肉",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 293
+    },
+    {
+      "page": 16,
+      "text": "觉得中上水平，我同伴很喜欢）。",
+      "bbox": [
+        90.024,
+        451.858,
+        267.05,
+        465.142
+      ],
+      "spans": [
+        {
+          "text": "觉得中上水平，我同伴很喜欢）。",
+          "bbox": [
+            90.024,
+            452.242,
+            264.05,
+            464.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            264.05,
+            451.858,
+            267.05,
+            465.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 294
+    },
+    {
+      "page": 16,
+      "text": "金家韩国料理美团信息",
+      "bbox": [
+        237.65,
+        568.858,
+        360.67,
+        582.142
+      ],
+      "spans": [
+        {
+          "text": "金家韩国料理美团信息",
+          "bbox": [
+            237.65,
+            569.242,
+            357.65,
+            581.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            357.67,
+            568.858,
+            360.67,
+            582.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 295
+    },
+    {
+      "page": 16,
+      "text": "（10）老地方东北铁锅炖：东北菜",
+      "bbox": [
+        90.024,
+        592.288,
+        273.05,
+        605.572
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            592.672,
+            102.024,
+            604.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "10",
+          "bbox": [
+            102.02,
+            592.288,
+            114.02,
+            605.572
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）老地方东北铁锅炖：东北菜",
+          "bbox": [
+            114.02,
+            592.672,
+            270.02,
+            604.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            270.05,
+            592.288,
+            273.05,
+            605.572
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 296
+    },
+    {
+      "page": 16,
+      "text": "华科附近我吃过好几家铁锅炖，感觉这家铁锅炖做的应该算是不错的，吃",
+      "bbox": [
+        114.02,
+        616.072,
+        498.07,
+        628.072
+      ],
+      "spans": [
+        {
+          "text": "华科附近我吃过好几家铁锅炖，感觉这家铁锅炖做的应该算是不错的，吃",
+          "bbox": [
+            114.02,
+            616.072,
+            498.07,
+            628.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 297
+    },
+    {
+      "page": 16,
+      "text": "过3 次，出餐也稳定。我最喜欢他的嘎嘎香排骨锅和大鹅排骨锅。",
+      "bbox": [
+        90.024,
+        639.088,
+        441.7,
+        652.372
+      ],
+      "spans": [
+        {
+          "text": "过",
+          "bbox": [
+            90.024,
+            639.472,
+            102.024,
+            651.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "3",
+          "bbox": [
+            105.02,
+            639.088,
+            111.02,
+            652.372
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 次，出餐也稳定。我最喜欢他的",
+          "bbox": [
+            111.02,
+            639.472,
+            282.02,
+            651.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "嘎嘎香排骨锅",
+          "bbox": [
+            282.05,
+            639.472,
+            354.374,
+            651.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "和",
+          "bbox": [
+            354.55,
+            639.472,
+            366.55,
+            651.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "大鹅排骨锅",
+          "bbox": [
+            366.43,
+            639.472,
+            426.646,
+            651.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。",
+          "bbox": [
+            426.82,
+            639.472,
+            438.82,
+            651.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            438.7,
+            639.088,
+            441.7,
+            652.372
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "嘎嘎香排骨锅",
+        "大鹅排骨锅"
+      ],
+      "red_segments": [
+        {
+          "text": "嘎嘎香排骨锅",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "大鹅排骨锅",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 298
+    },
+    {
+      "page": 16,
+      "text": "老地方东北菜铁锅炖美团信息",
+      "bbox": [
+        219.65,
+        740.484,
+        378.67,
+        753.768
+      ],
+      "spans": [
+        {
+          "text": "老地方东北菜铁锅炖美团信息",
+          "bbox": [
+            219.65,
+            740.868,
+            375.65,
+            752.868
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            375.67,
+            740.484,
+            378.67,
+            753.768
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 299
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p016-01",
+      "page": 16,
+      "order_on_page": 1,
+      "file": "media/p016_img01.png",
+      "xref": 159,
+      "bbox": [
+        221.05,
+        212.67,
+        374.25,
+        305.72
+      ],
+      "pixel_width": 474,
+      "pixel_height": 288,
+      "caption": "米雅餐厅美团信息",
+      "sha256": "fa7f299f5ec80a90bd1bb6192564ecb19fc8a8ea61073fd1747de982ce9cb79d",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p016-02",
+      "page": 16,
+      "order_on_page": 2,
+      "file": "media/p016_img02.png",
+      "xref": 160,
+      "bbox": [
+        218.9,
+        473.69,
+        376.18,
+        559.49
+      ],
+      "pixel_width": 492,
+      "pixel_height": 269,
+      "caption": "金家韩国料理美团信息",
+      "sha256": "a648a635f1f5984496d48119daa7e20b061b9f32867fe356aba4b05674949207",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p016-03",
+      "page": 16,
+      "order_on_page": 3,
+      "file": "media/p016_img03.png",
+      "xref": 161,
+      "bbox": [
+        216.65,
+        659.24,
+        378.05,
+        732.19
+      ],
+      "pixel_width": 502,
+      "pixel_height": 227,
+      "caption": "老地方东北菜铁锅炖美团信息",
+      "sha256": "0bf42fac7a5bac638e22ca1d05a1f7304a85128bb1e9a8db19356470c117052b",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

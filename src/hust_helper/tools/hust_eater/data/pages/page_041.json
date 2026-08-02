@@ -1,0 +1,1078 @@
+{
+  "schema_version": "1.0",
+  "page_number": 41,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "（3） 伽米宴（武商 Mall 店）\n这家店也是别人推荐我去比较多的店，但是价格摆在那（人均 100+），我\n一直没舍得去，毕业前一定得去一次。根据大众点评和我的喜好（我下次去想\n吃的几道菜）来推荐吧：芝加哥牛肉深盘披萨（大众点评第一，我确实想吃）、\n手工花朵肉酱意面（大众点评第二）、和牛三明治（大众点评第三，我也想\n吃）、味增酱碳烤花菜（大众点评第四，其实我有点质疑的成分在，但是没吃\n过）、鳗鱼鹅肝 Tapas（大众点评第五，但是是我最想吃的一道菜）、和牛鹅肝\n饭（我也好想吃，但是推荐榜上貌似没有）。\n伽米宴美团信息\n（4） 回味黑鸭煲（万松园店）\n也是武汉文旅推荐的一家店，但是我去看了小红书以及美团的评价，说是味道\n越来越差，但是还在及格线以上，就看大家选择了，我自己还没去吃过。根据\n大众点评推荐几道菜：老武汉黑鸭煲、老武汉皮蛋拌豆腐（这是武汉特色\n吗？）、芥末空心菜（芥末怎么和空心菜挂钩的，好奇）、香辣虾。\n回味黑鸭煲美团信息",
+  "lines": [
+    {
+      "page": 41,
+      "text": "（3） 伽米宴（武商 Mall 店）",
+      "bbox": [
+        90.024,
+        77.24,
+        253.73,
+        90.692
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            77.792,
+            102.024,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "3",
+          "bbox": [
+            102.02,
+            77.408,
+            108.02,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            77.792,
+            120.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            77.24,
+            123.356,
+            90.62
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "伽米宴（武商",
+          "bbox": [
+            126.02,
+            77.792,
+            198.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "Mall",
+          "bbox": [
+            201.05,
+            77.408,
+            223.682,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 店）",
+          "bbox": [
+            223.682,
+            77.792,
+            250.73,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            250.73,
+            77.408,
+            253.73,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 689
+    },
+    {
+      "page": 41,
+      "text": "这家店也是别人推荐我去比较多的店，但是价格摆在那（人均 100+），我",
+      "bbox": [
+        114.02,
+        100.808,
+        495.82,
+        114.092
+      ],
+      "spans": [
+        {
+          "text": "这家店也是别人推荐我去比较多的店，但是价格摆在那（人均",
+          "bbox": [
+            114.02,
+            101.192,
+            438.02,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "100+",
+          "bbox": [
+            441.1,
+            100.808,
+            465.868,
+            114.092
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "），我",
+          "bbox": [
+            465.82,
+            101.192,
+            495.82,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 690
+    },
+    {
+      "page": 41,
+      "text": "一直没舍得去，毕业前一定得去一次。根据大众点评和我的喜好（我下次去想",
+      "bbox": [
+        90.024,
+        124.592,
+        498.024,
+        136.592
+      ],
+      "spans": [
+        {
+          "text": "一直没舍得去，毕业前一定得去一次。根据大众点评和我的喜好（我下次去想",
+          "bbox": [
+            90.024,
+            124.592,
+            498.024,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 691
+    },
+    {
+      "page": 41,
+      "text": "吃的几道菜）来推荐吧：芝加哥牛肉深盘披萨（大众点评第一，我确实想吃）、",
+      "bbox": [
+        90.024,
+        147.992,
+        504.55,
+        159.992
+      ],
+      "spans": [
+        {
+          "text": "吃的几道菜）来推荐吧：",
+          "bbox": [
+            90.024,
+            147.992,
+            222.024,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "芝加哥牛肉深盘披萨",
+          "bbox": [
+            222.05,
+            147.992,
+            330.482,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（大众点评第一，我确实想吃）、",
+          "bbox": [
+            330.55,
+            147.992,
+            504.55,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "芝加哥牛肉深盘披萨"
+      ],
+      "red_segments": [
+        {
+          "text": "芝加哥牛肉深盘披萨",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 692
+    },
+    {
+      "page": 41,
+      "text": "手工花朵肉酱意面（大众点评第二）、和牛三明治（大众点评第三，我也想",
+      "bbox": [
+        90.024,
+        171.392,
+        480.67,
+        183.392
+      ],
+      "spans": [
+        {
+          "text": "手工花朵肉酱意面",
+          "bbox": [
+            90.024,
+            171.392,
+            186.348,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（大众点评第二）、",
+          "bbox": [
+            186.53,
+            171.392,
+            288.41,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "和牛三明治",
+          "bbox": [
+            288.41,
+            171.392,
+            348.626,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（大众点评第三，我也想",
+          "bbox": [
+            348.79,
+            171.392,
+            480.67,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "手工花朵肉酱意面",
+        "和牛三明治"
+      ],
+      "red_segments": [
+        {
+          "text": "手工花朵肉酱意面",
+          "at_line_start": true,
+          "at_line_end": false
+        },
+        {
+          "text": "和牛三明治",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 693
+    },
+    {
+      "page": 41,
+      "text": "吃）、味增酱碳烤花菜（大众点评第四，其实我有点质疑的成分在，但是没吃",
+      "bbox": [
+        90.024,
+        194.792,
+        492.41,
+        206.792
+      ],
+      "spans": [
+        {
+          "text": "吃）、",
+          "bbox": [
+            90.024,
+            194.792,
+            120.024,
+            206.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "味增酱碳烤花菜",
+          "bbox": [
+            120.02,
+            194.792,
+            204.344,
+            206.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（大众点评第四，其实我有点质疑的成分在，但是没吃",
+          "bbox": [
+            204.41,
+            194.792,
+            492.41,
+            206.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "味增酱碳烤花菜"
+      ],
+      "red_segments": [
+        {
+          "text": "味增酱碳烤花菜",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 694
+    },
+    {
+      "page": 41,
+      "text": "过）、鳗鱼鹅肝 Tapas（大众点评第五，但是是我最想吃的一道菜）、和牛鹅肝",
+      "bbox": [
+        90.024,
+        217.808,
+        495.796,
+        231.092
+      ],
+      "spans": [
+        {
+          "text": "过）、",
+          "bbox": [
+            90.024,
+            218.192,
+            120.024,
+            230.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "鳗鱼鹅肝",
+          "bbox": [
+            120.02,
+            218.192,
+            168.236,
+            230.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "Tapas",
+          "bbox": [
+            171.26,
+            217.808,
+            201.596,
+            231.092
+          ],
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": true,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（大众点评第五，但是是我最想吃的一道菜）、",
+          "bbox": [
+            201.53,
+            218.192,
+            447.53,
+            230.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "和牛鹅肝",
+          "bbox": [
+            447.58,
+            218.192,
+            495.796,
+            230.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "鳗鱼鹅肝",
+        "Tapas",
+        "和牛鹅肝"
+      ],
+      "red_segments": [
+        {
+          "text": "鳗鱼鹅肝Tapas",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "和牛鹅肝",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 695
+    },
+    {
+      "page": 41,
+      "text": "饭（我也好想吃，但是推荐榜上貌似没有）。",
+      "bbox": [
+        90.024,
+        241.238,
+        327.07,
+        254.522
+      ],
+      "spans": [
+        {
+          "text": "饭",
+          "bbox": [
+            90.024,
+            241.622,
+            102.024,
+            253.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（我也好想吃，但是推荐榜上貌似没有）。",
+          "bbox": [
+            102.14,
+            241.622,
+            324.02,
+            253.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            324.07,
+            241.238,
+            327.07,
+            254.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "饭"
+      ],
+      "red_segments": [
+        {
+          "text": "饭",
+          "at_line_start": true,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 696
+    },
+    {
+      "page": 41,
+      "text": "伽米宴美团信息",
+      "bbox": [
+        255.65,
+        420.658,
+        342.67,
+        433.942
+      ],
+      "spans": [
+        {
+          "text": "伽米宴美团信息",
+          "bbox": [
+            255.65,
+            421.042,
+            339.65,
+            433.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            339.67,
+            420.658,
+            342.67,
+            433.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 697
+    },
+    {
+      "page": 41,
+      "text": "（4） 回味黑鸭煲（万松园店）",
+      "bbox": [
+        90.024,
+        443.89,
+        261.05,
+        457.342
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            444.442,
+            102.024,
+            456.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "4",
+          "bbox": [
+            102.02,
+            444.058,
+            108.02,
+            457.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            444.442,
+            120.02,
+            456.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            443.89,
+            123.356,
+            457.27
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "回味黑鸭煲（万松园店）",
+          "bbox": [
+            126.02,
+            444.442,
+            258.02,
+            456.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            258.05,
+            444.058,
+            261.05,
+            457.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 698
+    },
+    {
+      "page": 41,
+      "text": "也是武汉文旅推荐的一家店，但是我去看了小红书以及美团的评价，说是味道",
+      "bbox": [
+        90.024,
+        467.842,
+        498.024,
+        479.842
+      ],
+      "spans": [
+        {
+          "text": "也是武汉文旅推荐的一家店，但是我去看了小红书以及美团的评价，说是味道",
+          "bbox": [
+            90.024,
+            467.842,
+            498.024,
+            479.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 699
+    },
+    {
+      "page": 41,
+      "text": "越来越差，但是还在及格线以上，就看大家选择了，我自己还没去吃过。根据",
+      "bbox": [
+        90.024,
+        491.242,
+        498.024,
+        503.242
+      ],
+      "spans": [
+        {
+          "text": "越来越差，但是还在及格线以上，就看大家选择了，我自己还没去吃过。根据",
+          "bbox": [
+            90.024,
+            491.242,
+            498.024,
+            503.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 700
+    },
+    {
+      "page": 41,
+      "text": "大众点评推荐几道菜：老武汉黑鸭煲、老武汉皮蛋拌豆腐（这是武汉特色",
+      "bbox": [
+        90.024,
+        514.642,
+        474.79,
+        526.642
+      ],
+      "spans": [
+        {
+          "text": "大众点评推荐几道菜：",
+          "bbox": [
+            90.024,
+            514.642,
+            210.024,
+            526.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "老武汉黑鸭煲、老武汉皮蛋拌豆腐",
+          "bbox": [
+            210.05,
+            514.642,
+            390.722,
+            526.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（这是武汉特色",
+          "bbox": [
+            390.91,
+            514.642,
+            474.79,
+            526.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "老武汉黑鸭煲、老武汉皮蛋拌豆腐"
+      ],
+      "red_segments": [
+        {
+          "text": "老武汉黑鸭煲、老武汉皮蛋拌豆腐",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 701
+    },
+    {
+      "page": 41,
+      "text": "吗？）、芥末空心菜（芥末怎么和空心菜挂钩的，好奇）、香辣虾。",
+      "bbox": [
+        90.024,
+        537.658,
+        441.46,
+        550.942
+      ],
+      "spans": [
+        {
+          "text": "吗？）、",
+          "bbox": [
+            90.024,
+            538.042,
+            132.024,
+            550.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "芥末空心菜",
+          "bbox": [
+            132.02,
+            538.042,
+            192.236,
+            550.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（芥末怎么和空心菜挂钩的，好奇）、",
+          "bbox": [
+            192.41,
+            538.042,
+            390.29,
+            550.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "香辣虾",
+          "bbox": [
+            390.31,
+            538.042,
+            426.418,
+            550.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。",
+          "bbox": [
+            426.58,
+            538.042,
+            438.58,
+            550.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            438.46,
+            537.658,
+            441.46,
+            550.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "芥末空心菜",
+        "香辣虾"
+      ],
+      "red_segments": [
+        {
+          "text": "芥末空心菜",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "香辣虾",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 702
+    },
+    {
+      "page": 41,
+      "text": "回味黑鸭煲美团信息",
+      "bbox": [
+        243.65,
+        748.308,
+        354.67,
+        761.592
+      ],
+      "spans": [
+        {
+          "text": "回味黑鸭煲美团信息",
+          "bbox": [
+            243.65,
+            748.692,
+            351.65,
+            760.692
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            351.67,
+            748.308,
+            354.67,
+            761.592
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 703
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p041-01",
+      "page": 41,
+      "order_on_page": 1,
+      "file": "media/p041_img01.png",
+      "xref": 250,
+      "bbox": [
+        157.4,
+        262.2,
+        437.5,
+        411.59
+      ],
+      "pixel_width": 588,
+      "pixel_height": 314,
+      "caption": "伽米宴美团信息",
+      "sha256": "142b7f3f7527030d07a2555c62787360683fcb5b08f0e8e43abb2b88da8c2afa",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p041-02",
+      "page": 41,
+      "order_on_page": 2,
+      "file": "media/p041_img02.png",
+      "xref": 251,
+      "bbox": [
+        155.15,
+        560.44,
+        439.78,
+        737.94
+      ],
+      "pixel_width": 539,
+      "pixel_height": 335,
+      "caption": "回味黑鸭煲美团信息",
+      "sha256": "42a438272c3aeae152a0f8b7178bff6fe6a5b139e0c7eaa2631d5ec443da1269",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

@@ -1,0 +1,1417 @@
+{
+  "schema_version": "1.0",
+  "page_number": 38,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "（2） 神仙钵湘香土菜馆\n我只去过光华路店，去过两次，每次都点的一样的菜，都特别好吃。推荐\n的几道菜：黑鸭（微辣，汤里面的我不太能吃，但是真的很香）、乡村土豆片\n（也是微辣，但是勉强可以吃）、金牌松鼠鱼（有一点小刺，偏甜口，不爱吃甜\n的慎入）、干煸藕丝、钵钵饭（他家饭很有特色，很好吃，去了就知道了）、必\n吃纸包骨（在武汉吃过最好吃的排骨，很香，就是有点小贵，38 块钱4 根）。\n神仙钵湘香土菜馆美团信息\n（3） 广东潮汕蔡记肠粉（武汉天地店）\n看着小红书推荐才去的，挺惊喜的，吃的沙茶酱牛肉炒饭，虽然说20 块钱\n一碗的炒饭，但是里面有虾仁，有叉烧，有腊肠，还有很多牛肉，我觉得挺值\n的，而且真的很好吃啊！在我这边排武汉目前吃过的炒饭第一名。吃的时候附\n近好多看起来像是本地人，都点的肠粉，不知道味道咋样，可以试试。\n广东潮汕蔡记肠粉\n（4） 7.BLOCK 澳式料理（台北院子店）\n这家店我去过一次，好吃是真好吃，贵也是真贵，4 个人吃了人均 100\n多。推荐几个菜吧：法式焗蜗牛土豆泥（这其实是我第一次吃这道菜，确实不\n错）、乳酪鸡柳配奶酪薯饼、烤南瓜芝士沙拉、双层和牛芝士堡（应该算是我的\n汉堡白月光了，第一次吃到这么好吃的汉堡，但是 78 一个，我选前进五路 17\n块钱的芝士熔岩牛肉堡）、葱香小龙虾芝士火鸡面（是我同伴吃的，我吃不了",
+  "lines": [
+    {
+      "page": 38,
+      "text": "（2） 神仙钵湘香土菜馆",
+      "bbox": [
+        90.024,
+        77.24,
+        225.05,
+        90.692
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            77.792,
+            102.024,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "2",
+          "bbox": [
+            102.02,
+            77.408,
+            108.02,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            77.792,
+            120.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            77.24,
+            123.356,
+            90.62
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "神仙钵湘香土菜馆",
+          "bbox": [
+            126.02,
+            77.792,
+            222.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            222.05,
+            77.408,
+            225.05,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 646
+    },
+    {
+      "page": 38,
+      "text": "我只去过光华路店，去过两次，每次都点的一样的菜，都特别好吃。推荐",
+      "bbox": [
+        114.02,
+        101.192,
+        498.02,
+        113.192
+      ],
+      "spans": [
+        {
+          "text": "我只去过光华路店，去过两次，每次都点的一样的菜，都特别好吃。推荐",
+          "bbox": [
+            114.02,
+            101.192,
+            498.02,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 647
+    },
+    {
+      "page": 38,
+      "text": "的几道菜：黑鸭（微辣，汤里面的我不太能吃，但是真的很香）、乡村土豆片",
+      "bbox": [
+        90.024,
+        124.592,
+        492.436,
+        136.592
+      ],
+      "spans": [
+        {
+          "text": "的几道菜：",
+          "bbox": [
+            90.024,
+            124.592,
+            150.024,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "黑鸭",
+          "bbox": [
+            150.02,
+            124.592,
+            174.14,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（微辣，汤里面的我不太能吃，但是真的很香）、",
+          "bbox": [
+            174.26,
+            124.592,
+            432.14,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "乡村土豆片",
+          "bbox": [
+            432.22,
+            124.592,
+            492.436,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "黑鸭",
+        "乡村土豆片"
+      ],
+      "red_segments": [
+        {
+          "text": "黑鸭",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "乡村土豆片",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 648
+    },
+    {
+      "page": 38,
+      "text": "（也是微辣，但是勉强可以吃）、金牌松鼠鱼（有一点小刺，偏甜口，不爱吃甜",
+      "bbox": [
+        90.024,
+        147.992,
+        504.31,
+        159.992
+      ],
+      "spans": [
+        {
+          "text": "（也是微辣，但是勉强可以吃）、",
+          "bbox": [
+            90.024,
+            147.992,
+            264.024,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "金牌松鼠鱼",
+          "bbox": [
+            264.05,
+            147.992,
+            324.266,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（有一点小刺，偏甜口，不爱吃甜",
+          "bbox": [
+            324.31,
+            147.992,
+            504.31,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "金牌松鼠鱼"
+      ],
+      "red_segments": [
+        {
+          "text": "金牌松鼠鱼",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 649
+    },
+    {
+      "page": 38,
+      "text": "的慎入）、干煸藕丝、钵钵饭（他家饭很有特色，很好吃，去了就知道了）、必",
+      "bbox": [
+        90.024,
+        171.392,
+        498.46,
+        183.392
+      ],
+      "spans": [
+        {
+          "text": "的慎入）、",
+          "bbox": [
+            90.024,
+            171.392,
+            144.024,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "干煸藕丝、钵钵饭",
+          "bbox": [
+            144.02,
+            171.392,
+            240.344,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（他家饭很有特色，很好吃，去了就知道了）、",
+          "bbox": [
+            240.53,
+            171.392,
+            486.41,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "必",
+          "bbox": [
+            486.46,
+            171.392,
+            498.46,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "干煸藕丝、钵钵饭",
+        "必"
+      ],
+      "red_segments": [
+        {
+          "text": "干煸藕丝、钵钵饭",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "必",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 650
+    },
+    {
+      "page": 38,
+      "text": "吃纸包骨（在武汉吃过最好吃的排骨，很香，就是有点小贵，38 块钱4 根）。",
+      "bbox": [
+        90.024,
+        194.408,
+        498.34,
+        207.692
+      ],
+      "spans": [
+        {
+          "text": "吃纸包骨",
+          "bbox": [
+            90.024,
+            194.792,
+            138.24,
+            206.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（在武汉吃过最好吃的排骨，很香，就是有点小贵，",
+          "bbox": [
+            138.38,
+            194.792,
+            414.26,
+            206.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "38",
+          "bbox": [
+            414.34,
+            194.408,
+            426.34,
+            207.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 块钱",
+          "bbox": [
+            426.34,
+            194.792,
+            453.34,
+            206.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "4",
+          "bbox": [
+            456.34,
+            194.408,
+            462.34,
+            207.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 根）。",
+          "bbox": [
+            462.34,
+            194.792,
+            495.34,
+            206.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            495.34,
+            194.408,
+            498.34,
+            207.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "吃纸包骨"
+      ],
+      "red_segments": [
+        {
+          "text": "吃纸包骨",
+          "at_line_start": true,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 651
+    },
+    {
+      "page": 38,
+      "text": "神仙钵湘香土菜馆美团信息",
+      "bbox": [
+        225.65,
+        342.638,
+        372.67,
+        355.922
+      ],
+      "spans": [
+        {
+          "text": "神仙钵湘香土菜馆美团信息",
+          "bbox": [
+            225.65,
+            343.022,
+            369.65,
+            355.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            369.67,
+            342.638,
+            372.67,
+            355.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 652
+    },
+    {
+      "page": 38,
+      "text": "（3） 广东潮汕蔡记肠粉（武汉天地店）",
+      "bbox": [
+        90.024,
+        365.87,
+        309.07,
+        379.322
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            366.422,
+            102.024,
+            378.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "3",
+          "bbox": [
+            102.02,
+            366.038,
+            108.02,
+            379.322
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            366.422,
+            120.02,
+            378.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            365.87,
+            123.356,
+            379.25
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "广东潮汕蔡记肠粉（武汉天地店）",
+          "bbox": [
+            126.02,
+            366.422,
+            306.02,
+            378.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            306.07,
+            366.038,
+            309.07,
+            379.322
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 653
+    },
+    {
+      "page": 38,
+      "text": "看着小红书推荐才去的，挺惊喜的，吃的沙茶酱牛肉炒饭，虽然说20 块钱",
+      "bbox": [
+        114.02,
+        389.438,
+        504.46,
+        402.722
+      ],
+      "spans": [
+        {
+          "text": "看着小红书推荐才去的，挺惊喜的，吃的",
+          "bbox": [
+            114.02,
+            389.822,
+            330.02,
+            401.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "沙茶酱牛肉炒饭",
+          "bbox": [
+            330.07,
+            389.822,
+            414.394,
+            401.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "，虽然说",
+          "bbox": [
+            414.58,
+            389.822,
+            462.58,
+            401.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "20",
+          "bbox": [
+            465.58,
+            389.438,
+            477.46,
+            402.722
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 块钱",
+          "bbox": [
+            477.46,
+            389.822,
+            504.46,
+            401.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "沙茶酱牛肉炒饭"
+      ],
+      "red_segments": [
+        {
+          "text": "沙茶酱牛肉炒饭",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 654
+    },
+    {
+      "page": 38,
+      "text": "一碗的炒饭，但是里面有虾仁，有叉烧，有腊肠，还有很多牛肉，我觉得挺值",
+      "bbox": [
+        90.024,
+        413.242,
+        498.024,
+        425.242
+      ],
+      "spans": [
+        {
+          "text": "一碗的炒饭，但是里面有虾仁，有叉烧，有腊肠，还有很多牛肉，我觉得挺值",
+          "bbox": [
+            90.024,
+            413.242,
+            498.024,
+            425.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 655
+    },
+    {
+      "page": 38,
+      "text": "的，而且真的很好吃啊！在我这边排武汉目前吃过的炒饭第一名。吃的时候附",
+      "bbox": [
+        90.024,
+        436.642,
+        498.024,
+        448.642
+      ],
+      "spans": [
+        {
+          "text": "的，而且真的很好吃啊！在我这边排武汉目前吃过的炒饭第一名。吃的时候附",
+          "bbox": [
+            90.024,
+            436.642,
+            498.024,
+            448.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 656
+    },
+    {
+      "page": 38,
+      "text": "近好多看起来像是本地人，都点的肠粉，不知道味道咋样，可以试试。",
+      "bbox": [
+        90.024,
+        459.658,
+        465.22,
+        472.942
+      ],
+      "spans": [
+        {
+          "text": "近好多看起来像是本地人，都点的",
+          "bbox": [
+            90.024,
+            460.042,
+            270.024,
+            472.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "肠粉",
+          "bbox": [
+            270.05,
+            460.042,
+            294.17,
+            472.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "，不知道味道咋样，可以试试。",
+          "bbox": [
+            294.31,
+            460.042,
+            462.19,
+            472.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            462.22,
+            459.658,
+            465.22,
+            472.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "肠粉"
+      ],
+      "red_segments": [
+        {
+          "text": "肠粉",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 657
+    },
+    {
+      "page": 38,
+      "text": "广东潮汕蔡记肠粉",
+      "bbox": [
+        249.65,
+        592.288,
+        348.67,
+        605.572
+      ],
+      "spans": [
+        {
+          "text": "广东潮汕蔡记肠粉",
+          "bbox": [
+            249.65,
+            592.672,
+            345.65,
+            604.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            345.67,
+            592.288,
+            348.67,
+            605.572
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 658
+    },
+    {
+      "page": 38,
+      "text": "（4） 7.BLOCK 澳式料理（台北院子店）",
+      "bbox": [
+        90.024,
+        615.52,
+        313.75,
+        628.972
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            616.072,
+            102.024,
+            628.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "4",
+          "bbox": [
+            102.02,
+            615.688,
+            108.02,
+            628.972
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            616.072,
+            120.02,
+            628.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            615.52,
+            123.356,
+            628.9
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "7.BLOCK",
+          "bbox": [
+            126.02,
+            615.688,
+            175.7,
+            628.972
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 澳式料理（台北院子店）",
+          "bbox": [
+            175.7,
+            616.072,
+            310.73,
+            628.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            310.75,
+            615.688,
+            313.75,
+            628.972
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 659
+    },
+    {
+      "page": 38,
+      "text": "这家店我去过一次，好吃是真好吃，贵也是真贵，4 个人吃了人均 100",
+      "bbox": [
+        114.02,
+        639.088,
+        480.1,
+        652.372
+      ],
+      "spans": [
+        {
+          "text": "这家店我去过一次，好吃是真好吃，贵也是真贵，",
+          "bbox": [
+            114.02,
+            639.472,
+            378.02,
+            651.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "4",
+          "bbox": [
+            378.07,
+            639.088,
+            384.07,
+            652.372
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 个人吃了人均",
+          "bbox": [
+            384.07,
+            639.472,
+            459.07,
+            651.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "100",
+          "bbox": [
+            462.1,
+            639.088,
+            480.1,
+            652.372
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 660
+    },
+    {
+      "page": 38,
+      "text": "多。推荐几个菜吧：法式焗蜗牛土豆泥（这其实是我第一次吃这道菜，确实不",
+      "bbox": [
+        90.024,
+        662.872,
+        498.43,
+        674.872
+      ],
+      "spans": [
+        {
+          "text": "多。推荐几个菜吧：",
+          "bbox": [
+            90.024,
+            662.872,
+            198.024,
+            674.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "法式焗蜗牛土豆泥",
+          "bbox": [
+            198.05,
+            662.872,
+            294.374,
+            674.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（这其实是我第一次吃这道菜，确实不",
+          "bbox": [
+            294.55,
+            662.872,
+            498.43,
+            674.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "法式焗蜗牛土豆泥"
+      ],
+      "red_segments": [
+        {
+          "text": "法式焗蜗牛土豆泥",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 661
+    },
+    {
+      "page": 38,
+      "text": "错）、乳酪鸡柳配奶酪薯饼、烤南瓜芝士沙拉、双层和牛芝士堡（应该算是我的",
+      "bbox": [
+        90.024,
+        686.272,
+        505.3,
+        698.272
+      ],
+      "spans": [
+        {
+          "text": "错）、",
+          "bbox": [
+            90.024,
+            686.272,
+            120.024,
+            698.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "乳酪鸡柳配奶酪薯饼、烤南瓜芝士沙拉、双层和牛芝士堡",
+          "bbox": [
+            120.02,
+            686.272,
+            421.1,
+            698.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（应该算是我的",
+          "bbox": [
+            421.42,
+            686.272,
+            505.3,
+            698.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "乳酪鸡柳配奶酪薯饼、烤南瓜芝士沙拉、双层和牛芝士堡"
+      ],
+      "red_segments": [
+        {
+          "text": "乳酪鸡柳配奶酪薯饼、烤南瓜芝士沙拉、双层和牛芝士堡",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 662
+    },
+    {
+      "page": 38,
+      "text": "汉堡白月光了，第一次吃到这么好吃的汉堡，但是 78 一个，我选前进五路 17",
+      "bbox": [
+        90.024,
+        709.288,
+        495.1,
+        722.572
+      ],
+      "spans": [
+        {
+          "text": "汉堡白月光了，第一次吃到这么好吃的汉堡，但是",
+          "bbox": [
+            90.024,
+            709.672,
+            354.024,
+            721.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "78",
+          "bbox": [
+            357.07,
+            709.288,
+            369.07,
+            722.572
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 一个，我选前进五路",
+          "bbox": [
+            369.07,
+            709.672,
+            480.07,
+            721.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "17",
+          "bbox": [
+            483.1,
+            709.288,
+            495.1,
+            722.572
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 663
+    },
+    {
+      "page": 38,
+      "text": "块钱的芝士熔岩牛肉堡）、葱香小龙虾芝士火鸡面（是我同伴吃的，我吃不了",
+      "bbox": [
+        90.024,
+        733.068,
+        492.55,
+        745.068
+      ],
+      "spans": [
+        {
+          "text": "块钱的芝士熔岩牛肉堡）、",
+          "bbox": [
+            90.024,
+            733.068,
+            228.024,
+            745.068
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "葱香小龙虾芝士火鸡面",
+          "bbox": [
+            228.05,
+            733.068,
+            348.482,
+            745.068
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（是我同伴吃的，我吃不了",
+          "bbox": [
+            348.67,
+            733.068,
+            492.55,
+            745.068
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "葱香小龙虾芝士火鸡面"
+      ],
+      "red_segments": [
+        {
+          "text": "葱香小龙虾芝士火鸡面",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 664
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p038-01",
+      "page": 38,
+      "order_on_page": 1,
+      "file": "media/p038_img01.png",
+      "xref": 239,
+      "bbox": [
+        200.75,
+        213.3,
+        394.51,
+        336.25
+      ],
+      "pixel_width": 458,
+      "pixel_height": 290,
+      "caption": "神仙钵湘香土菜馆美团信息",
+      "sha256": "7099149dbcf21b7c21a950606734562df4cdbe7dc84361ac1808b61592c71a96",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p038-02",
+      "page": 38,
+      "order_on_page": 2,
+      "file": "media/p038_img02.png",
+      "xref": 240,
+      "bbox": [
+        187.1,
+        478.19,
+        408.18,
+        586.04
+      ],
+      "pixel_width": 588,
+      "pixel_height": 286,
+      "caption": "广东潮汕蔡记肠粉",
+      "sha256": "369dec2b2ebd178e2d4b790c9e712c7266bc0144982f8b220b0133384c44a9bf",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

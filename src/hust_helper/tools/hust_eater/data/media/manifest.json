@@ -1,0 +1,1963 @@
+{
+  "schema_version": "1.0",
+  "items": [
+    {
+      "id": "media-p001-01",
+      "page": 1,
+      "order_on_page": 1,
+      "file": "media/p001_img01.png",
+      "xref": 21,
+      "bbox": [
+        184.85,
+        72.0,
+        410.38,
+        131.5
+      ],
+      "pixel_width": 689,
+      "pixel_height": 182,
+      "caption": "HUSTer 的干饭修养",
+      "sha256": "e01ddaac9b0b475d07c1b19d55b5cb7f8306f8252a987cf9c8e1ef274599784a",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p005-01",
+      "page": 5,
+      "order_on_page": 1,
+      "file": "media/p005_img01.png",
+      "xref": 122,
+      "bbox": [
+        210.65,
+        564.37,
+        384.65,
+        734.01
+      ],
+      "pixel_width": 537,
+      "pixel_height": 524,
+      "caption": "① 热干面、牛肉/牛杂面、三鲜虾仁面、大排骨面、鸡蛋/豆腐面、各种拌面",
+      "sha256": "aad0ea8fba23cb4e12122ea21d96921bfbf9c75e14b9b724d664030c14330c6d",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e1-1-2-010-3e8be96bc4"
+    },
+    {
+      "id": "media-p009-01",
+      "page": 9,
+      "order_on_page": 1,
+      "file": "media/p009_img01.png",
+      "xref": 132,
+      "bbox": [
+        218.68,
+        207.45,
+        376.63,
+        326.53
+      ],
+      "pixel_width": 488,
+      "pixel_height": 368,
+      "caption": "东区外范围",
+      "sha256": "7d031c1a4e82c136ca078df374d57744cbc9f61f58fee75595493c5d0c712ea6",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-1-001-800f0a46cb"
+    },
+    {
+      "id": "media-p009-02",
+      "page": 9,
+      "order_on_page": 2,
+      "file": "media/p009_img02.png",
+      "xref": 133,
+      "bbox": [
+        254.9,
+        474.29,
+        340.287,
+        620.64
+      ],
+      "pixel_width": 237,
+      "pixel_height": 406,
+      "caption": "红旺部分套餐截图",
+      "sha256": "712c5b8c861a904b97bbe746a2a569197c12cd3a24118caa1d1e1e89f91f0ee6",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-1-001-800f0a46cb"
+    },
+    {
+      "id": "media-p010-01",
+      "page": 10,
+      "order_on_page": 1,
+      "file": "media/p010_img01.png",
+      "xref": 135,
+      "bbox": [
+        168.65,
+        99.85,
+        313.65,
+        278.17
+      ],
+      "pixel_width": 444,
+      "pixel_height": 545,
+      "caption": "红旺猪脚饭菜单",
+      "sha256": "bb31a181c0cadcc27d281b777b4aaa1a8fbdf46ceeaa4e941127cb3498e54de4",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-1-001-800f0a46cb"
+    },
+    {
+      "id": "media-p010-02",
+      "page": 10,
+      "order_on_page": 2,
+      "file": "media/p010_img02.png",
+      "xref": 136,
+      "bbox": [
+        314.15,
+        99.65,
+        450.2,
+        278.35
+      ],
+      "pixel_width": 425,
+      "pixel_height": 560,
+      "caption": "红旺猪脚饭菜单",
+      "sha256": "796a8c2810ed76bcee1ef45adf5bfae3f6fb8ca705b7e36b01fefaf1afe3d08d",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-1-001-800f0a46cb"
+    },
+    {
+      "id": "media-p010-03",
+      "page": 10,
+      "order_on_page": 3,
+      "file": "media/p010_img03.png",
+      "xref": 137,
+      "bbox": [
+        180.4,
+        282.9,
+        312.89,
+        453.8
+      ],
+      "pixel_width": 416,
+      "pixel_height": 538,
+      "caption": "红旺猪脚饭菜单",
+      "sha256": "17069a1c168704a62b1474fdc2e20d70bffd1a890a9099a61c340538211e356d",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-1-001-800f0a46cb"
+    },
+    {
+      "id": "media-p010-04",
+      "page": 10,
+      "order_on_page": 4,
+      "file": "media/p010_img04.png",
+      "xref": 138,
+      "bbox": [
+        312.9,
+        282.89,
+        438.25,
+        453.81
+      ],
+      "pixel_width": 394,
+      "pixel_height": 537,
+      "caption": "红旺猪脚饭菜单",
+      "sha256": "74861790312daace587ff8a258a447192f2e75eb8f1407bf4b833469ee5c4b78",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-1-001-800f0a46cb"
+    },
+    {
+      "id": "media-p010-05",
+      "page": 10,
+      "order_on_page": 5,
+      "file": "media/p010_img05.png",
+      "xref": 139,
+      "bbox": [
+        200.57,
+        502.791,
+        394.72,
+        592.44
+      ],
+      "pixel_width": 600,
+      "pixel_height": 277,
+      "caption": "红旺猪脚饭美团信息",
+      "sha256": "ebc7630afef833a3f04566e7fc9b5552bcc4cbcb07fa3ec0ce91b432f76120d6",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-1-001-800f0a46cb"
+    },
+    {
+      "id": "media-p011-01",
+      "page": 11,
+      "order_on_page": 1,
+      "file": "media/p011_img01.png",
+      "xref": 141,
+      "bbox": [
+        227.7,
+        259.65,
+        367.58,
+        320.5
+      ],
+      "pixel_width": 440,
+      "pixel_height": 190,
+      "caption": "韩味屋美团信息",
+      "sha256": "ef0102abed6a0ead7307f206807088e04e4274832328289be4305a12a4e88bc5",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-1-002-aca8c4c4ce"
+    },
+    {
+      "id": "media-p011-02",
+      "page": 11,
+      "order_on_page": 2,
+      "file": "media/p011_img02.png",
+      "xref": 142,
+      "bbox": [
+        217.4,
+        511.07,
+        377.75,
+        631.32
+      ],
+      "pixel_width": 445,
+      "pixel_height": 334,
+      "caption": "三清羊肉粉菜单",
+      "sha256": "2773382e2b238cf65ad958907b73c95b682ccf2e04693311c9837c3abcaa9a10",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-1-003-de34c818d9"
+    },
+    {
+      "id": "media-p011-03",
+      "page": 11,
+      "order_on_page": 3,
+      "file": "media/p011_img03.png",
+      "xref": 143,
+      "bbox": [
+        216.65,
+        658.49,
+        378.29,
+        732.79
+      ],
+      "pixel_width": 509,
+      "pixel_height": 234,
+      "caption": "三清羊肉粉美团信息",
+      "sha256": "839e5a2a8a44ba55fe92f3e21db7f0ed765f3846d73e1dab99f3db04fb64a508",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-1-003-de34c818d9"
+    },
+    {
+      "id": "media-p012-01",
+      "page": 12,
+      "order_on_page": 1,
+      "file": "media/p012_img01.png",
+      "xref": 145,
+      "bbox": [
+        181.4,
+        306.6,
+        413.53,
+        414.05
+      ],
+      "pixel_width": 717,
+      "pixel_height": 332,
+      "caption": "杏元餐厅美团信息",
+      "sha256": "643be4717be54b7776d4ce6ab8a7a07b62321ad9387beb3a7e271f89b5e60bc2",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-1-004-5756a0561a"
+    },
+    {
+      "id": "media-p012-02",
+      "page": 12,
+      "order_on_page": 2,
+      "file": "media/p012_img02.png",
+      "xref": 146,
+      "bbox": [
+        197.15,
+        557.5,
+        398.1,
+        709.69
+      ],
+      "pixel_width": 617,
+      "pixel_height": 467,
+      "caption": "土媳妇砂锅美团信息",
+      "sha256": "1ac1a8134178c3c08bd5bb00f9b4795cf161268c6fccb228be1b7b1069518b73",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-1-005-7557b079e4"
+    },
+    {
+      "id": "media-p013-01",
+      "page": 13,
+      "order_on_page": 1,
+      "file": "media/p013_img01.png",
+      "xref": 148,
+      "bbox": [
+        184.4,
+        134.4,
+        410.65,
+        290.3
+      ],
+      "pixel_width": 550,
+      "pixel_height": 379,
+      "caption": "中区外范围",
+      "sha256": "843a3d18ba2059b24f4608031a1660b340657b98f1cce11eff17090105ac5833",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-2-001-0c01964d2a"
+    },
+    {
+      "id": "media-p013-02",
+      "page": 13,
+      "order_on_page": 2,
+      "file": "media/p013_img02.png",
+      "xref": 149,
+      "bbox": [
+        184.98,
+        421.65,
+        410.29,
+        548.55
+      ],
+      "pixel_width": 695,
+      "pixel_height": 391,
+      "caption": "鱼来鱼美养身鱼火锅美团信息",
+      "sha256": "80474d2d34cb4ee98c9112bc95166bb752ed1f56991c65ed9e9d33ba19b98bcd",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-2-001-0c01964d2a"
+    },
+    {
+      "id": "media-p013-03",
+      "page": 13,
+      "order_on_page": 3,
+      "file": "media/p013_img03.png",
+      "xref": 150,
+      "bbox": [
+        187.95,
+        626.29,
+        407.3,
+        734.49
+      ],
+      "pixel_width": 677,
+      "pixel_height": 334,
+      "caption": "锅神麻辣烫美团信息",
+      "sha256": "ff0301a16edbdd92d1aefc3aea89853ee6a0f7e07fef7ad27e63284dbf922981",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-2-002-c92f149aa6"
+    },
+    {
+      "id": "media-p014-01",
+      "page": 14,
+      "order_on_page": 1,
+      "file": "media/p014_img01.png",
+      "xref": 152,
+      "bbox": [
+        188.68,
+        218.22,
+        406.58,
+        315.77
+      ],
+      "pixel_width": 666,
+      "pixel_height": 298,
+      "caption": "潇湘面馆美团信息",
+      "sha256": "2b89a30dcb4518f85c8bc855fcffb174c8d53260d81ea20a53ad336ec839f727",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-2-003-e8d8194e7d"
+    },
+    {
+      "id": "media-p014-02",
+      "page": 14,
+      "order_on_page": 2,
+      "file": "media/p014_img02.png",
+      "xref": 153,
+      "bbox": [
+        195.63,
+        515.34,
+        399.61,
+        627.04
+      ],
+      "pixel_width": 623,
+      "pixel_height": 341,
+      "caption": "老吴家常菜美团信息",
+      "sha256": "bde42b3ed26829921ffbcd8fd4356ba20c7f7bfb0b11e8e17ce5dd2f1e09291f",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-2-004-a78fa64140"
+    },
+    {
+      "id": "media-p015-01",
+      "page": 15,
+      "order_on_page": 1,
+      "file": "media/p015_img01.png",
+      "xref": 155,
+      "bbox": [
+        209.9,
+        169.8,
+        385.24,
+        270.6
+      ],
+      "pixel_width": 540,
+      "pixel_height": 310,
+      "caption": "顺德古法干蒸菜美团信息",
+      "sha256": "6a8e3aba279586c9c3250a67d13c74c9078e2fb029936a69fba55381d98c912d",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-2-005-d986565ecb"
+    },
+    {
+      "id": "media-p015-02",
+      "page": 15,
+      "order_on_page": 2,
+      "file": "media/p015_img02.png",
+      "xref": 156,
+      "bbox": [
+        206.73,
+        417.85,
+        388.52,
+        521.75
+      ],
+      "pixel_width": 561,
+      "pixel_height": 321,
+      "caption": "重庆饭庄美团信息",
+      "sha256": "4717f2708d8380171dc6dcca581c9e5e759d08a1121068d7118da27cd740f72e",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-2-006-4b23ec5e61"
+    },
+    {
+      "id": "media-p015-03",
+      "page": 15,
+      "order_on_page": 3,
+      "file": "media/p015_img03.png",
+      "xref": 157,
+      "bbox": [
+        210.65,
+        643.19,
+        383.95,
+        733.19
+      ],
+      "pixel_width": 535,
+      "pixel_height": 278,
+      "caption": "前进5 路汉堡炸鸡美团信息",
+      "sha256": "02abc53439c53b6c4b5ddc3e56621d86a8372088faff68c78be3c9d7bf78cbd4",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-2-007-fd0d4921e0"
+    },
+    {
+      "id": "media-p016-01",
+      "page": 16,
+      "order_on_page": 1,
+      "file": "media/p016_img01.png",
+      "xref": 159,
+      "bbox": [
+        221.05,
+        212.67,
+        374.25,
+        305.72
+      ],
+      "pixel_width": 474,
+      "pixel_height": 288,
+      "caption": "米雅餐厅美团信息",
+      "sha256": "fa7f299f5ec80a90bd1bb6192564ecb19fc8a8ea61073fd1747de982ce9cb79d",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-2-008-26420cc20a"
+    },
+    {
+      "id": "media-p016-02",
+      "page": 16,
+      "order_on_page": 2,
+      "file": "media/p016_img02.png",
+      "xref": 160,
+      "bbox": [
+        218.9,
+        473.69,
+        376.18,
+        559.49
+      ],
+      "pixel_width": 492,
+      "pixel_height": 269,
+      "caption": "金家韩国料理美团信息",
+      "sha256": "a648a635f1f5984496d48119daa7e20b061b9f32867fe356aba4b05674949207",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-2-009-3270490c07"
+    },
+    {
+      "id": "media-p016-03",
+      "page": 16,
+      "order_on_page": 3,
+      "file": "media/p016_img03.png",
+      "xref": 161,
+      "bbox": [
+        216.65,
+        659.24,
+        378.05,
+        732.19
+      ],
+      "pixel_width": 502,
+      "pixel_height": 227,
+      "caption": "老地方东北菜铁锅炖美团信息",
+      "sha256": "0bf42fac7a5bac638e22ca1d05a1f7304a85128bb1e9a8db19356470c117052b",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-2-010-a5cc1ceff1"
+    },
+    {
+      "id": "media-p017-01",
+      "page": 17,
+      "order_on_page": 1,
+      "file": "media/p017_img01.png",
+      "xref": 163,
+      "bbox": [
+        205.2,
+        167.55,
+        390.1,
+        272.83
+      ],
+      "pixel_width": 581,
+      "pixel_height": 332,
+      "caption": "姐妹烧烤美团信息",
+      "sha256": "55200fd99116d5de10350b80e1e39ba2c1f7401f528f095d6be944e2f3655983",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-2-011-81eb3d4352"
+    },
+    {
+      "id": "media-p017-02",
+      "page": 17,
+      "order_on_page": 2,
+      "file": "media/p017_img02.png",
+      "xref": 164,
+      "bbox": [
+        188.9,
+        415.341,
+        406.25,
+        508.64
+      ],
+      "pixel_width": 683,
+      "pixel_height": 292,
+      "caption": "静姐粤菜美团信息",
+      "sha256": "60133d06e7a1b011918fd4496ca97c6fba6d4ca5e6ab99314e3397ecbfb315d7",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-2-012-694d0ffa5f"
+    },
+    {
+      "id": "media-p017-03",
+      "page": 17,
+      "order_on_page": 3,
+      "file": "media/p017_img03.png",
+      "xref": 165,
+      "bbox": [
+        189.65,
+        606.92,
+        405.28,
+        722.67
+      ],
+      "pixel_width": 667,
+      "pixel_height": 358,
+      "caption": "鑫小城故事美团信息",
+      "sha256": "840d7f505f038160e13660b0fb80f84aff1f019d9a59868a30668cb6f9019e4d",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-2-013-3524be6415"
+    },
+    {
+      "id": "media-p018-01",
+      "page": 18,
+      "order_on_page": 1,
+      "file": "media/p018_img01.png",
+      "xref": 167,
+      "bbox": [
+        179.1,
+        171.0,
+        416.18,
+        284.6
+      ],
+      "pixel_width": 733,
+      "pixel_height": 350,
+      "caption": "越南米粉美团信息",
+      "sha256": "4ed70888f7681a5b505fd8368f25dfeb6f4e30e2c7712cc8086981f2417e92be",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-2-014-3a41818d19"
+    },
+    {
+      "id": "media-p018-02",
+      "page": 18,
+      "order_on_page": 2,
+      "file": "media/p018_img02.png",
+      "xref": 168,
+      "bbox": [
+        170.9,
+        436.04,
+        424.4,
+        550.34
+      ],
+      "pixel_width": 776,
+      "pixel_height": 350,
+      "caption": "京之了火锅美团信息",
+      "sha256": "2fcb1ebb68afc3f8b2c55eb723780828b32ae971ec223fdce8d1a6901bbc0ba8",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-2-015-b49fbb3f34"
+    },
+    {
+      "id": "media-p019-01",
+      "page": 19,
+      "order_on_page": 1,
+      "file": "media/p019_img01.png",
+      "xref": 170,
+      "bbox": [
+        204.65,
+        320.32,
+        390.54,
+        416.47
+      ],
+      "pixel_width": 571,
+      "pixel_height": 295,
+      "caption": "绿茶餐厅美团信息",
+      "sha256": "280da6166b8cc9c1f9144c241d290660278bfe6043d57d38fddfa0cfc313c164",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-3-001-116a1ac681"
+    },
+    {
+      "id": "media-p019-02",
+      "page": 19,
+      "order_on_page": 2,
+      "file": "media/p019_img02.png",
+      "xref": 171,
+      "bbox": [
+        180.45,
+        541.24,
+        414.85,
+        647.94
+      ],
+      "pixel_width": 718,
+      "pixel_height": 327,
+      "caption": "虎白料理美团信息",
+      "sha256": "350f9824df2e71f5e4575be43226f787eed6135fd44800548a9f723c2b491c21",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-3-002-c7ebf8dc81"
+    },
+    {
+      "id": "media-p020-01",
+      "page": 20,
+      "order_on_page": 1,
+      "file": "media/p020_img01.png",
+      "xref": 173,
+      "bbox": [
+        200.15,
+        102.75,
+        394.65,
+        197.2
+      ],
+      "pixel_width": 597,
+      "pixel_height": 289,
+      "caption": "赤牧日式烧肉自助美团信息",
+      "sha256": "2869b910a28da7a9d480fb9557c4fec1182a8a818f1a9e108e4039a1f832e9a5",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-3-003-ab99136d19"
+    },
+    {
+      "id": "media-p020-02",
+      "page": 20,
+      "order_on_page": 2,
+      "file": "media/p020_img02.png",
+      "xref": 174,
+      "bbox": [
+        176.02,
+        323.6,
+        419.27,
+        428.78
+      ],
+      "pixel_width": 745,
+      "pixel_height": 322,
+      "caption": "郅家面馆美团信息",
+      "sha256": "753d6ac4cde57114bb25eab3d441c382a1b1d0e73cd2436b1d2a3bd24314cf9d",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-3-004-141a7728c3"
+    },
+    {
+      "id": "media-p020-03",
+      "page": 20,
+      "order_on_page": 3,
+      "file": "media/p020_img03.png",
+      "xref": 175,
+      "bbox": [
+        200.9,
+        642.22,
+        393.65,
+        734.16
+      ],
+      "pixel_width": 591,
+      "pixel_height": 282,
+      "caption": "秦见面美团信息",
+      "sha256": "362cc56d39c065ae70805ec75b3b4f451d251d4bb1c693ee3356e44cf49dc91a",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-3-005-9d56bec1dd"
+    },
+    {
+      "id": "media-p021-01",
+      "page": 21,
+      "order_on_page": 1,
+      "file": "media/p021_img01.png",
+      "xref": 177,
+      "bbox": [
+        210.65,
+        244.345,
+        384.3,
+        320.38
+      ],
+      "pixel_width": 536,
+      "pixel_height": 235,
+      "caption": "小四川菜馆美团信息",
+      "sha256": "53c3c5c4d18dc057ebbc31da4b8dacf1566c36fd6e1a8274954461c0613de163",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-4-001-de31a5c17f"
+    },
+    {
+      "id": "media-p021-02",
+      "page": 21,
+      "order_on_page": 2,
+      "file": "media/p021_img02.png",
+      "xref": 178,
+      "bbox": [
+        190.35,
+        444.924,
+        404.95,
+        541.46
+      ],
+      "pixel_width": 662,
+      "pixel_height": 298,
+      "caption": "荆楚胡记公安牛肉鱼杂馆美团信息",
+      "sha256": "6e2d4c93f77a4ab7a843976fc4b3dbf753e71060e00249879eb9cdd8fb384fe9",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-4-002-1d933f6deb"
+    },
+    {
+      "id": "media-p021-03",
+      "page": 21,
+      "order_on_page": 3,
+      "file": "media/p021_img03.png",
+      "xref": 179,
+      "bbox": [
+        212.15,
+        666.92,
+        382.68,
+        740.67
+      ],
+      "pixel_width": 525,
+      "pixel_height": 227,
+      "caption": "成都冒菜美团信息",
+      "sha256": "bff7ae781dbb6981115367b79db4b23b2614d3c318e1dc8602a462ba4185af36",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-4-003-768c8b94ed"
+    },
+    {
+      "id": "media-p022-01",
+      "page": 22,
+      "order_on_page": 1,
+      "file": "media/p022_img01.png",
+      "xref": 181,
+      "bbox": [
+        177.25,
+        337.3,
+        418.0,
+        477.5
+      ],
+      "pixel_width": 747,
+      "pixel_height": 435,
+      "caption": "赵师傅东北菜美团信息",
+      "sha256": "25648b0cda3abe39ba9dd4ca16debdcf6d57823aeb7e6d0b6f4f8566179bec79",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-5-001-7ea775e46f"
+    },
+    {
+      "id": "media-p022-02",
+      "page": 22,
+      "order_on_page": 2,
+      "file": "media/p022_img02.png",
+      "xref": 182,
+      "bbox": [
+        160.32,
+        595.04,
+        434.93,
+        734.39
+      ],
+      "pixel_width": 843,
+      "pixel_height": 426,
+      "caption": "三顾茅炉美团信息",
+      "sha256": "cca2eadcd8638339dd3ebe86cd6af78477fb87e9b765e30b7d1476fad0cddac2",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-5-002-553b6990df"
+    },
+    {
+      "id": "media-p023-01",
+      "page": 23,
+      "order_on_page": 1,
+      "file": "media/p023_img01.png",
+      "xref": 184,
+      "bbox": [
+        183.35,
+        142.495,
+        411.95,
+        235.39
+      ],
+      "pixel_width": 701,
+      "pixel_height": 285,
+      "caption": "一品鲜小海鲜美团信息",
+      "sha256": "07bbfa11a91c9941af795b6752510f3cfe71a4cd12183d41ddb0f65f96acabe2",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-5-003-25624cf467"
+    },
+    {
+      "id": "media-p023-02",
+      "page": 23,
+      "order_on_page": 2,
+      "file": "media/p023_img02.png",
+      "xref": 185,
+      "bbox": [
+        189.5,
+        331.13,
+        405.8,
+        436.87
+      ],
+      "pixel_width": 664,
+      "pixel_height": 324,
+      "caption": "川香碳锅鱼美团信息",
+      "sha256": "62a1832300fe46b87032f12593804e4a720ca5026c452d65f2eb16ee15714f6f",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-5-004-fac075e228"
+    },
+    {
+      "id": "media-p023-03",
+      "page": 23,
+      "order_on_page": 3,
+      "file": "media/p023_img03.png",
+      "xref": 186,
+      "bbox": [
+        185.75,
+        605.47,
+        409.55,
+        739.7
+      ],
+      "pixel_width": 687,
+      "pixel_height": 412,
+      "caption": "越南脆皮面包美团信息",
+      "sha256": "c81e125be2221392611fa45510d204a9f1ff5dc5e75bc30474a5156e485174f3",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e2-2-5-005-5dc9c5a4ff"
+    },
+    {
+      "id": "media-p024-01",
+      "page": 24,
+      "order_on_page": 1,
+      "file": "media/p024_img01.png",
+      "xref": 188,
+      "bbox": [
+        211.15,
+        277.05,
+        384.15,
+        350.55
+      ],
+      "pixel_width": 534,
+      "pixel_height": 227,
+      "caption": "汉味热干面美团信息",
+      "sha256": "21519b2b490cb207aa7673185dbefe07bd2938e656a1f87b34ee6b64cc3475fd",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-1-001-97a298126e"
+    },
+    {
+      "id": "media-p024-02",
+      "page": 24,
+      "order_on_page": 2,
+      "file": "media/p024_img02.png",
+      "xref": 189,
+      "bbox": [
+        211.32,
+        471.744,
+        383.97,
+        545.84
+      ],
+      "pixel_width": 534,
+      "pixel_height": 229,
+      "caption": "凡记面馆美团信息",
+      "sha256": "089b3a31dab1b6fb17bd9c6892637a577309fe97319db09457e00f1c46df387b",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-1-002-b3a82799a3"
+    },
+    {
+      "id": "media-p024-03",
+      "page": 24,
+      "order_on_page": 3,
+      "file": "media/p024_img03.png",
+      "xref": 190,
+      "bbox": [
+        204.65,
+        643.04,
+        390.57,
+        733.34
+      ],
+      "pixel_width": 574,
+      "pixel_height": 279,
+      "caption": "林双勤三鲜豆皮美团信息",
+      "sha256": "4e7783b3b311aaa5ed369de3f4177fb10a9957cc2e376565500772aa19b4c1c3",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-1-003-2f69dfb48f"
+    },
+    {
+      "id": "media-p025-01",
+      "page": 25,
+      "order_on_page": 1,
+      "file": "media/p025_img01.png",
+      "xref": 192,
+      "bbox": [
+        211.07,
+        189.62,
+        384.21,
+        266.37
+      ],
+      "pixel_width": 544,
+      "pixel_height": 242,
+      "caption": "孟记牛肉拉面",
+      "sha256": "29c86f2fe77e16656440003768e958b4c1eb74c4cecf8d20b744917fcb308387",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-1-004-ab3348149d"
+    },
+    {
+      "id": "media-p025-02",
+      "page": 25,
+      "order_on_page": 2,
+      "file": "media/p025_img02.png",
+      "xref": 193,
+      "bbox": [
+        220.4,
+        338.7,
+        374.21,
+        413.4
+      ],
+      "pixel_width": 475,
+      "pixel_height": 231,
+      "caption": "牛肉小包美团信息",
+      "sha256": "b65fa162f09a20302cbbf3de1826b42bed378676481afac86bd1b59c91e3a86f",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-1-005-f80e0081e3"
+    },
+    {
+      "id": "media-p025-03",
+      "page": 25,
+      "order_on_page": 3,
+      "file": "media/p025_img03.png",
+      "xref": 194,
+      "bbox": [
+        205.2,
+        488.597,
+        390.1,
+        575.79
+      ],
+      "pixel_width": 566,
+      "pixel_height": 267,
+      "caption": "臻品居烧梅美团信息",
+      "sha256": "d370fb9938c2f595b6112dbe9c25f7788f80ada83d07450180b455c593d52adf",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-1-006-4a16cb87e6"
+    },
+    {
+      "id": "media-p025-04",
+      "page": 25,
+      "order_on_page": 4,
+      "file": "media/p025_img04.png",
+      "xref": 195,
+      "bbox": [
+        202.4,
+        654.72,
+        392.32,
+        737.27
+      ],
+      "pixel_width": 590,
+      "pixel_height": 256,
+      "caption": "老油条小吃美团信息",
+      "sha256": "f8237bbc89b523b13afc7f644e17d97c6cbdc78e23ba1835f331cfa2e7625423",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-1-007-3bfc9ffc55"
+    },
+    {
+      "id": "media-p026-01",
+      "page": 26,
+      "order_on_page": 1,
+      "file": "media/p026_img01.png",
+      "xref": 197,
+      "bbox": [
+        203.9,
+        220.35,
+        390.82,
+        344.25
+      ],
+      "pixel_width": 493,
+      "pixel_height": 327,
+      "caption": "赵师傅油饼包烧麦美团信息",
+      "sha256": "8169200887ec2a00fc776e8c1c302f42eea482e7fea9d3a1a67baf29d47ded21",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-2-001-98f6b26095"
+    },
+    {
+      "id": "media-p026-02",
+      "page": 26,
+      "order_on_page": 2,
+      "file": "media/p026_img02.png",
+      "xref": 198,
+      "bbox": [
+        179.15,
+        441.84,
+        415.44,
+        544.54
+      ],
+      "pixel_width": 567,
+      "pixel_height": 247,
+      "caption": "剑剑特色早点美团信息",
+      "sha256": "01e435daac42fde5e767698f6ee192da83e79091bc48746fd3262db796a30b02",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-2-002-2d758ce77f"
+    },
+    {
+      "id": "media-p026-03",
+      "page": 26,
+      "order_on_page": 3,
+      "file": "media/p026_img03.png",
+      "xref": 199,
+      "bbox": [
+        187.85,
+        625.64,
+        407.41,
+        735.14
+      ],
+      "pixel_width": 588,
+      "pixel_height": 293,
+      "caption": "燕语堂正宗天津灌汤小笼包美团信息",
+      "sha256": "8fb1b49ca01bd42046fcf7abe6d1264a5a90ce28bc6a744bd8dd5bf11b1d222a",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-2-003-eac42ae6b7"
+    },
+    {
+      "id": "media-p027-01",
+      "page": 27,
+      "order_on_page": 1,
+      "file": "media/p027_img01.png",
+      "xref": 201,
+      "bbox": [
+        181.4,
+        145.62,
+        413.39,
+        247.97
+      ],
+      "pixel_width": 634,
+      "pixel_height": 279,
+      "caption": "邓记武锅豆皮美团信息",
+      "sha256": "f5c60efe831eca95c45c6c6017ff6ba7f94f764bc818ba4f17a19d688f7366ee",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-2-004-584be7bbfa"
+    },
+    {
+      "id": "media-p027-02",
+      "page": 27,
+      "order_on_page": 2,
+      "file": "media/p027_img02.png",
+      "xref": 202,
+      "bbox": [
+        197.0,
+        322.65,
+        398.24,
+        413.4
+      ],
+      "pixel_width": 588,
+      "pixel_height": 265,
+      "caption": "严记特色饺子馆美团信息",
+      "sha256": "3f047465c9746032ca73258a134d01543f537b995077ce170845da459d69de15",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-2-005-ff834d4c59"
+    },
+    {
+      "id": "media-p027-03",
+      "page": 27,
+      "order_on_page": 3,
+      "file": "media/p027_img03.png",
+      "xref": 203,
+      "bbox": [
+        193.93,
+        510.42,
+        401.31,
+        600.77
+      ],
+      "pixel_width": 560,
+      "pixel_height": 243,
+      "caption": "天声热干面美团信息",
+      "sha256": "19f4a8b563d0fee5dea3d1d63afdff45c13d734a2d5e62999975a7b0b224a323",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-2-006-99212bbc9f"
+    },
+    {
+      "id": "media-p028-01",
+      "page": 28,
+      "order_on_page": 1,
+      "file": "media/p028_img01.png",
+      "xref": 205,
+      "bbox": [
+        206.55,
+        291.15,
+        388.7,
+        367.55
+      ],
+      "pixel_width": 557,
+      "pixel_height": 234,
+      "caption": "铁棚子热干面美团信息",
+      "sha256": "e21884735f740cfac1f31b6d4ced57758e6770607028a792e242ee9c7e22c909",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-3-001-bca2ad375d"
+    },
+    {
+      "id": "media-p028-02",
+      "page": 28,
+      "order_on_page": 2,
+      "file": "media/p028_img02.png",
+      "xref": 206,
+      "bbox": [
+        212.02,
+        463.22,
+        383.26,
+        538.77
+      ],
+      "pixel_width": 550,
+      "pixel_height": 242,
+      "caption": "雪梅鲜鱼糊汤粉店美团信息",
+      "sha256": "f87679c7a9d2a80a68a3f7efeb98f754ecfe0c8f09872e091d288d00bf621e1e",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-3-002-1d843f4b8b"
+    },
+    {
+      "id": "media-p028-03",
+      "page": 28,
+      "order_on_page": 3,
+      "file": "media/p028_img03.png",
+      "xref": 207,
+      "bbox": [
+        211.4,
+        657.54,
+        383.63,
+        734.44
+      ],
+      "pixel_width": 519,
+      "pixel_height": 232,
+      "caption": "严老幺烧麦美团信息",
+      "sha256": "5bed2665c627cb1514dc00e5c16565564a158c92882888849acdc716289bf8ec",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-3-003-45a96c2d49"
+    },
+    {
+      "id": "media-p029-01",
+      "page": 29,
+      "order_on_page": 1,
+      "file": "media/p029_img01.png",
+      "xref": 209,
+      "bbox": [
+        155.9,
+        292.2,
+        438.81,
+        460.05
+      ],
+      "pixel_width": 548,
+      "pixel_height": 324,
+      "caption": "陶仙居美团信息",
+      "sha256": "9f00e6897980c9ae26b691d534d0188dc8d84acc87a1680d430dae7867b3115d",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-4-001-8cd0614834"
+    },
+    {
+      "id": "media-p029-02",
+      "page": 29,
+      "order_on_page": 2,
+      "file": "media/p029_img02.png",
+      "xref": 210,
+      "bbox": [
+        153.65,
+        584.99,
+        440.99,
+        728.29
+      ],
+      "pixel_width": 578,
+      "pixel_height": 287,
+      "caption": "匠芯抄手美团信息",
+      "sha256": "154b3ff585c57f89c3ee75730c749d42147502df1dfb34d85125557e72b21bbe",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-4-002-829f1835df"
+    },
+    {
+      "id": "media-p030-01",
+      "page": 30,
+      "order_on_page": 1,
+      "file": "media/p030_img01.png",
+      "xref": 212,
+      "bbox": [
+        161.9,
+        145.0,
+        432.77,
+        264.2
+      ],
+      "pixel_width": 757,
+      "pixel_height": 333,
+      "caption": "瞎哥面馆美团信息",
+      "sha256": "d4eae780a970eb09d469b92854c5e0e9b6ae41eab1664f9fb708a31aceaa0c8f",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-4-003-a1394abcf6"
+    },
+    {
+      "id": "media-p030-02",
+      "page": 30,
+      "order_on_page": 2,
+      "file": "media/p030_img02.png",
+      "xref": 213,
+      "bbox": [
+        177.65,
+        627.14,
+        417.5,
+        733.48
+      ],
+      "pixel_width": 644,
+      "pixel_height": 286,
+      "caption": "月宫食堂美团信息",
+      "sha256": "1d763e5c4da45557b508a1aa0eb2a8bb5c19648cfa312776d99db76fbb67492f",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-5-001-6c9ffdd18e"
+    },
+    {
+      "id": "media-p031-01",
+      "page": 31,
+      "order_on_page": 1,
+      "file": "media/p031_img01.png",
+      "xref": 215,
+      "bbox": [
+        196.82,
+        144.45,
+        398.47,
+        295.45
+      ],
+      "pixel_width": 438,
+      "pixel_height": 328,
+      "caption": "门店外观",
+      "sha256": "1a9b3b5a1df30a113338c22e2bcc71f24227df83b45329eb5a971993c8b75673",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-5-002-2ee9b42323"
+    },
+    {
+      "id": "media-p031-02",
+      "page": 31,
+      "order_on_page": 2,
+      "file": "media/p031_img02.png",
+      "xref": 216,
+      "bbox": [
+        170.15,
+        350.85,
+        425.07,
+        495.15
+      ],
+      "pixel_width": 495,
+      "pixel_height": 280,
+      "caption": "宝善堂蒸饺美团信息",
+      "sha256": "9ae01402aa7e8a781e33ad3e50eceb3f5ca2ca787f51db7109a2ee6d573ef99a",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-5-002-2ee9b42323"
+    },
+    {
+      "id": "media-p031-03",
+      "page": 31,
+      "order_on_page": 3,
+      "file": "media/p031_img03.png",
+      "xref": 217,
+      "bbox": [
+        158.63,
+        604.04,
+        436.59,
+        725.14
+      ],
+      "pixel_width": 506,
+      "pixel_height": 222,
+      "caption": "严氏牛肉面美团信息",
+      "sha256": "d25bb0637c91a06eac87a4c759abb32d1b0421e115bf518d5017c13c92f857e8",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-6-001-3c07effa64"
+    },
+    {
+      "id": "media-p032-01",
+      "page": 32,
+      "order_on_page": 1,
+      "file": "media/p032_img01.png",
+      "xref": 219,
+      "bbox": [
+        188.0,
+        119.7,
+        407.3,
+        242.18
+      ],
+      "pixel_width": 581,
+      "pixel_height": 324,
+      "caption": "膳福记水饺美团信息",
+      "sha256": "e32af114f72cce5fdc79b135449d8890fb848eb14e1656987a6d05d9cc9bf983",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-6-002-3ecb0f5aae"
+    },
+    {
+      "id": "media-p032-02",
+      "page": 32,
+      "order_on_page": 2,
+      "file": "media/p032_img02.png",
+      "xref": 220,
+      "bbox": [
+        185.15,
+        313.95,
+        409.5,
+        437.79
+      ],
+      "pixel_width": 606,
+      "pixel_height": 335,
+      "caption": "胡小胖牛杂萝卜汤牛肉面美团信息",
+      "sha256": "46512ccc8b049f42c42dd1621ca53353fc88b5662965ca021ec4003969771d90",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-6-003-0d9a66087c"
+    },
+    {
+      "id": "media-p032-03",
+      "page": 32,
+      "order_on_page": 3,
+      "file": "media/p032_img03.png",
+      "xref": 221,
+      "bbox": [
+        190.4,
+        510.9,
+        404.85,
+        615.29
+      ],
+      "pixel_width": 573,
+      "pixel_height": 279,
+      "caption": "西大街豆皮大王",
+      "sha256": "07cc0eeec265d303b36f813b69a3e65d392fe9cab86bfd08afd57f021602d8bc",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e3-3-6-004-e2abe7400d"
+    },
+    {
+      "id": "media-p033-01",
+      "page": 33,
+      "order_on_page": 1,
+      "file": "media/p033_img01.png",
+      "xref": 223,
+      "bbox": [
+        217.3,
+        438.89,
+        377.95,
+        531.24
+      ],
+      "pixel_width": 492,
+      "pixel_height": 282,
+      "caption": "顺德古法干蒸菜美团信息",
+      "sha256": "07090ebc63fbb21010bc63177ab16406f004cd0959017a2df96464807941b85c",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-1-001-d986565ecb"
+    },
+    {
+      "id": "media-p033-02",
+      "page": 33,
+      "order_on_page": 2,
+      "file": "media/p033_img02.png",
+      "xref": 224,
+      "bbox": [
+        209.9,
+        633.14,
+        384.88,
+        727.44
+      ],
+      "pixel_width": 540,
+      "pixel_height": 291,
+      "caption": "西安肉夹馍美团信息",
+      "sha256": "8ca8d72e36a4aba70098503c6bb7d640532f1e1a075b30e0ee684c84b0661965",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-1-002-8b64ac4df0"
+    },
+    {
+      "id": "media-p034-01",
+      "page": 34,
+      "order_on_page": 1,
+      "file": "media/p034_img01.png",
+      "xref": 226,
+      "bbox": [
+        196.4,
+        190.2,
+        398.85,
+        327.69
+      ],
+      "pixel_width": 634,
+      "pixel_height": 430,
+      "caption": "大军老东北家乡菜粗粮馆美团信息",
+      "sha256": "1202ad914648378acd137892559692b7b1341f287aa2c73bad2218a89a4f2be6",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-1-003-5a5bd57f37"
+    },
+    {
+      "id": "media-p034-02",
+      "page": 34,
+      "order_on_page": 2,
+      "file": "media/p034_img02.png",
+      "xref": 227,
+      "bbox": [
+        175.4,
+        592.89,
+        419.7,
+        721.09
+      ],
+      "pixel_width": 750,
+      "pixel_height": 392,
+      "caption": "小骆川菜馆美团信息",
+      "sha256": "0da48b1cdec6061c747509921593474a6e297b9c1e8097dc2b587cfaea0a4025",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-1-004-411e3e06b4"
+    },
+    {
+      "id": "media-p035-01",
+      "page": 35,
+      "order_on_page": 1,
+      "file": "media/p035_img01.png",
+      "xref": 229,
+      "bbox": [
+        222.65,
+        220.5,
+        372.42,
+        313.1
+      ],
+      "pixel_width": 480,
+      "pixel_height": 297,
+      "caption": "贵州清真黄牛肉馆",
+      "sha256": "dc9754a0cda245a203d461a2f0dfe2fafdf8ebb8189eab2285fc2d2f0a26b543",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-2-001-5027fd3136"
+    },
+    {
+      "id": "media-p035-02",
+      "page": 35,
+      "order_on_page": 2,
+      "file": "media/p035_img02.png",
+      "xref": 230,
+      "bbox": [
+        166.7,
+        410.1,
+        428.45,
+        467.05
+      ],
+      "pixel_width": 510,
+      "pixel_height": 111,
+      "caption": "大猫糕点美团信息",
+      "sha256": "c8f5c924b622d9c02aee2c13650860ad8c96b578603063cadced4ad1c51a88e4",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-2-002-e01b22aa48"
+    },
+    {
+      "id": "media-p036-01",
+      "page": 36,
+      "order_on_page": 1,
+      "file": "media/p036_img01.png",
+      "xref": 232,
+      "bbox": [
+        219.65,
+        102.47,
+        375.55,
+        197.5
+      ],
+      "pixel_width": 487,
+      "pixel_height": 297,
+      "caption": "阿德鱼湾美团信息",
+      "sha256": "daf87bb53b7f13e872406c41f8b17559f2c8fcb562e0413b36129b7c92eae023",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-3-001-17459ccc65"
+    },
+    {
+      "id": "media-p036-02",
+      "page": 36,
+      "order_on_page": 2,
+      "file": "media/p036_img02.png",
+      "xref": 233,
+      "bbox": [
+        222.65,
+        393.92,
+        372.45,
+        467.67
+      ],
+      "pixel_width": 481,
+      "pixel_height": 237,
+      "caption": "肥肥虾庄美团信息",
+      "sha256": "e3a461e8148ed48c3e767ee6e4cee269c1d794692b26f9380d9e112af6250e36",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-3-002-4fbb5645b8"
+    },
+    {
+      "id": "media-p036-03",
+      "page": 36,
+      "order_on_page": 3,
+      "file": "media/p036_img03.png",
+      "xref": 234,
+      "bbox": [
+        221.15,
+        657.74,
+        373.97,
+        733.79
+      ],
+      "pixel_width": 475,
+      "pixel_height": 235,
+      "caption": "曼谷五巷美团信息",
+      "sha256": "98bcc84a797cc9767c17ad91cb9c5d70b8c6e8fa95f240a6e7de311f1a840feb",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-3-003-3b4fd6a66a"
+    },
+    {
+      "id": "media-p037-01",
+      "page": 37,
+      "order_on_page": 1,
+      "file": "media/p037_img01.png",
+      "xref": 236,
+      "bbox": [
+        176.65,
+        287.74,
+        418.65,
+        433.42
+      ],
+      "pixel_width": 546,
+      "pixel_height": 329,
+      "caption": "烔记古法粤菜美团信息",
+      "sha256": "e4cb7b8fce5c337b6a6bb5192178f87dda9b9082933af735d7859d60cb3dc669",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-3-004-d2167ffd8a"
+    },
+    {
+      "id": "media-p037-02",
+      "page": 37,
+      "order_on_page": 2,
+      "file": "media/p037_img02.png",
+      "xref": 237,
+      "bbox": [
+        163.4,
+        589.49,
+        431.27,
+        724.24
+      ],
+      "pixel_width": 467,
+      "pixel_height": 235,
+      "caption": "粤德兴正宗港式牛腩美团信息",
+      "sha256": "dff7573f199176460afc5c35d3c18d9e51a44e1101284e2b5c4e85fac28cd30d",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-4-001-fb6fb32228"
+    },
+    {
+      "id": "media-p038-01",
+      "page": 38,
+      "order_on_page": 1,
+      "file": "media/p038_img01.png",
+      "xref": 239,
+      "bbox": [
+        200.75,
+        213.3,
+        394.51,
+        336.25
+      ],
+      "pixel_width": 458,
+      "pixel_height": 290,
+      "caption": "神仙钵湘香土菜馆美团信息",
+      "sha256": "7099149dbcf21b7c21a950606734562df4cdbe7dc84361ac1808b61592c71a96",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-4-002-05f49780b9"
+    },
+    {
+      "id": "media-p038-02",
+      "page": 38,
+      "order_on_page": 2,
+      "file": "media/p038_img02.png",
+      "xref": 240,
+      "bbox": [
+        187.1,
+        478.19,
+        408.18,
+        586.04
+      ],
+      "pixel_width": 588,
+      "pixel_height": 286,
+      "caption": "广东潮汕蔡记肠粉",
+      "sha256": "369dec2b2ebd178e2d4b790c9e712c7266bc0144982f8b220b0133384c44a9bf",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-4-003-75f4c76636"
+    },
+    {
+      "id": "media-p039-01",
+      "page": 39,
+      "order_on_page": 1,
+      "file": "media/p039_img01.png",
+      "xref": 242,
+      "bbox": [
+        184.39,
+        98.37,
+        411.5,
+        217.22
+      ],
+      "pixel_width": 706,
+      "pixel_height": 369,
+      "caption": "7.BLOCK 澳式料理美团信息",
+      "sha256": "2cd854e0a6e81ec8fdc08d9e1943c549591835ffbf42f3dabe6dde0dddbb1b51",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-4-004-f2cf833c6d"
+    },
+    {
+      "id": "media-p039-02",
+      "page": 39,
+      "order_on_page": 2,
+      "file": "media/p039_img02.png",
+      "xref": 243,
+      "bbox": [
+        135.5,
+        318.12,
+        298.95,
+        512.25
+      ],
+      "pixel_width": 504,
+      "pixel_height": 598,
+      "caption": "悦兴小厨菜单",
+      "sha256": "0c8f2e1125493377527351d0cd2855d3a0829e8ab58628d53d07dcf38e4ce765",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-4-005-913262a7b1"
+    },
+    {
+      "id": "media-p039-03",
+      "page": 39,
+      "order_on_page": 3,
+      "file": "media/p039_img03.png",
+      "xref": 244,
+      "bbox": [
+        299.0,
+        318.47,
+        459.77,
+        512.27
+      ],
+      "pixel_width": 497,
+      "pixel_height": 599,
+      "caption": "悦兴小厨菜单",
+      "sha256": "ba9b62e30f2c85cea95cc972dee8f4d95c6fb7bdadfb22838b6f41380abdc8e2",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-4-005-913262a7b1"
+    },
+    {
+      "id": "media-p039-04",
+      "page": 39,
+      "order_on_page": 4,
+      "file": "media/p039_img04.png",
+      "xref": 245,
+      "bbox": [
+        190.18,
+        594.42,
+        405.08,
+        719.57
+      ],
+      "pixel_width": 658,
+      "pixel_height": 383,
+      "caption": "悦兴小厨美团信息",
+      "sha256": "2d4b264f66aaf180acdca7c1171ee2ebfa685933ca03f3334859ad8adfa9fabd",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-4-005-913262a7b1"
+    },
+    {
+      "id": "media-p040-01",
+      "page": 40,
+      "order_on_page": 1,
+      "file": "media/p040_img01.png",
+      "xref": 247,
+      "bbox": [
+        152.9,
+        248.4,
+        441.98,
+        409.85
+      ],
+      "pixel_width": 506,
+      "pixel_height": 282,
+      "caption": "台客台式小吃美团信息",
+      "sha256": "3c4bb7a32052b112a4ac736cfb56c2a1bba3fbfbe2447587ffdc63d44bb59310",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-5-001-3b7ae174ab"
+    },
+    {
+      "id": "media-p040-02",
+      "page": 40,
+      "order_on_page": 2,
+      "file": "media/p040_img02.png",
+      "xref": 248,
+      "bbox": [
+        163.1,
+        580.49,
+        432.18,
+        733.09
+      ],
+      "pixel_width": 590,
+      "pixel_height": 334,
+      "caption": "夏氏砂锅美团信息",
+      "sha256": "edd32ef3c264ece7f1718b7f537acb3e321d4a20ed202c76ab742e4ae8e308dc",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-5-002-9dedd18274"
+    },
+    {
+      "id": "media-p041-01",
+      "page": 41,
+      "order_on_page": 1,
+      "file": "media/p041_img01.png",
+      "xref": 250,
+      "bbox": [
+        157.4,
+        262.2,
+        437.5,
+        411.59
+      ],
+      "pixel_width": 588,
+      "pixel_height": 314,
+      "caption": "伽米宴美团信息",
+      "sha256": "142b7f3f7527030d07a2555c62787360683fcb5b08f0e8e43abb2b88da8c2afa",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-5-003-ce5be98951"
+    },
+    {
+      "id": "media-p041-02",
+      "page": 41,
+      "order_on_page": 2,
+      "file": "media/p041_img02.png",
+      "xref": 251,
+      "bbox": [
+        155.15,
+        560.44,
+        439.78,
+        737.94
+      ],
+      "pixel_width": 539,
+      "pixel_height": 335,
+      "caption": "回味黑鸭煲美团信息",
+      "sha256": "42a438272c3aeae152a0f8b7178bff6fe6a5b139e0c7eaa2631d5ec443da1269",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-5-004-59ef69d023"
+    },
+    {
+      "id": "media-p042-01",
+      "page": 42,
+      "order_on_page": 1,
+      "file": "media/p042_img01.png",
+      "xref": 253,
+      "bbox": [
+        138.3,
+        145.8,
+        456.99,
+        325.15
+      ],
+      "pixel_width": 679,
+      "pixel_height": 381,
+      "caption": "张记鲜鱼馆美团信息",
+      "sha256": "9eac53a00b7868ff3779a8dbb298555925777b60d16afe0a4cf93dd8c531e744",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-5-005-48fe80a91b"
+    },
+    {
+      "id": "media-p042-02",
+      "page": 42,
+      "order_on_page": 2,
+      "file": "media/p042_img02.png",
+      "xref": 254,
+      "bbox": [
+        146.57,
+        498.07,
+        448.71,
+        675.52
+      ],
+      "pixel_width": 925,
+      "pixel_height": 543,
+      "caption": "余艳梅拌面世家美团信息",
+      "sha256": "564ecf130c9fcdbd4868217958edd2d35ba1a9209fab6dc439b9f4ca6583f086",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-5-006-359c479f3d"
+    },
+    {
+      "id": "media-p043-01",
+      "page": 43,
+      "order_on_page": 1,
+      "file": "media/p043_img01.png",
+      "xref": 256,
+      "bbox": [
+        198.5,
+        198.15,
+        396.8,
+        304.6
+      ],
+      "pixel_width": 616,
+      "pixel_height": 330,
+      "caption": "恩施茶店牛肉美团信息",
+      "sha256": "259ce6ea447e42c8a4de231087c70405c5c6409c3f995e9b4f207d91f2c95fd1",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-6-001-f91e133c94"
+    },
+    {
+      "id": "media-p043-02",
+      "page": 43,
+      "order_on_page": 2,
+      "file": "media/p043_img02.png",
+      "xref": 257,
+      "bbox": [
+        184.4,
+        458.89,
+        410.58,
+        589.89
+      ],
+      "pixel_width": 703,
+      "pixel_height": 407,
+      "caption": "嘎星牛骨头美团信息",
+      "sha256": "1e88eb5bd562ba7a52ce39c5b4e229f0508e393fc3c3dba19aa806967322d416",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-7-001-de139daa8d"
+    },
+    {
+      "id": "media-p044-01",
+      "page": 44,
+      "order_on_page": 1,
+      "file": "media/p044_img01.png",
+      "xref": 259,
+      "bbox": [
+        165.6,
+        171.1,
+        429.68,
+        300.5
+      ],
+      "pixel_width": 811,
+      "pixel_height": 396,
+      "caption": "黄泥岗美团信息",
+      "sha256": "4f0636b4e154fe58a1302684729e5dd45ffbff2ded72b1790793fa932f73211a",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-8-001-c54ed0d68b"
+    },
+    {
+      "id": "media-p044-02",
+      "page": 44,
+      "order_on_page": 2,
+      "file": "media/p044_img02.png",
+      "xref": 260,
+      "bbox": [
+        167.15,
+        459.59,
+        428.03,
+        573.54
+      ],
+      "pixel_width": 805,
+      "pixel_height": 352,
+      "caption": "汪掌柜美团信息",
+      "sha256": "ac6101b7708681ace0f10234152a40d02f81cdf141ed2e12eb9ce39dba3f4c76",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e4-4-9-001-8a74557137"
+    },
+    {
+      "id": "media-p045-01",
+      "page": 45,
+      "order_on_page": 1,
+      "file": "media/p045_img01.png",
+      "xref": 262,
+      "bbox": [
+        90.65,
+        127.92,
+        504.65,
+        749.27
+      ],
+      "pixel_width": 1080,
+      "pixel_height": 1621,
+      "caption": "先附上武汉文旅的美食分布图。",
+      "sha256": "c8458d8ca08c301dba9cb85e0a853b6c5bb35adc4b04e5f721fc800e89191d3c",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p047-01",
+      "page": 47,
+      "order_on_page": 1,
+      "file": "media/p047_img01.png",
+      "xref": 265,
+      "bbox": [
+        97.18,
+        76.14,
+        498.11,
+        224.24
+      ],
+      "pixel_width": 457,
+      "pixel_height": 1237,
+      "caption": "江夏夜市照片",
+      "sha256": "d1a8d4c7afc22ae8602cd3632bb69f8704e5d726fea8056ec5e33552fa289657",
+      "editable": true,
+      "source": "embedded_pdf_image",
+      "entry_id": "e5-5-3-001-2511c6cc1d"
+    }
+  ]
+}

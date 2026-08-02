@@ -1,0 +1,1114 @@
+{
+  "schema_version": "1.0",
+  "dataset_id": "huster-food-guide-2026",
+  "title": "HUSTer 的干饭修养",
+  "subtitle": "HUST 求学七年的干饭经验",
+  "content_author": "许少",
+  "source_pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "恩赐 许",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2021",
+    "producer": "Microsoft® Word 2021",
+    "creationDate": "D:20260531182139+08'00'",
+    "modDate": "D:20260531182139+08'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "source_pdf_pages": 49,
+  "extraction": {
+    "method": "PyMuPDF layout-aware extraction",
+    "red_text_semantics": "The source explains that red text marks author recommendations.",
+    "yellow_background_semantics": "The source legend says yellow background plus red is especially recommended; the only yellow rectangle detected is in the legend itself.",
+    "raw_page_records_included": true,
+    "all_embedded_images_extracted": true
+  },
+  "counts": {
+    "chapters": 5,
+    "sections": 32,
+    "entries": 144,
+    "images": 98
+  },
+  "chapters": [
+    {
+      "id": "chapter-1",
+      "number": 1,
+      "title": "华科食堂篇",
+      "heading": "第一章 华科食堂篇",
+      "source_page": 4,
+      "intro_lines": [
+        "在介绍中，我会一一列举每个食堂有什么吃的，然后对我推荐的好吃的进",
+        "行标红，特别好吃的会在标红的同时加黄色底色。（特此说明！我没吃过每个窗",
+        "口，可能会漏掉一些美食，大家可以自己去发现！）"
+      ],
+      "section_ids": [
+        "section-1-1",
+        "section-1-2",
+        "section-1-3",
+        "section-1-4"
+      ]
+    },
+    {
+      "id": "chapter-2",
+      "number": 2,
+      "title": "华科周边美食篇",
+      "heading": "第二章 华科周边美食篇",
+      "source_page": 9,
+      "intro_lines": [
+        "这一章，我主要统计中午到晚上开业的店铺，下午就关门的店铺就不统计入内",
+        "了，放入早饭中去介绍。"
+      ],
+      "section_ids": [
+        "section-2-1",
+        "section-2-2",
+        "section-2-3",
+        "section-2-4",
+        "section-2-5"
+      ]
+    },
+    {
+      "id": "chapter-3",
+      "number": 3,
+      "title": "武汉过早篇",
+      "heading": "第三章 武汉过早篇",
+      "source_page": 24,
+      "intro_lines": [
+        "因为本人大四以后早上很难起来，大四之前因为疫情冲击，所以有一部分早饭",
+        "店都是看的武汉文旅以及本地人推荐写上去的，这部分店我会特意注明。武汉",
+        "好吃的早饭太多了，我这边只能列举一部分，大部分还得大家自己探索。"
+      ],
+      "section_ids": [
+        "section-3-1",
+        "section-3-2",
+        "section-3-3",
+        "section-3-4",
+        "section-3-5",
+        "section-3-6"
+      ]
+    },
+    {
+      "id": "chapter-4",
+      "number": 4,
+      "title": "武汉美食篇",
+      "heading": "第四章 武汉美食篇",
+      "source_page": 33,
+      "intro_lines": [
+        "这一章主要介绍一些值得专程过去吃的店，部分店在第二章华科周边美食中有",
+        "出现，我就直接搬运过来了。"
+      ],
+      "section_ids": [
+        "section-4-1",
+        "section-4-2",
+        "section-4-3",
+        "section-4-4",
+        "section-4-5",
+        "section-4-6",
+        "section-4-7",
+        "section-4-8",
+        "section-4-9"
+      ]
+    },
+    {
+      "id": "chapter-5",
+      "number": 5,
+      "title": "武汉夜市篇",
+      "heading": "第五章 武汉夜市篇",
+      "source_page": 45,
+      "intro_lines": [
+        "先附上武汉文旅的美食分布图。"
+      ],
+      "section_ids": [
+        "section-5-1",
+        "section-5-2",
+        "section-5-3",
+        "section-5-4",
+        "section-5-5",
+        "section-5-6",
+        "section-5-7",
+        "section-5-8"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-1-1",
+      "number": "1.1",
+      "title": "华科食堂一览",
+      "heading": "1.1 华科食堂一览",
+      "chapter_id": "chapter-1",
+      "source_page": 4,
+      "intro_lines": [
+        "华科目前有 34 个食堂，下面按照东区、中区和西区来对食堂分布区域进行",
+        "划分。",
+        "首先是12 个东区食堂。目前包含：韵酒一二楼、东园一二三楼、东教工、",
+        "学一一二楼、学二一二楼、韵苑 11 栋茶咖、东区 CBD。",
+        "接着是9 个中区食堂。目前包含：东一一二楼、集贤楼一二楼、东华园、",
+        "东三、紫荆园、喻园、集锦园。",
+        "最后是13 个西区食堂。目前包括：西一一二楼（包含二楼民族窗口）、西",
+        "二一二楼、百景园一二三楼、百惠园、西华园、绿园、菘邻里、紫菘食堂、陈",
+        "怀民小吃街。",
+        "列举完各个食堂，下面将就这些食堂中的美食进行介绍。特此说明，没有",
+        "列举到的不代表不好吃，作者仅记录自己吃过的觉得好吃的窗口和菜品。"
+      ],
+      "entry_ids": []
+    },
+    {
+      "id": "section-1-2",
+      "number": "1.2",
+      "title": "东区食堂",
+      "heading": "1.2 东区食堂",
+      "chapter_id": "chapter-1",
+      "source_page": 4,
+      "intro_lines": [],
+      "entry_ids": [
+        "e1-1-2-001-bd61ed0e8d",
+        "e1-1-2-002-6412fbc5ed",
+        "e1-1-2-003-d9e80cef41",
+        "e1-1-2-004-149439c872",
+        "e1-1-2-005-9bd42e7701",
+        "e1-1-2-006-3f0b7e1d35",
+        "e1-1-2-007-0bef816d8a",
+        "e1-1-2-008-1b1ebaad0c",
+        "e1-1-2-009-46f0e55a72",
+        "e1-1-2-010-3e8be96bc4",
+        "e1-1-2-011-f55eb0b51c",
+        "e1-1-2-012-99116ef931"
+      ]
+    },
+    {
+      "id": "section-1-3",
+      "number": "1.3",
+      "title": "中区食堂",
+      "heading": "1.3 中区食堂",
+      "chapter_id": "chapter-1",
+      "source_page": 6,
+      "intro_lines": [],
+      "entry_ids": [
+        "e1-1-3-001-e3486b6c10",
+        "e1-1-3-002-d7499e1e2a",
+        "e1-1-3-003-f8fb1d89b1",
+        "e1-1-3-004-4800358f89",
+        "e1-1-3-005-980ed3edca",
+        "e1-1-3-006-902476eaa6",
+        "e1-1-3-007-f7e61e59d1",
+        "e1-1-3-008-eae612ad54",
+        "e1-1-3-009-4e08d4d401"
+      ]
+    },
+    {
+      "id": "section-1-4",
+      "number": "1.4",
+      "title": "西区食堂",
+      "heading": "1.4 西区食堂",
+      "chapter_id": "chapter-1",
+      "source_page": 7,
+      "intro_lines": [],
+      "entry_ids": [
+        "e1-1-4-001-0e7b3694ee",
+        "e1-1-4-002-1ee496b6a6",
+        "e1-1-4-003-d04cec8b5b",
+        "e1-1-4-004-47abe1b4d9",
+        "e1-1-4-005-c4eb099d38",
+        "e1-1-4-006-f1a0e9a38e",
+        "e1-1-4-007-db67a2c9ce",
+        "e1-1-4-008-57b511c8cd",
+        "e1-1-4-009-c71d8f43de",
+        "e1-1-4-010-98aaf372c3",
+        "e1-1-4-011-7f84a6ee31",
+        "e1-1-4-012-3846cb9148",
+        "e1-1-4-013-4fb918fc8d",
+        "e1-1-4-014-48613320f4"
+      ]
+    },
+    {
+      "id": "section-2-1",
+      "number": "2.1",
+      "title": "东区外",
+      "heading": "2.1 东区外",
+      "chapter_id": "chapter-2",
+      "source_page": 9,
+      "intro_lines": [
+        "东区外的范围主要是光谷大道东边的区域，如图所示：",
+        "东区外范围"
+      ],
+      "entry_ids": [
+        "e2-2-1-001-800f0a46cb",
+        "e2-2-1-002-aca8c4c4ce",
+        "e2-2-1-003-de34c818d9",
+        "e2-2-1-004-5756a0561a",
+        "e2-2-1-005-7557b079e4"
+      ]
+    },
+    {
+      "id": "section-2-2",
+      "number": "2.2",
+      "title": "中区外",
+      "heading": "2.2 中区外",
+      "chapter_id": "chapter-2",
+      "source_page": 13,
+      "intro_lines": [
+        "中区外主要是光谷大道以西到关山街道两侧，雄楚大道以北，如图所示：",
+        "中区外范围"
+      ],
+      "entry_ids": [
+        "e2-2-2-001-0c01964d2a",
+        "e2-2-2-002-c92f149aa6",
+        "e2-2-2-003-e8d8194e7d",
+        "e2-2-2-004-a78fa64140",
+        "e2-2-2-005-d986565ecb",
+        "e2-2-2-006-4b23ec5e61",
+        "e2-2-2-007-fd0d4921e0",
+        "e2-2-2-008-26420cc20a",
+        "e2-2-2-009-3270490c07",
+        "e2-2-2-010-a5cc1ceff1",
+        "e2-2-2-011-81eb3d4352",
+        "e2-2-2-012-694d0ffa5f",
+        "e2-2-2-013-3524be6415",
+        "e2-2-2-014-3a41818d19",
+        "e2-2-2-015-b49fbb3f34"
+      ]
+    },
+    {
+      "id": "section-2-3",
+      "number": "2.3",
+      "title": "西区南",
+      "heading": "2.3 西区南",
+      "chapter_id": "chapter-2",
+      "source_page": 19,
+      "intro_lines": [
+        "西区南主要就是光谷，大家都很熟悉了，不额外放图了。光谷区域我探店探的",
+        "不是特别多，主要是因为这边的探店成本太高了。"
+      ],
+      "entry_ids": [
+        "e2-2-3-001-116a1ac681",
+        "e2-2-3-002-c7ebf8dc81",
+        "e2-2-3-003-ab99136d19",
+        "e2-2-3-004-141a7728c3",
+        "e2-2-3-005-9d56bec1dd"
+      ]
+    },
+    {
+      "id": "section-2-4",
+      "number": "2.4",
+      "title": "西区西",
+      "heading": "2.4 西区西",
+      "chapter_id": "chapter-2",
+      "source_page": 21,
+      "intro_lines": [
+        "这一块主要是西小门外面鲁磨路两侧。"
+      ],
+      "entry_ids": [
+        "e2-2-4-001-de31a5c17f",
+        "e2-2-4-002-1d933f6deb",
+        "e2-2-4-003-768c8b94ed"
+      ]
+    },
+    {
+      "id": "section-2-5",
+      "number": "2.5",
+      "title": "武大周边",
+      "heading": "2.5 武大周边",
+      "chapter_id": "chapter-2",
+      "source_page": 22,
+      "intro_lines": [
+        "武大周边，其实主要就是武大南面的一块商圈和老街，区域就不给出来了。"
+      ],
+      "entry_ids": [
+        "e2-2-5-001-7ea775e46f",
+        "e2-2-5-002-553b6990df",
+        "e2-2-5-003-25624cf467",
+        "e2-2-5-004-fac075e228",
+        "e2-2-5-005-5dc9c5a4ff"
+      ]
+    },
+    {
+      "id": "section-3-1",
+      "number": "3.1",
+      "title": "洪山区",
+      "heading": "3.1 洪山区",
+      "chapter_id": "chapter-3",
+      "source_page": 24,
+      "intro_lines": [],
+      "entry_ids": [
+        "e3-3-1-001-97a298126e",
+        "e3-3-1-002-b3a82799a3",
+        "e3-3-1-003-2f69dfb48f",
+        "e3-3-1-004-ab3348149d",
+        "e3-3-1-005-f80e0081e3",
+        "e3-3-1-006-4a16cb87e6",
+        "e3-3-1-007-3bfc9ffc55"
+      ]
+    },
+    {
+      "id": "section-3-2",
+      "number": "3.2",
+      "title": "武昌区",
+      "heading": "3.2 武昌区",
+      "chapter_id": "chapter-3",
+      "source_page": 26,
+      "intro_lines": [
+        "武昌区有著名的粮道街，那边很多特色早饭，附近我只推荐几家特色的。"
+      ],
+      "entry_ids": [
+        "e3-3-2-001-98f6b26095",
+        "e3-3-2-002-2d758ce77f",
+        "e3-3-2-003-eac42ae6b7",
+        "e3-3-2-004-584be7bbfa",
+        "e3-3-2-005-ff834d4c59",
+        "e3-3-2-006-99212bbc9f",
+        "e3-3-2-007-e57a4fcba1",
+        "e3-3-2-008-c0a7b59f0f"
+      ]
+    },
+    {
+      "id": "section-3-3",
+      "number": "3.3",
+      "title": "江汉区",
+      "heading": "3.3 江汉区",
+      "chapter_id": "chapter-3",
+      "source_page": 28,
+      "intro_lines": [],
+      "entry_ids": [
+        "e3-3-3-001-bca2ad375d",
+        "e3-3-3-002-1d843f4b8b",
+        "e3-3-3-003-45a96c2d49",
+        "e3-3-3-004-bcdef72b8a",
+        "e3-3-3-005-c7942669c2"
+      ]
+    },
+    {
+      "id": "section-3-4",
+      "number": "3.4",
+      "title": "江岸区",
+      "heading": "3.4 江岸区",
+      "chapter_id": "chapter-3",
+      "source_page": 29,
+      "intro_lines": [],
+      "entry_ids": [
+        "e3-3-4-001-8cd0614834",
+        "e3-3-4-002-829f1835df",
+        "e3-3-4-003-a1394abcf6",
+        "e3-3-4-004-48e78958b4",
+        "e3-3-4-005-f3a7fca272",
+        "e3-3-4-006-348f8c6040"
+      ]
+    },
+    {
+      "id": "section-3-5",
+      "number": "3.5",
+      "title": "硚口区",
+      "heading": "3.5 硚口区",
+      "chapter_id": "chapter-3",
+      "source_page": 30,
+      "intro_lines": [],
+      "entry_ids": [
+        "e3-3-5-001-6c9ffdd18e",
+        "e3-3-5-002-2ee9b42323"
+      ]
+    },
+    {
+      "id": "section-3-6",
+      "number": "3.6",
+      "title": "汉阳区",
+      "heading": "3.6 汉阳区",
+      "chapter_id": "chapter-3",
+      "source_page": 31,
+      "intro_lines": [],
+      "entry_ids": [
+        "e3-3-6-001-3c07effa64",
+        "e3-3-6-002-3ecb0f5aae",
+        "e3-3-6-003-0d9a66087c",
+        "e3-3-6-004-e2abe7400d",
+        "e3-3-6-005-341e67c54a",
+        "e3-3-6-006-7eccb11804"
+      ]
+    },
+    {
+      "id": "section-4-1",
+      "number": "4.1",
+      "title": "洪山区",
+      "heading": "4.1 洪山区",
+      "chapter_id": "chapter-4",
+      "source_page": 33,
+      "intro_lines": [
+        "洪山区我基本上只吃过学校附近，可以参考第二章华科周边美食，下面仅记录",
+        "我念念不忘的店铺。"
+      ],
+      "entry_ids": [
+        "e4-4-1-001-d986565ecb",
+        "e4-4-1-002-8b64ac4df0",
+        "e4-4-1-003-5a5bd57f37",
+        "e4-4-1-004-411e3e06b4"
+      ]
+    },
+    {
+      "id": "section-4-2",
+      "number": "4.2",
+      "title": "江夏区",
+      "heading": "4.2 江夏区",
+      "chapter_id": "chapter-4",
+      "source_page": 35,
+      "intro_lines": [
+        "这个区好多小吃街，很多馆子藏在小吃街里，就不在这边具体介绍了，可以看",
+        "第五章武汉夜市篇。"
+      ],
+      "entry_ids": [
+        "e4-4-2-001-5027fd3136",
+        "e4-4-2-002-e01b22aa48"
+      ]
+    },
+    {
+      "id": "section-4-3",
+      "number": "4.3",
+      "title": "武昌区",
+      "heading": "4.3 武昌区",
+      "chapter_id": "chapter-4",
+      "source_page": 35,
+      "intro_lines": [
+        "武昌区属于老城区，有很多地道美食，下面一一介绍。"
+      ],
+      "entry_ids": [
+        "e4-4-3-001-17459ccc65",
+        "e4-4-3-002-4fbb5645b8",
+        "e4-4-3-003-3b4fd6a66a",
+        "e4-4-3-004-d2167ffd8a"
+      ]
+    },
+    {
+      "id": "section-4-4",
+      "number": "4.4",
+      "title": "江岸区",
+      "heading": "4.4 江岸区",
+      "chapter_id": "chapter-4",
+      "source_page": 37,
+      "intro_lines": [],
+      "entry_ids": [
+        "e4-4-4-001-fb6fb32228",
+        "e4-4-4-002-05f49780b9",
+        "e4-4-4-003-75f4c76636",
+        "e4-4-4-004-f2cf833c6d",
+        "e4-4-4-005-913262a7b1"
+      ]
+    },
+    {
+      "id": "section-4-5",
+      "number": "4.5",
+      "title": "江汉区",
+      "heading": "4.5 江汉区",
+      "chapter_id": "chapter-4",
+      "source_page": 40,
+      "intro_lines": [
+        "这个区域好吃的太多了，万松园还有江汉路都在这边，吃不过来了，就推荐几",
+        "家我觉得很有特色的吧。"
+      ],
+      "entry_ids": [
+        "e4-4-5-001-3b7ae174ab",
+        "e4-4-5-002-9dedd18274",
+        "e4-4-5-003-ce5be98951",
+        "e4-4-5-004-59ef69d023",
+        "e4-4-5-005-48fe80a91b",
+        "e4-4-5-006-359c479f3d"
+      ]
+    },
+    {
+      "id": "section-4-6",
+      "number": "4.6",
+      "title": "汉阳区",
+      "heading": "4.6 汉阳区",
+      "chapter_id": "chapter-4",
+      "source_page": 43,
+      "intro_lines": [],
+      "entry_ids": [
+        "e4-4-6-001-f91e133c94"
+      ]
+    },
+    {
+      "id": "section-4-7",
+      "number": "4.7",
+      "title": "蔡甸区",
+      "heading": "4.7 蔡甸区",
+      "chapter_id": "chapter-4",
+      "source_page": 43,
+      "intro_lines": [],
+      "entry_ids": [
+        "e4-4-7-001-de139daa8d"
+      ]
+    },
+    {
+      "id": "section-4-8",
+      "number": "4.8",
+      "title": "黄陂区",
+      "heading": "4.8 黄陂区",
+      "chapter_id": "chapter-4",
+      "source_page": 43,
+      "intro_lines": [],
+      "entry_ids": [
+        "e4-4-8-001-c54ed0d68b"
+      ]
+    },
+    {
+      "id": "section-4-9",
+      "number": "4.9",
+      "title": "新洲区",
+      "heading": "4.9 新洲区",
+      "chapter_id": "chapter-4",
+      "source_page": 44,
+      "intro_lines": [],
+      "entry_ids": [
+        "e4-4-9-001-8a74557137"
+      ]
+    },
+    {
+      "id": "section-5-1",
+      "number": "5.1",
+      "title": "洪山区",
+      "heading": "5.1 洪山区",
+      "chapter_id": "chapter-5",
+      "source_page": 46,
+      "intro_lines": [],
+      "entry_ids": [
+        "e5-5-1-001-916d934e26",
+        "e5-5-1-002-1742244bb0",
+        "e5-5-1-003-5ce37ba19a"
+      ]
+    },
+    {
+      "id": "section-5-2",
+      "number": "5.2",
+      "title": "武昌区",
+      "heading": "5.2 武昌区",
+      "chapter_id": "chapter-5",
+      "source_page": 46,
+      "intro_lines": [],
+      "entry_ids": [
+        "e5-5-2-001-50ea4f2a78",
+        "e5-5-2-002-d544b33828"
+      ]
+    },
+    {
+      "id": "section-5-3",
+      "number": "5.3",
+      "title": "江夏区",
+      "heading": "5.3 江夏区",
+      "chapter_id": "chapter-5",
+      "source_page": 46,
+      "intro_lines": [],
+      "entry_ids": [
+        "e5-5-3-001-2511c6cc1d",
+        "e5-5-3-002-a785624226"
+      ]
+    },
+    {
+      "id": "section-5-4",
+      "number": "5.4",
+      "title": "江汉区",
+      "heading": "5.4 江汉区",
+      "chapter_id": "chapter-5",
+      "source_page": 47,
+      "intro_lines": [],
+      "entry_ids": [
+        "e5-5-4-001-43bcd1d608",
+        "e5-5-4-002-cdaca29848",
+        "e5-5-4-003-dfbc5b156b"
+      ]
+    },
+    {
+      "id": "section-5-5",
+      "number": "5.5",
+      "title": "硚口区",
+      "heading": "5.5 硚口区",
+      "chapter_id": "chapter-5",
+      "source_page": 48,
+      "intro_lines": [],
+      "entry_ids": [
+        "e5-5-5-001-123c7cde27",
+        "e5-5-5-002-e0e4c31f8c"
+      ]
+    },
+    {
+      "id": "section-5-6",
+      "number": "5.6",
+      "title": "汉阳区",
+      "heading": "5.6 汉阳区",
+      "chapter_id": "chapter-5",
+      "source_page": 48,
+      "intro_lines": [],
+      "entry_ids": [
+        "e5-5-6-001-4cdd590b3d",
+        "e5-5-6-002-3d3b149080"
+      ]
+    },
+    {
+      "id": "section-5-7",
+      "number": "5.7",
+      "title": "江岸区",
+      "heading": "5.7 江岸区",
+      "chapter_id": "chapter-5",
+      "source_page": 48,
+      "intro_lines": [],
+      "entry_ids": [
+        "e5-5-7-001-5865d23a05",
+        "e5-5-7-002-454f78b9f3"
+      ]
+    },
+    {
+      "id": "section-5-8",
+      "number": "5.8",
+      "title": "青山区",
+      "heading": "5.8 青山区",
+      "chapter_id": "chapter-5",
+      "source_page": 49,
+      "intro_lines": [],
+      "entry_ids": [
+        "e5-5-8-001-363983b835"
+      ]
+    }
+  ],
+  "page_index": [
+    {
+      "page": 1,
+      "json": "pages/page_001.json",
+      "markdown": "pages/page_001.md",
+      "images": [
+        "media-p001-01"
+      ]
+    },
+    {
+      "page": 2,
+      "json": "pages/page_002.json",
+      "markdown": "pages/page_002.md",
+      "images": []
+    },
+    {
+      "page": 3,
+      "json": "pages/page_003.json",
+      "markdown": "pages/page_003.md",
+      "images": []
+    },
+    {
+      "page": 4,
+      "json": "pages/page_004.json",
+      "markdown": "pages/page_004.md",
+      "images": []
+    },
+    {
+      "page": 5,
+      "json": "pages/page_005.json",
+      "markdown": "pages/page_005.md",
+      "images": [
+        "media-p005-01"
+      ]
+    },
+    {
+      "page": 6,
+      "json": "pages/page_006.json",
+      "markdown": "pages/page_006.md",
+      "images": []
+    },
+    {
+      "page": 7,
+      "json": "pages/page_007.json",
+      "markdown": "pages/page_007.md",
+      "images": []
+    },
+    {
+      "page": 8,
+      "json": "pages/page_008.json",
+      "markdown": "pages/page_008.md",
+      "images": []
+    },
+    {
+      "page": 9,
+      "json": "pages/page_009.json",
+      "markdown": "pages/page_009.md",
+      "images": [
+        "media-p009-01",
+        "media-p009-02"
+      ]
+    },
+    {
+      "page": 10,
+      "json": "pages/page_010.json",
+      "markdown": "pages/page_010.md",
+      "images": [
+        "media-p010-01",
+        "media-p010-02",
+        "media-p010-03",
+        "media-p010-04",
+        "media-p010-05"
+      ]
+    },
+    {
+      "page": 11,
+      "json": "pages/page_011.json",
+      "markdown": "pages/page_011.md",
+      "images": [
+        "media-p011-01",
+        "media-p011-02",
+        "media-p011-03"
+      ]
+    },
+    {
+      "page": 12,
+      "json": "pages/page_012.json",
+      "markdown": "pages/page_012.md",
+      "images": [
+        "media-p012-01",
+        "media-p012-02"
+      ]
+    },
+    {
+      "page": 13,
+      "json": "pages/page_013.json",
+      "markdown": "pages/page_013.md",
+      "images": [
+        "media-p013-01",
+        "media-p013-02",
+        "media-p013-03"
+      ]
+    },
+    {
+      "page": 14,
+      "json": "pages/page_014.json",
+      "markdown": "pages/page_014.md",
+      "images": [
+        "media-p014-01",
+        "media-p014-02"
+      ]
+    },
+    {
+      "page": 15,
+      "json": "pages/page_015.json",
+      "markdown": "pages/page_015.md",
+      "images": [
+        "media-p015-01",
+        "media-p015-02",
+        "media-p015-03"
+      ]
+    },
+    {
+      "page": 16,
+      "json": "pages/page_016.json",
+      "markdown": "pages/page_016.md",
+      "images": [
+        "media-p016-01",
+        "media-p016-02",
+        "media-p016-03"
+      ]
+    },
+    {
+      "page": 17,
+      "json": "pages/page_017.json",
+      "markdown": "pages/page_017.md",
+      "images": [
+        "media-p017-01",
+        "media-p017-02",
+        "media-p017-03"
+      ]
+    },
+    {
+      "page": 18,
+      "json": "pages/page_018.json",
+      "markdown": "pages/page_018.md",
+      "images": [
+        "media-p018-01",
+        "media-p018-02"
+      ]
+    },
+    {
+      "page": 19,
+      "json": "pages/page_019.json",
+      "markdown": "pages/page_019.md",
+      "images": [
+        "media-p019-01",
+        "media-p019-02"
+      ]
+    },
+    {
+      "page": 20,
+      "json": "pages/page_020.json",
+      "markdown": "pages/page_020.md",
+      "images": [
+        "media-p020-01",
+        "media-p020-02",
+        "media-p020-03"
+      ]
+    },
+    {
+      "page": 21,
+      "json": "pages/page_021.json",
+      "markdown": "pages/page_021.md",
+      "images": [
+        "media-p021-01",
+        "media-p021-02",
+        "media-p021-03"
+      ]
+    },
+    {
+      "page": 22,
+      "json": "pages/page_022.json",
+      "markdown": "pages/page_022.md",
+      "images": [
+        "media-p022-01",
+        "media-p022-02"
+      ]
+    },
+    {
+      "page": 23,
+      "json": "pages/page_023.json",
+      "markdown": "pages/page_023.md",
+      "images": [
+        "media-p023-01",
+        "media-p023-02",
+        "media-p023-03"
+      ]
+    },
+    {
+      "page": 24,
+      "json": "pages/page_024.json",
+      "markdown": "pages/page_024.md",
+      "images": [
+        "media-p024-01",
+        "media-p024-02",
+        "media-p024-03"
+      ]
+    },
+    {
+      "page": 25,
+      "json": "pages/page_025.json",
+      "markdown": "pages/page_025.md",
+      "images": [
+        "media-p025-01",
+        "media-p025-02",
+        "media-p025-03",
+        "media-p025-04"
+      ]
+    },
+    {
+      "page": 26,
+      "json": "pages/page_026.json",
+      "markdown": "pages/page_026.md",
+      "images": [
+        "media-p026-01",
+        "media-p026-02",
+        "media-p026-03"
+      ]
+    },
+    {
+      "page": 27,
+      "json": "pages/page_027.json",
+      "markdown": "pages/page_027.md",
+      "images": [
+        "media-p027-01",
+        "media-p027-02",
+        "media-p027-03"
+      ]
+    },
+    {
+      "page": 28,
+      "json": "pages/page_028.json",
+      "markdown": "pages/page_028.md",
+      "images": [
+        "media-p028-01",
+        "media-p028-02",
+        "media-p028-03"
+      ]
+    },
+    {
+      "page": 29,
+      "json": "pages/page_029.json",
+      "markdown": "pages/page_029.md",
+      "images": [
+        "media-p029-01",
+        "media-p029-02"
+      ]
+    },
+    {
+      "page": 30,
+      "json": "pages/page_030.json",
+      "markdown": "pages/page_030.md",
+      "images": [
+        "media-p030-01",
+        "media-p030-02"
+      ]
+    },
+    {
+      "page": 31,
+      "json": "pages/page_031.json",
+      "markdown": "pages/page_031.md",
+      "images": [
+        "media-p031-01",
+        "media-p031-02",
+        "media-p031-03"
+      ]
+    },
+    {
+      "page": 32,
+      "json": "pages/page_032.json",
+      "markdown": "pages/page_032.md",
+      "images": [
+        "media-p032-01",
+        "media-p032-02",
+        "media-p032-03"
+      ]
+    },
+    {
+      "page": 33,
+      "json": "pages/page_033.json",
+      "markdown": "pages/page_033.md",
+      "images": [
+        "media-p033-01",
+        "media-p033-02"
+      ]
+    },
+    {
+      "page": 34,
+      "json": "pages/page_034.json",
+      "markdown": "pages/page_034.md",
+      "images": [
+        "media-p034-01",
+        "media-p034-02"
+      ]
+    },
+    {
+      "page": 35,
+      "json": "pages/page_035.json",
+      "markdown": "pages/page_035.md",
+      "images": [
+        "media-p035-01",
+        "media-p035-02"
+      ]
+    },
+    {
+      "page": 36,
+      "json": "pages/page_036.json",
+      "markdown": "pages/page_036.md",
+      "images": [
+        "media-p036-01",
+        "media-p036-02",
+        "media-p036-03"
+      ]
+    },
+    {
+      "page": 37,
+      "json": "pages/page_037.json",
+      "markdown": "pages/page_037.md",
+      "images": [
+        "media-p037-01",
+        "media-p037-02"
+      ]
+    },
+    {
+      "page": 38,
+      "json": "pages/page_038.json",
+      "markdown": "pages/page_038.md",
+      "images": [
+        "media-p038-01",
+        "media-p038-02"
+      ]
+    },
+    {
+      "page": 39,
+      "json": "pages/page_039.json",
+      "markdown": "pages/page_039.md",
+      "images": [
+        "media-p039-01",
+        "media-p039-02",
+        "media-p039-03",
+        "media-p039-04"
+      ]
+    },
+    {
+      "page": 40,
+      "json": "pages/page_040.json",
+      "markdown": "pages/page_040.md",
+      "images": [
+        "media-p040-01",
+        "media-p040-02"
+      ]
+    },
+    {
+      "page": 41,
+      "json": "pages/page_041.json",
+      "markdown": "pages/page_041.md",
+      "images": [
+        "media-p041-01",
+        "media-p041-02"
+      ]
+    },
+    {
+      "page": 42,
+      "json": "pages/page_042.json",
+      "markdown": "pages/page_042.md",
+      "images": [
+        "media-p042-01",
+        "media-p042-02"
+      ]
+    },
+    {
+      "page": 43,
+      "json": "pages/page_043.json",
+      "markdown": "pages/page_043.md",
+      "images": [
+        "media-p043-01",
+        "media-p043-02"
+      ]
+    },
+    {
+      "page": 44,
+      "json": "pages/page_044.json",
+      "markdown": "pages/page_044.md",
+      "images": [
+        "media-p044-01",
+        "media-p044-02"
+      ]
+    },
+    {
+      "page": 45,
+      "json": "pages/page_045.json",
+      "markdown": "pages/page_045.md",
+      "images": [
+        "media-p045-01"
+      ]
+    },
+    {
+      "page": 46,
+      "json": "pages/page_046.json",
+      "markdown": "pages/page_046.md",
+      "images": []
+    },
+    {
+      "page": 47,
+      "json": "pages/page_047.json",
+      "markdown": "pages/page_047.md",
+      "images": [
+        "media-p047-01"
+      ]
+    },
+    {
+      "page": 48,
+      "json": "pages/page_048.json",
+      "markdown": "pages/page_048.md",
+      "images": []
+    },
+    {
+      "page": 49,
+      "json": "pages/page_049.json",
+      "markdown": "pages/page_049.md",
+      "images": []
+    }
+  ],
+  "entity_file": "entities.jsonl",
+  "media_manifest": "media/manifest.json",
+  "source_pdf": "source/HUSTer的干饭修养.pdf",
+  "package": {
+    "name": "hust_helper",
+    "module": "hust_helper.tools.hust_eater",
+    "version": "0.1.0",
+    "base_data_immutable": true,
+    "user_overlay_supported": true
+  },
+  "integrity_file": "integrity.json"
+}

@@ -1,0 +1,877 @@
+{
+  "schema_version": "1.0",
+  "page_number": 9,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "第二章  华科周边美食篇\n这一章，我主要统计中午到晚上开业的店铺，下午就关门的店铺就不统计入内\n了，放入早饭中去介绍。\n2.1  东区外\n东区外的范围主要是光谷大道东边的区域，如图所示：\n东区外范围\n（1） 红旺猪脚饭：家常小炒\n红旺猪脚饭主要是家常小炒，性价比很高，人均大概30 左右，属于是我华\n科周边去过最多的馆子。每周都会在群里面发对应的套餐，等价位的菜可以替\n换。需要注意的是尽量在群里提前点菜，可以到店后再加群，我没有最新的群\n的二维码。套餐部分内容如图所示：\n红旺部分套餐截图\n我先列举下我在红旺吃过觉得好吃的几道菜：番茄鱼、京酱肉丝、糖醋排\n骨、木耳肉丝、鱼香肉丝、一碗香、土豆牛腩、番茄牛腩煲、肉沫斩蛋、土豆\n红烧肉、孜然土豆肉片、干锅排骨烧仔凤爪、四季豆炒牛肚等。我没有列举的\n不代表不好吃，因为我本人不太能吃辣，所以很多辣菜没法点。\n最后附上红旺的菜单（有一些新品菜阿姨还没有更新到菜单中，群里面会",
+  "lines": [
+    {
+      "page": 9,
+      "text": "第二章  华科周边美食篇",
+      "bbox": [
+        90.024,
+        78.936,
+        269.383,
+        97.083
+      ],
+      "spans": [
+        {
+          "text": "第二章",
+          "bbox": [
+            90.024,
+            79.67,
+            137.904,
+            95.63
+          ],
+          "font": "SimSun",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            138.02,
+            78.936,
+            142.457,
+            96.732
+          ],
+          "font": "ArialMT",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "华科周边美食篇",
+          "bbox": [
+            153.02,
+            79.67,
+            264.882,
+            95.63
+          ],
+          "font": "SimSun",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            265.01,
+            80.452,
+            269.383,
+            97.083
+          ],
+          "font": "DengXian-Light",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 15.96,
+      "order": 174
+    },
+    {
+      "page": 9,
+      "text": "这一章，我主要统计中午到晚上开业的店铺，下午就关门的店铺就不统计入内",
+      "bbox": [
+        90.024,
+        108.992,
+        498.024,
+        120.992
+      ],
+      "spans": [
+        {
+          "text": "这一章，我主要统计中午到晚上开业的店铺，下午就关门的店铺就不统计入内",
+          "bbox": [
+            90.024,
+            108.992,
+            498.024,
+            120.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 175
+    },
+    {
+      "page": 9,
+      "text": "了，放入早饭中去介绍。",
+      "bbox": [
+        90.024,
+        132.008,
+        225.05,
+        145.292
+      ],
+      "spans": [
+        {
+          "text": "了，放入早饭中去介绍。",
+          "bbox": [
+            90.024,
+            132.392,
+            222.024,
+            144.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            222.05,
+            132.008,
+            225.05,
+            145.292
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 176
+    },
+    {
+      "page": 9,
+      "text": "2.1  东区外",
+      "bbox": [
+        90.024,
+        157.954,
+        171.53,
+        173.693
+      ],
+      "spans": [
+        {
+          "text": "2.1",
+          "bbox": [
+            90.024,
+            158.15,
+            107.616,
+            173.693
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            107.54,
+            157.954,
+            111.443,
+            173.608
+          ],
+          "font": "ArialMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "东区外",
+          "bbox": [
+            126.02,
+            158.6,
+            168.14,
+            172.64
+          ],
+          "font": "SimSun",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            168.02,
+            158.15,
+            171.53,
+            173.693
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 14.04,
+      "order": 177
+    },
+    {
+      "page": 9,
+      "text": "东区外的范围主要是光谷大道东边的区域，如图所示：",
+      "bbox": [
+        90.024,
+        186.608,
+        381.07,
+        199.892
+      ],
+      "spans": [
+        {
+          "text": "东区外的范围主要是光谷大道东边的区域，如图所示：",
+          "bbox": [
+            90.024,
+            186.992,
+            378.024,
+            198.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            378.07,
+            186.608,
+            381.07,
+            199.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 178
+    },
+    {
+      "page": 9,
+      "text": "东区外范围",
+      "bbox": [
+        267.65,
+        334.838,
+        330.67,
+        348.122
+      ],
+      "spans": [
+        {
+          "text": "东区外范围",
+          "bbox": [
+            267.65,
+            335.222,
+            327.65,
+            347.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            327.67,
+            334.838,
+            330.67,
+            348.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 179
+    },
+    {
+      "page": 9,
+      "text": "（1） 红旺猪脚饭：家常小炒",
+      "bbox": [
+        90.024,
+        358.07,
+        249.05,
+        371.522
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            358.622,
+            102.024,
+            370.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "1",
+          "bbox": [
+            102.02,
+            358.238,
+            108.02,
+            371.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            358.622,
+            120.02,
+            370.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            358.07,
+            123.356,
+            371.45
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "红旺猪脚饭：家常小炒",
+          "bbox": [
+            126.02,
+            358.622,
+            246.02,
+            370.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            246.05,
+            358.238,
+            249.05,
+            371.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 180
+    },
+    {
+      "page": 9,
+      "text": "红旺猪脚饭主要是家常小炒，性价比很高，人均大概30 左右，属于是我华",
+      "bbox": [
+        114.02,
+        381.638,
+        504.1,
+        394.922
+      ],
+      "spans": [
+        {
+          "text": "红旺猪脚饭主要是家常小炒，性价比很高，人均大概",
+          "bbox": [
+            114.02,
+            382.022,
+            390.07,
+            394.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "30",
+          "bbox": [
+            393.07,
+            381.638,
+            405.07,
+            394.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 左右，属于是我华",
+          "bbox": [
+            405.07,
+            382.022,
+            504.1,
+            394.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 181
+    },
+    {
+      "page": 9,
+      "text": "科周边去过最多的馆子。每周都会在群里面发对应的套餐，等价位的菜可以替",
+      "bbox": [
+        90.024,
+        405.442,
+        498.024,
+        417.442
+      ],
+      "spans": [
+        {
+          "text": "科周边去过最多的馆子。每周都会在群里面发对应的套餐，等价位的菜可以替",
+          "bbox": [
+            90.024,
+            405.442,
+            498.024,
+            417.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 182
+    },
+    {
+      "page": 9,
+      "text": "换。需要注意的是尽量在群里提前点菜，可以到店后再加群，我没有最新的群",
+      "bbox": [
+        90.024,
+        428.842,
+        498.02,
+        440.842
+      ],
+      "spans": [
+        {
+          "text": "换。需要注意的是尽量在群里提前点菜，可以到店后再加群，我没有最新的群",
+          "bbox": [
+            90.024,
+            428.842,
+            498.02,
+            440.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 183
+    },
+    {
+      "page": 9,
+      "text": "的二维码。套餐部分内容如图所示：",
+      "bbox": [
+        90.024,
+        451.858,
+        285.05,
+        465.142
+      ],
+      "spans": [
+        {
+          "text": "的二维码。套餐部分内容如图所示：",
+          "bbox": [
+            90.024,
+            452.242,
+            282.02,
+            464.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            282.05,
+            451.858,
+            285.05,
+            465.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 184
+    },
+    {
+      "page": 9,
+      "text": "红旺部分套餐截图",
+      "bbox": [
+        249.65,
+        631.288,
+        348.67,
+        644.572
+      ],
+      "spans": [
+        {
+          "text": "红旺部分套餐截图",
+          "bbox": [
+            249.65,
+            631.672,
+            345.65,
+            643.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            345.67,
+            631.288,
+            348.67,
+            644.572
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 185
+    },
+    {
+      "page": 9,
+      "text": "我先列举下我在红旺吃过觉得好吃的几道菜：番茄鱼、京酱肉丝、糖醋排",
+      "bbox": [
+        114.02,
+        655.072,
+        498.61,
+        667.072
+      ],
+      "spans": [
+        {
+          "text": "我先列举下我在红旺吃过觉得好吃的几道菜：",
+          "bbox": [
+            114.02,
+            655.072,
+            354.05,
+            667.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "番茄鱼、京酱肉丝、糖醋排",
+          "bbox": [
+            354.07,
+            655.072,
+            498.61,
+            667.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "番茄鱼、京酱肉丝、糖醋排"
+      ],
+      "red_segments": [
+        {
+          "text": "番茄鱼、京酱肉丝、糖醋排",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 186
+    },
+    {
+      "page": 9,
+      "text": "骨、木耳肉丝、鱼香肉丝、一碗香、土豆牛腩、番茄牛腩煲、肉沫斩蛋、土豆",
+      "bbox": [
+        90.024,
+        678.472,
+        499.536,
+        690.472
+      ],
+      "spans": [
+        {
+          "text": "骨、木耳肉丝、鱼香肉丝、一碗香、土豆牛腩、番茄牛腩煲、肉沫斩蛋、土豆",
+          "bbox": [
+            90.024,
+            678.472,
+            499.536,
+            690.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "骨、木耳肉丝、鱼香肉丝、一碗香、土豆牛腩、番茄牛腩煲、肉沫斩蛋、土豆"
+      ],
+      "red_segments": [
+        {
+          "text": "骨、木耳肉丝、鱼香肉丝、一碗香、土豆牛腩、番茄牛腩煲、肉沫斩蛋、土豆",
+          "at_line_start": true,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 187
+    },
+    {
+      "page": 9,
+      "text": "红烧肉、孜然土豆肉片、干锅排骨烧仔凤爪、四季豆炒牛肚等。我没有列举的",
+      "bbox": [
+        90.024,
+        701.872,
+        499.27,
+        713.872
+      ],
+      "spans": [
+        {
+          "text": "红烧肉、孜然土豆肉片、干锅排骨烧仔凤爪、四季豆炒牛肚",
+          "bbox": [
+            90.024,
+            701.872,
+            403.104,
+            713.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "等。我没有列举的",
+          "bbox": [
+            403.39,
+            701.872,
+            499.27,
+            713.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "红烧肉、孜然土豆肉片、干锅排骨烧仔凤爪、四季豆炒牛肚"
+      ],
+      "red_segments": [
+        {
+          "text": "红烧肉、孜然土豆肉片、干锅排骨烧仔凤爪、四季豆炒牛肚",
+          "at_line_start": true,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 188
+    },
+    {
+      "page": 9,
+      "text": "不代表不好吃，因为我本人不太能吃辣，所以很多辣菜没法点。",
+      "bbox": [
+        90.024,
+        724.888,
+        429.1,
+        738.172
+      ],
+      "spans": [
+        {
+          "text": "不代表不好吃，因为我本人不太能吃辣，所以很多辣菜没法点。",
+          "bbox": [
+            90.024,
+            725.272,
+            426.024,
+            737.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            426.1,
+            724.888,
+            429.1,
+            738.172
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 189
+    },
+    {
+      "page": 9,
+      "text": "最后附上红旺的菜单（有一些新品菜阿姨还没有更新到菜单中，群里面会",
+      "bbox": [
+        114.02,
+        748.692,
+        498.02,
+        760.692
+      ],
+      "spans": [
+        {
+          "text": "最后附上红旺的菜单（有一些新品菜阿姨还没有更新到菜单中，群里面会",
+          "bbox": [
+            114.02,
+            748.692,
+            498.02,
+            760.692
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 190
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p009-01",
+      "page": 9,
+      "order_on_page": 1,
+      "file": "media/p009_img01.png",
+      "xref": 132,
+      "bbox": [
+        218.68,
+        207.45,
+        376.63,
+        326.53
+      ],
+      "pixel_width": 488,
+      "pixel_height": 368,
+      "caption": "东区外范围",
+      "sha256": "7d031c1a4e82c136ca078df374d57744cbc9f61f58fee75595493c5d0c712ea6",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p009-02",
+      "page": 9,
+      "order_on_page": 2,
+      "file": "media/p009_img02.png",
+      "xref": 133,
+      "bbox": [
+        254.9,
+        474.29,
+        340.287,
+        620.64
+      ],
+      "pixel_width": 237,
+      "pixel_height": 406,
+      "caption": "红旺部分套餐截图",
+      "sha256": "712c5b8c861a904b97bbe746a2a569197c12cd3a24118caa1d1e1e89f91f0ee6",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

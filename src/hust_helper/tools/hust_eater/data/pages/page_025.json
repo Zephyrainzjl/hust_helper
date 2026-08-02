@@ -1,0 +1,1065 @@
+{
+  "schema_version": "1.0",
+  "page_number": 25,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "（4） 孟记牛肉拉面（卓刀泉店）\n这家店的牛肉拉面是真香，我之前去凌波门看日出的时候吃的，拉面口感\n不如凡记，但是牛肉比凡记好吃，嘎嘎香。但是得排长队，排队情况比凡记面\n馆还糟糕。不想排队可以去试试创业街的孟记牛肉拉面，但是我个人觉得创业\n街这家不如卓刀泉这家的口感。\n孟记牛肉拉面\n（5） 牛肉小包（光谷大道店）\n这家店的牛肉小包做的挺不错的，我爱吃，就是小贵。\n牛肉小包美团信息\n（6） 臻品居烧梅\n武汉文旅推荐，说是烧麦很好吃，我自己没有吃过。\n臻品居烧梅美团信息\n（7） 老油条小吃\n武汉文旅推荐，说是 23 年小店，卖武汉常见油炸，我自己还没吃过。\n老油条小吃美团信息",
+  "lines": [
+    {
+      "page": 25,
+      "text": "（4） 孟记牛肉拉面（卓刀泉店）",
+      "bbox": [
+        90.024,
+        77.24,
+        273.05,
+        90.692
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            77.792,
+            102.024,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "4",
+          "bbox": [
+            102.02,
+            77.408,
+            108.02,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            77.792,
+            120.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            77.24,
+            123.356,
+            90.62
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "孟记牛肉拉面（卓刀泉店）",
+          "bbox": [
+            126.02,
+            77.792,
+            270.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            270.05,
+            77.408,
+            273.05,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 430
+    },
+    {
+      "page": 25,
+      "text": "这家店的牛肉拉面是真香，我之前去凌波门看日出的时候吃的，拉面口感",
+      "bbox": [
+        114.02,
+        101.192,
+        498.29,
+        113.192
+      ],
+      "spans": [
+        {
+          "text": "这家店的",
+          "bbox": [
+            114.02,
+            101.192,
+            162.02,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "牛肉拉面",
+          "bbox": [
+            162.02,
+            101.192,
+            210.236,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "是真香，我之前去凌波门看日出的时候吃的，拉面口感",
+          "bbox": [
+            210.41,
+            101.192,
+            498.29,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "牛肉拉面"
+      ],
+      "red_segments": [
+        {
+          "text": "牛肉拉面",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 431
+    },
+    {
+      "page": 25,
+      "text": "不如凡记，但是牛肉比凡记好吃，嘎嘎香。但是得排长队，排队情况比凡记面",
+      "bbox": [
+        90.024,
+        124.592,
+        498.024,
+        136.592
+      ],
+      "spans": [
+        {
+          "text": "不如凡记，但是牛肉比凡记好吃，嘎嘎香。但是得排长队，排队情况比凡记面",
+          "bbox": [
+            90.024,
+            124.592,
+            498.024,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 432
+    },
+    {
+      "page": 25,
+      "text": "馆还糟糕。不想排队可以去试试创业街的孟记牛肉拉面，但是我个人觉得创业",
+      "bbox": [
+        90.024,
+        147.992,
+        498.024,
+        159.992
+      ],
+      "spans": [
+        {
+          "text": "馆还糟糕。不想排队可以去试试创业街的孟记牛肉拉面，但是我个人觉得创业",
+          "bbox": [
+            90.024,
+            147.992,
+            498.024,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 433
+    },
+    {
+      "page": 25,
+      "text": "街这家不如卓刀泉这家的口感。",
+      "bbox": [
+        90.024,
+        171.008,
+        261.05,
+        184.292
+      ],
+      "spans": [
+        {
+          "text": "街这家不如卓刀泉这家的口感。",
+          "bbox": [
+            90.024,
+            171.392,
+            258.024,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            258.05,
+            171.008,
+            261.05,
+            184.292
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 434
+    },
+    {
+      "page": 25,
+      "text": "孟记牛肉拉面",
+      "bbox": [
+        261.65,
+        272.438,
+        336.67,
+        285.722
+      ],
+      "spans": [
+        {
+          "text": "孟记牛肉拉面",
+          "bbox": [
+            261.65,
+            272.822,
+            333.65,
+            284.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            333.67,
+            272.438,
+            336.67,
+            285.722
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 435
+    },
+    {
+      "page": 25,
+      "text": "（5） 牛肉小包（光谷大道店）",
+      "bbox": [
+        90.024,
+        295.67,
+        261.05,
+        309.122
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            296.222,
+            102.024,
+            308.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "5",
+          "bbox": [
+            102.02,
+            295.838,
+            108.02,
+            309.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            296.222,
+            120.02,
+            308.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            295.67,
+            123.356,
+            309.05
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "牛肉小包（光谷大道店）",
+          "bbox": [
+            126.02,
+            296.222,
+            258.02,
+            308.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            258.05,
+            295.838,
+            261.05,
+            309.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 436
+    },
+    {
+      "page": 25,
+      "text": "这家店的牛肉小包做的挺不错的，我爱吃，就是小贵。",
+      "bbox": [
+        114.02,
+        319.238,
+        405.31,
+        332.522
+      ],
+      "spans": [
+        {
+          "text": "这家店的",
+          "bbox": [
+            114.02,
+            319.622,
+            162.02,
+            331.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "牛肉小包",
+          "bbox": [
+            162.02,
+            319.622,
+            210.236,
+            331.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "做的挺不错的，我爱吃，就是小贵。",
+          "bbox": [
+            210.41,
+            319.622,
+            402.29,
+            331.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            402.31,
+            319.238,
+            405.31,
+            332.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "牛肉小包"
+      ],
+      "red_segments": [
+        {
+          "text": "牛肉小包",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 437
+    },
+    {
+      "page": 25,
+      "text": "牛肉小包美团信息",
+      "bbox": [
+        249.65,
+        420.658,
+        348.67,
+        433.942
+      ],
+      "spans": [
+        {
+          "text": "牛肉小包美团信息",
+          "bbox": [
+            249.65,
+            421.042,
+            345.65,
+            433.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            345.67,
+            420.658,
+            348.67,
+            433.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 438
+    },
+    {
+      "page": 25,
+      "text": "（6） 臻品居烧梅",
+      "bbox": [
+        90.024,
+        443.89,
+        189.05,
+        457.342
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            444.442,
+            102.024,
+            456.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "6",
+          "bbox": [
+            102.02,
+            444.058,
+            108.02,
+            457.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            444.442,
+            120.02,
+            456.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            443.89,
+            123.356,
+            457.27
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "臻品居烧梅",
+          "bbox": [
+            126.02,
+            444.442,
+            186.02,
+            456.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            186.05,
+            444.058,
+            189.05,
+            457.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 439
+    },
+    {
+      "page": 25,
+      "text": "武汉文旅推荐，说是烧麦很好吃，我自己没有吃过。",
+      "bbox": [
+        114.02,
+        467.458,
+        393.07,
+        480.742
+      ],
+      "spans": [
+        {
+          "text": "武汉文旅推荐，说是烧麦很好吃，我自己没有吃过。",
+          "bbox": [
+            114.02,
+            467.842,
+            390.02,
+            479.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            390.07,
+            467.458,
+            393.07,
+            480.742
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 440
+    },
+    {
+      "page": 25,
+      "text": "臻品居烧梅美团信息",
+      "bbox": [
+        243.65,
+        584.488,
+        354.67,
+        597.772
+      ],
+      "spans": [
+        {
+          "text": "臻品居烧梅美团信息",
+          "bbox": [
+            243.65,
+            584.872,
+            351.67,
+            596.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            351.67,
+            584.488,
+            354.67,
+            597.772
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 441
+    },
+    {
+      "page": 25,
+      "text": "（7） 老油条小吃",
+      "bbox": [
+        90.024,
+        607.72,
+        189.05,
+        621.172
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            608.272,
+            102.024,
+            620.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "7",
+          "bbox": [
+            102.02,
+            607.888,
+            108.02,
+            621.172
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            608.272,
+            120.02,
+            620.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            607.72,
+            123.356,
+            621.1
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "老油条小吃",
+          "bbox": [
+            126.02,
+            608.272,
+            186.02,
+            620.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            186.05,
+            607.888,
+            189.05,
+            621.172
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 442
+    },
+    {
+      "page": 25,
+      "text": "武汉文旅推荐，说是 23 年小店，卖武汉常见油炸，我自己还没吃过。",
+      "bbox": [
+        114.02,
+        631.288,
+        483.22,
+        644.572
+      ],
+      "spans": [
+        {
+          "text": "武汉文旅推荐，说是",
+          "bbox": [
+            114.02,
+            631.672,
+            222.02,
+            643.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "23",
+          "bbox": [
+            225.05,
+            631.288,
+            237.05,
+            644.572
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 年小店，卖武汉常见",
+          "bbox": [
+            237.05,
+            631.672,
+            348.05,
+            643.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "油炸",
+          "bbox": [
+            348.07,
+            631.672,
+            372.19,
+            643.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "，我自己还没吃过。",
+          "bbox": [
+            372.31,
+            631.672,
+            480.19,
+            643.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            480.22,
+            631.288,
+            483.22,
+            644.572
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "油炸"
+      ],
+      "red_segments": [
+        {
+          "text": "油炸",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 443
+    },
+    {
+      "page": 25,
+      "text": "老油条小吃美团信息",
+      "bbox": [
+        243.65,
+        748.308,
+        354.67,
+        761.592
+      ],
+      "spans": [
+        {
+          "text": "老油条小吃美团信息",
+          "bbox": [
+            243.65,
+            748.692,
+            351.65,
+            760.692
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            351.67,
+            748.308,
+            354.67,
+            761.592
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 444
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p025-01",
+      "page": 25,
+      "order_on_page": 1,
+      "file": "media/p025_img01.png",
+      "xref": 192,
+      "bbox": [
+        211.07,
+        189.62,
+        384.21,
+        266.37
+      ],
+      "pixel_width": 544,
+      "pixel_height": 242,
+      "caption": "孟记牛肉拉面",
+      "sha256": "29c86f2fe77e16656440003768e958b4c1eb74c4cecf8d20b744917fcb308387",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p025-02",
+      "page": 25,
+      "order_on_page": 2,
+      "file": "media/p025_img02.png",
+      "xref": 193,
+      "bbox": [
+        220.4,
+        338.7,
+        374.21,
+        413.4
+      ],
+      "pixel_width": 475,
+      "pixel_height": 231,
+      "caption": "牛肉小包美团信息",
+      "sha256": "b65fa162f09a20302cbbf3de1826b42bed378676481afac86bd1b59c91e3a86f",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p025-03",
+      "page": 25,
+      "order_on_page": 3,
+      "file": "media/p025_img03.png",
+      "xref": 194,
+      "bbox": [
+        205.2,
+        488.597,
+        390.1,
+        575.79
+      ],
+      "pixel_width": 566,
+      "pixel_height": 267,
+      "caption": "臻品居烧梅美团信息",
+      "sha256": "d370fb9938c2f595b6112dbe9c25f7788f80ada83d07450180b455c593d52adf",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p025-04",
+      "page": 25,
+      "order_on_page": 4,
+      "file": "media/p025_img04.png",
+      "xref": 195,
+      "bbox": [
+        202.4,
+        654.72,
+        392.32,
+        737.27
+      ],
+      "pixel_width": 590,
+      "pixel_height": 256,
+      "caption": "老油条小吃美团信息",
+      "sha256": "f8237bbc89b523b13afc7f644e17d97c6cbdc78e23ba1835f331cfa2e7625423",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

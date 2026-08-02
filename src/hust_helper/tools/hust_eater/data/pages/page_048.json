@@ -1,0 +1,2006 @@
+{
+  "schema_version": "1.0",
+  "page_number": 48,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "5.5  硚口区\n（1） 宝善堂\n是我最近发现的一家宝藏街，很有武汉烟火气和武汉市井特色（不是贬\n义），真的很不错。推荐几家店：山西手工老面馒头（推荐红豆包）、北京香酥\n芝麻饼（网友推荐他家的葱香剁饼）、星级排条（我点的牛肉鸡肉双拼，真好\n吃）、邱记锅盔（万松园之前那家听说很好吃，但是后面关门了，这边的也可以\n试试）、红豆酥（店名不太记得了，只有他家卖红豆酥，很明显）。\n还有好多老式面包店，上次去买了三家的，吃起来都不错。边上还有个夜\n市摊，好多小摊，看起来嘎嘎香。\n（2） 长堤街\n之前看的武汉文旅推荐，去了一次，确实不错，就是小远。推荐几家店：\n桂萍牛杂（网上其实很多人推荐，但是我去吃了，感觉中上水平吧，没有那么\n惊艳，可能是因为我吃不了辣，点的微辣）、油炸小吃（吃了个炸鸡腿，挺好吃\n的）、姚姐手工冰粉（当时桂萍有点辣，去这边买了冰粉，味道确实不错）、老\n街鸡汤、和平大排档、曾记水货汤包（网上推荐番茄味）、李爹爹冰冻米酒（按\n瓶卖的，也是少见）、麻木老地方牛杂（网友推荐的，我没吃过）。\n要去的话，导航长堤街油炸小吃。\n5.6  汉阳区\n（1） 玫瑰街夜市\n有点小远，我还没去过，路过的话可以去一下。推荐几家店：七七饺子、\n黄毛鸭脖、江胖子弯弯火锅城、飞鸿烧烤、碳客海鲜烧烤。\n（2） 拦江路\n我知道这个地方还是因为蟹神咩咩，网上有不少人推荐，我本人还没来\n过。推荐几家店：蟹神咩咩、香乡鸡、东北烤肉、九月小厨、归元寺石头饼。\n5.7  江岸区\n（1） 保成路夜市\n大型摊位市场，卖啥的都有，吃的也有，穿的也有。吃的推荐有：红糖\n饼、桃园时记面疙瘩、土匪鱼、成记汤包、涂记酥油饼、付记烤脑花。",
+  "lines": [
+    {
+      "page": 48,
+      "text": "5.5  硚口区",
+      "bbox": [
+        90.024,
+        79.954,
+        171.53,
+        95.693
+      ],
+      "spans": [
+        {
+          "text": "5.5",
+          "bbox": [
+            90.024,
+            80.15,
+            107.616,
+            95.693
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            107.54,
+            79.954,
+            111.443,
+            95.608
+          ],
+          "font": "ArialMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "硚口区",
+          "bbox": [
+            126.02,
+            80.6,
+            168.14,
+            94.64
+          ],
+          "font": "SimSun",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            168.02,
+            80.15,
+            171.53,
+            95.693
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 14.04,
+      "order": 796
+    },
+    {
+      "page": 48,
+      "text": "（1） 宝善堂",
+      "bbox": [
+        90.024,
+        108.44,
+        165.02,
+        121.892
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            108.992,
+            102.024,
+            120.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "1",
+          "bbox": [
+            102.02,
+            108.608,
+            108.02,
+            121.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            108.992,
+            120.02,
+            120.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            108.44,
+            123.356,
+            121.82
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "宝善堂",
+          "bbox": [
+            126.02,
+            108.992,
+            162.02,
+            120.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            162.02,
+            108.608,
+            165.02,
+            121.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 797
+    },
+    {
+      "page": 48,
+      "text": "是我最近发现的一家宝藏街，很有武汉烟火气和武汉市井特色（不是贬",
+      "bbox": [
+        114.02,
+        132.392,
+        486.02,
+        144.392
+      ],
+      "spans": [
+        {
+          "text": "是我最近发现的一家宝藏街，很有武汉烟火气和武汉市井特色（不是贬",
+          "bbox": [
+            114.02,
+            132.392,
+            486.02,
+            144.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 798
+    },
+    {
+      "page": 48,
+      "text": "义），真的很不错。推荐几家店：山西手工老面馒头（推荐红豆包）、北京香酥",
+      "bbox": [
+        90.024,
+        155.792,
+        498.796,
+        167.792
+      ],
+      "spans": [
+        {
+          "text": "义），真的很不错。推荐几家店：",
+          "bbox": [
+            90.024,
+            155.792,
+            264.024,
+            167.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "山西手工老面馒头",
+          "bbox": [
+            264.05,
+            155.792,
+            360.374,
+            167.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（推荐",
+          "bbox": [
+            360.55,
+            155.792,
+            396.55,
+            167.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "红豆包",
+          "bbox": [
+            396.55,
+            155.792,
+            432.55,
+            167.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "）、",
+          "bbox": [
+            432.7,
+            155.792,
+            450.58,
+            167.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "北京香酥",
+          "bbox": [
+            450.58,
+            155.792,
+            498.796,
+            167.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "山西手工老面馒头",
+        "红豆包",
+        "北京香酥"
+      ],
+      "red_segments": [
+        {
+          "text": "山西手工老面馒头",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "红豆包",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "北京香酥",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 799
+    },
+    {
+      "page": 48,
+      "text": "芝麻饼（网友推荐他家的葱香剁饼）、星级排条（我点的牛肉鸡肉双拼，真好",
+      "bbox": [
+        90.024,
+        179.192,
+        492.55,
+        191.192
+      ],
+      "spans": [
+        {
+          "text": "芝麻饼",
+          "bbox": [
+            90.024,
+            179.192,
+            126.132,
+            191.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（网友推荐他家的",
+          "bbox": [
+            126.26,
+            179.192,
+            222.14,
+            191.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "葱香剁饼",
+          "bbox": [
+            222.17,
+            179.192,
+            270.386,
+            191.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "）、",
+          "bbox": [
+            270.53,
+            179.192,
+            288.53,
+            191.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "星级排条",
+          "bbox": [
+            288.41,
+            179.192,
+            336.518,
+            191.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（我点的牛肉鸡肉双拼，真好",
+          "bbox": [
+            336.67,
+            179.192,
+            492.55,
+            191.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "芝麻饼",
+        "葱香剁饼",
+        "星级排条"
+      ],
+      "red_segments": [
+        {
+          "text": "芝麻饼",
+          "at_line_start": true,
+          "at_line_end": false
+        },
+        {
+          "text": "葱香剁饼",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "星级排条",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 800
+    },
+    {
+      "page": 48,
+      "text": "吃）、邱记锅盔（万松园之前那家听说很好吃，但是后面关门了，这边的也可以",
+      "bbox": [
+        90.024,
+        202.592,
+        504.26,
+        214.592
+      ],
+      "spans": [
+        {
+          "text": "吃）、",
+          "bbox": [
+            90.024,
+            202.592,
+            120.024,
+            214.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "邱记锅盔",
+          "bbox": [
+            120.02,
+            202.592,
+            168.236,
+            214.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（万松园之前那家听说很好吃，但是后面关门了，这边的也可以",
+          "bbox": [
+            168.38,
+            202.592,
+            504.26,
+            214.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "邱记锅盔"
+      ],
+      "red_segments": [
+        {
+          "text": "邱记锅盔",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 801
+    },
+    {
+      "page": 48,
+      "text": "试试）、红豆酥（店名不太记得了，只有他家卖红豆酥，很明显）。",
+      "bbox": [
+        90.024,
+        225.608,
+        441.22,
+        238.892
+      ],
+      "spans": [
+        {
+          "text": "试试）、",
+          "bbox": [
+            90.024,
+            225.992,
+            132.024,
+            237.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "红豆酥",
+          "bbox": [
+            132.02,
+            225.992,
+            168.128,
+            237.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（店名不太记得了，只有他家卖红豆酥，很明显）。",
+          "bbox": [
+            168.26,
+            225.992,
+            438.14,
+            237.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            438.22,
+            225.608,
+            441.22,
+            238.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "红豆酥"
+      ],
+      "red_segments": [
+        {
+          "text": "红豆酥",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 802
+    },
+    {
+      "page": 48,
+      "text": "还有好多老式面包店，上次去买了三家的，吃起来都不错。边上还有个夜",
+      "bbox": [
+        114.02,
+        249.422,
+        498.02,
+        261.422
+      ],
+      "spans": [
+        {
+          "text": "还有好多老式面包店，上次去买了三家的，吃起来都不错。边上还有个夜",
+          "bbox": [
+            114.02,
+            249.422,
+            498.02,
+            261.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 803
+    },
+    {
+      "page": 48,
+      "text": "市摊，好多小摊，看起来嘎嘎香。",
+      "bbox": [
+        90.024,
+        272.438,
+        273.05,
+        285.722
+      ],
+      "spans": [
+        {
+          "text": "市摊，好多小摊，看起来嘎嘎香。",
+          "bbox": [
+            90.024,
+            272.822,
+            270.024,
+            284.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            270.05,
+            272.438,
+            273.05,
+            285.722
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 804
+    },
+    {
+      "page": 48,
+      "text": "（2） 长堤街",
+      "bbox": [
+        90.024,
+        295.67,
+        165.02,
+        309.122
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            296.222,
+            102.024,
+            308.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "2",
+          "bbox": [
+            102.02,
+            295.838,
+            108.02,
+            309.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            296.222,
+            120.02,
+            308.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            295.67,
+            123.356,
+            309.05
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "长堤街",
+          "bbox": [
+            126.02,
+            296.222,
+            162.02,
+            308.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            162.02,
+            295.838,
+            165.02,
+            309.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 805
+    },
+    {
+      "page": 48,
+      "text": "之前看的武汉文旅推荐，去了一次，确实不错，就是小远。推荐几家店：",
+      "bbox": [
+        114.02,
+        319.622,
+        498.02,
+        331.622
+      ],
+      "spans": [
+        {
+          "text": "之前看的武汉文旅推荐，去了一次，确实不错，就是小远。推荐几家店：",
+          "bbox": [
+            114.02,
+            319.622,
+            498.02,
+            331.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 806
+    },
+    {
+      "page": 48,
+      "text": "桂萍牛杂（网上其实很多人推荐，但是我去吃了，感觉中上水平吧，没有那么",
+      "bbox": [
+        90.024,
+        343.022,
+        498.26,
+        355.022
+      ],
+      "spans": [
+        {
+          "text": "桂萍牛杂",
+          "bbox": [
+            90.024,
+            343.022,
+            138.24,
+            355.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（网上其实很多人推荐，但是我去吃了，感觉中上水平吧，没有那么",
+          "bbox": [
+            138.38,
+            343.022,
+            498.26,
+            355.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "桂萍牛杂"
+      ],
+      "red_segments": [
+        {
+          "text": "桂萍牛杂",
+          "at_line_start": true,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 807
+    },
+    {
+      "page": 48,
+      "text": "惊艳，可能是因为我吃不了辣，点的微辣）、油炸小吃（吃了个炸鸡腿，挺好吃",
+      "bbox": [
+        90.024,
+        366.422,
+        504.31,
+        378.422
+      ],
+      "spans": [
+        {
+          "text": "惊艳，可能是因为我吃不了辣，点的微辣）、",
+          "bbox": [
+            90.024,
+            366.422,
+            324.024,
+            378.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "油炸小吃",
+          "bbox": [
+            324.07,
+            366.422,
+            372.286,
+            378.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（吃了个炸鸡腿，挺好吃",
+          "bbox": [
+            372.43,
+            366.422,
+            504.31,
+            378.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "油炸小吃"
+      ],
+      "red_segments": [
+        {
+          "text": "油炸小吃",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 808
+    },
+    {
+      "page": 48,
+      "text": "的）、姚姐手工冰粉（当时桂萍有点辣，去这边买了冰粉，味道确实不错）、老",
+      "bbox": [
+        90.024,
+        389.822,
+        498.34,
+        401.822
+      ],
+      "spans": [
+        {
+          "text": "的）、",
+          "bbox": [
+            90.024,
+            389.822,
+            120.024,
+            401.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "姚姐手工冰粉",
+          "bbox": [
+            120.02,
+            389.822,
+            192.236,
+            401.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（当时桂萍有点辣，去这边买了冰粉，味道确实不错）、",
+          "bbox": [
+            192.41,
+            389.822,
+            486.29,
+            401.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "老",
+          "bbox": [
+            486.34,
+            389.822,
+            498.34,
+            401.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "姚姐手工冰粉",
+        "老"
+      ],
+      "red_segments": [
+        {
+          "text": "姚姐手工冰粉",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "老",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 809
+    },
+    {
+      "page": 48,
+      "text": "街鸡汤、和平大排档、曾记水货汤包（网上推荐番茄味）、李爹爹冰冻米酒（按",
+      "bbox": [
+        90.024,
+        413.242,
+        505.3,
+        425.242
+      ],
+      "spans": [
+        {
+          "text": "街鸡汤、和平大排档、曾记水货汤包",
+          "bbox": [
+            90.024,
+            413.242,
+            282.672,
+            425.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（网上推荐番茄味）、",
+          "bbox": [
+            282.89,
+            413.242,
+            396.77,
+            425.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "李爹爹冰冻米酒",
+          "bbox": [
+            396.79,
+            413.242,
+            481.114,
+            425.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（按",
+          "bbox": [
+            481.3,
+            413.242,
+            505.3,
+            425.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "街鸡汤、和平大排档、曾记水货汤包",
+        "李爹爹冰冻米酒"
+      ],
+      "red_segments": [
+        {
+          "text": "街鸡汤、和平大排档、曾记水货汤包",
+          "at_line_start": true,
+          "at_line_end": false
+        },
+        {
+          "text": "李爹爹冰冻米酒",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 810
+    },
+    {
+      "page": 48,
+      "text": "瓶卖的，也是少见）、麻木老地方牛杂（网友推荐的，我没吃过）。",
+      "bbox": [
+        90.024,
+        436.258,
+        441.46,
+        449.542
+      ],
+      "spans": [
+        {
+          "text": "瓶卖的，也是少见）、",
+          "bbox": [
+            90.024,
+            436.642,
+            204.024,
+            448.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "麻木老地方牛杂",
+          "bbox": [
+            204.05,
+            436.642,
+            288.374,
+            448.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（网友推荐的，我没吃过）。",
+          "bbox": [
+            288.53,
+            436.642,
+            438.41,
+            448.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            438.46,
+            436.258,
+            441.46,
+            449.542
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "麻木老地方牛杂"
+      ],
+      "red_segments": [
+        {
+          "text": "麻木老地方牛杂",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 811
+    },
+    {
+      "page": 48,
+      "text": "要去的话，导航长堤街油炸小吃。",
+      "bbox": [
+        114.02,
+        459.658,
+        297.07,
+        472.942
+      ],
+      "spans": [
+        {
+          "text": "要去的话，导航长堤街油炸小吃。",
+          "bbox": [
+            114.02,
+            460.042,
+            294.02,
+            472.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            294.07,
+            459.658,
+            297.07,
+            472.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 812
+    },
+    {
+      "page": 48,
+      "text": "5.6  汉阳区",
+      "bbox": [
+        90.024,
+        485.604,
+        171.53,
+        501.343
+      ],
+      "spans": [
+        {
+          "text": "5.6",
+          "bbox": [
+            90.024,
+            485.8,
+            107.616,
+            501.343
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            107.54,
+            485.604,
+            111.443,
+            501.258
+          ],
+          "font": "ArialMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "汉阳区",
+          "bbox": [
+            126.02,
+            486.25,
+            168.14,
+            500.29
+          ],
+          "font": "SimSun",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            168.02,
+            485.8,
+            171.53,
+            501.343
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 14.04,
+      "order": 813
+    },
+    {
+      "page": 48,
+      "text": "（1） 玫瑰街夜市",
+      "bbox": [
+        90.024,
+        514.09,
+        189.05,
+        527.542
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            514.642,
+            102.024,
+            526.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "1",
+          "bbox": [
+            102.02,
+            514.258,
+            108.02,
+            527.542
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            514.642,
+            120.02,
+            526.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            514.09,
+            123.356,
+            527.47
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "玫瑰街夜市",
+          "bbox": [
+            126.02,
+            514.642,
+            186.02,
+            526.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            186.05,
+            514.258,
+            189.05,
+            527.542
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 814
+    },
+    {
+      "page": 48,
+      "text": "有点小远，我还没去过，路过的话可以去一下。推荐几家店：七七饺子、",
+      "bbox": [
+        114.02,
+        538.042,
+        498.316,
+        550.042
+      ],
+      "spans": [
+        {
+          "text": "有点小远，我还没去过，路过的话可以去一下。推荐几家店：",
+          "bbox": [
+            114.02,
+            538.042,
+            438.02,
+            550.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "七七饺子、",
+          "bbox": [
+            438.1,
+            538.042,
+            498.316,
+            550.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "七七饺子、"
+      ],
+      "red_segments": [
+        {
+          "text": "七七饺子、",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 815
+    },
+    {
+      "page": 48,
+      "text": "黄毛鸭脖、江胖子弯弯火锅城、飞鸿烧烤、碳客海鲜烧烤。",
+      "bbox": [
+        90.024,
+        561.058,
+        406.27,
+        574.342
+      ],
+      "spans": [
+        {
+          "text": "黄毛鸭脖、江胖子弯弯火锅城、飞鸿烧烤、碳客海鲜烧烤",
+          "bbox": [
+            90.024,
+            561.442,
+            391.104,
+            573.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。",
+          "bbox": [
+            391.39,
+            561.442,
+            403.39,
+            573.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            403.27,
+            561.058,
+            406.27,
+            574.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "黄毛鸭脖、江胖子弯弯火锅城、飞鸿烧烤、碳客海鲜烧烤"
+      ],
+      "red_segments": [
+        {
+          "text": "黄毛鸭脖、江胖子弯弯火锅城、飞鸿烧烤、碳客海鲜烧烤",
+          "at_line_start": true,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 816
+    },
+    {
+      "page": 48,
+      "text": "（2） 拦江路",
+      "bbox": [
+        90.024,
+        584.32,
+        165.02,
+        597.772
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            584.872,
+            102.024,
+            596.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "2",
+          "bbox": [
+            102.02,
+            584.488,
+            108.02,
+            597.772
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            584.872,
+            120.02,
+            596.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            584.32,
+            123.356,
+            597.7
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "拦江路",
+          "bbox": [
+            126.02,
+            584.872,
+            162.02,
+            596.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            162.02,
+            584.488,
+            165.02,
+            597.772
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 817
+    },
+    {
+      "page": 48,
+      "text": "我知道这个地方还是因为蟹神咩咩，网上有不少人推荐，我本人还没来",
+      "bbox": [
+        114.02,
+        608.272,
+        486.07,
+        620.272
+      ],
+      "spans": [
+        {
+          "text": "我知道这个地方还是因为蟹神咩咩，网上有不少人推荐，我本人还没来",
+          "bbox": [
+            114.02,
+            608.272,
+            486.07,
+            620.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 818
+    },
+    {
+      "page": 48,
+      "text": "过。推荐几家店：蟹神咩咩、香乡鸡、东北烤肉、九月小厨、归元寺石头饼。",
+      "bbox": [
+        90.024,
+        631.288,
+        502.3,
+        644.572
+      ],
+      "spans": [
+        {
+          "text": "过。推荐几家店：",
+          "bbox": [
+            90.024,
+            631.672,
+            186.024,
+            643.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "蟹神咩咩、香乡鸡、东北烤肉、九月小厨、归元寺石头饼",
+          "bbox": [
+            186.05,
+            631.672,
+            487.13,
+            643.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。",
+          "bbox": [
+            487.42,
+            631.672,
+            499.42,
+            643.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            499.3,
+            631.288,
+            502.3,
+            644.572
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "蟹神咩咩、香乡鸡、东北烤肉、九月小厨、归元寺石头饼"
+      ],
+      "red_segments": [
+        {
+          "text": "蟹神咩咩、香乡鸡、东北烤肉、九月小厨、归元寺石头饼",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 819
+    },
+    {
+      "page": 48,
+      "text": "5.7  江岸区",
+      "bbox": [
+        90.024,
+        657.234,
+        171.53,
+        672.973
+      ],
+      "spans": [
+        {
+          "text": "5.7",
+          "bbox": [
+            90.024,
+            657.43,
+            107.616,
+            672.973
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            107.54,
+            657.234,
+            111.443,
+            672.888
+          ],
+          "font": "ArialMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "江岸区",
+          "bbox": [
+            126.02,
+            657.88,
+            168.14,
+            671.92
+          ],
+          "font": "SimSun",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            168.02,
+            657.43,
+            171.53,
+            672.973
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 14.04,
+      "order": 820
+    },
+    {
+      "page": 48,
+      "text": "（1） 保成路夜市",
+      "bbox": [
+        90.024,
+        685.72,
+        189.05,
+        699.172
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            686.272,
+            102.024,
+            698.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "1",
+          "bbox": [
+            102.02,
+            685.888,
+            108.02,
+            699.172
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            686.272,
+            120.02,
+            698.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            685.72,
+            123.356,
+            699.1
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "保成路夜市",
+          "bbox": [
+            126.02,
+            686.272,
+            186.02,
+            698.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            186.05,
+            685.888,
+            189.05,
+            699.172
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 821
+    },
+    {
+      "page": 48,
+      "text": "大型摊位市场，卖啥的都有，吃的也有，穿的也有。吃的推荐有：红糖",
+      "bbox": [
+        114.02,
+        709.672,
+        486.1,
+        721.672
+      ],
+      "spans": [
+        {
+          "text": "大型摊位市场，卖啥的都有，吃的也有，穿的也有。吃的推荐有：",
+          "bbox": [
+            114.02,
+            709.672,
+            462.02,
+            721.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "红糖",
+          "bbox": [
+            462.1,
+            709.672,
+            486.1,
+            721.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "红糖"
+      ],
+      "red_segments": [
+        {
+          "text": "红糖",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 822
+    },
+    {
+      "page": 48,
+      "text": "饼、桃园时记面疙瘩、土匪鱼、成记汤包、涂记酥油饼、付记烤脑花。",
+      "bbox": [
+        90.024,
+        732.684,
+        466.54,
+        745.968
+      ],
+      "spans": [
+        {
+          "text": "饼、桃园时记面疙瘩、土匪鱼、成记汤包、涂记酥油饼、付记烤脑花",
+          "bbox": [
+            90.024,
+            733.068,
+            451.32,
+            745.068
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。",
+          "bbox": [
+            451.54,
+            733.068,
+            463.54,
+            745.068
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            463.54,
+            732.684,
+            466.54,
+            745.968
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "饼、桃园时记面疙瘩、土匪鱼、成记汤包、涂记酥油饼、付记烤脑花"
+      ],
+      "red_segments": [
+        {
+          "text": "饼、桃园时记面疙瘩、土匪鱼、成记汤包、涂记酥油饼、付记烤脑花",
+          "at_line_start": true,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 823
+    }
+  ],
+  "images": []
+}

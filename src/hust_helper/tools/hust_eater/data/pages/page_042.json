@@ -1,0 +1,703 @@
+{
+  "schema_version": "1.0",
+  "page_number": 42,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "（5） 张记鲜鱼馆（常青三路店）：湖北菜\n本地人推荐的店铺，我看推荐最多的几道菜是：大盆椒麻水煮鱼、土豆米\n饭、肉沫红油合渣、鱼籽豆腐、干煸藕丝。\n张记鲜鱼馆美团信息\n（6） 余艳梅拌面世家\n这家店很多人都推荐，我本人去过一次，点的推荐最多的麻辣牛肉拌面，\n我嘞个去，给我辣个半死，我湖南的同学都有点难顶。他的辣椒酱弄的很浓\n郁，我有点受不了。喜欢重口的可以试下，感觉符合川渝那边的口味。\n推荐的：特色麻辣牛肉拌面、面窝（中上水平）、红烧牛肉汤粉（吃不了辣\n就只能吃这个咯）。\n余艳梅拌面世家美团信息",
+  "lines": [
+    {
+      "page": 42,
+      "text": "（5） 张记鲜鱼馆（常青三路店）：湖北菜",
+      "bbox": [
+        90.024,
+        77.24,
+        315.07,
+        90.692
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            77.792,
+            102.024,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "5",
+          "bbox": [
+            102.02,
+            77.408,
+            108.02,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            77.792,
+            120.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            77.24,
+            123.356,
+            90.62
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "张记鲜鱼馆（常青三路店）：湖北菜",
+          "bbox": [
+            126.02,
+            77.792,
+            312.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            312.07,
+            77.408,
+            315.07,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 704
+    },
+    {
+      "page": 42,
+      "text": "本地人推荐的店铺，我看推荐最多的几道菜是：大盆椒麻水煮鱼、土豆米",
+      "bbox": [
+        114.02,
+        101.192,
+        498.61,
+        113.192
+      ],
+      "spans": [
+        {
+          "text": "本地人推荐的店铺，我看推荐最多的几道菜是：",
+          "bbox": [
+            114.02,
+            101.192,
+            366.02,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "大盆椒麻水煮鱼、土豆米",
+          "bbox": [
+            366.07,
+            101.192,
+            498.61,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "大盆椒麻水煮鱼、土豆米"
+      ],
+      "red_segments": [
+        {
+          "text": "大盆椒麻水煮鱼、土豆米",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 705
+    },
+    {
+      "page": 42,
+      "text": "饭、肉沫红油合渣、鱼籽豆腐、干煸藕丝。",
+      "bbox": [
+        90.024,
+        124.208,
+        321.91,
+        137.492
+      ],
+      "spans": [
+        {
+          "text": "饭、肉沫红油合渣、鱼籽豆腐、干煸藕丝",
+          "bbox": [
+            90.024,
+            124.592,
+            306.78,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。",
+          "bbox": [
+            307.03,
+            124.592,
+            319.03,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            318.91,
+            124.208,
+            321.91,
+            137.492
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "饭、肉沫红油合渣、鱼籽豆腐、干煸藕丝"
+      ],
+      "red_segments": [
+        {
+          "text": "饭、肉沫红油合渣、鱼籽豆腐、干煸藕丝",
+          "at_line_start": true,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 706
+    },
+    {
+      "page": 42,
+      "text": "张记鲜鱼馆美团信息",
+      "bbox": [
+        243.65,
+        334.838,
+        354.67,
+        348.122
+      ],
+      "spans": [
+        {
+          "text": "张记鲜鱼馆美团信息",
+          "bbox": [
+            243.65,
+            335.222,
+            351.65,
+            347.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            351.67,
+            334.838,
+            354.67,
+            348.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 707
+    },
+    {
+      "page": 42,
+      "text": "（6） 余艳梅拌面世家",
+      "bbox": [
+        90.024,
+        358.07,
+        213.05,
+        371.522
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            358.622,
+            102.024,
+            370.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "6",
+          "bbox": [
+            102.02,
+            358.238,
+            108.02,
+            371.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            358.622,
+            120.02,
+            370.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            358.07,
+            123.356,
+            371.45
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "余艳梅拌面世家",
+          "bbox": [
+            126.02,
+            358.622,
+            210.02,
+            370.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            210.05,
+            358.238,
+            213.05,
+            371.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 708
+    },
+    {
+      "page": 42,
+      "text": "这家店很多人都推荐，我本人去过一次，点的推荐最多的麻辣牛肉拌面，",
+      "bbox": [
+        114.02,
+        382.022,
+        498.02,
+        394.022
+      ],
+      "spans": [
+        {
+          "text": "这家店很多人都推荐，我本人去过一次，点的推荐最多的麻辣牛肉拌面，",
+          "bbox": [
+            114.02,
+            382.022,
+            498.02,
+            394.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 709
+    },
+    {
+      "page": 42,
+      "text": "我嘞个去，给我辣个半死，我湖南的同学都有点难顶。他的辣椒酱弄的很浓",
+      "bbox": [
+        90.024,
+        405.442,
+        486.024,
+        417.442
+      ],
+      "spans": [
+        {
+          "text": "我嘞个去，给我辣个半死，我湖南的同学都有点难顶。他的辣椒酱弄的很浓",
+          "bbox": [
+            90.024,
+            405.442,
+            486.024,
+            417.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 710
+    },
+    {
+      "page": 42,
+      "text": "郁，我有点受不了。喜欢重口的可以试下，感觉符合川渝那边的口味。",
+      "bbox": [
+        90.024,
+        428.458,
+        465.1,
+        441.742
+      ],
+      "spans": [
+        {
+          "text": "郁，我有点受不了。喜欢重口的可以试下，感觉符合川渝那边的口味。",
+          "bbox": [
+            90.024,
+            428.842,
+            462.024,
+            440.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            462.1,
+            428.458,
+            465.1,
+            441.742
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 711
+    },
+    {
+      "page": 42,
+      "text": "推荐的：特色麻辣牛肉拌面、面窝（中上水平）、红烧牛肉汤粉（吃不了辣",
+      "bbox": [
+        114.02,
+        452.242,
+        504.82,
+        464.242
+      ],
+      "spans": [
+        {
+          "text": "推荐的：",
+          "bbox": [
+            114.02,
+            452.242,
+            162.02,
+            464.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "特色麻辣牛肉拌面、面窝",
+          "bbox": [
+            162.02,
+            452.242,
+            294.452,
+            464.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（中上水平）、",
+          "bbox": [
+            294.67,
+            452.242,
+            372.55,
+            464.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "红烧牛肉汤粉",
+          "bbox": [
+            372.55,
+            452.242,
+            444.766,
+            464.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（吃不了辣",
+          "bbox": [
+            444.94,
+            452.242,
+            504.82,
+            464.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "特色麻辣牛肉拌面、面窝",
+        "红烧牛肉汤粉"
+      ],
+      "red_segments": [
+        {
+          "text": "特色麻辣牛肉拌面、面窝",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "红烧牛肉汤粉",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 712
+    },
+    {
+      "page": 42,
+      "text": "就只能吃这个咯）。",
+      "bbox": [
+        90.024,
+        475.258,
+        195.05,
+        488.542
+      ],
+      "spans": [
+        {
+          "text": "就只能吃这个咯）。",
+          "bbox": [
+            90.024,
+            475.642,
+            192.024,
+            487.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            192.05,
+            475.258,
+            195.05,
+            488.542
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 713
+    },
+    {
+      "page": 42,
+      "text": "余艳梅拌面世家美团信息",
+      "bbox": [
+        231.65,
+        685.888,
+        366.67,
+        699.172
+      ],
+      "spans": [
+        {
+          "text": "余艳梅拌面世家美团信息",
+          "bbox": [
+            231.65,
+            686.272,
+            363.65,
+            698.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            363.67,
+            685.888,
+            366.67,
+            699.172
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 714
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p042-01",
+      "page": 42,
+      "order_on_page": 1,
+      "file": "media/p042_img01.png",
+      "xref": 253,
+      "bbox": [
+        138.3,
+        145.8,
+        456.99,
+        325.15
+      ],
+      "pixel_width": 679,
+      "pixel_height": 381,
+      "caption": "张记鲜鱼馆美团信息",
+      "sha256": "9eac53a00b7868ff3779a8dbb298555925777b60d16afe0a4cf93dd8c531e744",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p042-02",
+      "page": 42,
+      "order_on_page": 2,
+      "file": "media/p042_img02.png",
+      "xref": 254,
+      "bbox": [
+        146.57,
+        498.07,
+        448.71,
+        675.52
+      ],
+      "pixel_width": 925,
+      "pixel_height": 543,
+      "caption": "余艳梅拌面世家美团信息",
+      "sha256": "564ecf130c9fcdbd4868217958edd2d35ba1a9209fab6dc439b9f4ca6583f086",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

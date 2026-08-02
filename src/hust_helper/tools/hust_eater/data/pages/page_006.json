@@ -1,0 +1,2442 @@
+{
+  "schema_version": "1.0",
+  "page_number": 6,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "（我吃过好几次，觉得挺不错的）、鸭血粉丝汤。\n② 各种煎烙：土家香酱饼、自制汉堡、太阳饼、肉夹馍、梅菜扣肉饼等；\n上海小笼包：小笼包、蒸饺、五种粥。\n③ 五谷渔粉：黑/草鱼粉/面、金汤小酥肉粉/面、南昌拌粉、卤牛肉拌粉、肉沫\n拌粉、各种粉面；\n特色粉丝煲：牛肉丸、肥牛、鲜虾、花甲等；\n焖面：排骨、虾滑、肥牛、花甲、小酥肉等；\n肠粉：玉米鲜肉肠粉、鸡蛋肠粉、鸡蛋鲜虾肠粉等。\n④ 煲：鸡公煲、黄焖鸡、鲍汁肥牛、小酥肉、排骨煲、海鲜煲（都可双拼）；\n套餐饭：Q 弹猪皮饭、鸭腿饭、小酥肉饭、鸡翅根饭、大骨饭、牛肉饭、猪\n肘饭、鸡腿饭、烧鸡饭、啤酒鸭饭、卤肉饭等；\n⑤ 江西小炒：农家一碗香、小炒肉、小炒黄牛肉、土豆红烧肉、五花肉等；\n酱爆干锅：干锅鸡翅尖、干锅手撕鸡、干锅脆皮鸭、干锅排骨土豆等；\n⑥ 铁板(黑椒/照烧/咖喱/香辣/蒜香/番茄)：菌菇、红肠、鸡排、五花肉、肥牛；\n罗氏粉：脆皮五花肉、大骨鲜汤肥牛/炸蛋、骨汤波波面、卤味；\n⑦ 煎饼、滑蛋饭：奥尔良鸡丁、番茄虾仁、双椒猪肉、番茄肥牛；\n⑧ 炒饭/粉/方便面；鸡丁、鸡蛋火腿、脆骨、培根、黑椒肉柳、肥牛；\n（11） 韵苑11 栋茶咖：\n我只吃过这边的无骨烤鱼，味道不错。\n其他的店也列举一下：江西小炒、鸡公煲、滑蛋饭、烤肉、鸡排等。\n（12） 东区CBD：\n氧气层：挺好吃的一家店，可以点他家外卖，折扣后挺便宜。\n煎饼：应该是校内能买到比较好吃的煎饼了。\n一碗小烫捞：麻辣烫。\n其他的店也列举一下：排挡江湖、呷哺呷哺、汉堡王、吉野家、卤肉饭等。\n1.3  中区食堂\n（1） 东一一楼：\n烧鹅饭、烧鸡饭、鸡皇饭、香菇滑鸡饭、咖喱鸡块铁板焦饭、鸭腿、生烫粉/\n面、牛肉卤面、水煮菜等。",
+  "lines": [
+    {
+      "page": 6,
+      "text": "（我吃过好几次，觉得挺不错的）、鸭血粉丝汤。",
+      "bbox": [
+        108.02,
+        77.408,
+        369.07,
+        90.692
+      ],
+      "spans": [
+        {
+          "text": "（我吃过好几次，觉得挺不错的）、鸭血粉丝汤。",
+          "bbox": [
+            108.02,
+            77.792,
+            366.05,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            366.07,
+            77.408,
+            369.07,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 91
+    },
+    {
+      "page": 6,
+      "text": "② 各种煎烙：土家香酱饼、自制汉堡、太阳饼、肉夹馍、梅菜扣肉饼等；",
+      "bbox": [
+        90.024,
+        100.64,
+        483.58,
+        114.164
+      ],
+      "spans": [
+        {
+          "text": "②",
+          "bbox": [
+            90.024,
+            102.152,
+            104.436,
+            114.164
+          ],
+          "font": "CambriaMath",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            104.42,
+            100.64,
+            107.756,
+            114.02
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "各种煎烙：",
+          "bbox": [
+            108.02,
+            101.192,
+            168.02,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "土家香酱饼",
+          "bbox": [
+            168.02,
+            101.192,
+            228.236,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "、",
+          "bbox": [
+            228.29,
+            101.192,
+            240.29,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "自制汉堡",
+          "bbox": [
+            240.29,
+            101.192,
+            288.506,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "、太阳饼、肉夹馍、梅菜扣肉饼等；",
+          "bbox": [
+            288.65,
+            101.192,
+            480.53,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            480.58,
+            100.808,
+            483.58,
+            114.092
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "土家香酱饼",
+        "自制汉堡"
+      ],
+      "red_segments": [
+        {
+          "text": "土家香酱饼",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "自制汉堡",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 92
+    },
+    {
+      "page": 6,
+      "text": "上海小笼包：小笼包、蒸饺、五种粥。",
+      "bbox": [
+        108.02,
+        124.208,
+        315.19,
+        137.492
+      ],
+      "spans": [
+        {
+          "text": "上海小笼包：",
+          "bbox": [
+            108.02,
+            124.592,
+            180.02,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "小笼包",
+          "bbox": [
+            180.05,
+            124.592,
+            216.158,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "、蒸饺、五种粥。",
+          "bbox": [
+            216.29,
+            124.592,
+            312.17,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            312.19,
+            124.208,
+            315.19,
+            137.492
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "小笼包"
+      ],
+      "red_segments": [
+        {
+          "text": "小笼包",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 93
+    },
+    {
+      "page": 6,
+      "text": "③ 五谷渔粉：黑/草鱼粉/面、金汤小酥肉粉/面、南昌拌粉、卤牛肉拌粉、肉沫",
+      "bbox": [
+        90.024,
+        147.44,
+        502.15,
+        160.964
+      ],
+      "spans": [
+        {
+          "text": "③",
+          "bbox": [
+            90.024,
+            148.952,
+            104.436,
+            160.964
+          ],
+          "font": "CambriaMath",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            104.42,
+            147.44,
+            107.756,
+            160.82
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "五谷渔粉：黑",
+          "bbox": [
+            108.02,
+            147.992,
+            180.02,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "/",
+          "bbox": [
+            180.05,
+            147.608,
+            183.386,
+            160.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "草鱼粉",
+          "bbox": [
+            183.41,
+            147.992,
+            219.41,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "/",
+          "bbox": [
+            219.41,
+            147.608,
+            222.746,
+            160.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "面、金汤小酥肉粉",
+          "bbox": [
+            222.77,
+            147.992,
+            318.77,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "/",
+          "bbox": [
+            318.79,
+            147.608,
+            322.126,
+            160.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "面、南昌拌粉、卤牛肉拌粉、肉沫",
+          "bbox": [
+            322.15,
+            147.992,
+            502.15,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 94
+    },
+    {
+      "page": 6,
+      "text": "拌粉、各种粉面；",
+      "bbox": [
+        108.02,
+        171.008,
+        207.05,
+        184.292
+      ],
+      "spans": [
+        {
+          "text": "拌粉、各种粉面；",
+          "bbox": [
+            108.02,
+            171.392,
+            204.02,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            204.05,
+            171.008,
+            207.05,
+            184.292
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 95
+    },
+    {
+      "page": 6,
+      "text": "特色粉丝煲：牛肉丸、肥牛、鲜虾、花甲等；",
+      "bbox": [
+        108.02,
+        194.408,
+        351.07,
+        207.692
+      ],
+      "spans": [
+        {
+          "text": "特色粉丝煲：牛肉丸、肥牛、鲜虾、花甲等；",
+          "bbox": [
+            108.02,
+            194.792,
+            348.02,
+            206.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            348.07,
+            194.408,
+            351.07,
+            207.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 96
+    },
+    {
+      "page": 6,
+      "text": "焖面：排骨、虾滑、肥牛、花甲、小酥肉等；",
+      "bbox": [
+        108.02,
+        217.808,
+        351.19,
+        231.092
+      ],
+      "spans": [
+        {
+          "text": "焖面",
+          "bbox": [
+            108.02,
+            218.192,
+            132.14,
+            230.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "：排骨、虾滑、肥牛、花甲、小酥肉等；",
+          "bbox": [
+            132.26,
+            218.192,
+            348.14,
+            230.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            348.19,
+            217.808,
+            351.19,
+            231.092
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "焖面"
+      ],
+      "red_segments": [
+        {
+          "text": "焖面",
+          "at_line_start": true,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 97
+    },
+    {
+      "page": 6,
+      "text": "肠粉：玉米鲜肉肠粉、鸡蛋肠粉、鸡蛋鲜虾肠粉等。",
+      "bbox": [
+        108.02,
+        241.238,
+        387.07,
+        254.522
+      ],
+      "spans": [
+        {
+          "text": "肠粉：玉米鲜肉肠粉、鸡蛋肠粉、鸡蛋鲜虾肠粉等。",
+          "bbox": [
+            108.02,
+            241.622,
+            384.02,
+            253.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            384.07,
+            241.238,
+            387.07,
+            254.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 98
+    },
+    {
+      "page": 6,
+      "text": "④ 煲：鸡公煲、黄焖鸡、鲍汁肥牛、小酥肉、排骨煲、海鲜煲（都可双拼）；",
+      "bbox": [
+        90.024,
+        264.47,
+        501.1,
+        277.994
+      ],
+      "spans": [
+        {
+          "text": "④",
+          "bbox": [
+            90.024,
+            265.982,
+            104.436,
+            277.994
+          ],
+          "font": "CambriaMath",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            104.42,
+            264.47,
+            107.756,
+            277.85
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "煲",
+          "bbox": [
+            108.02,
+            265.022,
+            120.02,
+            277.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "：鸡公煲、黄焖鸡、鲍汁肥牛、小酥肉、排骨煲、海鲜煲（都可双拼）；",
+          "bbox": [
+            120.14,
+            265.022,
+            498.02,
+            277.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            498.1,
+            264.638,
+            501.1,
+            277.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "煲"
+      ],
+      "red_segments": [
+        {
+          "text": "煲",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 99
+    },
+    {
+      "page": 6,
+      "text": "套餐饭：Q 弹猪皮饭、鸭腿饭、小酥肉饭、鸡翅根饭、大骨饭、牛肉饭、猪",
+      "bbox": [
+        108.02,
+        288.038,
+        503.98,
+        301.322
+      ],
+      "spans": [
+        {
+          "text": "套餐饭：",
+          "bbox": [
+            108.02,
+            288.422,
+            156.02,
+            300.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "Q",
+          "bbox": [
+            156.02,
+            288.038,
+            164.684,
+            301.322
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 弹猪皮饭、",
+          "bbox": [
+            164.684,
+            288.422,
+            227.66,
+            300.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "鸭腿饭",
+          "bbox": [
+            227.69,
+            288.422,
+            263.798,
+            300.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "、小酥肉饭、鸡翅根饭、",
+          "bbox": [
+            263.93,
+            288.422,
+            395.81,
+            300.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "大骨饭",
+          "bbox": [
+            395.83,
+            288.422,
+            431.938,
+            300.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "、牛肉饭、",
+          "bbox": [
+            432.1,
+            288.422,
+            491.98,
+            300.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "猪",
+          "bbox": [
+            491.98,
+            288.422,
+            503.98,
+            300.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "鸭腿饭",
+        "大骨饭",
+        "猪"
+      ],
+      "red_segments": [
+        {
+          "text": "鸭腿饭",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "大骨饭",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "猪",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 100
+    },
+    {
+      "page": 6,
+      "text": "肘饭、鸡腿饭、烧鸡饭、啤酒鸭饭、卤肉饭等；",
+      "bbox": [
+        108.02,
+        311.438,
+        363.31,
+        324.722
+      ],
+      "spans": [
+        {
+          "text": "肘饭",
+          "bbox": [
+            108.02,
+            311.822,
+            132.14,
+            323.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "、鸡腿饭、烧鸡饭、啤酒鸭饭、",
+          "bbox": [
+            132.26,
+            311.822,
+            300.14,
+            323.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "卤肉饭",
+          "bbox": [
+            300.19,
+            311.822,
+            336.298,
+            323.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "等；",
+          "bbox": [
+            336.43,
+            311.822,
+            360.31,
+            323.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            360.31,
+            311.438,
+            363.31,
+            324.722
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "肘饭",
+        "卤肉饭"
+      ],
+      "red_segments": [
+        {
+          "text": "肘饭",
+          "at_line_start": true,
+          "at_line_end": false
+        },
+        {
+          "text": "卤肉饭",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 101
+    },
+    {
+      "page": 6,
+      "text": "⑤ 江西小炒：农家一碗香、小炒肉、小炒黄牛肉、土豆红烧肉、五花肉等；",
+      "bbox": [
+        90.024,
+        334.67,
+        495.34,
+        348.194
+      ],
+      "spans": [
+        {
+          "text": "⑤",
+          "bbox": [
+            90.024,
+            336.182,
+            104.436,
+            348.194
+          ],
+          "font": "CambriaMath",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            104.42,
+            334.67,
+            107.756,
+            348.05
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "江西小炒",
+          "bbox": [
+            108.02,
+            335.222,
+            156.236,
+            347.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "：农家一碗香、小炒肉、小炒黄牛肉、土豆红烧肉、五花肉等；",
+          "bbox": [
+            156.38,
+            335.222,
+            492.26,
+            347.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            492.34,
+            334.838,
+            495.34,
+            348.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "江西小炒"
+      ],
+      "red_segments": [
+        {
+          "text": "江西小炒",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 102
+    },
+    {
+      "page": 6,
+      "text": "酱爆干锅：干锅鸡翅尖、干锅手撕鸡、干锅脆皮鸭、干锅排骨土豆等；",
+      "bbox": [
+        108.02,
+        358.238,
+        483.1,
+        371.522
+      ],
+      "spans": [
+        {
+          "text": "酱爆干锅：干锅鸡翅尖、干锅手撕鸡、干锅脆皮鸭、干锅排骨土豆等；",
+          "bbox": [
+            108.02,
+            358.622,
+            480.02,
+            370.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            480.1,
+            358.238,
+            483.1,
+            371.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 103
+    },
+    {
+      "page": 6,
+      "text": "⑥ 铁板(黑椒/照烧/咖喱/香辣/蒜香/番茄)：菌菇、红肠、鸡排、五花肉、肥牛；",
+      "bbox": [
+        90.024,
+        381.47,
+        507.82,
+        394.994
+      ],
+      "spans": [
+        {
+          "text": "⑥",
+          "bbox": [
+            90.024,
+            382.982,
+            104.436,
+            394.994
+          ],
+          "font": "CambriaMath",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            104.42,
+            381.47,
+            107.756,
+            394.85
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "铁板",
+          "bbox": [
+            108.02,
+            382.022,
+            132.02,
+            394.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "(",
+          "bbox": [
+            132.02,
+            381.638,
+            136.016,
+            394.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "黑椒",
+          "bbox": [
+            135.98,
+            382.022,
+            159.98,
+            394.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "/",
+          "bbox": [
+            159.98,
+            381.638,
+            163.316,
+            394.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "照烧",
+          "bbox": [
+            163.34,
+            382.022,
+            187.34,
+            394.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "/",
+          "bbox": [
+            187.37,
+            381.638,
+            190.706,
+            394.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "咖喱",
+          "bbox": [
+            190.73,
+            382.022,
+            214.73,
+            394.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "/",
+          "bbox": [
+            214.73,
+            381.638,
+            218.066,
+            394.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "香辣",
+          "bbox": [
+            218.09,
+            382.022,
+            242.09,
+            394.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "/",
+          "bbox": [
+            242.09,
+            381.638,
+            245.426,
+            394.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "蒜香",
+          "bbox": [
+            245.45,
+            382.022,
+            269.45,
+            394.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "/",
+          "bbox": [
+            269.45,
+            381.638,
+            272.786,
+            394.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "番茄",
+          "bbox": [
+            272.81,
+            382.022,
+            296.81,
+            394.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": ")",
+          "bbox": [
+            296.83,
+            381.638,
+            300.826,
+            394.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "：菌菇、红肠、鸡排、五花肉、肥牛；",
+          "bbox": [
+            300.79,
+            382.022,
+            504.82,
+            394.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.82,
+            381.638,
+            507.82,
+            394.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 104
+    },
+    {
+      "page": 6,
+      "text": "罗氏粉：脆皮五花肉、大骨鲜汤肥牛/炸蛋、骨汤波波面、卤味；",
+      "bbox": [
+        108.02,
+        405.058,
+        450.46,
+        418.342
+      ],
+      "spans": [
+        {
+          "text": "罗氏粉：脆皮五花肉、大骨鲜汤肥牛",
+          "bbox": [
+            108.02,
+            405.442,
+            300.02,
+            417.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "/",
+          "bbox": [
+            300.07,
+            405.058,
+            303.406,
+            418.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "炸蛋、骨汤波波面、卤味；",
+          "bbox": [
+            303.43,
+            405.442,
+            447.43,
+            417.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            447.46,
+            405.058,
+            450.46,
+            418.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 105
+    },
+    {
+      "page": 6,
+      "text": "⑦ 煎饼、滑蛋饭：奥尔良鸡丁、番茄虾仁、双椒猪肉、番茄肥牛；",
+      "bbox": [
+        90.024,
+        428.29,
+        447.1,
+        441.814
+      ],
+      "spans": [
+        {
+          "text": "⑦",
+          "bbox": [
+            90.024,
+            429.802,
+            104.436,
+            441.814
+          ],
+          "font": "CambriaMath",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            104.42,
+            428.29,
+            107.756,
+            441.67
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "煎饼、滑蛋饭：奥尔良鸡丁、番茄虾仁、双椒猪肉、番茄肥牛；",
+          "bbox": [
+            108.02,
+            428.842,
+            444.02,
+            440.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            444.1,
+            428.458,
+            447.1,
+            441.742
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 106
+    },
+    {
+      "page": 6,
+      "text": "⑧ 炒饭/粉/方便面；鸡丁、鸡蛋火腿、脆骨、培根、黑椒肉柳、肥牛；",
+      "bbox": [
+        90.024,
+        451.69,
+        466.06,
+        465.214
+      ],
+      "spans": [
+        {
+          "text": "⑧",
+          "bbox": [
+            90.024,
+            453.202,
+            104.436,
+            465.214
+          ],
+          "font": "CambriaMath",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            104.42,
+            451.69,
+            107.756,
+            465.07
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "炒饭",
+          "bbox": [
+            108.02,
+            452.242,
+            132.14,
+            464.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "/",
+          "bbox": [
+            132.26,
+            451.858,
+            135.596,
+            465.142
+          ],
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": true,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "粉",
+          "bbox": [
+            135.5,
+            452.242,
+            147.5,
+            464.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "/",
+          "bbox": [
+            147.62,
+            451.858,
+            150.956,
+            465.142
+          ],
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": true,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "方便面",
+          "bbox": [
+            150.86,
+            452.242,
+            186.968,
+            464.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "；鸡丁、鸡蛋火腿、脆骨、培根、黑椒肉柳、肥牛；",
+          "bbox": [
+            187.13,
+            452.242,
+            463.01,
+            464.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            463.06,
+            451.858,
+            466.06,
+            465.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "炒饭",
+        "/",
+        "粉",
+        "/",
+        "方便面"
+      ],
+      "red_segments": [
+        {
+          "text": "炒饭/粉/方便面",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 107
+    },
+    {
+      "page": 6,
+      "text": "（11） 韵苑11 栋茶咖：",
+      "bbox": [
+        90.024,
+        475.09,
+        224.57,
+        488.542
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            475.642,
+            102.024,
+            487.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "11",
+          "bbox": [
+            102.02,
+            475.258,
+            114.02,
+            488.542
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            114.02,
+            475.642,
+            126.02,
+            487.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            126.02,
+            475.09,
+            129.356,
+            488.47
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "韵苑",
+          "bbox": [
+            132.02,
+            475.642,
+            156.02,
+            487.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "11",
+          "bbox": [
+            159.02,
+            475.258,
+            170.54,
+            488.542
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 栋茶咖：",
+          "bbox": [
+            170.54,
+            475.642,
+            221.54,
+            487.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            221.57,
+            475.258,
+            224.57,
+            488.542
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 108
+    },
+    {
+      "page": 6,
+      "text": "我只吃过这边的无骨烤鱼，味道不错。",
+      "bbox": [
+        90.024,
+        498.658,
+        297.07,
+        511.942
+      ],
+      "spans": [
+        {
+          "text": "我只吃过这边的无骨烤鱼，味道不错。",
+          "bbox": [
+            90.024,
+            499.042,
+            294.024,
+            511.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            294.07,
+            498.658,
+            297.07,
+            511.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 109
+    },
+    {
+      "page": 6,
+      "text": "其他的店也列举一下：江西小炒、鸡公煲、滑蛋饭、烤肉、鸡排等。",
+      "bbox": [
+        90.024,
+        522.058,
+        453.1,
+        535.342
+      ],
+      "spans": [
+        {
+          "text": "其他的店也列举一下：江西小炒、鸡公煲、滑蛋饭、烤肉、鸡排等。",
+          "bbox": [
+            90.024,
+            522.442,
+            450.024,
+            534.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            450.1,
+            522.058,
+            453.1,
+            535.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 110
+    },
+    {
+      "page": 6,
+      "text": "（12） 东区CBD：",
+      "bbox": [
+        90.024,
+        545.29,
+        198.77,
+        558.742
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            545.842,
+            102.024,
+            557.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "12",
+          "bbox": [
+            102.02,
+            545.458,
+            114.02,
+            558.742
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            114.02,
+            545.842,
+            126.02,
+            557.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            126.02,
+            545.29,
+            129.356,
+            558.67
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "东区",
+          "bbox": [
+            132.02,
+            545.842,
+            156.02,
+            557.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "CBD",
+          "bbox": [
+            159.02,
+            545.458,
+            183.764,
+            558.742
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "：",
+          "bbox": [
+            183.77,
+            545.842,
+            195.77,
+            557.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            195.77,
+            545.458,
+            198.77,
+            558.742
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 111
+    },
+    {
+      "page": 6,
+      "text": "氧气层：挺好吃的一家店，可以点他家外卖，折扣后挺便宜。",
+      "bbox": [
+        90.024,
+        568.858,
+        417.1,
+        582.142
+      ],
+      "spans": [
+        {
+          "text": "氧气层：挺好吃的一家店，可以点他家外卖，折扣后挺便宜。",
+          "bbox": [
+            90.024,
+            569.242,
+            414.024,
+            581.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            414.1,
+            568.858,
+            417.1,
+            582.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 112
+    },
+    {
+      "page": 6,
+      "text": "煎饼：应该是校内能买到比较好吃的煎饼了。",
+      "bbox": [
+        90.024,
+        592.288,
+        333.07,
+        605.572
+      ],
+      "spans": [
+        {
+          "text": "煎饼：应该是校内能买到比较好吃的煎饼了。",
+          "bbox": [
+            90.024,
+            592.672,
+            330.024,
+            604.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            330.07,
+            592.288,
+            333.07,
+            605.572
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 113
+    },
+    {
+      "page": 6,
+      "text": "一碗小烫捞：麻辣烫。",
+      "bbox": [
+        90.024,
+        615.688,
+        213.05,
+        628.972
+      ],
+      "spans": [
+        {
+          "text": "一碗小烫捞：麻辣烫。",
+          "bbox": [
+            90.024,
+            616.072,
+            210.024,
+            628.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            210.05,
+            615.688,
+            213.05,
+            628.972
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 114
+    },
+    {
+      "page": 6,
+      "text": "其他的店也列举一下：排挡江湖、呷哺呷哺、汉堡王、吉野家、卤肉饭等。",
+      "bbox": [
+        90.024,
+        639.088,
+        489.1,
+        652.372
+      ],
+      "spans": [
+        {
+          "text": "其他的店也列举一下：排挡江湖、呷哺呷哺、汉堡王、吉野家、卤肉饭等。",
+          "bbox": [
+            90.024,
+            639.472,
+            486.024,
+            651.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            486.1,
+            639.088,
+            489.1,
+            652.372
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 115
+    },
+    {
+      "page": 6,
+      "text": "1.3  中区食堂",
+      "bbox": [
+        90.024,
+        665.034,
+        185.6,
+        680.773
+      ],
+      "spans": [
+        {
+          "text": "1.3",
+          "bbox": [
+            90.024,
+            665.23,
+            107.616,
+            680.773
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            107.54,
+            665.034,
+            111.443,
+            680.688
+          ],
+          "font": "ArialMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "中区食堂",
+          "bbox": [
+            126.02,
+            665.68,
+            182.18,
+            679.72
+          ],
+          "font": "SimSun",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            182.09,
+            665.23,
+            185.6,
+            680.773
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 14.04,
+      "order": 116
+    },
+    {
+      "page": 6,
+      "text": "（1） 东一一楼：",
+      "bbox": [
+        90.024,
+        693.52,
+        189.05,
+        706.972
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            694.072,
+            102.024,
+            706.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "1",
+          "bbox": [
+            102.02,
+            693.688,
+            108.02,
+            706.972
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            694.072,
+            120.02,
+            706.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            693.52,
+            123.356,
+            706.9
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "东一一楼：",
+          "bbox": [
+            126.02,
+            694.072,
+            186.02,
+            706.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            186.05,
+            693.688,
+            189.05,
+            706.972
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 117
+    },
+    {
+      "page": 6,
+      "text": "烧鹅饭、烧鸡饭、鸡皇饭、香菇滑鸡饭、咖喱鸡块铁板焦饭、鸭腿、生烫粉/",
+      "bbox": [
+        90.024,
+        717.088,
+        489.436,
+        730.372
+      ],
+      "spans": [
+        {
+          "text": "烧鹅饭、烧鸡饭、鸡皇饭、香菇滑鸡饭、咖喱鸡块铁板焦饭、鸭腿、生烫粉",
+          "bbox": [
+            90.024,
+            717.472,
+            486.024,
+            729.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "/",
+          "bbox": [
+            486.1,
+            717.088,
+            489.436,
+            730.372
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 118
+    },
+    {
+      "page": 6,
+      "text": "面、牛肉卤面、水煮菜等。",
+      "bbox": [
+        90.024,
+        740.484,
+        237.05,
+        753.768
+      ],
+      "spans": [
+        {
+          "text": "面、牛肉卤面、水煮菜等。",
+          "bbox": [
+            90.024,
+            740.868,
+            234.024,
+            752.868
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            234.05,
+            740.484,
+            237.05,
+            753.768
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 119
+    }
+  ],
+  "images": []
+}

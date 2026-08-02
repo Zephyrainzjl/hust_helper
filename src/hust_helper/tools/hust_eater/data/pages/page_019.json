@@ -1,0 +1,1259 @@
+{
+  "schema_version": "1.0",
+  "page_number": 19,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "2.3  西区南\n西区南主要就是光谷，大家都很熟悉了，不额外放图了。光谷区域我探店探的\n不是特别多，主要是因为这边的探店成本太高了。\n（1） 绿茶餐厅：江浙菜\n这对我来说属于是本帮菜系，也带很多同学朋友一起吃过，下面列举几道\n清一色好评的菜：面包诱惑（一定要点双球！）、绿茶葱香烤肉、绿茶烤鸡、石\n锅鸡汤豆腐（这个貌似是新品？上次吃的时候点了一下，真的很 nice）、粉丝裹\n虾（这个就太经典了，每次去都必点）、蒜香蜜汁排骨（我好些朋友都觉得好\n吃，但是偏甜口，部分不习惯甜口的菜的会不太喜欢）。\n这家店就一个问题，略贵。\n绿茶餐厅美团信息\n（2） 虎白料理：日料\n周围很多朋友给我推荐这家店，说很好吃，但是我碍于价钱，一直还没去\n尝试，据说是人均 90+，而且我个人对日料兴趣不是特别大。朋友推荐最多的\n菜品主要是鹅肝寿司，说其他的菜也都不错，可以尝试下。\n虎白料理美团信息\n（3） 赤牧日式烧肉自助\n这家店怎么说呢，有点贵，我就吃了一次，一个人 122。但是吃下来感\n觉，肉的品质是相当不错，里面的自助饮料也给的很大方，都是市面上热销的\n饮料。换烤盘比较及时，这一点真的很赞，基本不需要自己叫服务员来换盘。",
+  "lines": [
+    {
+      "page": 19,
+      "text": "2.3  西区南",
+      "bbox": [
+        90.024,
+        79.954,
+        171.53,
+        95.693
+      ],
+      "spans": [
+        {
+          "text": "2.3",
+          "bbox": [
+            90.024,
+            80.15,
+            107.616,
+            95.693
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            107.54,
+            79.954,
+            111.443,
+            95.608
+          ],
+          "font": "ArialMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "西区南",
+          "bbox": [
+            126.02,
+            80.6,
+            168.14,
+            94.64
+          ],
+          "font": "SimSun",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            168.02,
+            80.15,
+            171.53,
+            95.693
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 14.04,
+      "order": 326
+    },
+    {
+      "page": 19,
+      "text": "西区南主要就是光谷，大家都很熟悉了，不额外放图了。光谷区域我探店探的",
+      "bbox": [
+        90.024,
+        108.992,
+        498.07,
+        120.992
+      ],
+      "spans": [
+        {
+          "text": "西区南主要就是光谷，大家都很熟悉了，不额外放图了。光谷区域我探店探的",
+          "bbox": [
+            90.024,
+            108.992,
+            498.07,
+            120.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 327
+    },
+    {
+      "page": 19,
+      "text": "不是特别多，主要是因为这边的探店成本太高了。",
+      "bbox": [
+        90.024,
+        132.008,
+        357.07,
+        145.292
+      ],
+      "spans": [
+        {
+          "text": "不是特别多，主要是因为这边的探店成本太高了。",
+          "bbox": [
+            90.024,
+            132.392,
+            354.024,
+            144.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            354.07,
+            132.008,
+            357.07,
+            145.292
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 328
+    },
+    {
+      "page": 19,
+      "text": "（1） 绿茶餐厅：江浙菜",
+      "bbox": [
+        90.024,
+        155.24,
+        225.05,
+        168.692
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            155.792,
+            102.024,
+            167.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "1",
+          "bbox": [
+            102.02,
+            155.408,
+            108.02,
+            168.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            155.792,
+            120.02,
+            167.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            155.24,
+            123.356,
+            168.62
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "绿茶餐厅：江浙菜",
+          "bbox": [
+            126.02,
+            155.792,
+            222.02,
+            167.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            222.05,
+            155.408,
+            225.05,
+            168.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 329
+    },
+    {
+      "page": 19,
+      "text": "这对我来说属于是本帮菜系，也带很多同学朋友一起吃过，下面列举几道",
+      "bbox": [
+        114.02,
+        179.192,
+        498.02,
+        191.192
+      ],
+      "spans": [
+        {
+          "text": "这对我来说属于是本帮菜系，也带很多同学朋友一起吃过，下面列举几道",
+          "bbox": [
+            114.02,
+            179.192,
+            498.02,
+            191.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 330
+    },
+    {
+      "page": 19,
+      "text": "清一色好评的菜：面包诱惑（一定要点双球！）、绿茶葱香烤肉、绿茶烤鸡、石",
+      "bbox": [
+        90.024,
+        202.592,
+        498.958,
+        214.592
+      ],
+      "spans": [
+        {
+          "text": "清一色好评的菜：",
+          "bbox": [
+            90.024,
+            202.592,
+            186.024,
+            214.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "面包诱惑",
+          "bbox": [
+            186.05,
+            202.592,
+            234.266,
+            214.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（一定要点双球！）、",
+          "bbox": [
+            234.41,
+            202.592,
+            342.29,
+            214.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "绿茶葱香烤肉、绿茶烤鸡、石",
+          "bbox": [
+            342.31,
+            202.592,
+            498.958,
+            214.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "面包诱惑",
+        "绿茶葱香烤肉、绿茶烤鸡、石"
+      ],
+      "red_segments": [
+        {
+          "text": "面包诱惑",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "绿茶葱香烤肉、绿茶烤鸡、石",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 331
+    },
+    {
+      "page": 19,
+      "text": "锅鸡汤豆腐（这个貌似是新品？上次吃的时候点了一下，真的很 nice）、粉丝裹",
+      "bbox": [
+        90.024,
+        225.608,
+        503.488,
+        238.892
+      ],
+      "spans": [
+        {
+          "text": "锅鸡汤豆腐",
+          "bbox": [
+            90.024,
+            225.992,
+            150.24,
+            237.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（这个貌似是新品？上次吃的时候点了一下，真的很",
+          "bbox": [
+            150.38,
+            225.992,
+            426.26,
+            237.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "nice",
+          "bbox": [
+            429.34,
+            225.608,
+            449.332,
+            238.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）、",
+          "bbox": [
+            449.38,
+            225.992,
+            467.38,
+            237.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "粉丝裹",
+          "bbox": [
+            467.38,
+            225.992,
+            503.488,
+            237.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "锅鸡汤豆腐",
+        "粉丝裹"
+      ],
+      "red_segments": [
+        {
+          "text": "锅鸡汤豆腐",
+          "at_line_start": true,
+          "at_line_end": false
+        },
+        {
+          "text": "粉丝裹",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 332
+    },
+    {
+      "page": 19,
+      "text": "虾（这个就太经典了，每次去都必点）、蒜香蜜汁排骨（我好些朋友都觉得好",
+      "bbox": [
+        90.024,
+        249.422,
+        492.43,
+        261.422
+      ],
+      "spans": [
+        {
+          "text": "虾",
+          "bbox": [
+            90.024,
+            249.422,
+            102.024,
+            261.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（这个就太经典了，每次去都必点）、",
+          "bbox": [
+            102.14,
+            249.422,
+            300.02,
+            261.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "蒜香蜜汁排骨",
+          "bbox": [
+            300.07,
+            249.422,
+            372.394,
+            261.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（我好些朋友都觉得好",
+          "bbox": [
+            372.55,
+            249.422,
+            492.43,
+            261.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "虾",
+        "蒜香蜜汁排骨"
+      ],
+      "red_segments": [
+        {
+          "text": "虾",
+          "at_line_start": true,
+          "at_line_end": false
+        },
+        {
+          "text": "蒜香蜜汁排骨",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 333
+    },
+    {
+      "page": 19,
+      "text": "吃，但是偏甜口，部分不习惯甜口的菜的会不太喜欢）。",
+      "bbox": [
+        90.024,
+        272.438,
+        387.07,
+        285.722
+      ],
+      "spans": [
+        {
+          "text": "吃，但是偏甜口，部分不习惯甜口的菜的会不太喜欢）。",
+          "bbox": [
+            90.024,
+            272.822,
+            384.024,
+            284.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            384.07,
+            272.438,
+            387.07,
+            285.722
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 334
+    },
+    {
+      "page": 19,
+      "text": "这家店就一个问题，略贵。",
+      "bbox": [
+        114.02,
+        295.838,
+        261.05,
+        309.122
+      ],
+      "spans": [
+        {
+          "text": "这家店就一个问题，略贵。",
+          "bbox": [
+            114.02,
+            296.222,
+            258.02,
+            308.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            258.05,
+            295.838,
+            261.05,
+            309.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 335
+    },
+    {
+      "page": 19,
+      "text": "绿茶餐厅美团信息",
+      "bbox": [
+        249.65,
+        428.458,
+        348.67,
+        441.742
+      ],
+      "spans": [
+        {
+          "text": "绿茶餐厅美团信息",
+          "bbox": [
+            249.65,
+            428.842,
+            345.65,
+            440.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            345.67,
+            428.458,
+            348.67,
+            441.742
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 336
+    },
+    {
+      "page": 19,
+      "text": "（2） 虎白料理：日料",
+      "bbox": [
+        90.024,
+        451.69,
+        213.05,
+        465.142
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            452.242,
+            102.024,
+            464.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "2",
+          "bbox": [
+            102.02,
+            451.858,
+            108.02,
+            465.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            452.242,
+            120.02,
+            464.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            451.69,
+            123.356,
+            465.07
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "虎白料理：日料",
+          "bbox": [
+            126.02,
+            452.242,
+            210.02,
+            464.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            210.05,
+            451.858,
+            213.05,
+            465.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 337
+    },
+    {
+      "page": 19,
+      "text": "周围很多朋友给我推荐这家店，说很好吃，但是我碍于价钱，一直还没去",
+      "bbox": [
+        114.02,
+        475.642,
+        498.02,
+        487.642
+      ],
+      "spans": [
+        {
+          "text": "周围很多朋友给我推荐这家店，说很好吃，但是我碍于价钱，一直还没去",
+          "bbox": [
+            114.02,
+            475.642,
+            498.02,
+            487.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 338
+    },
+    {
+      "page": 19,
+      "text": "尝试，据说是人均 90+，而且我个人对日料兴趣不是特别大。朋友推荐最多的",
+      "bbox": [
+        90.024,
+        498.658,
+        495.77,
+        511.942
+      ],
+      "spans": [
+        {
+          "text": "尝试，据说是人均",
+          "bbox": [
+            90.024,
+            499.042,
+            186.024,
+            511.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "90+",
+          "bbox": [
+            189.05,
+            498.658,
+            207.818,
+            511.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "，而且我个人对日料兴趣不是特别大。朋友推荐最多的",
+          "bbox": [
+            207.77,
+            499.042,
+            495.77,
+            511.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 339
+    },
+    {
+      "page": 19,
+      "text": "菜品主要是鹅肝寿司，说其他的菜也都不错，可以尝试下。",
+      "bbox": [
+        90.024,
+        522.058,
+        405.31,
+        535.342
+      ],
+      "spans": [
+        {
+          "text": "菜品主要是",
+          "bbox": [
+            90.024,
+            522.442,
+            150.024,
+            534.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "鹅肝寿司",
+          "bbox": [
+            150.02,
+            522.442,
+            198.236,
+            534.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "，说其他的菜也都不错，可以尝试下。",
+          "bbox": [
+            198.41,
+            522.442,
+            402.29,
+            534.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            402.31,
+            522.058,
+            405.31,
+            535.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "鹅肝寿司"
+      ],
+      "red_segments": [
+        {
+          "text": "鹅肝寿司",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 340
+    },
+    {
+      "page": 19,
+      "text": "虎白料理美团信息",
+      "bbox": [
+        249.65,
+        654.688,
+        348.67,
+        667.972
+      ],
+      "spans": [
+        {
+          "text": "虎白料理美团信息",
+          "bbox": [
+            249.65,
+            655.072,
+            345.65,
+            667.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            345.67,
+            654.688,
+            348.67,
+            667.972
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 341
+    },
+    {
+      "page": 19,
+      "text": "（3） 赤牧日式烧肉自助",
+      "bbox": [
+        90.024,
+        677.92,
+        225.05,
+        691.372
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            678.472,
+            102.024,
+            690.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "3",
+          "bbox": [
+            102.02,
+            678.088,
+            108.02,
+            691.372
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            678.472,
+            120.02,
+            690.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            677.92,
+            123.356,
+            691.3
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "赤牧日式烧肉自助",
+          "bbox": [
+            126.02,
+            678.472,
+            222.02,
+            690.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            222.05,
+            678.088,
+            225.05,
+            691.372
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 342
+    },
+    {
+      "page": 19,
+      "text": "这家店怎么说呢，有点贵，我就吃了一次，一个人 122。但是吃下来感",
+      "bbox": [
+        114.02,
+        701.488,
+        483.07,
+        714.772
+      ],
+      "spans": [
+        {
+          "text": "这家店怎么说呢，有点贵，我就吃了一次，一个人",
+          "bbox": [
+            114.02,
+            701.872,
+            378.02,
+            713.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "122",
+          "bbox": [
+            381.07,
+            701.488,
+            399.07,
+            714.772
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "。但是吃下来感",
+          "bbox": [
+            399.07,
+            701.872,
+            483.07,
+            713.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 343
+    },
+    {
+      "page": 19,
+      "text": "觉，肉的品质是相当不错，里面的自助饮料也给的很大方，都是市面上热销的",
+      "bbox": [
+        90.024,
+        725.272,
+        498.024,
+        737.272
+      ],
+      "spans": [
+        {
+          "text": "觉，肉的品质是相当不错，里面的自助饮料也给的很大方，都是市面上热销的",
+          "bbox": [
+            90.024,
+            725.272,
+            498.024,
+            737.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 344
+    },
+    {
+      "page": 19,
+      "text": "饮料。换烤盘比较及时，这一点真的很赞，基本不需要自己叫服务员来换盘。",
+      "bbox": [
+        90.024,
+        748.692,
+        498.024,
+        760.692
+      ],
+      "spans": [
+        {
+          "text": "饮料。换烤盘比较及时，这一点真的很赞，基本不需要自己叫服务员来换盘。",
+          "bbox": [
+            90.024,
+            748.692,
+            498.024,
+            760.692
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 345
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p019-01",
+      "page": 19,
+      "order_on_page": 1,
+      "file": "media/p019_img01.png",
+      "xref": 170,
+      "bbox": [
+        204.65,
+        320.32,
+        390.54,
+        416.47
+      ],
+      "pixel_width": 571,
+      "pixel_height": 295,
+      "caption": "绿茶餐厅美团信息",
+      "sha256": "280da6166b8cc9c1f9144c241d290660278bfe6043d57d38fddfa0cfc313c164",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p019-02",
+      "page": 19,
+      "order_on_page": 2,
+      "file": "media/p019_img02.png",
+      "xref": 171,
+      "bbox": [
+        180.45,
+        541.24,
+        414.85,
+        647.94
+      ],
+      "pixel_width": 718,
+      "pixel_height": 327,
+      "caption": "虎白料理美团信息",
+      "sha256": "350f9824df2e71f5e4575be43226f787eed6135fd44800548a9f723c2b491c21",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

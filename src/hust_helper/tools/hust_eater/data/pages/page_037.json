@@ -1,0 +1,1109 @@
+{
+  "schema_version": "1.0",
+  "page_number": 37,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "（4） 烔记古法粤菜\n这家店属于偏贵的粤菜，但是吃起来确实好吃。当时三个人吃了 240，刚\n好吃饱。下面说几道推荐的菜：金牌叉烧（一个字，夯！这叉烧真的特别好\n吃，在武汉吃了那么多粤菜，这家店的叉烧独一档）、豉油糖黄花鱼（特别好吃\n的一道菜，到最后我们鱼骨头都一点没剩）、干炒牛河（味道确实可以，但是价\n格有点贵了，38 块钱一份）。\n其他的还有一道咸蛋黄脆皮南瓜，这道菜我看好多人推荐，我们上次也点\n了，但是等菜等了好久，我们别的菜都吃完了快 20 分钟才上，不知道是不是吃\n饱的原因，吃起来感觉一般，而且有点油。\n烔记古法粤菜美团信息\n4.4  江岸区\n（1） 粤德兴正宗港式牛腩\n这家店在黎黄陂路和香港路都有，这两家我都吃过，都觉得挺不错的。比\n较推荐他家的：牛腩煲、脆皮乳鸽、牛腩饭（在武汉吃过的最好吃的牛腩饭，\n就是小贵，一份要 38 块钱，个人觉得性价比中等）、牛腩面。\n粤德兴正宗港式牛腩美团信息",
+  "lines": [
+    {
+      "page": 37,
+      "text": "（4） 烔记古法粤菜",
+      "bbox": [
+        90.024,
+        77.24,
+        201.05,
+        90.692
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            77.792,
+            102.024,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "4",
+          "bbox": [
+            102.02,
+            77.408,
+            108.02,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            77.792,
+            120.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            77.24,
+            123.356,
+            90.62
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "烔记古法粤菜",
+          "bbox": [
+            126.02,
+            77.792,
+            198.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            198.05,
+            77.408,
+            201.05,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 630
+    },
+    {
+      "page": 37,
+      "text": "这家店属于偏贵的粤菜，但是吃起来确实好吃。当时三个人吃了 240，刚",
+      "bbox": [
+        114.02,
+        100.808,
+        495.1,
+        114.092
+      ],
+      "spans": [
+        {
+          "text": "这家店属于偏贵的粤菜，但是吃起来确实好吃。当时三个人吃了",
+          "bbox": [
+            114.02,
+            101.192,
+            450.07,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "240",
+          "bbox": [
+            453.1,
+            100.808,
+            471.1,
+            114.092
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "，刚",
+          "bbox": [
+            471.1,
+            101.192,
+            495.1,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 631
+    },
+    {
+      "page": 37,
+      "text": "好吃饱。下面说几道推荐的菜：金牌叉烧（一个字，夯！这叉烧真的特别好",
+      "bbox": [
+        90.024,
+        124.592,
+        486.31,
+        136.592
+      ],
+      "spans": [
+        {
+          "text": "好吃饱。下面说几道推荐的菜：",
+          "bbox": [
+            90.024,
+            124.592,
+            258.024,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "金牌叉烧",
+          "bbox": [
+            258.05,
+            124.592,
+            306.266,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（一个字，夯！这叉烧真的特别好",
+          "bbox": [
+            306.43,
+            124.592,
+            486.31,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "金牌叉烧"
+      ],
+      "red_segments": [
+        {
+          "text": "金牌叉烧",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 632
+    },
+    {
+      "page": 37,
+      "text": "吃，在武汉吃了那么多粤菜，这家店的叉烧独一档）、豉油糖黄花鱼（特别好吃",
+      "bbox": [
+        90.024,
+        147.992,
+        504.34,
+        159.992
+      ],
+      "spans": [
+        {
+          "text": "吃，在武汉吃了那么多粤菜，这家店的叉烧独一档）、",
+          "bbox": [
+            90.024,
+            147.992,
+            372.024,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "豉油糖黄花鱼",
+          "bbox": [
+            372.07,
+            147.992,
+            444.286,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（特别好吃",
+          "bbox": [
+            444.34,
+            147.992,
+            504.34,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "豉油糖黄花鱼"
+      ],
+      "red_segments": [
+        {
+          "text": "豉油糖黄花鱼",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 633
+    },
+    {
+      "page": 37,
+      "text": "的一道菜，到最后我们鱼骨头都一点没剩）、干炒牛河（味道确实可以，但是价",
+      "bbox": [
+        90.024,
+        171.392,
+        504.31,
+        183.392
+      ],
+      "spans": [
+        {
+          "text": "的一道菜，到最后我们鱼骨头都一点没剩）、",
+          "bbox": [
+            90.024,
+            171.392,
+            324.024,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "干炒牛河",
+          "bbox": [
+            324.07,
+            171.392,
+            372.286,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（味道确实可以，但是价",
+          "bbox": [
+            372.43,
+            171.392,
+            504.31,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "干炒牛河"
+      ],
+      "red_segments": [
+        {
+          "text": "干炒牛河",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 634
+    },
+    {
+      "page": 37,
+      "text": "格有点贵了，38 块钱一份）。",
+      "bbox": [
+        90.024,
+        194.408,
+        246.05,
+        207.692
+      ],
+      "spans": [
+        {
+          "text": "格有点贵了，",
+          "bbox": [
+            90.024,
+            194.792,
+            162.024,
+            206.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "38",
+          "bbox": [
+            162.02,
+            194.408,
+            174.02,
+            207.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 块钱一份）。",
+          "bbox": [
+            174.02,
+            194.792,
+            243.05,
+            206.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            243.05,
+            194.408,
+            246.05,
+            207.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 635
+    },
+    {
+      "page": 37,
+      "text": "其他的还有一道咸蛋黄脆皮南瓜，这道菜我看好多人推荐，我们上次也点",
+      "bbox": [
+        114.02,
+        218.192,
+        498.41,
+        230.192
+      ],
+      "spans": [
+        {
+          "text": "其他的还有一道",
+          "bbox": [
+            114.02,
+            218.192,
+            198.02,
+            230.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "咸蛋黄脆皮南瓜",
+          "bbox": [
+            198.05,
+            218.192,
+            282.374,
+            230.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "，这道菜我看好多人推荐，我们上次也点",
+          "bbox": [
+            282.53,
+            218.192,
+            498.41,
+            230.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "咸蛋黄脆皮南瓜"
+      ],
+      "red_segments": [
+        {
+          "text": "咸蛋黄脆皮南瓜",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 636
+    },
+    {
+      "page": 37,
+      "text": "了，但是等菜等了好久，我们别的菜都吃完了快 20 分钟才上，不知道是不是吃",
+      "bbox": [
+        90.024,
+        241.238,
+        504.07,
+        254.522
+      ],
+      "spans": [
+        {
+          "text": "了，但是等菜等了好久，我们别的菜都吃完了快",
+          "bbox": [
+            90.024,
+            241.622,
+            342.024,
+            253.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "20",
+          "bbox": [
+            345.07,
+            241.238,
+            357.07,
+            254.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 分钟才上，不知道是不是吃",
+          "bbox": [
+            357.07,
+            241.622,
+            504.07,
+            253.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 637
+    },
+    {
+      "page": 37,
+      "text": "饱的原因，吃起来感觉一般，而且有点油。",
+      "bbox": [
+        90.024,
+        264.638,
+        321.07,
+        277.922
+      ],
+      "spans": [
+        {
+          "text": "饱的原因，吃起来感觉一般，而且有点油。",
+          "bbox": [
+            90.024,
+            265.022,
+            318.024,
+            277.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            318.07,
+            264.638,
+            321.07,
+            277.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 638
+    },
+    {
+      "page": 37,
+      "text": "烔记古法粤菜美团信息",
+      "bbox": [
+        237.65,
+        444.058,
+        360.67,
+        457.342
+      ],
+      "spans": [
+        {
+          "text": "烔记古法粤菜美团信息",
+          "bbox": [
+            237.65,
+            444.442,
+            357.65,
+            456.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            357.67,
+            444.058,
+            360.67,
+            457.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 639
+    },
+    {
+      "page": 37,
+      "text": "4.4  江岸区",
+      "bbox": [
+        90.024,
+        470.004,
+        171.53,
+        485.743
+      ],
+      "spans": [
+        {
+          "text": "4.4",
+          "bbox": [
+            90.024,
+            470.2,
+            107.616,
+            485.743
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            107.54,
+            470.004,
+            111.443,
+            485.658
+          ],
+          "font": "ArialMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "江岸区",
+          "bbox": [
+            126.02,
+            470.65,
+            168.14,
+            484.69
+          ],
+          "font": "SimSun",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            168.02,
+            470.2,
+            171.53,
+            485.743
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 14.04,
+      "order": 640
+    },
+    {
+      "page": 37,
+      "text": "（1） 粤德兴正宗港式牛腩",
+      "bbox": [
+        90.024,
+        498.49,
+        237.05,
+        511.942
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            499.042,
+            102.024,
+            511.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "1",
+          "bbox": [
+            102.02,
+            498.658,
+            108.02,
+            511.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            499.042,
+            120.02,
+            511.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            498.49,
+            123.356,
+            511.87
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "粤德兴正宗港式牛腩",
+          "bbox": [
+            126.02,
+            499.042,
+            234.02,
+            511.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            234.05,
+            498.658,
+            237.05,
+            511.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 641
+    },
+    {
+      "page": 37,
+      "text": "这家店在黎黄陂路和香港路都有，这两家我都吃过，都觉得挺不错的。比",
+      "bbox": [
+        114.02,
+        522.442,
+        498.02,
+        534.442
+      ],
+      "spans": [
+        {
+          "text": "这家店在黎黄陂路和香港路都有，这两家我都吃过，都觉得挺不错的。比",
+          "bbox": [
+            114.02,
+            522.442,
+            498.02,
+            534.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 642
+    },
+    {
+      "page": 37,
+      "text": "较推荐他家的：牛腩煲、脆皮乳鸽、牛腩饭（在武汉吃过的最好吃的牛腩饭，",
+      "bbox": [
+        90.024,
+        545.842,
+        498.67,
+        557.842
+      ],
+      "spans": [
+        {
+          "text": "较推荐他家的：",
+          "bbox": [
+            90.024,
+            545.842,
+            174.024,
+            557.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "牛腩煲、脆皮乳鸽、牛腩饭",
+          "bbox": [
+            174.02,
+            545.842,
+            318.56,
+            557.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（在武汉吃过的最好吃的牛腩饭，",
+          "bbox": [
+            318.79,
+            545.842,
+            498.67,
+            557.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "牛腩煲、脆皮乳鸽、牛腩饭"
+      ],
+      "red_segments": [
+        {
+          "text": "牛腩煲、脆皮乳鸽、牛腩饭",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 643
+    },
+    {
+      "page": 37,
+      "text": "就是小贵，一份要 38 块钱，个人觉得性价比中等）、牛腩面。",
+      "bbox": [
+        90.024,
+        568.858,
+        417.34,
+        582.142
+      ],
+      "spans": [
+        {
+          "text": "就是小贵，一份要",
+          "bbox": [
+            90.024,
+            569.242,
+            186.024,
+            581.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "38",
+          "bbox": [
+            189.05,
+            568.858,
+            201.05,
+            582.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 块钱，个人觉得性价比中等）",
+          "bbox": [
+            201.05,
+            569.242,
+            360.07,
+            581.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "、牛腩面",
+          "bbox": [
+            354.07,
+            569.242,
+            402.286,
+            581.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。",
+          "bbox": [
+            402.43,
+            569.242,
+            414.43,
+            581.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            414.34,
+            568.858,
+            417.34,
+            582.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "、牛腩面"
+      ],
+      "red_segments": [
+        {
+          "text": "、牛腩面",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 644
+    },
+    {
+      "page": 37,
+      "text": "粤德兴正宗港式牛腩美团信息",
+      "bbox": [
+        219.65,
+        732.684,
+        378.67,
+        745.968
+      ],
+      "spans": [
+        {
+          "text": "粤德兴正宗港式牛腩美团信息",
+          "bbox": [
+            219.65,
+            733.068,
+            375.65,
+            745.068
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            375.67,
+            732.684,
+            378.67,
+            745.968
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 645
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p037-01",
+      "page": 37,
+      "order_on_page": 1,
+      "file": "media/p037_img01.png",
+      "xref": 236,
+      "bbox": [
+        176.65,
+        287.74,
+        418.65,
+        433.42
+      ],
+      "pixel_width": 546,
+      "pixel_height": 329,
+      "caption": "烔记古法粤菜美团信息",
+      "sha256": "e4cb7b8fce5c337b6a6bb5192178f87dda9b9082933af735d7859d60cb3dc669",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p037-02",
+      "page": 37,
+      "order_on_page": 2,
+      "file": "media/p037_img02.png",
+      "xref": 237,
+      "bbox": [
+        163.4,
+        589.49,
+        431.27,
+        724.24
+      ],
+      "pixel_width": 467,
+      "pixel_height": 235,
+      "caption": "粤德兴正宗港式牛腩美团信息",
+      "sha256": "dff7573f199176460afc5c35d3c18d9e51a44e1101284e2b5c4e85fac28cd30d",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

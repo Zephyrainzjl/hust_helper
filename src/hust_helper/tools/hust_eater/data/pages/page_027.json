@@ -1,0 +1,1218 @@
+{
+  "schema_version": "1.0",
+  "page_number": 27,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "（4） 邓记武锅豆皮\n啥都不说了，给到夯。在武汉吃过最好吃的豆皮非他莫属。每次绿皮到武\n昌站，就指望着去他家吃一口，吃过两次，就在武昌站边上，强烈推荐。\n邓记武锅豆皮美团信息\n（5） 严记特色饺子馆（四美塘店）\n这家店的鸡冠饺，给到夯，巨好吃，而且很便宜。\n严记特色饺子馆美团信息\n（6） 天声热干面（四美塘店）\n这家热干面，和别的地方不太一样，会给你加一勺牛肉汤冻，特别香。但\n是唯一的问题就是，他的面条，不如别家劲道，偏脆和软。\n天声热干面美团信息\n（7） 粮道街\n这边藏着很多好吃的早餐店，比如赵师傅油饼包烧麦，其他的需要大家去\n探索，太多了，我就不列举了。\n（8） 四美塘路\n这边也藏着很多好吃的早餐店，天声热干面和严记鸡冠饺就是，还有好多\n别的，可以来探索。还有推荐傅老三豆皮和多多牛肉面馆的。",
+  "lines": [
+    {
+      "page": 27,
+      "text": "（4） 邓记武锅豆皮",
+      "bbox": [
+        90.024,
+        77.24,
+        201.05,
+        90.692
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            77.792,
+            102.024,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "4",
+          "bbox": [
+            102.02,
+            77.408,
+            108.02,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            77.792,
+            120.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            77.24,
+            123.356,
+            90.62
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "邓记武锅豆皮",
+          "bbox": [
+            126.02,
+            77.792,
+            198.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            198.05,
+            77.408,
+            201.05,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 459
+    },
+    {
+      "page": 27,
+      "text": "啥都不说了，给到夯。在武汉吃过最好吃的豆皮非他莫属。每次绿皮到武",
+      "bbox": [
+        114.02,
+        101.192,
+        498.07,
+        113.192
+      ],
+      "spans": [
+        {
+          "text": "啥都不说了，给到夯。在武汉吃过最好吃的",
+          "bbox": [
+            114.02,
+            101.192,
+            342.02,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "豆皮",
+          "bbox": [
+            342.07,
+            101.192,
+            366.07,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "非他莫属。每次绿皮到武",
+          "bbox": [
+            366.19,
+            101.192,
+            498.07,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "豆皮"
+      ],
+      "red_segments": [
+        {
+          "text": "豆皮",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 460
+    },
+    {
+      "page": 27,
+      "text": "昌站，就指望着去他家吃一口，吃过两次，就在武昌站边上，强烈推荐。",
+      "bbox": [
+        90.024,
+        124.208,
+        477.1,
+        137.492
+      ],
+      "spans": [
+        {
+          "text": "昌站，就指望着去他家吃一口，吃过两次，就在武昌站边上，强烈推荐。",
+          "bbox": [
+            90.024,
+            124.592,
+            474.024,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            474.1,
+            124.208,
+            477.1,
+            137.492
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 461
+    },
+    {
+      "page": 27,
+      "text": "邓记武锅豆皮美团信息",
+      "bbox": [
+        237.65,
+        256.838,
+        360.67,
+        270.122
+      ],
+      "spans": [
+        {
+          "text": "邓记武锅豆皮美团信息",
+          "bbox": [
+            237.65,
+            257.222,
+            357.65,
+            269.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            357.67,
+            256.838,
+            360.67,
+            270.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 462
+    },
+    {
+      "page": 27,
+      "text": "（5） 严记特色饺子馆（四美塘店）",
+      "bbox": [
+        90.024,
+        280.07,
+        285.05,
+        293.522
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            280.622,
+            102.024,
+            292.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "5",
+          "bbox": [
+            102.02,
+            280.238,
+            108.02,
+            293.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            280.622,
+            120.02,
+            292.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            280.07,
+            123.356,
+            293.45
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "严记特色饺子馆（四美塘店）",
+          "bbox": [
+            126.02,
+            280.622,
+            282.02,
+            292.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            282.05,
+            280.238,
+            285.05,
+            293.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 463
+    },
+    {
+      "page": 27,
+      "text": "这家店的鸡冠饺，给到夯，巨好吃，而且很便宜。",
+      "bbox": [
+        114.02,
+        303.638,
+        381.19,
+        316.922
+      ],
+      "spans": [
+        {
+          "text": "这家店的",
+          "bbox": [
+            114.02,
+            304.022,
+            162.02,
+            316.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "鸡冠饺",
+          "bbox": [
+            162.02,
+            304.022,
+            198.128,
+            316.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "，给到夯，巨好吃，而且很便宜。",
+          "bbox": [
+            198.29,
+            304.022,
+            378.17,
+            316.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            378.19,
+            303.638,
+            381.19,
+            316.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "鸡冠饺"
+      ],
+      "red_segments": [
+        {
+          "text": "鸡冠饺",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 464
+    },
+    {
+      "page": 27,
+      "text": "严记特色饺子馆美团信息",
+      "bbox": [
+        231.65,
+        420.658,
+        366.67,
+        433.942
+      ],
+      "spans": [
+        {
+          "text": "严记特色饺子馆美团信息",
+          "bbox": [
+            231.65,
+            421.042,
+            363.65,
+            433.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            363.67,
+            420.658,
+            366.67,
+            433.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 465
+    },
+    {
+      "page": 27,
+      "text": "（6） 天声热干面（四美塘店）",
+      "bbox": [
+        90.024,
+        443.89,
+        261.05,
+        457.342
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            444.442,
+            102.024,
+            456.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "6",
+          "bbox": [
+            102.02,
+            444.058,
+            108.02,
+            457.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            444.442,
+            120.02,
+            456.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            443.89,
+            123.356,
+            457.27
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "天声热干面（四美塘店）",
+          "bbox": [
+            126.02,
+            444.442,
+            258.02,
+            456.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            258.05,
+            444.058,
+            261.05,
+            457.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 466
+    },
+    {
+      "page": 27,
+      "text": "这家热干面，和别的地方不太一样，会给你加一勺牛肉汤冻，特别香。但",
+      "bbox": [
+        114.02,
+        467.842,
+        498.14,
+        479.842
+      ],
+      "spans": [
+        {
+          "text": "这家",
+          "bbox": [
+            114.02,
+            467.842,
+            138.02,
+            479.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "热干面",
+          "bbox": [
+            138.02,
+            467.842,
+            174.128,
+            479.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "，和别的地方不太一样，会给你加一勺牛肉汤冻，特别香。但",
+          "bbox": [
+            174.26,
+            467.842,
+            498.14,
+            479.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "热干面"
+      ],
+      "red_segments": [
+        {
+          "text": "热干面",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 467
+    },
+    {
+      "page": 27,
+      "text": "是唯一的问题就是，他的面条，不如别家劲道，偏脆和软。",
+      "bbox": [
+        90.024,
+        490.858,
+        405.07,
+        504.142
+      ],
+      "spans": [
+        {
+          "text": "是唯一的问题就是，他的面条，不如别家劲道，偏脆和软。",
+          "bbox": [
+            90.024,
+            491.242,
+            402.024,
+            503.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            402.07,
+            490.858,
+            405.07,
+            504.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 468
+    },
+    {
+      "page": 27,
+      "text": "天声热干面美团信息",
+      "bbox": [
+        243.65,
+        607.888,
+        354.67,
+        621.172
+      ],
+      "spans": [
+        {
+          "text": "天声热干面美团信息",
+          "bbox": [
+            243.65,
+            608.272,
+            351.65,
+            620.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            351.67,
+            607.888,
+            354.67,
+            621.172
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 469
+    },
+    {
+      "page": 27,
+      "text": "（7） 粮道街",
+      "bbox": [
+        90.024,
+        631.12,
+        165.02,
+        644.572
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            631.672,
+            102.024,
+            643.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "7",
+          "bbox": [
+            102.02,
+            631.288,
+            108.02,
+            644.572
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            631.672,
+            120.02,
+            643.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            631.12,
+            123.356,
+            644.5
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "粮道街",
+          "bbox": [
+            126.02,
+            631.672,
+            162.02,
+            643.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            162.02,
+            631.288,
+            165.02,
+            644.572
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 470
+    },
+    {
+      "page": 27,
+      "text": "这边藏着很多好吃的早餐店，比如赵师傅油饼包烧麦，其他的需要大家去",
+      "bbox": [
+        114.02,
+        655.072,
+        498.1,
+        667.072
+      ],
+      "spans": [
+        {
+          "text": "这边藏着很多好吃的早餐店，比如赵师傅油饼包烧麦，其他的需要大家去",
+          "bbox": [
+            114.02,
+            655.072,
+            498.1,
+            667.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 471
+    },
+    {
+      "page": 27,
+      "text": "探索，太多了，我就不列举了。",
+      "bbox": [
+        90.024,
+        678.088,
+        261.05,
+        691.372
+      ],
+      "spans": [
+        {
+          "text": "探索，太多了，我就不列举了。",
+          "bbox": [
+            90.024,
+            678.472,
+            258.024,
+            690.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            258.05,
+            678.088,
+            261.05,
+            691.372
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 472
+    },
+    {
+      "page": 27,
+      "text": "（8） 四美塘路",
+      "bbox": [
+        90.024,
+        701.32,
+        177.02,
+        714.772
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            701.872,
+            102.024,
+            713.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "8",
+          "bbox": [
+            102.02,
+            701.488,
+            108.02,
+            714.772
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            701.872,
+            120.02,
+            713.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            701.32,
+            123.356,
+            714.7
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "四美塘路",
+          "bbox": [
+            126.02,
+            701.872,
+            174.02,
+            713.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            174.02,
+            701.488,
+            177.02,
+            714.772
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 473
+    },
+    {
+      "page": 27,
+      "text": "这边也藏着很多好吃的早餐店，天声热干面和严记鸡冠饺就是，还有好多",
+      "bbox": [
+        114.02,
+        725.272,
+        498.02,
+        737.272
+      ],
+      "spans": [
+        {
+          "text": "这边也藏着很多好吃的早餐店，天声热干面和严记鸡冠饺就是，还有好多",
+          "bbox": [
+            114.02,
+            725.272,
+            498.02,
+            737.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 474
+    },
+    {
+      "page": 27,
+      "text": "别的，可以来探索。还有推荐傅老三豆皮和多多牛肉面馆的。",
+      "bbox": [
+        90.024,
+        748.308,
+        417.58,
+        761.592
+      ],
+      "spans": [
+        {
+          "text": "别的，可以来探索。还有推荐",
+          "bbox": [
+            90.024,
+            748.692,
+            246.05,
+            760.692
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "傅老三豆皮",
+          "bbox": [
+            246.05,
+            748.692,
+            306.266,
+            760.692
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "和",
+          "bbox": [
+            306.43,
+            748.692,
+            318.43,
+            760.692
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "多多牛肉面馆",
+          "bbox": [
+            318.31,
+            748.692,
+            390.526,
+            760.692
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "的。",
+          "bbox": [
+            390.67,
+            748.692,
+            414.67,
+            760.692
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            414.58,
+            748.308,
+            417.58,
+            761.592
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "傅老三豆皮",
+        "多多牛肉面馆"
+      ],
+      "red_segments": [
+        {
+          "text": "傅老三豆皮",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "多多牛肉面馆",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 475
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p027-01",
+      "page": 27,
+      "order_on_page": 1,
+      "file": "media/p027_img01.png",
+      "xref": 201,
+      "bbox": [
+        181.4,
+        145.62,
+        413.39,
+        247.97
+      ],
+      "pixel_width": 634,
+      "pixel_height": 279,
+      "caption": "邓记武锅豆皮美团信息",
+      "sha256": "f5c60efe831eca95c45c6c6017ff6ba7f94f764bc818ba4f17a19d688f7366ee",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p027-02",
+      "page": 27,
+      "order_on_page": 2,
+      "file": "media/p027_img02.png",
+      "xref": 202,
+      "bbox": [
+        197.0,
+        322.65,
+        398.24,
+        413.4
+      ],
+      "pixel_width": 588,
+      "pixel_height": 265,
+      "caption": "严记特色饺子馆美团信息",
+      "sha256": "3f047465c9746032ca73258a134d01543f537b995077ce170845da459d69de15",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p027-03",
+      "page": 27,
+      "order_on_page": 3,
+      "file": "media/p027_img03.png",
+      "xref": 203,
+      "bbox": [
+        193.93,
+        510.42,
+        401.31,
+        600.77
+      ],
+      "pixel_width": 560,
+      "pixel_height": 243,
+      "caption": "天声热干面美团信息",
+      "sha256": "19f4a8b563d0fee5dea3d1d63afdff45c13d734a2d5e62999975a7b0b224a323",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

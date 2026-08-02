@@ -1,0 +1,962 @@
+{
+  "schema_version": "1.0",
+  "page_number": 23,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "（3） 一品鲜小海鲜\n也是武大的同学力荐的店。推荐的菜品包括：铁板基围虾、海鲜锅、铜锅\n火锅鸡（里面加入热干面）。\n一品鲜小海鲜美团信息\n（4） 川香碳锅鱼\n也是武大的同学力荐的店，但是我一直没敢去吃，因为一看就有点儿辣。\n推荐的菜包括：碳锅鸡、碳锅鱼。\n川香碳锅鱼美团信息\n（5） 越南脆皮面包：越南菜\n这家店是华科的朋友推荐我去吃的，我就去尝试了下，味道确实不错。当\n时点了河内牛肉粉、越南米纸卷、烤肉三明治。这三个里面，除了越南米纸\n卷，吃起来感觉淡淡的。其他两个都很好吃！\n河内牛肉粉（牛肉很香，汤里有一种特殊的香味）、烤肉三明治（应该是我\n吃过最好吃的三明治了，因为我就喜欢这种脆皮的口感）。\n越南脆皮面包美团信息",
+  "lines": [
+    {
+      "page": 23,
+      "text": "（3） 一品鲜小海鲜",
+      "bbox": [
+        90.024,
+        77.24,
+        201.05,
+        90.692
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            77.792,
+            102.024,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "3",
+          "bbox": [
+            102.02,
+            77.408,
+            108.02,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            77.792,
+            120.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            77.24,
+            123.356,
+            90.62
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "一品鲜小海鲜",
+          "bbox": [
+            126.02,
+            77.792,
+            198.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            198.05,
+            77.408,
+            201.05,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 397
+    },
+    {
+      "page": 23,
+      "text": "也是武大的同学力荐的店。推荐的菜品包括：铁板基围虾、海鲜锅、铜锅",
+      "bbox": [
+        114.02,
+        101.192,
+        498.61,
+        113.192
+      ],
+      "spans": [
+        {
+          "text": "也是武大的同学力荐的店。推荐的菜品包括：",
+          "bbox": [
+            114.02,
+            101.192,
+            354.02,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "铁板基围虾、海鲜锅、铜锅",
+          "bbox": [
+            354.07,
+            101.192,
+            498.61,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "铁板基围虾、海鲜锅、铜锅"
+      ],
+      "red_segments": [
+        {
+          "text": "铁板基围虾、海鲜锅、铜锅",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 398
+    },
+    {
+      "page": 23,
+      "text": "火锅鸡（里面加入热干面）。",
+      "bbox": [
+        90.024,
+        124.208,
+        243.17,
+        137.492
+      ],
+      "spans": [
+        {
+          "text": "火锅鸡",
+          "bbox": [
+            90.024,
+            124.592,
+            126.132,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（里面加入热干面）。",
+          "bbox": [
+            126.26,
+            124.592,
+            240.14,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            240.17,
+            124.208,
+            243.17,
+            137.492
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "火锅鸡"
+      ],
+      "red_segments": [
+        {
+          "text": "火锅鸡",
+          "at_line_start": true,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 399
+    },
+    {
+      "page": 23,
+      "text": "一品鲜小海鲜美团信息",
+      "bbox": [
+        237.65,
+        241.238,
+        360.67,
+        254.522
+      ],
+      "spans": [
+        {
+          "text": "一品鲜小海鲜美团信息",
+          "bbox": [
+            237.65,
+            241.622,
+            357.65,
+            253.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            357.67,
+            241.238,
+            360.67,
+            254.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 400
+    },
+    {
+      "page": 23,
+      "text": "（4） 川香碳锅鱼",
+      "bbox": [
+        90.024,
+        264.47,
+        189.05,
+        277.922
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            265.022,
+            102.024,
+            277.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "4",
+          "bbox": [
+            102.02,
+            264.638,
+            108.02,
+            277.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            265.022,
+            120.02,
+            277.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            264.47,
+            123.356,
+            277.85
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "川香碳锅鱼",
+          "bbox": [
+            126.02,
+            265.022,
+            186.02,
+            277.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            186.05,
+            264.638,
+            189.05,
+            277.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 401
+    },
+    {
+      "page": 23,
+      "text": "也是武大的同学力荐的店，但是我一直没敢去吃，因为一看就有点儿辣。",
+      "bbox": [
+        114.02,
+        288.422,
+        498.02,
+        300.422
+      ],
+      "spans": [
+        {
+          "text": "也是武大的同学力荐的店，但是我一直没敢去吃，因为一看就有点儿辣。",
+          "bbox": [
+            114.02,
+            288.422,
+            498.02,
+            300.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 402
+    },
+    {
+      "page": 23,
+      "text": "推荐的菜包括：碳锅鸡、碳锅鱼。",
+      "bbox": [
+        90.024,
+        311.438,
+        273.41,
+        324.722
+      ],
+      "spans": [
+        {
+          "text": "推荐的菜包括：",
+          "bbox": [
+            90.024,
+            311.822,
+            174.024,
+            323.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "碳锅鸡、碳锅鱼",
+          "bbox": [
+            174.02,
+            311.822,
+            258.344,
+            323.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。",
+          "bbox": [
+            258.53,
+            311.822,
+            270.53,
+            323.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            270.41,
+            311.438,
+            273.41,
+            324.722
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "碳锅鸡、碳锅鱼"
+      ],
+      "red_segments": [
+        {
+          "text": "碳锅鸡、碳锅鱼",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 403
+    },
+    {
+      "page": 23,
+      "text": "川香碳锅鱼美团信息",
+      "bbox": [
+        243.65,
+        444.058,
+        354.67,
+        457.342
+      ],
+      "spans": [
+        {
+          "text": "川香碳锅鱼美团信息",
+          "bbox": [
+            243.65,
+            444.442,
+            351.65,
+            456.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            351.67,
+            444.058,
+            354.67,
+            457.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 404
+    },
+    {
+      "page": 23,
+      "text": "（5） 越南脆皮面包：越南菜",
+      "bbox": [
+        90.024,
+        467.29,
+        249.05,
+        480.742
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            467.842,
+            102.024,
+            479.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "5",
+          "bbox": [
+            102.02,
+            467.458,
+            108.02,
+            480.742
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            467.842,
+            120.02,
+            479.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            467.29,
+            123.356,
+            480.67
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "越南脆皮面包：越南菜",
+          "bbox": [
+            126.02,
+            467.842,
+            246.02,
+            479.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            246.05,
+            467.458,
+            249.05,
+            480.742
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 405
+    },
+    {
+      "page": 23,
+      "text": "这家店是华科的朋友推荐我去吃的，我就去尝试了下，味道确实不错。当",
+      "bbox": [
+        114.02,
+        491.242,
+        498.02,
+        503.242
+      ],
+      "spans": [
+        {
+          "text": "这家店是华科的朋友推荐我去吃的，我就去尝试了下，味道确实不错。当",
+          "bbox": [
+            114.02,
+            491.242,
+            498.02,
+            503.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 406
+    },
+    {
+      "page": 23,
+      "text": "时点了河内牛肉粉、越南米纸卷、烤肉三明治。这三个里面，除了越南米纸",
+      "bbox": [
+        90.024,
+        514.642,
+        486.024,
+        526.642
+      ],
+      "spans": [
+        {
+          "text": "时点了河内牛肉粉、越南米纸卷、烤肉三明治。这三个里面，除了越南米纸",
+          "bbox": [
+            90.024,
+            514.642,
+            486.024,
+            526.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 407
+    },
+    {
+      "page": 23,
+      "text": "卷，吃起来感觉淡淡的。其他两个都很好吃！",
+      "bbox": [
+        90.024,
+        537.658,
+        333.07,
+        550.942
+      ],
+      "spans": [
+        {
+          "text": "卷，吃起来感觉淡淡的。其他两个都很好吃！",
+          "bbox": [
+            90.024,
+            538.042,
+            330.024,
+            550.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            330.07,
+            537.658,
+            333.07,
+            550.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 408
+    },
+    {
+      "page": 23,
+      "text": "河内牛肉粉（牛肉很香，汤里有一种特殊的香味）、烤肉三明治（应该是我",
+      "bbox": [
+        114.14,
+        561.442,
+        504.7,
+        573.442
+      ],
+      "spans": [
+        {
+          "text": "河内牛肉粉",
+          "bbox": [
+            114.14,
+            561.442,
+            174.356,
+            573.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（牛肉很香，汤里有一种特殊的香味）、",
+          "bbox": [
+            174.5,
+            561.442,
+            384.38,
+            573.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "烤肉三明治",
+          "bbox": [
+            384.43,
+            561.442,
+            444.646,
+            573.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（应该是我",
+          "bbox": [
+            444.82,
+            561.442,
+            504.7,
+            573.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "河内牛肉粉",
+        "烤肉三明治"
+      ],
+      "red_segments": [
+        {
+          "text": "河内牛肉粉",
+          "at_line_start": true,
+          "at_line_end": false
+        },
+        {
+          "text": "烤肉三明治",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 409
+    },
+    {
+      "page": 23,
+      "text": "吃过最好吃的三明治了，因为我就喜欢这种脆皮的口感）。",
+      "bbox": [
+        90.024,
+        584.488,
+        399.07,
+        597.772
+      ],
+      "spans": [
+        {
+          "text": "吃过最好吃的三明治了，因为我就喜欢这种脆皮的口感）。",
+          "bbox": [
+            90.024,
+            584.872,
+            396.024,
+            596.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            396.07,
+            584.488,
+            399.07,
+            597.772
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 410
+    },
+    {
+      "page": 23,
+      "text": "越南脆皮面包美团信息",
+      "bbox": [
+        237.65,
+        748.308,
+        360.67,
+        761.592
+      ],
+      "spans": [
+        {
+          "text": "越南脆皮面包美团信息",
+          "bbox": [
+            237.65,
+            748.692,
+            357.65,
+            760.692
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            357.67,
+            748.308,
+            360.67,
+            761.592
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 411
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p023-01",
+      "page": 23,
+      "order_on_page": 1,
+      "file": "media/p023_img01.png",
+      "xref": 184,
+      "bbox": [
+        183.35,
+        142.495,
+        411.95,
+        235.39
+      ],
+      "pixel_width": 701,
+      "pixel_height": 285,
+      "caption": "一品鲜小海鲜美团信息",
+      "sha256": "07bbfa11a91c9941af795b6752510f3cfe71a4cd12183d41ddb0f65f96acabe2",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p023-02",
+      "page": 23,
+      "order_on_page": 2,
+      "file": "media/p023_img02.png",
+      "xref": 185,
+      "bbox": [
+        189.5,
+        331.13,
+        405.8,
+        436.87
+      ],
+      "pixel_width": 664,
+      "pixel_height": 324,
+      "caption": "川香碳锅鱼美团信息",
+      "sha256": "62a1832300fe46b87032f12593804e4a720ca5026c452d65f2eb16ee15714f6f",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p023-03",
+      "page": 23,
+      "order_on_page": 3,
+      "file": "media/p023_img03.png",
+      "xref": 186,
+      "bbox": [
+        185.75,
+        605.47,
+        409.55,
+        739.7
+      ],
+      "pixel_width": 687,
+      "pixel_height": 412,
+      "caption": "越南脆皮面包美团信息",
+      "sha256": "c81e125be2221392611fa45510d204a9f1ff5dc5e75bc30474a5156e485174f3",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

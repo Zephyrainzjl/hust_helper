@@ -1,0 +1,146 @@
+{
+  "schema_version": "1.0",
+  "page_number": 45,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "第五章  武汉夜市篇\n先附上武汉文旅的美食分布图。",
+  "lines": [
+    {
+      "page": 45,
+      "text": "第五章  武汉夜市篇",
+      "bbox": [
+        90.024,
+        78.936,
+        237.463,
+        97.083
+      ],
+      "spans": [
+        {
+          "text": "第五章",
+          "bbox": [
+            90.024,
+            79.67,
+            137.904,
+            95.63
+          ],
+          "font": "SimSun",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            138.02,
+            78.936,
+            142.457,
+            96.732
+          ],
+          "font": "ArialMT",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "武汉夜市篇",
+          "bbox": [
+            153.02,
+            79.67,
+            232.932,
+            95.63
+          ],
+          "font": "SimSun",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            233.09,
+            80.452,
+            237.463,
+            97.083
+          ],
+          "font": "DengXian-Light",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 15.96,
+      "order": 744
+    },
+    {
+      "page": 45,
+      "text": "先附上武汉文旅的美食分布图。",
+      "bbox": [
+        90.024,
+        108.608,
+        261.05,
+        121.892
+      ],
+      "spans": [
+        {
+          "text": "先附上武汉文旅的美食分布图。",
+          "bbox": [
+            90.024,
+            108.992,
+            258.024,
+            120.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            258.05,
+            108.608,
+            261.05,
+            121.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 745
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p045-01",
+      "page": 45,
+      "order_on_page": 1,
+      "file": "media/p045_img01.png",
+      "xref": 262,
+      "bbox": [
+        90.65,
+        127.92,
+        504.65,
+        749.27
+      ],
+      "pixel_width": 1080,
+      "pixel_height": 1621,
+      "caption": "先附上武汉文旅的美食分布图。",
+      "sha256": "c8458d8ca08c301dba9cb85e0a853b6c5bb35adc4b04e5f721fc800e89191d3c",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

@@ -1,0 +1,994 @@
+{
+  "schema_version": "1.0",
+  "page_number": 15,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "一次性点完，加菜很慢很麻烦。\n我推荐的菜：干蒸牛肉、干蒸鲈鱼、干蒸芝士排骨、干蒸排骨、干蒸手工\n肉干、潮汕鲜虾砂锅粥。其他的菜基本上都好吃，推荐的这几道是我巴不得每\n次都点的。\n顺德古法干蒸菜美团信息\n（6） 重庆饭庄：川渝菜\n这家店其实我本人没有去过，但是我看周围人都在推荐，奈何我吃辣水平\n不行，想去探店也探不了。\n结合周围人推荐以及大众点评，推荐：干锅辣子鸡、豆花牛肉片、滑藕片\n（其实就是大众点评前三）。\n重庆饭庄美团信息\n（7） 前进5 路汉堡炸鸡：小吃\n我最喜欢他家的芝士熔岩牛肉汉堡，巨好吃！每次去都必点（其实就是想\n吃汉堡了就过去点一个，一定要现点现吃）。招牌酱炸鸡也不错，但是同样是炸\n鸡，我选择三清羊肉粉。\n前进5 路汉堡炸鸡美团信息",
+  "lines": [
+    {
+      "page": 15,
+      "text": "一次性点完，加菜很慢很麻烦。",
+      "bbox": [
+        90.024,
+        77.408,
+        261.05,
+        90.692
+      ],
+      "spans": [
+        {
+          "text": "一次性点完，加菜很慢很麻烦。",
+          "bbox": [
+            90.024,
+            77.792,
+            258.024,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            258.05,
+            77.408,
+            261.05,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 266
+    },
+    {
+      "page": 15,
+      "text": "我推荐的菜：干蒸牛肉、干蒸鲈鱼、干蒸芝士排骨、干蒸排骨、干蒸手工",
+      "bbox": [
+        114.02,
+        101.192,
+        498.05,
+        113.192
+      ],
+      "spans": [
+        {
+          "text": "我推荐的菜：",
+          "bbox": [
+            114.02,
+            101.192,
+            186.02,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "干蒸牛肉、干蒸鲈鱼、干蒸芝士排骨、干蒸排骨、干蒸手工",
+          "bbox": [
+            186.05,
+            101.192,
+            498.05,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "干蒸牛肉、干蒸鲈鱼、干蒸芝士排骨、干蒸排骨、干蒸手工"
+      ],
+      "red_segments": [
+        {
+          "text": "干蒸牛肉、干蒸鲈鱼、干蒸芝士排骨、干蒸排骨、干蒸手工",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 267
+    },
+    {
+      "page": 15,
+      "text": "肉干、潮汕鲜虾砂锅粥。其他的菜基本上都好吃，推荐的这几道是我巴不得每",
+      "bbox": [
+        90.024,
+        124.592,
+        498.05,
+        136.592
+      ],
+      "spans": [
+        {
+          "text": "肉干、潮汕鲜虾砂锅粥",
+          "bbox": [
+            90.024,
+            124.592,
+            210.024,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。其他的菜基本上都好吃，推荐的这几道是我巴不得每",
+          "bbox": [
+            210.05,
+            124.592,
+            498.05,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "肉干、潮汕鲜虾砂锅粥"
+      ],
+      "red_segments": [
+        {
+          "text": "肉干、潮汕鲜虾砂锅粥",
+          "at_line_start": true,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 268
+    },
+    {
+      "page": 15,
+      "text": "次都点的。",
+      "bbox": [
+        90.024,
+        147.608,
+        153.02,
+        160.892
+      ],
+      "spans": [
+        {
+          "text": "次都点的。",
+          "bbox": [
+            90.024,
+            147.992,
+            150.024,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            150.02,
+            147.608,
+            153.02,
+            160.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 269
+    },
+    {
+      "page": 15,
+      "text": "顺德古法干蒸菜美团信息",
+      "bbox": [
+        231.65,
+        280.238,
+        366.67,
+        293.522
+      ],
+      "spans": [
+        {
+          "text": "顺德古法干蒸菜美团信息",
+          "bbox": [
+            231.65,
+            280.622,
+            363.65,
+            292.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            363.67,
+            280.238,
+            366.67,
+            293.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 270
+    },
+    {
+      "page": 15,
+      "text": "（6） 重庆饭庄：川渝菜",
+      "bbox": [
+        90.024,
+        303.47,
+        225.05,
+        316.922
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            304.022,
+            102.024,
+            316.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "6",
+          "bbox": [
+            102.02,
+            303.638,
+            108.02,
+            316.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            304.022,
+            120.02,
+            316.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            303.47,
+            123.356,
+            316.85
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "重庆饭庄：川渝菜",
+          "bbox": [
+            126.02,
+            304.022,
+            222.02,
+            316.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            222.05,
+            303.638,
+            225.05,
+            316.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 271
+    },
+    {
+      "page": 15,
+      "text": "这家店其实我本人没有去过，但是我看周围人都在推荐，奈何我吃辣水平",
+      "bbox": [
+        114.02,
+        327.422,
+        498.02,
+        339.422
+      ],
+      "spans": [
+        {
+          "text": "这家店其实我本人没有去过，但是我看周围人都在推荐，奈何我吃辣水平",
+          "bbox": [
+            114.02,
+            327.422,
+            498.02,
+            339.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 272
+    },
+    {
+      "page": 15,
+      "text": "不行，想去探店也探不了。",
+      "bbox": [
+        90.024,
+        350.438,
+        237.05,
+        363.722
+      ],
+      "spans": [
+        {
+          "text": "不行，想去探店也探不了。",
+          "bbox": [
+            90.024,
+            350.822,
+            234.024,
+            362.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            234.05,
+            350.438,
+            237.05,
+            363.722
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 273
+    },
+    {
+      "page": 15,
+      "text": "结合周围人推荐以及大众点评，推荐：干锅辣子鸡、豆花牛肉片、滑藕片",
+      "bbox": [
+        114.02,
+        374.222,
+        498.718,
+        386.222
+      ],
+      "spans": [
+        {
+          "text": "结合周围人推荐以及大众点评，推荐：",
+          "bbox": [
+            114.02,
+            374.222,
+            318.02,
+            386.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "干锅辣子鸡、豆花牛肉片、滑藕片",
+          "bbox": [
+            318.07,
+            374.222,
+            498.718,
+            386.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "干锅辣子鸡、豆花牛肉片、滑藕片"
+      ],
+      "red_segments": [
+        {
+          "text": "干锅辣子鸡、豆花牛肉片、滑藕片",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 274
+    },
+    {
+      "page": 15,
+      "text": "（其实就是大众点评前三）。",
+      "bbox": [
+        90.024,
+        397.238,
+        243.05,
+        410.522
+      ],
+      "spans": [
+        {
+          "text": "（其实就是大众点评前三）。",
+          "bbox": [
+            90.024,
+            397.622,
+            240.05,
+            409.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            240.05,
+            397.238,
+            243.05,
+            410.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 275
+    },
+    {
+      "page": 15,
+      "text": "重庆饭庄美团信息",
+      "bbox": [
+        249.65,
+        529.858,
+        348.67,
+        543.142
+      ],
+      "spans": [
+        {
+          "text": "重庆饭庄美团信息",
+          "bbox": [
+            249.65,
+            530.242,
+            345.65,
+            542.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            345.67,
+            529.858,
+            348.67,
+            543.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 276
+    },
+    {
+      "page": 15,
+      "text": "（7） 前进5 路汉堡炸鸡：小吃",
+      "bbox": [
+        90.024,
+        553.09,
+        261.05,
+        566.542
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            553.642,
+            102.024,
+            565.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "7",
+          "bbox": [
+            102.02,
+            553.258,
+            108.02,
+            566.542
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            553.642,
+            120.02,
+            565.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            553.09,
+            123.356,
+            566.47
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "前进",
+          "bbox": [
+            126.02,
+            553.642,
+            150.02,
+            565.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "5",
+          "bbox": [
+            153.02,
+            553.258,
+            159.02,
+            566.542
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 路汉堡炸鸡：小吃",
+          "bbox": [
+            159.02,
+            553.642,
+            258.02,
+            565.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            258.05,
+            553.258,
+            261.05,
+            566.542
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 277
+    },
+    {
+      "page": 15,
+      "text": "我最喜欢他家的芝士熔岩牛肉汉堡，巨好吃！每次去都必点（其实就是想",
+      "bbox": [
+        114.02,
+        577.072,
+        498.43,
+        589.072
+      ],
+      "spans": [
+        {
+          "text": "我最喜欢他家的",
+          "bbox": [
+            114.02,
+            577.072,
+            198.02,
+            589.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "芝士熔岩牛肉汉堡",
+          "bbox": [
+            198.05,
+            577.072,
+            294.374,
+            589.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "，巨好吃！每次去都必点（其实就是想",
+          "bbox": [
+            294.55,
+            577.072,
+            498.43,
+            589.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "芝士熔岩牛肉汉堡"
+      ],
+      "red_segments": [
+        {
+          "text": "芝士熔岩牛肉汉堡",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 278
+    },
+    {
+      "page": 15,
+      "text": "吃汉堡了就过去点一个，一定要现点现吃）。招牌酱炸鸡也不错，但是同样是炸",
+      "bbox": [
+        90.024,
+        600.472,
+        504.31,
+        612.472
+      ],
+      "spans": [
+        {
+          "text": "吃汉堡了就过去点一个，一定要现点现吃）。",
+          "bbox": [
+            90.024,
+            600.472,
+            324.024,
+            612.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "招牌酱炸鸡",
+          "bbox": [
+            324.07,
+            600.472,
+            384.286,
+            612.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "也不错，但是同样是炸",
+          "bbox": [
+            384.43,
+            600.472,
+            504.31,
+            612.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "招牌酱炸鸡"
+      ],
+      "red_segments": [
+        {
+          "text": "招牌酱炸鸡",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 279
+    },
+    {
+      "page": 15,
+      "text": "鸡，我选择三清羊肉粉。",
+      "bbox": [
+        90.024,
+        623.488,
+        225.05,
+        636.772
+      ],
+      "spans": [
+        {
+          "text": "鸡，我选择三清羊肉粉。",
+          "bbox": [
+            90.024,
+            623.872,
+            222.024,
+            635.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            222.05,
+            623.488,
+            225.05,
+            636.772
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 280
+    },
+    {
+      "page": 15,
+      "text": "前进5 路汉堡炸鸡美团信息",
+      "bbox": [
+        225.65,
+        740.484,
+        372.67,
+        753.768
+      ],
+      "spans": [
+        {
+          "text": "前进",
+          "bbox": [
+            225.65,
+            740.868,
+            249.65,
+            752.868
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "5",
+          "bbox": [
+            252.65,
+            740.484,
+            258.65,
+            753.768
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 路汉堡炸鸡美团信息",
+          "bbox": [
+            258.65,
+            740.868,
+            369.65,
+            752.868
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            369.67,
+            740.484,
+            372.67,
+            753.768
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 281
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p015-01",
+      "page": 15,
+      "order_on_page": 1,
+      "file": "media/p015_img01.png",
+      "xref": 155,
+      "bbox": [
+        209.9,
+        169.8,
+        385.24,
+        270.6
+      ],
+      "pixel_width": 540,
+      "pixel_height": 310,
+      "caption": "顺德古法干蒸菜美团信息",
+      "sha256": "6a8e3aba279586c9c3250a67d13c74c9078e2fb029936a69fba55381d98c912d",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p015-02",
+      "page": 15,
+      "order_on_page": 2,
+      "file": "media/p015_img02.png",
+      "xref": 156,
+      "bbox": [
+        206.73,
+        417.85,
+        388.52,
+        521.75
+      ],
+      "pixel_width": 561,
+      "pixel_height": 321,
+      "caption": "重庆饭庄美团信息",
+      "sha256": "4717f2708d8380171dc6dcca581c9e5e759d08a1121068d7118da27cd740f72e",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p015-03",
+      "page": 15,
+      "order_on_page": 3,
+      "file": "media/p015_img03.png",
+      "xref": 157,
+      "bbox": [
+        210.65,
+        643.19,
+        383.95,
+        733.19
+      ],
+      "pixel_width": 535,
+      "pixel_height": 278,
+      "caption": "前进5 路汉堡炸鸡美团信息",
+      "sha256": "02abc53439c53b6c4b5ddc3e56621d86a8372088faff68c78be3c9d7bf78cbd4",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

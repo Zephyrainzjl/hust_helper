@@ -1,0 +1,875 @@
+{
+  "schema_version": "1.0",
+  "page_number": 40,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "4.5  江汉区\n这个区域好吃的太多了，万松园还有江汉路都在这边，吃不过来了，就推荐几\n家我觉得很有特色的吧。\n（1） 台客台式小吃：台湾美食\n这家店的台湾美食味道很地道，推荐这家店的几道美食：盐酥鸡、甜不\n辣、卤肉饭、荔枝虾球。但是这家店是夫妻店，阿姨招待，叔叔一个人做，但\n是来的人又不少，所以等餐可能会有点久，建议先到店取号后再去附近逛逛。\n台客台式小吃美团信息\n（2） 夏氏砂锅（万松园店）\n本地人好多都喜欢去，听说很多年夜饭在这边办。之前路过过几次，每次\n都排长队。在离开武汉之前，还是抱着好奇心下午很早就过去，终于吃上了，\n至少我们点的几个菜，都可以给到夯。推荐几道菜：锅边馍（适合粘砂锅里面\n的汤汁吃，很好吃）、莲藕排骨汤、香辣蟹拌面、夏氏古法烤鸭、黄牛肉烧石首\n鮰鱼肚、珍珠肉丸、不一样的茄子、桂花山药。\n夏氏砂锅美团信息",
+  "lines": [
+    {
+      "page": 40,
+      "text": "4.5  江汉区",
+      "bbox": [
+        90.024,
+        79.954,
+        171.53,
+        95.693
+      ],
+      "spans": [
+        {
+          "text": "4.5",
+          "bbox": [
+            90.024,
+            80.15,
+            107.616,
+            95.693
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            107.54,
+            79.954,
+            111.443,
+            95.608
+          ],
+          "font": "ArialMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "江汉区",
+          "bbox": [
+            126.02,
+            80.6,
+            168.14,
+            94.64
+          ],
+          "font": "SimSun",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            168.02,
+            80.15,
+            171.53,
+            95.693
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 14.04,
+      "order": 674
+    },
+    {
+      "page": 40,
+      "text": "这个区域好吃的太多了，万松园还有江汉路都在这边，吃不过来了，就推荐几",
+      "bbox": [
+        90.024,
+        108.992,
+        498.024,
+        120.992
+      ],
+      "spans": [
+        {
+          "text": "这个区域好吃的太多了，万松园还有江汉路都在这边，吃不过来了，就推荐几",
+          "bbox": [
+            90.024,
+            108.992,
+            498.024,
+            120.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 675
+    },
+    {
+      "page": 40,
+      "text": "家我觉得很有特色的吧。",
+      "bbox": [
+        90.024,
+        132.008,
+        225.05,
+        145.292
+      ],
+      "spans": [
+        {
+          "text": "家我觉得很有特色的吧。",
+          "bbox": [
+            90.024,
+            132.392,
+            222.024,
+            144.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            222.05,
+            132.008,
+            225.05,
+            145.292
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 676
+    },
+    {
+      "page": 40,
+      "text": "（1） 台客台式小吃：台湾美食",
+      "bbox": [
+        90.024,
+        155.24,
+        261.05,
+        168.692
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            155.792,
+            102.024,
+            167.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "1",
+          "bbox": [
+            102.02,
+            155.408,
+            108.02,
+            168.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            155.792,
+            120.02,
+            167.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            155.24,
+            123.356,
+            168.62
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "台客台式小吃：台湾美食",
+          "bbox": [
+            126.02,
+            155.792,
+            258.02,
+            167.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            258.05,
+            155.408,
+            261.05,
+            168.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 677
+    },
+    {
+      "page": 40,
+      "text": "这家店的台湾美食味道很地道，推荐这家店的几道美食：盐酥鸡、甜不",
+      "bbox": [
+        114.02,
+        179.192,
+        486.316,
+        191.192
+      ],
+      "spans": [
+        {
+          "text": "这家店的台湾美食味道很地道，推荐这家店的几道美食：",
+          "bbox": [
+            114.02,
+            179.192,
+            414.02,
+            191.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "盐酥鸡、甜不",
+          "bbox": [
+            414.1,
+            179.192,
+            486.316,
+            191.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "盐酥鸡、甜不"
+      ],
+      "red_segments": [
+        {
+          "text": "盐酥鸡、甜不",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 678
+    },
+    {
+      "page": 40,
+      "text": "辣、卤肉饭、荔枝虾球。但是这家店是夫妻店，阿姨招待，叔叔一个人做，但",
+      "bbox": [
+        90.024,
+        202.592,
+        498.53,
+        214.592
+      ],
+      "spans": [
+        {
+          "text": "辣、卤肉饭、荔枝虾球",
+          "bbox": [
+            90.024,
+            202.592,
+            210.456,
+            214.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。但是这家店是夫妻店，阿姨招待，叔叔一个人做，但",
+          "bbox": [
+            210.53,
+            202.592,
+            498.53,
+            214.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "辣、卤肉饭、荔枝虾球"
+      ],
+      "red_segments": [
+        {
+          "text": "辣、卤肉饭、荔枝虾球",
+          "at_line_start": true,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 679
+    },
+    {
+      "page": 40,
+      "text": "是来的人又不少，所以等餐可能会有点久，建议先到店取号后再去附近逛逛。",
+      "bbox": [
+        90.024,
+        225.608,
+        501.1,
+        238.892
+      ],
+      "spans": [
+        {
+          "text": "是来的人又不少，所以等餐可能会有点久，建议先到店取号后再去附近逛逛。",
+          "bbox": [
+            90.024,
+            225.992,
+            498.024,
+            237.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            498.1,
+            225.608,
+            501.1,
+            238.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 680
+    },
+    {
+      "page": 40,
+      "text": "台客台式小吃美团信息",
+      "bbox": [
+        237.65,
+        420.658,
+        360.67,
+        433.942
+      ],
+      "spans": [
+        {
+          "text": "台客台式小吃美团信息",
+          "bbox": [
+            237.65,
+            421.042,
+            357.65,
+            433.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            357.67,
+            420.658,
+            360.67,
+            433.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 681
+    },
+    {
+      "page": 40,
+      "text": "（2） 夏氏砂锅（万松园店）",
+      "bbox": [
+        90.024,
+        443.89,
+        249.05,
+        457.342
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            444.442,
+            102.024,
+            456.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "2",
+          "bbox": [
+            102.02,
+            444.058,
+            108.02,
+            457.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            444.442,
+            120.02,
+            456.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            443.89,
+            123.356,
+            457.27
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "夏氏砂锅（万松园店）",
+          "bbox": [
+            126.02,
+            444.442,
+            246.02,
+            456.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            246.05,
+            444.058,
+            249.05,
+            457.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 682
+    },
+    {
+      "page": 40,
+      "text": "本地人好多都喜欢去，听说很多年夜饭在这边办。之前路过过几次，每次",
+      "bbox": [
+        114.02,
+        467.842,
+        498.1,
+        479.842
+      ],
+      "spans": [
+        {
+          "text": "本地人好多都喜欢去，听说很多年夜饭在这边办。之前路过过几次，每次",
+          "bbox": [
+            114.02,
+            467.842,
+            498.1,
+            479.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 683
+    },
+    {
+      "page": 40,
+      "text": "都排长队。在离开武汉之前，还是抱着好奇心下午很早就过去，终于吃上了，",
+      "bbox": [
+        90.024,
+        491.242,
+        498.024,
+        503.242
+      ],
+      "spans": [
+        {
+          "text": "都排长队。在离开武汉之前，还是抱着好奇心下午很早就过去，终于吃上了，",
+          "bbox": [
+            90.024,
+            491.242,
+            498.024,
+            503.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 684
+    },
+    {
+      "page": 40,
+      "text": "至少我们点的几个菜，都可以给到夯。推荐几道菜：锅边馍（适合粘砂锅里面",
+      "bbox": [
+        90.024,
+        514.642,
+        498.22,
+        526.642
+      ],
+      "spans": [
+        {
+          "text": "至少我们点的几个菜，都可以给到夯。推荐几道菜：",
+          "bbox": [
+            90.024,
+            514.642,
+            366.07,
+            526.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "锅边馍",
+          "bbox": [
+            366.07,
+            514.642,
+            402.178,
+            526.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（适合粘砂锅里面",
+          "bbox": [
+            402.31,
+            514.642,
+            498.22,
+            526.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "锅边馍"
+      ],
+      "red_segments": [
+        {
+          "text": "锅边馍",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 685
+    },
+    {
+      "page": 40,
+      "text": "的汤汁吃，很好吃）、莲藕排骨汤、香辣蟹拌面、夏氏古法烤鸭、黄牛肉烧石首",
+      "bbox": [
+        90.024,
+        538.042,
+        505.276,
+        550.042
+      ],
+      "spans": [
+        {
+          "text": "的汤汁吃，很好吃）、",
+          "bbox": [
+            90.024,
+            538.042,
+            204.05,
+            550.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "莲藕排骨汤、香辣蟹拌面、夏氏古法烤鸭、黄牛肉烧石首",
+          "bbox": [
+            204.05,
+            538.042,
+            505.276,
+            550.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "莲藕排骨汤、香辣蟹拌面、夏氏古法烤鸭、黄牛肉烧石首"
+      ],
+      "red_segments": [
+        {
+          "text": "莲藕排骨汤、香辣蟹拌面、夏氏古法烤鸭、黄牛肉烧石首",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 686
+    },
+    {
+      "page": 40,
+      "text": "鮰鱼肚、珍珠肉丸、不一样的茄子、桂花山药。",
+      "bbox": [
+        90.024,
+        561.058,
+        346.03,
+        574.342
+      ],
+      "spans": [
+        {
+          "text": "鮰鱼肚、珍珠肉丸、不一样的茄子、桂花山药",
+          "bbox": [
+            90.024,
+            561.442,
+            330.888,
+            573.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。",
+          "bbox": [
+            331.03,
+            561.442,
+            343.03,
+            573.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            343.03,
+            561.058,
+            346.03,
+            574.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "鮰鱼肚、珍珠肉丸、不一样的茄子、桂花山药"
+      ],
+      "red_segments": [
+        {
+          "text": "鮰鱼肚、珍珠肉丸、不一样的茄子、桂花山药",
+          "at_line_start": true,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 687
+    },
+    {
+      "page": 40,
+      "text": "夏氏砂锅美团信息",
+      "bbox": [
+        249.65,
+        740.484,
+        348.67,
+        753.768
+      ],
+      "spans": [
+        {
+          "text": "夏氏砂锅美团信息",
+          "bbox": [
+            249.65,
+            740.868,
+            345.65,
+            752.868
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            345.67,
+            740.484,
+            348.67,
+            753.768
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 688
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p040-01",
+      "page": 40,
+      "order_on_page": 1,
+      "file": "media/p040_img01.png",
+      "xref": 247,
+      "bbox": [
+        152.9,
+        248.4,
+        441.98,
+        409.85
+      ],
+      "pixel_width": 506,
+      "pixel_height": 282,
+      "caption": "台客台式小吃美团信息",
+      "sha256": "3c4bb7a32052b112a4ac736cfb56c2a1bba3fbfbe2447587ffdc63d44bb59310",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p040-02",
+      "page": 40,
+      "order_on_page": 2,
+      "file": "media/p040_img02.png",
+      "xref": 248,
+      "bbox": [
+        163.1,
+        580.49,
+        432.18,
+        733.09
+      ],
+      "pixel_width": 590,
+      "pixel_height": 334,
+      "caption": "夏氏砂锅美团信息",
+      "sha256": "edd32ef3c264ece7f1718b7f537acb3e321d4a20ed202c76ab742e4ae8e308dc",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

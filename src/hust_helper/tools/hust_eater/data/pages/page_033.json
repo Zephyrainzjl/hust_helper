@@ -1,0 +1,1093 @@
+{
+  "schema_version": "1.0",
+  "page_number": 33,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "第四章  武汉美食篇\n这一章主要介绍一些值得专程过去吃的店，部分店在第二章华科周边美食中有\n出现，我就直接搬运过来了。\n4.1  洪山区\n洪山区我基本上只吃过学校附近，可以参考第二章华科周边美食，下面仅记录\n我念念不忘的店铺。\n（1） 顺德古法干蒸菜\n这家店在第二章已经介绍过了，我直接 copy 下来。\n这家店啥也不说了，我给到夯，去吃过三次了，每次都觉得很好吃，而且\n点的都是不一样的菜，啥实力不用我说了。就一个问题，口味偏清淡，可能部\n分人会吃不习惯，我本人饮食习惯就偏清淡，所以吃起来很舒服。而且点菜要\n一次性点完，加菜很慢很麻烦。\n我推荐的菜：干蒸牛肉、干蒸鲈鱼、干蒸芝士排骨、干蒸排骨、干蒸手工\n肉干、潮汕鲜虾砂锅粥。其他的菜基本上都好吃，推荐的这几道是我巴不得每\n次都点的。\n顺德古法干蒸菜美团信息\n（2） 西安肉夹馍（铁机路店）：夜市摊\n这边出现了一家肉夹馍，显得有点格格不入。但是这应该是我在武汉吃过\n最好吃的肉夹馍了，所以我得推荐一手。就是过去有点儿不太方便。\n西安肉夹馍美团信息",
+  "lines": [
+    {
+      "page": 33,
+      "text": "第四章  武汉美食篇",
+      "bbox": [
+        90.024,
+        78.936,
+        237.463,
+        97.083
+      ],
+      "spans": [
+        {
+          "text": "第四章",
+          "bbox": [
+            90.024,
+            79.67,
+            137.904,
+            95.63
+          ],
+          "font": "SimSun",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            138.02,
+            78.936,
+            142.457,
+            96.732
+          ],
+          "font": "ArialMT",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "武汉美食篇",
+          "bbox": [
+            153.02,
+            79.67,
+            232.932,
+            95.63
+          ],
+          "font": "SimSun",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            233.09,
+            80.452,
+            237.463,
+            97.083
+          ],
+          "font": "DengXian-Light",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 15.96,
+      "order": 553
+    },
+    {
+      "page": 33,
+      "text": "这一章主要介绍一些值得专程过去吃的店，部分店在第二章华科周边美食中有",
+      "bbox": [
+        90.024,
+        108.992,
+        498.024,
+        120.992
+      ],
+      "spans": [
+        {
+          "text": "这一章主要介绍一些值得专程过去吃的店，部分店在第二章华科周边美食中有",
+          "bbox": [
+            90.024,
+            108.992,
+            498.024,
+            120.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 554
+    },
+    {
+      "page": 33,
+      "text": "出现，我就直接搬运过来了。",
+      "bbox": [
+        90.024,
+        132.008,
+        249.05,
+        145.292
+      ],
+      "spans": [
+        {
+          "text": "出现，我就直接搬运过来了。",
+          "bbox": [
+            90.024,
+            132.392,
+            246.024,
+            144.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            246.05,
+            132.008,
+            249.05,
+            145.292
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 555
+    },
+    {
+      "page": 33,
+      "text": "4.1  洪山区",
+      "bbox": [
+        90.024,
+        157.954,
+        171.53,
+        173.693
+      ],
+      "spans": [
+        {
+          "text": "4.1",
+          "bbox": [
+            90.024,
+            158.15,
+            107.616,
+            173.693
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            107.54,
+            157.954,
+            111.443,
+            173.608
+          ],
+          "font": "ArialMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "洪山区",
+          "bbox": [
+            126.02,
+            158.6,
+            168.14,
+            172.64
+          ],
+          "font": "SimSun",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            168.02,
+            158.15,
+            171.53,
+            173.693
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 14.04,
+      "order": 556
+    },
+    {
+      "page": 33,
+      "text": "洪山区我基本上只吃过学校附近，可以参考第二章华科周边美食，下面仅记录",
+      "bbox": [
+        90.024,
+        186.992,
+        498.024,
+        198.992
+      ],
+      "spans": [
+        {
+          "text": "洪山区我基本上只吃过学校附近，可以参考第二章华科周边美食，下面仅记录",
+          "bbox": [
+            90.024,
+            186.992,
+            498.024,
+            198.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 557
+    },
+    {
+      "page": 33,
+      "text": "我念念不忘的店铺。",
+      "bbox": [
+        90.024,
+        210.008,
+        201.05,
+        223.292
+      ],
+      "spans": [
+        {
+          "text": "我念念不忘的店铺。",
+          "bbox": [
+            90.024,
+            210.392,
+            198.024,
+            222.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            198.05,
+            210.008,
+            201.05,
+            223.292
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 558
+    },
+    {
+      "page": 33,
+      "text": "（1） 顺德古法干蒸菜",
+      "bbox": [
+        90.024,
+        233.24,
+        213.05,
+        246.692
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            233.792,
+            102.024,
+            245.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "1",
+          "bbox": [
+            102.02,
+            233.408,
+            108.02,
+            246.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            233.792,
+            120.02,
+            245.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            233.24,
+            123.356,
+            246.62
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "顺德古法干蒸菜",
+          "bbox": [
+            126.02,
+            233.792,
+            210.02,
+            245.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            210.05,
+            233.408,
+            213.05,
+            246.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 559
+    },
+    {
+      "page": 33,
+      "text": "这家店在第二章已经介绍过了，我直接 copy 下来。",
+      "bbox": [
+        114.02,
+        256.838,
+        386.35,
+        270.122
+      ],
+      "spans": [
+        {
+          "text": "这家店在第二章已经介绍过了，我直接",
+          "bbox": [
+            114.02,
+            257.222,
+            318.02,
+            269.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "copy",
+          "bbox": [
+            321.07,
+            256.838,
+            344.35,
+            270.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 下来。",
+          "bbox": [
+            344.35,
+            257.222,
+            383.35,
+            269.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            383.35,
+            256.838,
+            386.35,
+            270.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 560
+    },
+    {
+      "page": 33,
+      "text": "这家店啥也不说了，我给到夯，去吃过三次了，每次都觉得很好吃，而且",
+      "bbox": [
+        114.02,
+        280.622,
+        498.02,
+        292.622
+      ],
+      "spans": [
+        {
+          "text": "这家店啥也不说了，我给到夯，去吃过三次了，每次都觉得很好吃，而且",
+          "bbox": [
+            114.02,
+            280.622,
+            498.02,
+            292.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 561
+    },
+    {
+      "page": 33,
+      "text": "点的都是不一样的菜，啥实力不用我说了。就一个问题，口味偏清淡，可能部",
+      "bbox": [
+        90.024,
+        304.022,
+        498.024,
+        316.022
+      ],
+      "spans": [
+        {
+          "text": "点的都是不一样的菜，啥实力不用我说了。就一个问题，口味偏清淡，可能部",
+          "bbox": [
+            90.024,
+            304.022,
+            498.024,
+            316.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 562
+    },
+    {
+      "page": 33,
+      "text": "分人会吃不习惯，我本人饮食习惯就偏清淡，所以吃起来很舒服。而且点菜要",
+      "bbox": [
+        90.024,
+        327.422,
+        498.024,
+        339.422
+      ],
+      "spans": [
+        {
+          "text": "分人会吃不习惯，我本人饮食习惯就偏清淡，所以吃起来很舒服。而且点菜要",
+          "bbox": [
+            90.024,
+            327.422,
+            498.024,
+            339.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 563
+    },
+    {
+      "page": 33,
+      "text": "一次性点完，加菜很慢很麻烦。",
+      "bbox": [
+        90.024,
+        350.438,
+        261.05,
+        363.722
+      ],
+      "spans": [
+        {
+          "text": "一次性点完，加菜很慢很麻烦。",
+          "bbox": [
+            90.024,
+            350.822,
+            258.024,
+            362.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            258.05,
+            350.438,
+            261.05,
+            363.722
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 564
+    },
+    {
+      "page": 33,
+      "text": "我推荐的菜：干蒸牛肉、干蒸鲈鱼、干蒸芝士排骨、干蒸排骨、干蒸手工",
+      "bbox": [
+        114.02,
+        374.222,
+        498.05,
+        386.222
+      ],
+      "spans": [
+        {
+          "text": "我推荐的菜：",
+          "bbox": [
+            114.02,
+            374.222,
+            186.02,
+            386.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "干蒸牛肉、干蒸鲈鱼、干蒸芝士排骨、干蒸排骨、干蒸手工",
+          "bbox": [
+            186.05,
+            374.222,
+            498.05,
+            386.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "干蒸牛肉、干蒸鲈鱼、干蒸芝士排骨、干蒸排骨、干蒸手工"
+      ],
+      "red_segments": [
+        {
+          "text": "干蒸牛肉、干蒸鲈鱼、干蒸芝士排骨、干蒸排骨、干蒸手工",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 565
+    },
+    {
+      "page": 33,
+      "text": "肉干、潮汕鲜虾砂锅粥。其他的菜基本上都好吃，推荐的这几道是我巴不得每",
+      "bbox": [
+        90.024,
+        397.622,
+        498.05,
+        409.622
+      ],
+      "spans": [
+        {
+          "text": "肉干、潮汕鲜虾砂锅粥",
+          "bbox": [
+            90.024,
+            397.622,
+            210.024,
+            409.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。其他的菜基本上都好吃，推荐的这几道是我巴不得每",
+          "bbox": [
+            210.05,
+            397.622,
+            498.05,
+            409.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "肉干、潮汕鲜虾砂锅粥"
+      ],
+      "red_segments": [
+        {
+          "text": "肉干、潮汕鲜虾砂锅粥",
+          "at_line_start": true,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 566
+    },
+    {
+      "page": 33,
+      "text": "次都点的。",
+      "bbox": [
+        90.024,
+        420.658,
+        153.02,
+        433.942
+      ],
+      "spans": [
+        {
+          "text": "次都点的。",
+          "bbox": [
+            90.024,
+            421.042,
+            150.024,
+            433.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            150.02,
+            420.658,
+            153.02,
+            433.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 567
+    },
+    {
+      "page": 33,
+      "text": "顺德古法干蒸菜美团信息",
+      "bbox": [
+        231.65,
+        537.658,
+        366.67,
+        550.942
+      ],
+      "spans": [
+        {
+          "text": "顺德古法干蒸菜美团信息",
+          "bbox": [
+            231.65,
+            538.042,
+            363.65,
+            550.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            363.67,
+            537.658,
+            366.67,
+            550.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 568
+    },
+    {
+      "page": 33,
+      "text": "（2） 西安肉夹馍（铁机路店）：夜市摊",
+      "bbox": [
+        90.024,
+        560.89,
+        303.07,
+        574.342
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            561.442,
+            102.024,
+            573.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "2",
+          "bbox": [
+            102.02,
+            561.058,
+            108.02,
+            574.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            561.442,
+            120.02,
+            573.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            560.89,
+            123.356,
+            574.27
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "西安肉夹馍（铁机路店）：夜市摊",
+          "bbox": [
+            126.02,
+            561.442,
+            300.02,
+            573.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            300.07,
+            561.058,
+            303.07,
+            574.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 569
+    },
+    {
+      "page": 33,
+      "text": "这边出现了一家肉夹馍，显得有点格格不入。但是这应该是我在武汉吃过",
+      "bbox": [
+        114.02,
+        584.872,
+        498.02,
+        596.872
+      ],
+      "spans": [
+        {
+          "text": "这边出现了一家肉夹馍，显得有点格格不入。但是这应该是我在武汉吃过",
+          "bbox": [
+            114.02,
+            584.872,
+            498.02,
+            596.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 570
+    },
+    {
+      "page": 33,
+      "text": "最好吃的肉夹馍了，所以我得推荐一手。就是过去有点儿不太方便。",
+      "bbox": [
+        90.024,
+        607.888,
+        453.22,
+        621.172
+      ],
+      "spans": [
+        {
+          "text": "最好吃的",
+          "bbox": [
+            90.024,
+            608.272,
+            138.024,
+            620.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "肉夹馍",
+          "bbox": [
+            138.02,
+            608.272,
+            174.128,
+            620.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "了，所以我得推荐一手。就是过去有点儿不太方便。",
+          "bbox": [
+            174.26,
+            608.272,
+            450.14,
+            620.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            450.22,
+            607.888,
+            453.22,
+            621.172
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "肉夹馍"
+      ],
+      "red_segments": [
+        {
+          "text": "肉夹馍",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 571
+    },
+    {
+      "page": 33,
+      "text": "西安肉夹馍美团信息",
+      "bbox": [
+        243.65,
+        740.484,
+        354.67,
+        753.768
+      ],
+      "spans": [
+        {
+          "text": "西安肉夹馍美团信息",
+          "bbox": [
+            243.65,
+            740.868,
+            351.65,
+            752.868
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            351.67,
+            740.484,
+            354.67,
+            753.768
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 572
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p033-01",
+      "page": 33,
+      "order_on_page": 1,
+      "file": "media/p033_img01.png",
+      "xref": 223,
+      "bbox": [
+        217.3,
+        438.89,
+        377.95,
+        531.24
+      ],
+      "pixel_width": 492,
+      "pixel_height": 282,
+      "caption": "顺德古法干蒸菜美团信息",
+      "sha256": "07090ebc63fbb21010bc63177ab16406f004cd0959017a2df96464807941b85c",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p033-02",
+      "page": 33,
+      "order_on_page": 2,
+      "file": "media/p033_img02.png",
+      "xref": 224,
+      "bbox": [
+        209.9,
+        633.14,
+        384.88,
+        727.44
+      ],
+      "pixel_width": 540,
+      "pixel_height": 291,
+      "caption": "西安肉夹馍美团信息",
+      "sha256": "8ca8d72e36a4aba70098503c6bb7d640532f1e1a075b30e0ee684c84b0661965",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

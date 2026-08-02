@@ -1,0 +1,591 @@
+{
+  "schema_version": "1.0",
+  "page_number": 18,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "（14）越南米粉\n之前华科东四二楼的越南米粉，老板娘是越南人，涨价了，但是份量也加\n上去了，感觉比之前性价比高。它的米粉还是一如既往好吃，还多了一些越南\n本土小吃，上次点了越南春鸡，感觉真的挺好吃的。\n越南米粉美团信息\n（15）京之了火锅\n这家店，据说是要对标海底捞的品质和服务。我第一次接触它是前年参加\n学弟的毕业聚餐，当时应该是新店开业，好吃又实惠。现在价格涨了一点，菜\n的品质没有变化，还是一如既往的高，服务也很不错。点菜按照大众点评推荐\n点就行，都是比较好吃的。\n京之了火锅美团信息",
+  "lines": [
+    {
+      "page": 18,
+      "text": "（14）越南米粉",
+      "bbox": [
+        90.024,
+        77.408,
+        177.02,
+        90.692
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            77.792,
+            102.024,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "14",
+          "bbox": [
+            102.02,
+            77.408,
+            114.02,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）越南米粉",
+          "bbox": [
+            114.02,
+            77.792,
+            174.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            174.02,
+            77.408,
+            177.02,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 315
+    },
+    {
+      "page": 18,
+      "text": "之前华科东四二楼的越南米粉，老板娘是越南人，涨价了，但是份量也加",
+      "bbox": [
+        114.02,
+        101.192,
+        498.02,
+        113.192
+      ],
+      "spans": [
+        {
+          "text": "之前华科东四二楼的越南米粉，老板娘是越南人，涨价了，但是份量也加",
+          "bbox": [
+            114.02,
+            101.192,
+            498.02,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 316
+    },
+    {
+      "page": 18,
+      "text": "上去了，感觉比之前性价比高。它的米粉还是一如既往好吃，还多了一些越南",
+      "bbox": [
+        90.024,
+        124.592,
+        498.19,
+        136.592
+      ],
+      "spans": [
+        {
+          "text": "上去了，感觉比之前性价比高。它的",
+          "bbox": [
+            90.024,
+            124.592,
+            282.024,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "米粉",
+          "bbox": [
+            282.05,
+            124.592,
+            306.17,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "还是一如既往好吃，还多了一些越南",
+          "bbox": [
+            306.31,
+            124.592,
+            498.19,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "米粉"
+      ],
+      "red_segments": [
+        {
+          "text": "米粉",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 317
+    },
+    {
+      "page": 18,
+      "text": "本土小吃，上次点了越南春鸡，感觉真的挺好吃的。",
+      "bbox": [
+        90.024,
+        147.608,
+        369.19,
+        160.892
+      ],
+      "spans": [
+        {
+          "text": "本土小吃，上次点了",
+          "bbox": [
+            90.024,
+            147.992,
+            198.024,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "越南春鸡",
+          "bbox": [
+            198.05,
+            147.992,
+            246.158,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "，感觉真的挺好吃的。",
+          "bbox": [
+            246.29,
+            147.992,
+            366.17,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            366.19,
+            147.608,
+            369.19,
+            160.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "越南春鸡"
+      ],
+      "red_segments": [
+        {
+          "text": "越南春鸡",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 318
+    },
+    {
+      "page": 18,
+      "text": "越南米粉美团信息",
+      "bbox": [
+        249.65,
+        295.838,
+        348.67,
+        309.122
+      ],
+      "spans": [
+        {
+          "text": "越南米粉美团信息",
+          "bbox": [
+            249.65,
+            296.222,
+            345.65,
+            308.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            345.67,
+            295.838,
+            348.67,
+            309.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 319
+    },
+    {
+      "page": 18,
+      "text": "（15）京之了火锅",
+      "bbox": [
+        90.024,
+        319.238,
+        189.05,
+        332.522
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            319.622,
+            102.024,
+            331.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "15",
+          "bbox": [
+            102.02,
+            319.238,
+            114.02,
+            332.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）京之了火锅",
+          "bbox": [
+            114.02,
+            319.622,
+            186.02,
+            331.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            186.05,
+            319.238,
+            189.05,
+            332.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 320
+    },
+    {
+      "page": 18,
+      "text": "这家店，据说是要对标海底捞的品质和服务。我第一次接触它是前年参加",
+      "bbox": [
+        114.02,
+        343.022,
+        498.02,
+        355.022
+      ],
+      "spans": [
+        {
+          "text": "这家店，据说是要对标海底捞的品质和服务。我第一次接触它是前年参加",
+          "bbox": [
+            114.02,
+            343.022,
+            498.02,
+            355.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 321
+    },
+    {
+      "page": 18,
+      "text": "学弟的毕业聚餐，当时应该是新店开业，好吃又实惠。现在价格涨了一点，菜",
+      "bbox": [
+        90.024,
+        366.422,
+        498.024,
+        378.422
+      ],
+      "spans": [
+        {
+          "text": "学弟的毕业聚餐，当时应该是新店开业，好吃又实惠。现在价格涨了一点，菜",
+          "bbox": [
+            90.024,
+            366.422,
+            498.024,
+            378.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 322
+    },
+    {
+      "page": 18,
+      "text": "的品质没有变化，还是一如既往的高，服务也很不错。点菜按照大众点评推荐",
+      "bbox": [
+        90.024,
+        389.822,
+        498.024,
+        401.822
+      ],
+      "spans": [
+        {
+          "text": "的品质没有变化，还是一如既往的高，服务也很不错。点菜按照大众点评推荐",
+          "bbox": [
+            90.024,
+            389.822,
+            498.024,
+            401.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 323
+    },
+    {
+      "page": 18,
+      "text": "点就行，都是比较好吃的。",
+      "bbox": [
+        90.024,
+        412.858,
+        237.05,
+        426.142
+      ],
+      "spans": [
+        {
+          "text": "点就行，都是比较好吃的。",
+          "bbox": [
+            90.024,
+            413.242,
+            234.024,
+            425.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            234.05,
+            412.858,
+            237.05,
+            426.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 324
+    },
+    {
+      "page": 18,
+      "text": "京之了火锅美团信息",
+      "bbox": [
+        243.65,
+        561.058,
+        354.67,
+        574.342
+      ],
+      "spans": [
+        {
+          "text": "京之了火锅美团信息",
+          "bbox": [
+            243.65,
+            561.442,
+            351.65,
+            573.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            351.67,
+            561.058,
+            354.67,
+            574.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 325
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p018-01",
+      "page": 18,
+      "order_on_page": 1,
+      "file": "media/p018_img01.png",
+      "xref": 167,
+      "bbox": [
+        179.1,
+        171.0,
+        416.18,
+        284.6
+      ],
+      "pixel_width": 733,
+      "pixel_height": 350,
+      "caption": "越南米粉美团信息",
+      "sha256": "4ed70888f7681a5b505fd8368f25dfeb6f4e30e2c7712cc8086981f2417e92be",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p018-02",
+      "page": 18,
+      "order_on_page": 2,
+      "file": "media/p018_img02.png",
+      "xref": 168,
+      "bbox": [
+        170.9,
+        436.04,
+        424.4,
+        550.34
+      ],
+      "pixel_width": 776,
+      "pixel_height": 350,
+      "caption": "京之了火锅美团信息",
+      "sha256": "2fcb1ebb68afc3f8b2c55eb723780828b32ae971ec223fdce8d1a6901bbc0ba8",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

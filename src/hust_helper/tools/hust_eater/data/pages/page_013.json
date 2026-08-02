@@ -1,0 +1,700 @@
+{
+  "schema_version": "1.0",
+  "page_number": 13,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "2.2  中区外\n中区外主要是光谷大道以西到关山街道两侧，雄楚大道以北，如图所示：\n中区外范围\n（1） 鱼来鱼美养身鱼火锅：火锅\n不得不说，鱼肉是真鲜啊，巨好吃，强推鱼火锅。但是，我上次去吃的时\n候，火锅中没有其他素配菜，全是鱼肉和调料，我本人是喜欢荤素搭配的，不\n知道现在是怎么样。要吃的话得提前一天打电话预约，当天去没法做。\n鱼来鱼美养身鱼火锅美团信息\n（2） 锅神麻辣烫\n算是华科附近比较好吃的麻辣烫了。切记！不能吃辣的千万别点微辣。\n锅神麻辣烫美团信息",
+  "lines": [
+    {
+      "page": 13,
+      "text": "2.2  中区外",
+      "bbox": [
+        90.024,
+        79.954,
+        171.53,
+        95.693
+      ],
+      "spans": [
+        {
+          "text": "2.2",
+          "bbox": [
+            90.024,
+            80.15,
+            107.616,
+            95.693
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            107.54,
+            79.954,
+            111.443,
+            95.608
+          ],
+          "font": "ArialMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "中区外",
+          "bbox": [
+            126.02,
+            80.6,
+            168.14,
+            94.64
+          ],
+          "font": "SimSun",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            168.02,
+            80.15,
+            171.53,
+            95.693
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 14.04,
+      "order": 236
+    },
+    {
+      "page": 13,
+      "text": "中区外主要是光谷大道以西到关山街道两侧，雄楚大道以北，如图所示：",
+      "bbox": [
+        90.024,
+        108.608,
+        477.1,
+        121.892
+      ],
+      "spans": [
+        {
+          "text": "中区外主要是光谷大道以西到关山街道两侧，雄楚大道以北，如图所示：",
+          "bbox": [
+            90.024,
+            108.992,
+            474.024,
+            120.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            474.1,
+            108.608,
+            477.1,
+            121.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 237
+    },
+    {
+      "page": 13,
+      "text": "中区外范围",
+      "bbox": [
+        267.65,
+        303.638,
+        330.67,
+        316.922
+      ],
+      "spans": [
+        {
+          "text": "中区外范围",
+          "bbox": [
+            267.65,
+            304.022,
+            327.65,
+            316.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            327.67,
+            303.638,
+            330.67,
+            316.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 238
+    },
+    {
+      "page": 13,
+      "text": "（1） 鱼来鱼美养身鱼火锅：火锅",
+      "bbox": [
+        90.024,
+        326.87,
+        273.05,
+        340.322
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            327.422,
+            102.024,
+            339.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "1",
+          "bbox": [
+            102.02,
+            327.038,
+            108.02,
+            340.322
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            327.422,
+            120.02,
+            339.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            326.87,
+            123.356,
+            340.25
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "鱼来鱼美养身鱼火锅：火锅",
+          "bbox": [
+            126.02,
+            327.422,
+            270.02,
+            339.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            270.05,
+            327.038,
+            273.05,
+            340.322
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 239
+    },
+    {
+      "page": 13,
+      "text": "不得不说，鱼肉是真鲜啊，巨好吃，强推鱼火锅。但是，我上次去吃的时",
+      "bbox": [
+        114.02,
+        350.822,
+        498.19,
+        362.822
+      ],
+      "spans": [
+        {
+          "text": "不得不说，鱼肉是真鲜啊，巨好吃，强推",
+          "bbox": [
+            114.02,
+            350.822,
+            330.02,
+            362.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "鱼火锅",
+          "bbox": [
+            330.07,
+            350.822,
+            366.178,
+            362.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。但是，我上次去吃的时",
+          "bbox": [
+            366.31,
+            350.822,
+            498.19,
+            362.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "鱼火锅"
+      ],
+      "red_segments": [
+        {
+          "text": "鱼火锅",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 240
+    },
+    {
+      "page": 13,
+      "text": "候，火锅中没有其他素配菜，全是鱼肉和调料，我本人是喜欢荤素搭配的，不",
+      "bbox": [
+        90.024,
+        374.222,
+        498.024,
+        386.222
+      ],
+      "spans": [
+        {
+          "text": "候，火锅中没有其他素配菜，全是鱼肉和调料，我本人是喜欢荤素搭配的，不",
+          "bbox": [
+            90.024,
+            374.222,
+            498.024,
+            386.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 241
+    },
+    {
+      "page": 13,
+      "text": "知道现在是怎么样。要吃的话得提前一天打电话预约，当天去没法做。",
+      "bbox": [
+        90.024,
+        397.238,
+        465.1,
+        410.522
+      ],
+      "spans": [
+        {
+          "text": "知道现在是怎么样。要吃的话得提前一天打电话预约，当天去没法做。",
+          "bbox": [
+            90.024,
+            397.622,
+            462.024,
+            409.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            462.1,
+            397.238,
+            465.1,
+            410.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 242
+    },
+    {
+      "page": 13,
+      "text": "鱼来鱼美养身鱼火锅美团信息",
+      "bbox": [
+        219.65,
+        561.058,
+        378.67,
+        574.342
+      ],
+      "spans": [
+        {
+          "text": "鱼来鱼美养身鱼火锅美团信息",
+          "bbox": [
+            219.65,
+            561.442,
+            375.65,
+            573.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            375.67,
+            561.058,
+            378.67,
+            574.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 243
+    },
+    {
+      "page": 13,
+      "text": "（2） 锅神麻辣烫",
+      "bbox": [
+        90.024,
+        584.32,
+        189.05,
+        597.772
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            584.872,
+            102.024,
+            596.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "2",
+          "bbox": [
+            102.02,
+            584.488,
+            108.02,
+            597.772
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            584.872,
+            120.02,
+            596.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            584.32,
+            123.356,
+            597.7
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "锅神麻辣烫",
+          "bbox": [
+            126.02,
+            584.872,
+            186.02,
+            596.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            186.05,
+            584.488,
+            189.05,
+            597.772
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 244
+    },
+    {
+      "page": 13,
+      "text": "算是华科附近比较好吃的麻辣烫了。切记！不能吃辣的千万别点微辣。",
+      "bbox": [
+        114.02,
+        607.888,
+        489.1,
+        621.172
+      ],
+      "spans": [
+        {
+          "text": "算是华科附近比较好吃的麻辣烫了。切记！不能吃辣的千万别点微辣。",
+          "bbox": [
+            114.02,
+            608.272,
+            486.02,
+            620.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            486.1,
+            607.888,
+            489.1,
+            621.172
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 245
+    },
+    {
+      "page": 13,
+      "text": "锅神麻辣烫美团信息",
+      "bbox": [
+        243.65,
+        740.484,
+        354.67,
+        753.768
+      ],
+      "spans": [
+        {
+          "text": "锅神麻辣烫美团信息",
+          "bbox": [
+            243.65,
+            740.868,
+            351.65,
+            752.868
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            351.67,
+            740.484,
+            354.67,
+            753.768
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 246
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p013-01",
+      "page": 13,
+      "order_on_page": 1,
+      "file": "media/p013_img01.png",
+      "xref": 148,
+      "bbox": [
+        184.4,
+        134.4,
+        410.65,
+        290.3
+      ],
+      "pixel_width": 550,
+      "pixel_height": 379,
+      "caption": "中区外范围",
+      "sha256": "843a3d18ba2059b24f4608031a1660b340657b98f1cce11eff17090105ac5833",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p013-02",
+      "page": 13,
+      "order_on_page": 2,
+      "file": "media/p013_img02.png",
+      "xref": 149,
+      "bbox": [
+        184.98,
+        421.65,
+        410.29,
+        548.55
+      ],
+      "pixel_width": 695,
+      "pixel_height": 391,
+      "caption": "鱼来鱼美养身鱼火锅美团信息",
+      "sha256": "80474d2d34cb4ee98c9112bc95166bb752ed1f56991c65ed9e9d33ba19b98bcd",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p013-03",
+      "page": 13,
+      "order_on_page": 3,
+      "file": "media/p013_img03.png",
+      "xref": 150,
+      "bbox": [
+        187.95,
+        626.29,
+        407.3,
+        734.49
+      ],
+      "pixel_width": 677,
+      "pixel_height": 334,
+      "caption": "锅神麻辣烫美团信息",
+      "sha256": "ff0301a16edbdd92d1aefc3aea89853ee6a0f7e07fef7ad27e63284dbf922981",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

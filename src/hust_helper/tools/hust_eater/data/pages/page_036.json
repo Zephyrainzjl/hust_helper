@@ -1,0 +1,1122 @@
+{
+  "schema_version": "1.0",
+  "page_number": 36,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "次去都吃这几道菜，别的菜我都还没来得及尝试。\n阿德鱼湾美团信息\n（2） 肥肥虾庄（首义路店）\n肥肥虾庄其实是连锁店，我到现在只吃过两家，江汉路的（那家店只吃了\n虾），还有首义路这家（这家店只吃了饭菜）。当时是带来武汉旅游的朋友去吃\n的，点了几道菜，有几道特别惊艳，因此放在这边推荐一手。\n干煸藕丝（这家店的干煸藕丝真的有说法，很好吃，而且做的很规整）、藕\n汤（排骨的味道略微盖过了藕，但是不影响它好吃）、油焖大虾（既然是连锁\n店，我在江汉路店觉得好吃的油焖大虾就一起放过来了）、老武汉凉面。\n肥肥虾庄美团信息\n（3） 曼谷五巷（汉街店）\n严格来说，这是我朋友喜欢吃的店，带我们去过一次，大部分菜品我都很\n喜欢，但是因为价格有点小贵，再加上我本身不太爱吃东南亚的菜系，就没有\n去第二次，但是想体验的话，这家店我推荐一手。\n下面给出几道推荐的菜：咖喱皇大虾、香茅沙爹鸡肉串、芒果糯米饭（收\n不了略甜口感米饭的慎入，我因为吃的惯，所以觉得好吃）、斑斓叶酱烤吐司、\n碳烤猪颈肉。大众点评推荐最多的是冬阴功海鲜汤锅，我个人还没有尝试过。\n曼谷五巷美团信息",
+  "lines": [
+    {
+      "page": 36,
+      "text": "次去都吃这几道菜，别的菜我都还没来得及尝试。",
+      "bbox": [
+        90.024,
+        77.408,
+        357.07,
+        90.692
+      ],
+      "spans": [
+        {
+          "text": "次去都吃这几道菜，别的菜我都还没来得及尝试。",
+          "bbox": [
+            90.024,
+            77.792,
+            354.024,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            354.07,
+            77.408,
+            357.07,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 612
+    },
+    {
+      "page": 36,
+      "text": "阿德鱼湾美团信息",
+      "bbox": [
+        249.65,
+        210.008,
+        348.67,
+        223.292
+      ],
+      "spans": [
+        {
+          "text": "阿德鱼湾美团信息",
+          "bbox": [
+            249.65,
+            210.392,
+            345.65,
+            222.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            345.67,
+            210.008,
+            348.67,
+            223.292
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 613
+    },
+    {
+      "page": 36,
+      "text": "（2） 肥肥虾庄（首义路店）",
+      "bbox": [
+        90.024,
+        233.24,
+        249.05,
+        246.692
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            233.792,
+            102.024,
+            245.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "2",
+          "bbox": [
+            102.02,
+            233.408,
+            108.02,
+            246.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            233.792,
+            120.02,
+            245.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            233.24,
+            123.356,
+            246.62
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "肥肥虾庄（首义路店）",
+          "bbox": [
+            126.02,
+            233.792,
+            246.02,
+            245.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            246.05,
+            233.408,
+            249.05,
+            246.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 614
+    },
+    {
+      "page": 36,
+      "text": "肥肥虾庄其实是连锁店，我到现在只吃过两家，江汉路的（那家店只吃了",
+      "bbox": [
+        114.02,
+        257.222,
+        498.02,
+        269.222
+      ],
+      "spans": [
+        {
+          "text": "肥肥虾庄其实是连锁店，我到现在只吃过两家，江汉路的（那家店只吃了",
+          "bbox": [
+            114.02,
+            257.222,
+            498.02,
+            269.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 615
+    },
+    {
+      "page": 36,
+      "text": "虾），还有首义路这家（这家店只吃了饭菜）。当时是带来武汉旅游的朋友去吃",
+      "bbox": [
+        90.024,
+        280.622,
+        498.024,
+        292.622
+      ],
+      "spans": [
+        {
+          "text": "虾），还有首义路这家（这家店只吃了饭菜）。当时是带来武汉旅游的朋友去吃",
+          "bbox": [
+            90.024,
+            280.622,
+            498.024,
+            292.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 616
+    },
+    {
+      "page": 36,
+      "text": "的，点了几道菜，有几道特别惊艳，因此放在这边推荐一手。",
+      "bbox": [
+        90.024,
+        303.638,
+        417.1,
+        316.922
+      ],
+      "spans": [
+        {
+          "text": "的，点了几道菜，有几道特别惊艳，因此放在这边推荐一手。",
+          "bbox": [
+            90.024,
+            304.022,
+            414.024,
+            316.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            414.1,
+            303.638,
+            417.1,
+            316.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 617
+    },
+    {
+      "page": 36,
+      "text": "干煸藕丝（这家店的干煸藕丝真的有说法，很好吃，而且做的很规整）、藕",
+      "bbox": [
+        114.14,
+        327.422,
+        504.46,
+        339.422
+      ],
+      "spans": [
+        {
+          "text": "干煸藕丝",
+          "bbox": [
+            114.14,
+            327.422,
+            162.356,
+            339.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（这家店的干煸藕丝真的有说法，很好吃，而且做的很规整）、",
+          "bbox": [
+            162.5,
+            327.422,
+            492.38,
+            339.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "藕",
+          "bbox": [
+            492.46,
+            327.422,
+            504.46,
+            339.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "干煸藕丝",
+        "藕"
+      ],
+      "red_segments": [
+        {
+          "text": "干煸藕丝",
+          "at_line_start": true,
+          "at_line_end": false
+        },
+        {
+          "text": "藕",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 618
+    },
+    {
+      "page": 36,
+      "text": "汤（排骨的味道略微盖过了藕，但是不影响它好吃）、油焖大虾（既然是连锁",
+      "bbox": [
+        90.024,
+        350.822,
+        492.34,
+        362.822
+      ],
+      "spans": [
+        {
+          "text": "汤",
+          "bbox": [
+            90.024,
+            350.822,
+            102.024,
+            362.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（排骨的味道略微盖过了藕，但是不影响它好吃）、",
+          "bbox": [
+            102.14,
+            350.822,
+            372.02,
+            362.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "油焖大虾",
+          "bbox": [
+            372.07,
+            350.822,
+            420.286,
+            362.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（既然是连锁",
+          "bbox": [
+            420.46,
+            350.822,
+            492.34,
+            362.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "汤",
+        "油焖大虾"
+      ],
+      "red_segments": [
+        {
+          "text": "汤",
+          "at_line_start": true,
+          "at_line_end": false
+        },
+        {
+          "text": "油焖大虾",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 619
+    },
+    {
+      "page": 36,
+      "text": "店，我在江汉路店觉得好吃的油焖大虾就一起放过来了）、老武汉凉面。",
+      "bbox": [
+        90.024,
+        373.838,
+        471.34,
+        387.122
+      ],
+      "spans": [
+        {
+          "text": "店，我在江汉路店觉得好吃的油焖大虾就一起放过来了）、",
+          "bbox": [
+            90.024,
+            374.222,
+            396.024,
+            386.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "老武汉凉面",
+          "bbox": [
+            396.07,
+            374.222,
+            456.286,
+            386.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。",
+          "bbox": [
+            456.46,
+            374.222,
+            468.46,
+            386.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            468.34,
+            373.838,
+            471.34,
+            387.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "老武汉凉面"
+      ],
+      "red_segments": [
+        {
+          "text": "老武汉凉面",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 620
+    },
+    {
+      "page": 36,
+      "text": "肥肥虾庄美团信息",
+      "bbox": [
+        249.65,
+        475.258,
+        348.67,
+        488.542
+      ],
+      "spans": [
+        {
+          "text": "肥肥虾庄美团信息",
+          "bbox": [
+            249.65,
+            475.642,
+            345.65,
+            487.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            345.67,
+            475.258,
+            348.67,
+            488.542
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 621
+    },
+    {
+      "page": 36,
+      "text": "（3） 曼谷五巷（汉街店）",
+      "bbox": [
+        90.024,
+        498.49,
+        237.05,
+        511.942
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            499.042,
+            102.024,
+            511.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "3",
+          "bbox": [
+            102.02,
+            498.658,
+            108.02,
+            511.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            499.042,
+            120.02,
+            511.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            498.49,
+            123.356,
+            511.87
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "曼谷五巷（汉街店）",
+          "bbox": [
+            126.02,
+            499.042,
+            234.02,
+            511.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            234.05,
+            498.658,
+            237.05,
+            511.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 622
+    },
+    {
+      "page": 36,
+      "text": "严格来说，这是我朋友喜欢吃的店，带我们去过一次，大部分菜品我都很",
+      "bbox": [
+        114.02,
+        522.442,
+        498.02,
+        534.442
+      ],
+      "spans": [
+        {
+          "text": "严格来说，这是我朋友喜欢吃的店，带我们去过一次，大部分菜品我都很",
+          "bbox": [
+            114.02,
+            522.442,
+            498.02,
+            534.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 623
+    },
+    {
+      "page": 36,
+      "text": "喜欢，但是因为价格有点小贵，再加上我本身不太爱吃东南亚的菜系，就没有",
+      "bbox": [
+        90.024,
+        545.842,
+        498.024,
+        557.842
+      ],
+      "spans": [
+        {
+          "text": "喜欢，但是因为价格有点小贵，再加上我本身不太爱吃东南亚的菜系，就没有",
+          "bbox": [
+            90.024,
+            545.842,
+            498.024,
+            557.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 624
+    },
+    {
+      "page": 36,
+      "text": "去第二次，但是想体验的话，这家店我推荐一手。",
+      "bbox": [
+        90.024,
+        568.858,
+        357.07,
+        582.142
+      ],
+      "spans": [
+        {
+          "text": "去第二次，但是想体验的话，这家店我推荐一手。",
+          "bbox": [
+            90.024,
+            569.242,
+            354.024,
+            581.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            354.07,
+            568.858,
+            357.07,
+            582.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 625
+    },
+    {
+      "page": 36,
+      "text": "下面给出几道推荐的菜：咖喱皇大虾、香茅沙爹鸡肉串、芒果糯米饭（收",
+      "bbox": [
+        114.02,
+        592.672,
+        499.06,
+        604.672
+      ],
+      "spans": [
+        {
+          "text": "下面给出几道推荐的菜：",
+          "bbox": [
+            114.02,
+            592.672,
+            246.02,
+            604.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "咖喱皇大虾、香茅沙爹鸡肉串、芒果糯米饭",
+          "bbox": [
+            246.05,
+            592.672,
+            475.036,
+            604.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（收",
+          "bbox": [
+            475.06,
+            592.672,
+            499.06,
+            604.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "咖喱皇大虾、香茅沙爹鸡肉串、芒果糯米饭"
+      ],
+      "red_segments": [
+        {
+          "text": "咖喱皇大虾、香茅沙爹鸡肉串、芒果糯米饭",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 626
+    },
+    {
+      "page": 36,
+      "text": "不了略甜口感米饭的慎入，我因为吃的惯，所以觉得好吃）、斑斓叶酱烤吐司、",
+      "bbox": [
+        90.024,
+        616.072,
+        504.58,
+        628.072
+      ],
+      "spans": [
+        {
+          "text": "不了略甜口感米饭的慎入，我因为吃的惯，所以觉得好吃）、",
+          "bbox": [
+            90.024,
+            616.072,
+            408.024,
+            628.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "斑斓叶酱烤吐司",
+          "bbox": [
+            408.07,
+            616.072,
+            492.394,
+            628.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "、",
+          "bbox": [
+            492.58,
+            616.072,
+            504.58,
+            628.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "斑斓叶酱烤吐司"
+      ],
+      "red_segments": [
+        {
+          "text": "斑斓叶酱烤吐司",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 627
+    },
+    {
+      "page": 36,
+      "text": "碳烤猪颈肉。大众点评推荐最多的是冬阴功海鲜汤锅，我个人还没有尝试过。",
+      "bbox": [
+        90.024,
+        639.088,
+        501.7,
+        652.372
+      ],
+      "spans": [
+        {
+          "text": "碳烤猪颈肉",
+          "bbox": [
+            90.024,
+            639.472,
+            150.24,
+            651.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。大众点评推荐最多的是",
+          "bbox": [
+            150.38,
+            639.472,
+            282.26,
+            651.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "冬阴功海鲜汤锅",
+          "bbox": [
+            282.29,
+            639.472,
+            366.614,
+            651.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "，我个人还没有尝试过。",
+          "bbox": [
+            366.79,
+            639.472,
+            498.67,
+            651.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            498.7,
+            639.088,
+            501.7,
+            652.372
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "碳烤猪颈肉",
+        "冬阴功海鲜汤锅"
+      ],
+      "red_segments": [
+        {
+          "text": "碳烤猪颈肉",
+          "at_line_start": true,
+          "at_line_end": false
+        },
+        {
+          "text": "冬阴功海鲜汤锅",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 628
+    },
+    {
+      "page": 36,
+      "text": "曼谷五巷美团信息",
+      "bbox": [
+        249.65,
+        740.484,
+        348.67,
+        753.768
+      ],
+      "spans": [
+        {
+          "text": "曼谷五巷美团信息",
+          "bbox": [
+            249.65,
+            740.868,
+            345.65,
+            752.868
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            345.67,
+            740.484,
+            348.67,
+            753.768
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 629
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p036-01",
+      "page": 36,
+      "order_on_page": 1,
+      "file": "media/p036_img01.png",
+      "xref": 232,
+      "bbox": [
+        219.65,
+        102.47,
+        375.55,
+        197.5
+      ],
+      "pixel_width": 487,
+      "pixel_height": 297,
+      "caption": "阿德鱼湾美团信息",
+      "sha256": "daf87bb53b7f13e872406c41f8b17559f2c8fcb562e0413b36129b7c92eae023",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p036-02",
+      "page": 36,
+      "order_on_page": 2,
+      "file": "media/p036_img02.png",
+      "xref": 233,
+      "bbox": [
+        222.65,
+        393.92,
+        372.45,
+        467.67
+      ],
+      "pixel_width": 481,
+      "pixel_height": 237,
+      "caption": "肥肥虾庄美团信息",
+      "sha256": "e3a461e8148ed48c3e767ee6e4cee269c1d794692b26f9380d9e112af6250e36",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p036-03",
+      "page": 36,
+      "order_on_page": 3,
+      "file": "media/p036_img03.png",
+      "xref": 234,
+      "bbox": [
+        221.15,
+        657.74,
+        373.97,
+        733.79
+      ],
+      "pixel_width": 475,
+      "pixel_height": 235,
+      "caption": "曼谷五巷美团信息",
+      "sha256": "98bcc84a797cc9767c17ad91cb9c5d70b8c6e8fa95f240a6e7de311f1a840feb",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

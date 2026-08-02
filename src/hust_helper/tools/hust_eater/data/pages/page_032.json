@@ -1,0 +1,1176 @@
+{
+  "schema_version": "1.0",
+  "page_number": 32,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "（2） 膳福记水饺\n武汉文旅推荐，说水饺很好吃，我自己还没吃过。\n膳福记水饺美团信息\n（3） 胡小胖牛杂萝卜汤牛肉面\n武汉文旅推荐，说牛杂/牛肉萝卜粉/面很好吃，我自己还没吃过。\n胡小胖牛杂萝卜汤牛肉面美团信息\n（4） 西大街豆皮大王\n武汉文旅推荐，说豆皮很好吃，我自己还没吃过。\n西大街豆皮大王\n（5） 五龙路\n武汉文旅推荐的过早街，据说有很多好吃的早饭，我自己还没去过。\n（6） 玫瑰街\n武汉文旅推荐的过早街，我自己还没去过。推荐的有：周姐牛肉小包、阿\n宝生煎包、鹏记热干面生烫牛肉、吴氏金锅条。",
+  "lines": [
+    {
+      "page": 32,
+      "text": "（2） 膳福记水饺",
+      "bbox": [
+        90.024,
+        77.24,
+        189.05,
+        90.692
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            77.792,
+            102.024,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "2",
+          "bbox": [
+            102.02,
+            77.408,
+            108.02,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            77.792,
+            120.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            77.24,
+            123.356,
+            90.62
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "膳福记水饺",
+          "bbox": [
+            126.02,
+            77.792,
+            186.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            186.05,
+            77.408,
+            189.05,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 539
+    },
+    {
+      "page": 32,
+      "text": "武汉文旅推荐，说水饺很好吃，我自己还没吃过。",
+      "bbox": [
+        114.02,
+        100.808,
+        381.19,
+        114.092
+      ],
+      "spans": [
+        {
+          "text": "武汉文旅推荐，说",
+          "bbox": [
+            114.02,
+            101.192,
+            210.02,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "水饺",
+          "bbox": [
+            210.05,
+            101.192,
+            234.17,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "很好吃，我自己还没吃过。",
+          "bbox": [
+            234.17,
+            101.192,
+            378.17,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            378.19,
+            100.808,
+            381.19,
+            114.092
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "水饺"
+      ],
+      "red_segments": [
+        {
+          "text": "水饺",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 540
+    },
+    {
+      "page": 32,
+      "text": "膳福记水饺美团信息",
+      "bbox": [
+        243.65,
+        249.038,
+        354.67,
+        262.322
+      ],
+      "spans": [
+        {
+          "text": "膳福记水饺美团信息",
+          "bbox": [
+            243.65,
+            249.422,
+            351.65,
+            261.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            351.67,
+            249.038,
+            354.67,
+            262.322
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 541
+    },
+    {
+      "page": 32,
+      "text": "（3） 胡小胖牛杂萝卜汤牛肉面",
+      "bbox": [
+        90.024,
+        272.27,
+        261.05,
+        285.722
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            272.822,
+            102.024,
+            284.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "3",
+          "bbox": [
+            102.02,
+            272.438,
+            108.02,
+            285.722
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            272.822,
+            120.02,
+            284.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            272.27,
+            123.356,
+            285.65
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "胡小胖牛杂萝卜汤牛肉面",
+          "bbox": [
+            126.02,
+            272.822,
+            258.02,
+            284.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            258.05,
+            272.438,
+            261.05,
+            285.722
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 542
+    },
+    {
+      "page": 32,
+      "text": "武汉文旅推荐，说牛杂/牛肉萝卜粉/面很好吃，我自己还没吃过。",
+      "bbox": [
+        114.02,
+        295.838,
+        460.18,
+        309.122
+      ],
+      "spans": [
+        {
+          "text": "武汉文旅推荐，说",
+          "bbox": [
+            114.02,
+            296.222,
+            210.02,
+            308.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "牛杂",
+          "bbox": [
+            210.05,
+            296.222,
+            234.17,
+            308.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "/",
+          "bbox": [
+            234.17,
+            295.838,
+            237.506,
+            309.122
+          ],
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": true,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "牛肉萝卜粉",
+          "bbox": [
+            237.53,
+            296.222,
+            297.746,
+            308.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "/",
+          "bbox": [
+            297.91,
+            295.838,
+            301.246,
+            309.122
+          ],
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": true,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "面",
+          "bbox": [
+            301.15,
+            296.222,
+            313.15,
+            308.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "很好吃，我自己还没吃过。",
+          "bbox": [
+            313.27,
+            296.222,
+            457.15,
+            308.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            457.18,
+            295.838,
+            460.18,
+            309.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "牛杂",
+        "/",
+        "牛肉萝卜粉",
+        "/",
+        "面"
+      ],
+      "red_segments": [
+        {
+          "text": "牛杂/牛肉萝卜粉/面",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 543
+    },
+    {
+      "page": 32,
+      "text": "胡小胖牛杂萝卜汤牛肉面美团信息",
+      "bbox": [
+        207.65,
+        444.058,
+        390.67,
+        457.342
+      ],
+      "spans": [
+        {
+          "text": "胡小胖牛杂萝卜汤牛肉面美团信息",
+          "bbox": [
+            207.65,
+            444.442,
+            387.65,
+            456.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            387.67,
+            444.058,
+            390.67,
+            457.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 544
+    },
+    {
+      "page": 32,
+      "text": "（4） 西大街豆皮大王",
+      "bbox": [
+        90.024,
+        467.29,
+        213.05,
+        480.742
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            467.842,
+            102.024,
+            479.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "4",
+          "bbox": [
+            102.02,
+            467.458,
+            108.02,
+            480.742
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            467.842,
+            120.02,
+            479.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            467.29,
+            123.356,
+            480.67
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "西大街豆皮大王",
+          "bbox": [
+            126.02,
+            467.842,
+            210.02,
+            479.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            210.05,
+            467.458,
+            213.05,
+            480.742
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 545
+    },
+    {
+      "page": 32,
+      "text": "武汉文旅推荐，说豆皮很好吃，我自己还没吃过。",
+      "bbox": [
+        114.02,
+        490.858,
+        381.19,
+        504.142
+      ],
+      "spans": [
+        {
+          "text": "武汉文旅推荐，说",
+          "bbox": [
+            114.02,
+            491.242,
+            210.02,
+            503.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "豆皮",
+          "bbox": [
+            210.05,
+            491.242,
+            234.17,
+            503.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "很好吃，我自己还没吃过。",
+          "bbox": [
+            234.17,
+            491.242,
+            378.17,
+            503.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            378.19,
+            490.858,
+            381.19,
+            504.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "豆皮"
+      ],
+      "red_segments": [
+        {
+          "text": "豆皮",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 546
+    },
+    {
+      "page": 32,
+      "text": "西大街豆皮大王",
+      "bbox": [
+        255.65,
+        623.488,
+        342.67,
+        636.772
+      ],
+      "spans": [
+        {
+          "text": "西大街豆皮大王",
+          "bbox": [
+            255.65,
+            623.872,
+            339.65,
+            635.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            339.67,
+            623.488,
+            342.67,
+            636.772
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 547
+    },
+    {
+      "page": 32,
+      "text": "（5） 五龙路",
+      "bbox": [
+        90.024,
+        646.72,
+        165.02,
+        660.172
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            647.272,
+            102.024,
+            659.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "5",
+          "bbox": [
+            102.02,
+            646.888,
+            108.02,
+            660.172
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            647.272,
+            120.02,
+            659.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            646.72,
+            123.356,
+            660.1
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "五龙路",
+          "bbox": [
+            126.02,
+            647.272,
+            162.02,
+            659.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            162.02,
+            646.888,
+            165.02,
+            660.172
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 548
+    },
+    {
+      "page": 32,
+      "text": "武汉文旅推荐的过早街，据说有很多好吃的早饭，我自己还没去过。",
+      "bbox": [
+        114.02,
+        670.288,
+        477.1,
+        683.572
+      ],
+      "spans": [
+        {
+          "text": "武汉文旅推荐的过早街，据说有很多好吃的早饭，我自己还没去过。",
+          "bbox": [
+            114.02,
+            670.672,
+            474.02,
+            682.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            474.1,
+            670.288,
+            477.1,
+            683.572
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 549
+    },
+    {
+      "page": 32,
+      "text": "（6） 玫瑰街",
+      "bbox": [
+        90.024,
+        693.52,
+        165.02,
+        706.972
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            694.072,
+            102.024,
+            706.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "6",
+          "bbox": [
+            102.02,
+            693.688,
+            108.02,
+            706.972
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            694.072,
+            120.02,
+            706.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            693.52,
+            123.356,
+            706.9
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "玫瑰街",
+          "bbox": [
+            126.02,
+            694.072,
+            162.02,
+            706.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            162.02,
+            693.688,
+            165.02,
+            706.972
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 550
+    },
+    {
+      "page": 32,
+      "text": "武汉文旅推荐的过早街，我自己还没去过。推荐的有：周姐牛肉小包、阿",
+      "bbox": [
+        114.02,
+        717.472,
+        498.394,
+        729.472
+      ],
+      "spans": [
+        {
+          "text": "武汉文旅推荐的过早街，我自己还没去过。推荐的有：",
+          "bbox": [
+            114.02,
+            717.472,
+            402.07,
+            729.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "周姐牛肉小包、阿",
+          "bbox": [
+            402.07,
+            717.472,
+            498.394,
+            729.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "周姐牛肉小包、阿"
+      ],
+      "red_segments": [
+        {
+          "text": "周姐牛肉小包、阿",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 551
+    },
+    {
+      "page": 32,
+      "text": "宝生煎包、鹏记热干面生烫牛肉、吴氏金锅条。",
+      "bbox": [
+        90.024,
+        738.666,
+        490.57,
+        754.209
+      ],
+      "spans": [
+        {
+          "text": "宝生煎包、鹏记热干面生烫牛肉、吴氏金锅条",
+          "bbox": [
+            90.024,
+            740.868,
+            330.888,
+            752.868
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。",
+          "bbox": [
+            331.03,
+            740.868,
+            343.03,
+            752.868
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            343.03,
+            740.484,
+            346.03,
+            753.768
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            487.06,
+            738.666,
+            490.57,
+            754.209
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "宝生煎包、鹏记热干面生烫牛肉、吴氏金锅条"
+      ],
+      "red_segments": [
+        {
+          "text": "宝生煎包、鹏记热干面生烫牛肉、吴氏金锅条",
+          "at_line_start": true,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 14.04,
+      "order": 552
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p032-01",
+      "page": 32,
+      "order_on_page": 1,
+      "file": "media/p032_img01.png",
+      "xref": 219,
+      "bbox": [
+        188.0,
+        119.7,
+        407.3,
+        242.18
+      ],
+      "pixel_width": 581,
+      "pixel_height": 324,
+      "caption": "膳福记水饺美团信息",
+      "sha256": "e32af114f72cce5fdc79b135449d8890fb848eb14e1656987a6d05d9cc9bf983",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p032-02",
+      "page": 32,
+      "order_on_page": 2,
+      "file": "media/p032_img02.png",
+      "xref": 220,
+      "bbox": [
+        185.15,
+        313.95,
+        409.5,
+        437.79
+      ],
+      "pixel_width": 606,
+      "pixel_height": 335,
+      "caption": "胡小胖牛杂萝卜汤牛肉面美团信息",
+      "sha256": "46512ccc8b049f42c42dd1621ca53353fc88b5662965ca021ec4003969771d90",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p032-03",
+      "page": 32,
+      "order_on_page": 3,
+      "file": "media/p032_img03.png",
+      "xref": 221,
+      "bbox": [
+        190.4,
+        510.9,
+        404.85,
+        615.29
+      ],
+      "pixel_width": 573,
+      "pixel_height": 279,
+      "caption": "西大街豆皮大王",
+      "sha256": "07cc0eeec265d303b36f813b69a3e65d392fe9cab86bfd08afd57f021602d8bc",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

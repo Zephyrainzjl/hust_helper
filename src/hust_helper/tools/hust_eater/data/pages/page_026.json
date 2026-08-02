@@ -1,0 +1,932 @@
+{
+  "schema_version": "1.0",
+  "page_number": 26,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "3.2  武昌区\n武昌区有著名的粮道街，那边很多特色早饭，附近我只推荐几家特色的。\n（1） 赵师傅油饼包烧卖\n这家店不用我多说了，武汉粮道街过早顶流。我就吃过一次，油饼包烧麦\n吃起来确实很香，味道不错，但是有点儿油了，我早上吃不太习惯。其他的我\n没试过。感兴趣的可以去试试，做好排队的准备。\n赵师傅油饼包烧麦美团信息\n（2） 剑剑特色早点\n武汉文旅推荐的，说是汤粉面上加了特有的黄花菜臊子，特别香，我自己\n没去吃过，看小红书感觉不错。\n剑剑特色早点美团信息\n（3） 燕语堂正宗天津灌汤小笼包（南湖店）\n武汉文旅推荐的，我自己没去吃过。网上都推荐他的小笼包，可以试试。\n燕语堂正宗天津灌汤小笼包美团信息",
+  "lines": [
+    {
+      "page": 26,
+      "text": "3.2  武昌区",
+      "bbox": [
+        90.024,
+        79.954,
+        171.53,
+        95.693
+      ],
+      "spans": [
+        {
+          "text": "3.2",
+          "bbox": [
+            90.024,
+            80.15,
+            107.616,
+            95.693
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            107.54,
+            79.954,
+            111.443,
+            95.608
+          ],
+          "font": "ArialMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "武昌区",
+          "bbox": [
+            126.02,
+            80.6,
+            168.14,
+            94.64
+          ],
+          "font": "SimSun",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            168.02,
+            80.15,
+            171.53,
+            95.693
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 14.04,
+      "order": 445
+    },
+    {
+      "page": 26,
+      "text": "武昌区有著名的粮道街，那边很多特色早饭，附近我只推荐几家特色的。",
+      "bbox": [
+        90.024,
+        108.608,
+        477.1,
+        121.892
+      ],
+      "spans": [
+        {
+          "text": "武昌区有著名的粮道街，那边很多特色早饭，附近我只推荐几家特色的。",
+          "bbox": [
+            90.024,
+            108.992,
+            474.024,
+            120.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            474.1,
+            108.608,
+            477.1,
+            121.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 446
+    },
+    {
+      "page": 26,
+      "text": "（1） 赵师傅油饼包烧卖",
+      "bbox": [
+        90.024,
+        131.84,
+        225.05,
+        145.292
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            132.392,
+            102.024,
+            144.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "1",
+          "bbox": [
+            102.02,
+            132.008,
+            108.02,
+            145.292
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            132.392,
+            120.02,
+            144.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            131.84,
+            123.356,
+            145.22
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "赵师傅油饼包烧卖",
+          "bbox": [
+            126.02,
+            132.392,
+            222.02,
+            144.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            222.05,
+            132.008,
+            225.05,
+            145.292
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 447
+    },
+    {
+      "page": 26,
+      "text": "这家店不用我多说了，武汉粮道街过早顶流。我就吃过一次，油饼包烧麦",
+      "bbox": [
+        114.02,
+        155.792,
+        498.316,
+        167.792
+      ],
+      "spans": [
+        {
+          "text": "这家店不用我多说了，武汉粮道街过早顶流。我就吃过一次，",
+          "bbox": [
+            114.02,
+            155.792,
+            438.02,
+            167.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "油饼包烧麦",
+          "bbox": [
+            438.1,
+            155.792,
+            498.316,
+            167.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "油饼包烧麦"
+      ],
+      "red_segments": [
+        {
+          "text": "油饼包烧麦",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 448
+    },
+    {
+      "page": 26,
+      "text": "吃起来确实很香，味道不错，但是有点儿油了，我早上吃不太习惯。其他的我",
+      "bbox": [
+        90.024,
+        179.192,
+        498.024,
+        191.192
+      ],
+      "spans": [
+        {
+          "text": "吃起来确实很香，味道不错，但是有点儿油了，我早上吃不太习惯。其他的我",
+          "bbox": [
+            90.024,
+            179.192,
+            498.024,
+            191.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 449
+    },
+    {
+      "page": 26,
+      "text": "没试过。感兴趣的可以去试试，做好排队的准备。",
+      "bbox": [
+        90.024,
+        202.208,
+        357.07,
+        215.492
+      ],
+      "spans": [
+        {
+          "text": "没试过。感兴趣的可以去试试，做好排队的准备。",
+          "bbox": [
+            90.024,
+            202.592,
+            354.024,
+            214.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            354.07,
+            202.208,
+            357.07,
+            215.492
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 450
+    },
+    {
+      "page": 26,
+      "text": "赵师傅油饼包烧麦美团信息",
+      "bbox": [
+        225.65,
+        350.438,
+        372.67,
+        363.722
+      ],
+      "spans": [
+        {
+          "text": "赵师傅油饼包烧麦美团信息",
+          "bbox": [
+            225.65,
+            350.822,
+            369.67,
+            362.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            369.67,
+            350.438,
+            372.67,
+            363.722
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 451
+    },
+    {
+      "page": 26,
+      "text": "（2） 剑剑特色早点",
+      "bbox": [
+        90.024,
+        373.67,
+        201.05,
+        387.122
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            374.222,
+            102.024,
+            386.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "2",
+          "bbox": [
+            102.02,
+            373.838,
+            108.02,
+            387.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            374.222,
+            120.02,
+            386.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            373.67,
+            123.356,
+            387.05
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "剑剑特色早点",
+          "bbox": [
+            126.02,
+            374.222,
+            198.02,
+            386.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            198.05,
+            373.838,
+            201.05,
+            387.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 452
+    },
+    {
+      "page": 26,
+      "text": "武汉文旅推荐的，说是汤粉面上加了特有的黄花菜臊子，特别香，我自己",
+      "bbox": [
+        114.02,
+        397.622,
+        498.82,
+        409.622
+      ],
+      "spans": [
+        {
+          "text": "武汉文旅推荐的，说是",
+          "bbox": [
+            114.02,
+            397.622,
+            234.05,
+            409.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "汤粉面上加了特有的黄花菜臊子",
+          "bbox": [
+            234.05,
+            397.622,
+            402.698,
+            409.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "，特别香，我自己",
+          "bbox": [
+            402.91,
+            397.622,
+            498.82,
+            409.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "汤粉面上加了特有的黄花菜臊子"
+      ],
+      "red_segments": [
+        {
+          "text": "汤粉面上加了特有的黄花菜臊子",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 453
+    },
+    {
+      "page": 26,
+      "text": "没去吃过，看小红书感觉不错。",
+      "bbox": [
+        90.024,
+        420.658,
+        261.05,
+        433.942
+      ],
+      "spans": [
+        {
+          "text": "没去吃过，看小红书感觉不错。",
+          "bbox": [
+            90.024,
+            421.042,
+            258.024,
+            433.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            258.05,
+            420.658,
+            261.05,
+            433.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 454
+    },
+    {
+      "page": 26,
+      "text": "剑剑特色早点美团信息",
+      "bbox": [
+        237.65,
+        553.258,
+        360.67,
+        566.542
+      ],
+      "spans": [
+        {
+          "text": "剑剑特色早点美团信息",
+          "bbox": [
+            237.65,
+            553.642,
+            357.67,
+            565.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            357.67,
+            553.258,
+            360.67,
+            566.542
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 455
+    },
+    {
+      "page": 26,
+      "text": "（3） 燕语堂正宗天津灌汤小笼包（南湖店）",
+      "bbox": [
+        90.024,
+        576.52,
+        333.07,
+        589.972
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            577.072,
+            102.024,
+            589.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "3",
+          "bbox": [
+            102.02,
+            576.688,
+            108.02,
+            589.972
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            577.072,
+            120.02,
+            589.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            576.52,
+            123.356,
+            589.9
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "燕语堂正宗天津灌汤小笼包（南湖店）",
+          "bbox": [
+            126.02,
+            577.072,
+            330.02,
+            589.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            330.07,
+            576.688,
+            333.07,
+            589.972
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 456
+    },
+    {
+      "page": 26,
+      "text": "武汉文旅推荐的，我自己没去吃过。网上都推荐他的小笼包，可以试试。",
+      "bbox": [
+        114.02,
+        600.088,
+        501.22,
+        613.372
+      ],
+      "spans": [
+        {
+          "text": "武汉文旅推荐的，我自己没去吃过。网上都推荐他的",
+          "bbox": [
+            114.02,
+            600.472,
+            390.07,
+            612.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "小笼包",
+          "bbox": [
+            390.07,
+            600.472,
+            426.178,
+            612.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "，可以试试。",
+          "bbox": [
+            426.34,
+            600.472,
+            498.22,
+            612.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            498.22,
+            600.088,
+            501.22,
+            613.372
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "小笼包"
+      ],
+      "red_segments": [
+        {
+          "text": "小笼包",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 457
+    },
+    {
+      "page": 26,
+      "text": "燕语堂正宗天津灌汤小笼包美团信息",
+      "bbox": [
+        201.65,
+        748.308,
+        396.67,
+        761.592
+      ],
+      "spans": [
+        {
+          "text": "燕语堂正宗天津灌汤小笼包美团信息",
+          "bbox": [
+            201.65,
+            748.692,
+            393.65,
+            760.692
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            393.67,
+            748.308,
+            396.67,
+            761.592
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 458
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p026-01",
+      "page": 26,
+      "order_on_page": 1,
+      "file": "media/p026_img01.png",
+      "xref": 197,
+      "bbox": [
+        203.9,
+        220.35,
+        390.82,
+        344.25
+      ],
+      "pixel_width": 493,
+      "pixel_height": 327,
+      "caption": "赵师傅油饼包烧麦美团信息",
+      "sha256": "8169200887ec2a00fc776e8c1c302f42eea482e7fea9d3a1a67baf29d47ded21",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p026-02",
+      "page": 26,
+      "order_on_page": 2,
+      "file": "media/p026_img02.png",
+      "xref": 198,
+      "bbox": [
+        179.15,
+        441.84,
+        415.44,
+        544.54
+      ],
+      "pixel_width": 567,
+      "pixel_height": 247,
+      "caption": "剑剑特色早点美团信息",
+      "sha256": "01e435daac42fde5e767698f6ee192da83e79091bc48746fd3262db796a30b02",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p026-03",
+      "page": 26,
+      "order_on_page": 3,
+      "file": "media/p026_img03.png",
+      "xref": 199,
+      "bbox": [
+        187.85,
+        625.64,
+        407.41,
+        735.14
+      ],
+      "pixel_width": 588,
+      "pixel_height": 293,
+      "caption": "燕语堂正宗天津灌汤小笼包美团信息",
+      "sha256": "8fb1b49ca01bd42046fcf7abe6d1264a5a90ce28bc6a744bd8dd5bf11b1d222a",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

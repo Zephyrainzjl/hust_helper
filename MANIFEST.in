@@ -1,0 +1,8 @@
+include LICENSE
+include DATA_LICENSE.md
+include README.md
+recursive-include src/hust_helper/tools/hust_eater/data *
+recursive-include src/hust_helper/tools/hust_eater/schema *.json
+recursive-include docs *
+recursive-include examples *.ipynb
+recursive-include scripts *

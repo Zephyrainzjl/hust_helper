@@ -1,0 +1,218 @@
+{
+  "schema_version": "1.0",
+  "page_number": 1,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "HUSTer 的干饭修养\n——HUST 求学七年的干饭经验\n许少  著",
+  "lines": [
+    {
+      "page": 1,
+      "text": "HUSTer 的干饭修养",
+      "bbox": [
+        143.42,
+        193.304,
+        470.02,
+        233.156
+      ],
+      "spans": [
+        {
+          "text": "HUSTer",
+          "bbox": [
+            143.42,
+            193.304,
+            262.904,
+            233.156
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 36.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 的干饭修养 ",
+          "bbox": [
+            262.904,
+            194.456,
+            470.02,
+            230.456
+          ],
+          "font": "SimSun",
+          "size": 36.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 36.0,
+      "order": 0
+    },
+    {
+      "page": 1,
+      "text": "——HUST 求学七年的干饭经验",
+      "bbox": [
+        283.61,
+        242.99,
+        509.41,
+        260.657
+      ],
+      "spans": [
+        {
+          "text": "——",
+          "bbox": [
+            283.61,
+            243.5,
+            315.53,
+            259.46
+          ],
+          "font": "SimSun",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "HUST",
+          "bbox": [
+            315.55,
+            242.99,
+            357.333,
+            260.657
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 求学七年的干饭经验",
+          "bbox": [
+            357.333,
+            243.5,
+            505.253,
+            259.46
+          ],
+          "font": "SimSun",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            505.42,
+            242.99,
+            509.41,
+            260.657
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 15.96,
+      "order": 1
+    },
+    {
+      "page": 1,
+      "text": "许少  著",
+      "bbox": [
+        449.38,
+        274.19,
+        509.41,
+        291.857
+      ],
+      "spans": [
+        {
+          "text": "许少",
+          "bbox": [
+            449.38,
+            274.7,
+            481.3,
+            290.66
+          ],
+          "font": "SimSun",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            481.3,
+            274.19,
+            485.29,
+            291.857
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "著",
+          "bbox": [
+            489.34,
+            274.7,
+            505.3,
+            290.66
+          ],
+          "font": "SimSun",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            505.42,
+            274.19,
+            509.41,
+            291.857
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 15.96,
+      "order": 2
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p001-01",
+      "page": 1,
+      "order_on_page": 1,
+      "file": "media/p001_img01.png",
+      "xref": 21,
+      "bbox": [
+        184.85,
+        72.0,
+        410.38,
+        131.5
+      ],
+      "pixel_width": 689,
+      "pixel_height": 182,
+      "caption": "HUSTer 的干饭修养",
+      "sha256": "e01ddaac9b0b475d07c1b19d55b5cb7f8306f8252a987cf9c8e1ef274599784a",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

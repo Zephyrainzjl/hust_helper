@@ -1,0 +1,834 @@
+{
+  "schema_version": "1.0",
+  "page_number": 17,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "（11）姐妹烧烤\n我本人烧烤吃的少，在这家店吃过一次，体验感还不错，有师弟比较喜欢\n来这边吃，价格不贵，我只记得烤面包很好吃。但是听说要打电话预约？不然\n可能没位置。\n姐妹烧烤美团信息\n（12）静姐粤菜\n我是看的员外的视频前来探店的，员外对这家店给出了极高的评价。我点\n了鸽肝酱无筋豆（我个人喜欢吃，但是我同伴觉得有点寡淡）、烤乳鸽（我们都\n一致觉得很好吃）、还有一个啫啫煲（忘了叫啥了，挺好吃的）。看网上的评\n价，这家店的啫啫煲基本上都挺不错的，可以尝试下。\n静姐粤菜美团信息\n（13）鑫小城故事：湖北菜\n实验室以及同学的几次聚餐来的这里，感觉菜品都挺不错的，美团也有便\n宜套餐，可以来试试。\n鑫小城故事美团信息",
+  "lines": [
+    {
+      "page": 17,
+      "text": "（11）姐妹烧烤",
+      "bbox": [
+        90.024,
+        77.408,
+        177.02,
+        90.692
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            77.792,
+            102.024,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "11",
+          "bbox": [
+            102.02,
+            77.408,
+            114.02,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）姐妹烧烤",
+          "bbox": [
+            114.02,
+            77.792,
+            174.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            174.02,
+            77.408,
+            177.02,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 300
+    },
+    {
+      "page": 17,
+      "text": "我本人烧烤吃的少，在这家店吃过一次，体验感还不错，有师弟比较喜欢",
+      "bbox": [
+        114.02,
+        101.192,
+        498.02,
+        113.192
+      ],
+      "spans": [
+        {
+          "text": "我本人烧烤吃的少，在这家店吃过一次，体验感还不错，有师弟比较喜欢",
+          "bbox": [
+            114.02,
+            101.192,
+            498.02,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 301
+    },
+    {
+      "page": 17,
+      "text": "来这边吃，价格不贵，我只记得烤面包很好吃。但是听说要打电话预约？不然",
+      "bbox": [
+        90.024,
+        124.592,
+        498.07,
+        136.592
+      ],
+      "spans": [
+        {
+          "text": "来这边吃，价格不贵，我只记得烤面包很好吃。但是听说要打电话预约？不然",
+          "bbox": [
+            90.024,
+            124.592,
+            498.07,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 302
+    },
+    {
+      "page": 17,
+      "text": "可能没位置。",
+      "bbox": [
+        90.024,
+        147.608,
+        165.02,
+        160.892
+      ],
+      "spans": [
+        {
+          "text": "可能没位置。",
+          "bbox": [
+            90.024,
+            147.992,
+            162.024,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            162.02,
+            147.608,
+            165.02,
+            160.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 303
+    },
+    {
+      "page": 17,
+      "text": "姐妹烧烤美团信息",
+      "bbox": [
+        249.65,
+        280.238,
+        348.67,
+        293.522
+      ],
+      "spans": [
+        {
+          "text": "姐妹烧烤美团信息",
+          "bbox": [
+            249.65,
+            280.622,
+            345.65,
+            292.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            345.67,
+            280.238,
+            348.67,
+            293.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 304
+    },
+    {
+      "page": 17,
+      "text": "（12）静姐粤菜",
+      "bbox": [
+        90.024,
+        303.638,
+        177.02,
+        316.922
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            304.022,
+            102.024,
+            316.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "12",
+          "bbox": [
+            102.02,
+            303.638,
+            114.02,
+            316.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）静姐粤菜",
+          "bbox": [
+            114.02,
+            304.022,
+            174.02,
+            316.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            174.02,
+            303.638,
+            177.02,
+            316.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 305
+    },
+    {
+      "page": 17,
+      "text": "我是看的员外的视频前来探店的，员外对这家店给出了极高的评价。我点",
+      "bbox": [
+        114.02,
+        327.422,
+        498.02,
+        339.422
+      ],
+      "spans": [
+        {
+          "text": "我是看的员外的视频前来探店的，员外对这家店给出了极高的评价。我点",
+          "bbox": [
+            114.02,
+            327.422,
+            498.02,
+            339.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 306
+    },
+    {
+      "page": 17,
+      "text": "了鸽肝酱无筋豆（我个人喜欢吃，但是我同伴觉得有点寡淡）、烤乳鸽（我们都",
+      "bbox": [
+        90.024,
+        350.822,
+        504.58,
+        362.822
+      ],
+      "spans": [
+        {
+          "text": "了",
+          "bbox": [
+            90.024,
+            350.822,
+            102.024,
+            362.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "鸽肝酱无筋豆",
+          "bbox": [
+            102.02,
+            350.822,
+            174.236,
+            362.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（我个人喜欢吃，但是我同伴觉得有点寡淡）、",
+          "bbox": [
+            174.38,
+            350.822,
+            420.26,
+            362.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "烤乳鸽",
+          "bbox": [
+            420.34,
+            350.822,
+            456.448,
+            362.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（我们都",
+          "bbox": [
+            456.58,
+            350.822,
+            504.58,
+            362.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "鸽肝酱无筋豆",
+        "烤乳鸽"
+      ],
+      "red_segments": [
+        {
+          "text": "鸽肝酱无筋豆",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "烤乳鸽",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 307
+    },
+    {
+      "page": 17,
+      "text": "一致觉得很好吃）、还有一个啫啫煲（忘了叫啥了，挺好吃的）。看网上的评",
+      "bbox": [
+        90.024,
+        374.222,
+        486.17,
+        386.222
+      ],
+      "spans": [
+        {
+          "text": "一致觉得很好吃）、还有一个",
+          "bbox": [
+            90.024,
+            374.222,
+            240.05,
+            386.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "啫啫煲",
+          "bbox": [
+            240.05,
+            374.222,
+            276.158,
+            386.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（忘了叫啥了，挺好吃的）。看网上的评",
+          "bbox": [
+            276.29,
+            374.222,
+            486.17,
+            386.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "啫啫煲"
+      ],
+      "red_segments": [
+        {
+          "text": "啫啫煲",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 308
+    },
+    {
+      "page": 17,
+      "text": "价，这家店的啫啫煲基本上都挺不错的，可以尝试下。",
+      "bbox": [
+        90.024,
+        397.238,
+        381.07,
+        410.522
+      ],
+      "spans": [
+        {
+          "text": "价，这家店的啫啫煲基本上都挺不错的，可以尝试下。",
+          "bbox": [
+            90.024,
+            397.622,
+            378.05,
+            409.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            378.07,
+            397.238,
+            381.07,
+            410.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 309
+    },
+    {
+      "page": 17,
+      "text": "静姐粤菜美团信息",
+      "bbox": [
+        249.65,
+        514.258,
+        348.67,
+        527.542
+      ],
+      "spans": [
+        {
+          "text": "静姐粤菜美团信息",
+          "bbox": [
+            249.65,
+            514.642,
+            345.65,
+            526.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            345.67,
+            514.258,
+            348.67,
+            527.542
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 310
+    },
+    {
+      "page": 17,
+      "text": "（13）鑫小城故事：湖北菜",
+      "bbox": [
+        90.024,
+        537.658,
+        237.05,
+        550.942
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            538.042,
+            102.024,
+            550.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "13",
+          "bbox": [
+            102.02,
+            537.658,
+            114.02,
+            550.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）鑫小城故事：湖北菜",
+          "bbox": [
+            114.02,
+            538.042,
+            234.02,
+            550.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            234.05,
+            537.658,
+            237.05,
+            550.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 311
+    },
+    {
+      "page": 17,
+      "text": "实验室以及同学的几次聚餐来的这里，感觉菜品都挺不错的，美团也有便",
+      "bbox": [
+        114.02,
+        561.442,
+        498.02,
+        573.442
+      ],
+      "spans": [
+        {
+          "text": "实验室以及同学的几次聚餐来的这里，感觉菜品都挺不错的，美团也有便",
+          "bbox": [
+            114.02,
+            561.442,
+            498.02,
+            573.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 312
+    },
+    {
+      "page": 17,
+      "text": "宜套餐，可以来试试。",
+      "bbox": [
+        90.024,
+        584.488,
+        213.05,
+        597.772
+      ],
+      "spans": [
+        {
+          "text": "宜套餐，可以来试试。",
+          "bbox": [
+            90.024,
+            584.872,
+            210.024,
+            596.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            210.05,
+            584.488,
+            213.05,
+            597.772
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 313
+    },
+    {
+      "page": 17,
+      "text": "鑫小城故事美团信息",
+      "bbox": [
+        243.65,
+        732.684,
+        354.67,
+        745.968
+      ],
+      "spans": [
+        {
+          "text": "鑫小城故事美团信息",
+          "bbox": [
+            243.65,
+            733.068,
+            351.65,
+            745.068
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            351.67,
+            732.684,
+            354.67,
+            745.968
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 314
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p017-01",
+      "page": 17,
+      "order_on_page": 1,
+      "file": "media/p017_img01.png",
+      "xref": 163,
+      "bbox": [
+        205.2,
+        167.55,
+        390.1,
+        272.83
+      ],
+      "pixel_width": 581,
+      "pixel_height": 332,
+      "caption": "姐妹烧烤美团信息",
+      "sha256": "55200fd99116d5de10350b80e1e39ba2c1f7401f528f095d6be944e2f3655983",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p017-02",
+      "page": 17,
+      "order_on_page": 2,
+      "file": "media/p017_img02.png",
+      "xref": 164,
+      "bbox": [
+        188.9,
+        415.341,
+        406.25,
+        508.64
+      ],
+      "pixel_width": 683,
+      "pixel_height": 292,
+      "caption": "静姐粤菜美团信息",
+      "sha256": "60133d06e7a1b011918fd4496ca97c6fba6d4ca5e6ab99314e3397ecbfb315d7",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p017-03",
+      "page": 17,
+      "order_on_page": 3,
+      "file": "media/p017_img03.png",
+      "xref": 165,
+      "bbox": [
+        189.65,
+        606.92,
+        405.28,
+        722.67
+      ],
+      "pixel_width": 667,
+      "pixel_height": 358,
+      "caption": "鑫小城故事美团信息",
+      "sha256": "840d7f505f038160e13660b0fb80f84aff1f019d9a59868a30668cb6f9019e4d",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

@@ -1,0 +1,2082 @@
+{
+  "schema_version": "1.0",
+  "page_number": 7,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "（2） 东一二楼：\n轻食自选（便宜又实惠，味道在校内对比算 top 级别）、麻辣香锅、炸鸡腿饭\n（麻辣香锅边上）等。\n（3） 集贤楼一楼：\n香葱千层饼、油泼面、牛肉拉面等。\n（4） 集贤楼二楼：\n经常会有一些特价活动，可以关注下，比如 9.9 鲈鱼、5.8 一个冰激凌球。\n（5） 东华园：\n偏贵，属于套餐饭，味道还可以。\n（6） 东三食堂：\n羊肉手抓饭、牛肉拉面（校内牛肉拉面等价位牛肉给最多的）；\n（7） 紫荆园：\n石锅饭、各种火锅/锅仔、烤鱼；\n（8） 喻园：\n四季美窗口：炸酱面、桂花糊米酒、汤包；\n铁板/意面；\n（9） 集锦园：\n大骨面（进门左手边第二个面食窗口）、翅根煲仔饭、菠萝炒饭、燕麦牛奶、咖\n喱鸡排饭等；\n1.4  西区食堂\n（1） 西一一楼：\n椒麻鸡面、烧烤、糖醋里脊。\n（2） 西一二楼：\n小酥肉煲、猪脚饭、排骨饭。\n（3） 西一二楼民族窗口：\n火锅、大盘鸡、新疆拉条子\n（4） 西二一楼：\n我只记得早上1.3 的油条，现在还不知道有没有。",
+  "lines": [
+    {
+      "page": 7,
+      "text": "（2） 东一二楼：",
+      "bbox": [
+        90.024,
+        100.64,
+        189.05,
+        114.092
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            101.192,
+            102.024,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "2",
+          "bbox": [
+            102.02,
+            100.808,
+            108.02,
+            114.092
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            101.192,
+            120.02,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            100.64,
+            123.356,
+            114.02
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "东一二楼：",
+          "bbox": [
+            126.02,
+            101.192,
+            186.02,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            186.05,
+            100.808,
+            189.05,
+            114.092
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 120
+    },
+    {
+      "page": 7,
+      "text": "轻食自选（便宜又实惠，味道在校内对比算 top 级别）、麻辣香锅、炸鸡腿饭",
+      "bbox": [
+        90.024,
+        124.208,
+        489.43,
+        137.492
+      ],
+      "spans": [
+        {
+          "text": "轻食自选（便宜又实惠，味道在校内对比算",
+          "bbox": [
+            90.024,
+            124.592,
+            318.024,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "top",
+          "bbox": [
+            321.07,
+            124.208,
+            336.406,
+            137.492
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 级别）、麻辣香锅、炸鸡腿饭",
+          "bbox": [
+            336.406,
+            124.592,
+            489.43,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 121
+    },
+    {
+      "page": 7,
+      "text": "（麻辣香锅边上）等。",
+      "bbox": [
+        90.024,
+        147.608,
+        213.05,
+        160.892
+      ],
+      "spans": [
+        {
+          "text": "（麻辣香锅边上）等。",
+          "bbox": [
+            90.024,
+            147.992,
+            210.024,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            210.05,
+            147.608,
+            213.05,
+            160.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 122
+    },
+    {
+      "page": 7,
+      "text": "（3） 集贤楼一楼：",
+      "bbox": [
+        90.024,
+        170.84,
+        201.05,
+        184.292
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            171.392,
+            102.024,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "3",
+          "bbox": [
+            102.02,
+            171.008,
+            108.02,
+            184.292
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            171.392,
+            120.02,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            170.84,
+            123.356,
+            184.22
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "集贤楼一楼：",
+          "bbox": [
+            126.02,
+            171.392,
+            198.02,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            198.05,
+            171.008,
+            201.05,
+            184.292
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 123
+    },
+    {
+      "page": 7,
+      "text": "香葱千层饼、油泼面、牛肉拉面等。",
+      "bbox": [
+        90.024,
+        194.408,
+        285.05,
+        207.692
+      ],
+      "spans": [
+        {
+          "text": "香葱千层饼、油泼面、牛肉拉面等。",
+          "bbox": [
+            90.024,
+            194.792,
+            282.024,
+            206.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            282.05,
+            194.408,
+            285.05,
+            207.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 124
+    },
+    {
+      "page": 7,
+      "text": "（4） 集贤楼二楼：",
+      "bbox": [
+        90.024,
+        217.64,
+        201.05,
+        231.092
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            218.192,
+            102.024,
+            230.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "4",
+          "bbox": [
+            102.02,
+            217.808,
+            108.02,
+            231.092
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            218.192,
+            120.02,
+            230.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            217.64,
+            123.356,
+            231.02
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "集贤楼二楼：",
+          "bbox": [
+            126.02,
+            218.192,
+            198.05,
+            230.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            198.05,
+            217.808,
+            201.05,
+            231.092
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 125
+    },
+    {
+      "page": 7,
+      "text": "经常会有一些特价活动，可以关注下，比如 9.9 鲈鱼、5.8 一个冰激凌球。",
+      "bbox": [
+        90.024,
+        241.238,
+        480.1,
+        254.522
+      ],
+      "spans": [
+        {
+          "text": "经常会有一些特价活动，可以关注下，比如",
+          "bbox": [
+            90.024,
+            241.622,
+            318.024,
+            253.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "9.9",
+          "bbox": [
+            321.07,
+            241.238,
+            336.07,
+            254.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 鲈鱼、",
+          "bbox": [
+            336.07,
+            241.622,
+            375.07,
+            253.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "5.8",
+          "bbox": [
+            375.07,
+            241.238,
+            390.07,
+            254.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 一个冰激凌球。",
+          "bbox": [
+            390.07,
+            241.622,
+            477.07,
+            253.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            477.1,
+            241.238,
+            480.1,
+            254.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 126
+    },
+    {
+      "page": 7,
+      "text": "（5） 东华园：",
+      "bbox": [
+        90.024,
+        264.47,
+        177.02,
+        277.922
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            265.022,
+            102.024,
+            277.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "5",
+          "bbox": [
+            102.02,
+            264.638,
+            108.02,
+            277.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            265.022,
+            120.02,
+            277.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            264.47,
+            123.356,
+            277.85
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "东华园：",
+          "bbox": [
+            126.02,
+            265.022,
+            174.02,
+            277.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            174.02,
+            264.638,
+            177.02,
+            277.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 127
+    },
+    {
+      "page": 7,
+      "text": "偏贵，属于套餐饭，味道还可以。",
+      "bbox": [
+        90.024,
+        288.038,
+        273.05,
+        301.322
+      ],
+      "spans": [
+        {
+          "text": "偏贵，属于套餐饭，味道还可以。",
+          "bbox": [
+            90.024,
+            288.422,
+            270.024,
+            300.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            270.05,
+            288.038,
+            273.05,
+            301.322
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 128
+    },
+    {
+      "page": 7,
+      "text": "（6） 东三食堂：",
+      "bbox": [
+        90.024,
+        311.27,
+        189.05,
+        324.722
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            311.822,
+            102.024,
+            323.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "6",
+          "bbox": [
+            102.02,
+            311.438,
+            108.02,
+            324.722
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            311.822,
+            120.02,
+            323.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            311.27,
+            123.356,
+            324.65
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "东三食堂：",
+          "bbox": [
+            126.02,
+            311.822,
+            186.02,
+            323.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            186.05,
+            311.438,
+            189.05,
+            324.722
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 129
+    },
+    {
+      "page": 7,
+      "text": "羊肉手抓饭、牛肉拉面（校内牛肉拉面等价位牛肉给最多的）；",
+      "bbox": [
+        90.024,
+        334.838,
+        423.1,
+        348.122
+      ],
+      "spans": [
+        {
+          "text": "羊肉手抓饭、牛肉拉面（校内牛肉拉面等价位牛肉给最多的）；",
+          "bbox": [
+            90.024,
+            335.222,
+            420.07,
+            347.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            420.1,
+            334.838,
+            423.1,
+            348.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 130
+    },
+    {
+      "page": 7,
+      "text": "（7） 紫荆园：",
+      "bbox": [
+        90.024,
+        358.07,
+        177.02,
+        371.522
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            358.622,
+            102.024,
+            370.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "7",
+          "bbox": [
+            102.02,
+            358.238,
+            108.02,
+            371.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            358.622,
+            120.02,
+            370.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            358.07,
+            123.356,
+            371.45
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "紫荆园：",
+          "bbox": [
+            126.02,
+            358.622,
+            174.02,
+            370.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            174.02,
+            358.238,
+            177.02,
+            371.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 131
+    },
+    {
+      "page": 7,
+      "text": "石锅饭、各种火锅/锅仔、烤鱼；",
+      "bbox": [
+        90.024,
+        381.638,
+        264.41,
+        394.922
+      ],
+      "spans": [
+        {
+          "text": "石锅饭、各种火锅",
+          "bbox": [
+            90.024,
+            382.022,
+            186.024,
+            394.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "/",
+          "bbox": [
+            186.05,
+            381.638,
+            189.386,
+            394.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "锅仔、烤鱼；",
+          "bbox": [
+            189.41,
+            382.022,
+            261.41,
+            394.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            261.41,
+            381.638,
+            264.41,
+            394.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 132
+    },
+    {
+      "page": 7,
+      "text": "（8） 喻园：",
+      "bbox": [
+        90.024,
+        404.89,
+        165.02,
+        418.342
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            405.442,
+            102.024,
+            417.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "8",
+          "bbox": [
+            102.02,
+            405.058,
+            108.02,
+            418.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            405.442,
+            120.02,
+            417.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            404.89,
+            123.356,
+            418.27
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "喻园：",
+          "bbox": [
+            126.02,
+            405.442,
+            162.02,
+            417.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            162.02,
+            405.058,
+            165.02,
+            418.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 133
+    },
+    {
+      "page": 7,
+      "text": "四季美窗口：炸酱面、桂花糊米酒、汤包；",
+      "bbox": [
+        90.024,
+        428.458,
+        321.07,
+        441.742
+      ],
+      "spans": [
+        {
+          "text": "四季美窗口：炸酱面、桂花糊米酒、汤包；",
+          "bbox": [
+            90.024,
+            428.842,
+            318.024,
+            440.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            318.07,
+            428.458,
+            321.07,
+            441.742
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 134
+    },
+    {
+      "page": 7,
+      "text": "铁板/意面；",
+      "bbox": [
+        90.024,
+        451.858,
+        156.38,
+        465.142
+      ],
+      "spans": [
+        {
+          "text": "铁板",
+          "bbox": [
+            90.024,
+            452.242,
+            114.024,
+            464.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "/",
+          "bbox": [
+            114.02,
+            451.858,
+            117.356,
+            465.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "意面；",
+          "bbox": [
+            117.38,
+            452.242,
+            153.38,
+            464.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            153.38,
+            451.858,
+            156.38,
+            465.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 135
+    },
+    {
+      "page": 7,
+      "text": "（9） 集锦园：",
+      "bbox": [
+        90.024,
+        475.09,
+        177.02,
+        488.542
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            475.642,
+            102.024,
+            487.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "9",
+          "bbox": [
+            102.02,
+            475.258,
+            108.02,
+            488.542
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            475.642,
+            120.02,
+            487.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            475.09,
+            123.356,
+            488.47
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "集锦园：",
+          "bbox": [
+            126.02,
+            475.642,
+            174.02,
+            487.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            174.02,
+            475.258,
+            177.02,
+            488.542
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 136
+    },
+    {
+      "page": 7,
+      "text": "大骨面（进门左手边第二个面食窗口）、翅根煲仔饭、菠萝炒饭、燕麦牛奶、咖",
+      "bbox": [
+        90.024,
+        499.042,
+        504.1,
+        511.042
+      ],
+      "spans": [
+        {
+          "text": "大骨面（进门左手边第二个面食窗口）、翅根煲仔饭、菠萝炒饭、燕麦牛奶、咖",
+          "bbox": [
+            90.024,
+            499.042,
+            504.1,
+            511.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 137
+    },
+    {
+      "page": 7,
+      "text": "喱鸡排饭等；",
+      "bbox": [
+        90.024,
+        522.058,
+        165.02,
+        535.342
+      ],
+      "spans": [
+        {
+          "text": "喱鸡排饭等；",
+          "bbox": [
+            90.024,
+            522.442,
+            162.02,
+            534.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            162.02,
+            522.058,
+            165.02,
+            535.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 138
+    },
+    {
+      "page": 7,
+      "text": "1.4  西区食堂",
+      "bbox": [
+        90.024,
+        548.004,
+        185.6,
+        563.743
+      ],
+      "spans": [
+        {
+          "text": "1.4",
+          "bbox": [
+            90.024,
+            548.2,
+            107.616,
+            563.743
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            107.54,
+            548.004,
+            111.443,
+            563.658
+          ],
+          "font": "ArialMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "西区食堂",
+          "bbox": [
+            126.02,
+            548.65,
+            182.18,
+            562.69
+          ],
+          "font": "SimSun",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            182.09,
+            548.2,
+            185.6,
+            563.743
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 14.04,
+      "order": 139
+    },
+    {
+      "page": 7,
+      "text": "（1） 西一一楼：",
+      "bbox": [
+        90.024,
+        576.52,
+        189.05,
+        589.972
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            577.072,
+            102.024,
+            589.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "1",
+          "bbox": [
+            102.02,
+            576.688,
+            108.02,
+            589.972
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            577.072,
+            120.02,
+            589.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            576.52,
+            123.356,
+            589.9
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "西一一楼：",
+          "bbox": [
+            126.02,
+            577.072,
+            186.02,
+            589.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            186.05,
+            576.688,
+            189.05,
+            589.972
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 140
+    },
+    {
+      "page": 7,
+      "text": "椒麻鸡面、烧烤、糖醋里脊。",
+      "bbox": [
+        90.024,
+        600.088,
+        249.05,
+        613.372
+      ],
+      "spans": [
+        {
+          "text": "椒麻鸡面、烧烤、糖醋里脊。",
+          "bbox": [
+            90.024,
+            600.472,
+            246.02,
+            612.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            246.05,
+            600.088,
+            249.05,
+            613.372
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 141
+    },
+    {
+      "page": 7,
+      "text": "（2） 西一二楼：",
+      "bbox": [
+        90.024,
+        623.32,
+        189.05,
+        636.772
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            623.872,
+            102.024,
+            635.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "2",
+          "bbox": [
+            102.02,
+            623.488,
+            108.02,
+            636.772
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            623.872,
+            120.02,
+            635.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            623.32,
+            123.356,
+            636.7
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "西一二楼：",
+          "bbox": [
+            126.02,
+            623.872,
+            186.02,
+            635.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            186.05,
+            623.488,
+            189.05,
+            636.772
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 142
+    },
+    {
+      "page": 7,
+      "text": "小酥肉煲、猪脚饭、排骨饭。",
+      "bbox": [
+        90.024,
+        646.888,
+        249.05,
+        660.172
+      ],
+      "spans": [
+        {
+          "text": "小酥肉煲、猪脚饭、排骨饭。",
+          "bbox": [
+            90.024,
+            647.272,
+            246.02,
+            659.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            246.05,
+            646.888,
+            249.05,
+            660.172
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 143
+    },
+    {
+      "page": 7,
+      "text": "（3） 西一二楼民族窗口：",
+      "bbox": [
+        90.024,
+        670.12,
+        237.05,
+        683.572
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            670.672,
+            102.024,
+            682.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "3",
+          "bbox": [
+            102.02,
+            670.288,
+            108.02,
+            683.572
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            670.672,
+            120.02,
+            682.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            670.12,
+            123.356,
+            683.5
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "西一二楼民族窗口：",
+          "bbox": [
+            126.02,
+            670.672,
+            234.02,
+            682.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            234.05,
+            670.288,
+            237.05,
+            683.572
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 144
+    },
+    {
+      "page": 7,
+      "text": "火锅、大盘鸡、新疆拉条子",
+      "bbox": [
+        90.024,
+        693.688,
+        237.05,
+        706.972
+      ],
+      "spans": [
+        {
+          "text": "火锅、大盘鸡、新疆拉条子",
+          "bbox": [
+            90.024,
+            694.072,
+            234.02,
+            706.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            234.05,
+            693.688,
+            237.05,
+            706.972
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 145
+    },
+    {
+      "page": 7,
+      "text": "（4） 西二一楼：",
+      "bbox": [
+        90.024,
+        716.92,
+        189.05,
+        730.372
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            717.472,
+            102.024,
+            729.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "4",
+          "bbox": [
+            102.02,
+            717.088,
+            108.02,
+            730.372
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            717.472,
+            120.02,
+            729.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            716.92,
+            123.356,
+            730.3
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "西二一楼：",
+          "bbox": [
+            126.02,
+            717.472,
+            186.02,
+            729.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            186.05,
+            717.088,
+            189.05,
+            730.372
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 146
+    },
+    {
+      "page": 7,
+      "text": "我只记得早上1.3 的油条，现在还不知道有没有。",
+      "bbox": [
+        90.024,
+        740.484,
+        354.07,
+        753.768
+      ],
+      "spans": [
+        {
+          "text": "我只记得早上",
+          "bbox": [
+            90.024,
+            740.868,
+            162.024,
+            752.868
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "1.3",
+          "bbox": [
+            165.02,
+            740.484,
+            180.02,
+            753.768
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 的油条，现在还不知道有没有。",
+          "bbox": [
+            180.02,
+            740.868,
+            351.05,
+            752.868
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            351.07,
+            740.484,
+            354.07,
+            753.768
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 147
+    }
+  ],
+  "images": []
+}

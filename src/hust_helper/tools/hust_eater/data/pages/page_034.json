@@ -1,0 +1,949 @@
+{
+  "schema_version": "1.0",
+  "page_number": 34,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "（3） 大军老东北家乡菜粗粮馆\n这家店我本人还没去吃过，但是武汉文旅已经推送过好几次了，官方发话\n了，想必也不会难吃，我也得找机会去吃一下。\n我看大众点评上推荐最多的五道菜是：锅包肉、干炸鲜蘑、东北大拉皮、\n蒜泥肘子、拔丝地瓜。\n大军老东北家乡菜粗粮馆美团信息\n（4） 小骆川菜馆\n这家店可以说是武汉比较火的川菜馆了，风评两极分化。员外去探过店，\n评价比较一般，但是我朋友去吃觉得很好吃，我怀疑是出餐不稳定。综合考虑\n还是放入推荐榜了。\n推荐几道菜吧：鱼香肉丝（我朋友很喜欢，但是员外点评说这道菜不地\n道，不是川菜的做法）、干煸藕丝、尖椒兔（我朋友挺喜欢这道菜，但是员外去\n吃的时候，尖椒兔上有黑点，说明用的油不新鲜）、水煮肉片（这应该是唯一一\n道我朋友和员外统一觉得好吃的）。\n我只能说，感兴趣的可以去探探店，美团评分看起来还行，周围人风评以\n及小红书上风评两极分化。\n小骆川菜馆美团信息",
+  "lines": [
+    {
+      "page": 34,
+      "text": "（3） 大军老东北家乡菜粗粮馆",
+      "bbox": [
+        90.024,
+        77.24,
+        261.05,
+        90.692
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            77.792,
+            102.024,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "3",
+          "bbox": [
+            102.02,
+            77.408,
+            108.02,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            77.792,
+            120.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            77.24,
+            123.356,
+            90.62
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "大军老东北家乡菜粗粮馆",
+          "bbox": [
+            126.02,
+            77.792,
+            258.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            258.05,
+            77.408,
+            261.05,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 573
+    },
+    {
+      "page": 34,
+      "text": "这家店我本人还没去吃过，但是武汉文旅已经推送过好几次了，官方发话",
+      "bbox": [
+        114.02,
+        101.192,
+        498.02,
+        113.192
+      ],
+      "spans": [
+        {
+          "text": "这家店我本人还没去吃过，但是武汉文旅已经推送过好几次了，官方发话",
+          "bbox": [
+            114.02,
+            101.192,
+            498.02,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 574
+    },
+    {
+      "page": 34,
+      "text": "了，想必也不会难吃，我也得找机会去吃一下。",
+      "bbox": [
+        90.024,
+        124.208,
+        345.07,
+        137.492
+      ],
+      "spans": [
+        {
+          "text": "了，想必也不会难吃，我也得找机会去吃一下。",
+          "bbox": [
+            90.024,
+            124.592,
+            342.024,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            342.07,
+            124.208,
+            345.07,
+            137.492
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 575
+    },
+    {
+      "page": 34,
+      "text": "我看大众点评上推荐最多的五道菜是：锅包肉、干炸鲜蘑、东北大拉皮、",
+      "bbox": [
+        114.02,
+        147.992,
+        498.718,
+        159.992
+      ],
+      "spans": [
+        {
+          "text": "我看大众点评上推荐最多的五道菜是：",
+          "bbox": [
+            114.02,
+            147.992,
+            318.02,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "锅包肉、干炸鲜蘑、东北大拉皮、",
+          "bbox": [
+            318.07,
+            147.992,
+            498.718,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "锅包肉、干炸鲜蘑、东北大拉皮、"
+      ],
+      "red_segments": [
+        {
+          "text": "锅包肉、干炸鲜蘑、东北大拉皮、",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 576
+    },
+    {
+      "page": 34,
+      "text": "蒜泥肘子、拔丝地瓜。",
+      "bbox": [
+        90.024,
+        171.008,
+        213.53,
+        184.292
+      ],
+      "spans": [
+        {
+          "text": "蒜泥肘子、拔丝地瓜",
+          "bbox": [
+            90.024,
+            171.392,
+            198.456,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。",
+          "bbox": [
+            198.65,
+            171.392,
+            210.65,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            210.53,
+            171.008,
+            213.53,
+            184.292
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "蒜泥肘子、拔丝地瓜"
+      ],
+      "red_segments": [
+        {
+          "text": "蒜泥肘子、拔丝地瓜",
+          "at_line_start": true,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 577
+    },
+    {
+      "page": 34,
+      "text": "大军老东北家乡菜粗粮馆美团信息",
+      "bbox": [
+        207.65,
+        334.838,
+        390.67,
+        348.122
+      ],
+      "spans": [
+        {
+          "text": "大军老东北家乡菜粗粮馆美团信息",
+          "bbox": [
+            207.65,
+            335.222,
+            387.65,
+            347.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            387.67,
+            334.838,
+            390.67,
+            348.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 578
+    },
+    {
+      "page": 34,
+      "text": "（4） 小骆川菜馆",
+      "bbox": [
+        90.024,
+        358.07,
+        189.05,
+        371.522
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            358.622,
+            102.024,
+            370.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "4",
+          "bbox": [
+            102.02,
+            358.238,
+            108.02,
+            371.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            358.622,
+            120.02,
+            370.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            358.07,
+            123.356,
+            371.45
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "小骆川菜馆",
+          "bbox": [
+            126.02,
+            358.622,
+            186.02,
+            370.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            186.05,
+            358.238,
+            189.05,
+            371.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 579
+    },
+    {
+      "page": 34,
+      "text": "这家店可以说是武汉比较火的川菜馆了，风评两极分化。员外去探过店，",
+      "bbox": [
+        114.02,
+        382.022,
+        498.02,
+        394.022
+      ],
+      "spans": [
+        {
+          "text": "这家店可以说是武汉比较火的川菜馆了，风评两极分化。员外去探过店，",
+          "bbox": [
+            114.02,
+            382.022,
+            498.02,
+            394.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 580
+    },
+    {
+      "page": 34,
+      "text": "评价比较一般，但是我朋友去吃觉得很好吃，我怀疑是出餐不稳定。综合考虑",
+      "bbox": [
+        90.024,
+        405.442,
+        498.024,
+        417.442
+      ],
+      "spans": [
+        {
+          "text": "评价比较一般，但是我朋友去吃觉得很好吃，我怀疑是出餐不稳定。综合考虑",
+          "bbox": [
+            90.024,
+            405.442,
+            498.024,
+            417.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 581
+    },
+    {
+      "page": 34,
+      "text": "还是放入推荐榜了。",
+      "bbox": [
+        90.024,
+        428.458,
+        201.05,
+        441.742
+      ],
+      "spans": [
+        {
+          "text": "还是放入推荐榜了。",
+          "bbox": [
+            90.024,
+            428.842,
+            198.024,
+            440.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            198.05,
+            428.458,
+            201.05,
+            441.742
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 582
+    },
+    {
+      "page": 34,
+      "text": "推荐几道菜吧：鱼香肉丝（我朋友很喜欢，但是员外点评说这道菜不地",
+      "bbox": [
+        114.02,
+        452.242,
+        486.17,
+        464.242
+      ],
+      "spans": [
+        {
+          "text": "推荐几道菜吧：",
+          "bbox": [
+            114.02,
+            452.242,
+            198.02,
+            464.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "鱼香肉丝",
+          "bbox": [
+            198.05,
+            452.242,
+            246.158,
+            464.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（我朋友很喜欢，但是员外点评说这道菜不地",
+          "bbox": [
+            246.29,
+            452.242,
+            486.17,
+            464.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "鱼香肉丝"
+      ],
+      "red_segments": [
+        {
+          "text": "鱼香肉丝",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 583
+    },
+    {
+      "page": 34,
+      "text": "道，不是川菜的做法）、干煸藕丝、尖椒兔（我朋友挺喜欢这道菜，但是员外去",
+      "bbox": [
+        90.024,
+        475.642,
+        504.43,
+        487.642
+      ],
+      "spans": [
+        {
+          "text": "道，不是川菜的做法）、",
+          "bbox": [
+            90.024,
+            475.642,
+            216.024,
+            487.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "干煸藕丝、尖椒兔",
+          "bbox": [
+            216.05,
+            475.642,
+            312.374,
+            487.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（我朋友挺喜欢这道菜，但是员外去",
+          "bbox": [
+            312.55,
+            475.642,
+            504.43,
+            487.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "干煸藕丝、尖椒兔"
+      ],
+      "red_segments": [
+        {
+          "text": "干煸藕丝、尖椒兔",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 584
+    },
+    {
+      "page": 34,
+      "text": "吃的时候，尖椒兔上有黑点，说明用的油不新鲜）、水煮肉片（这应该是唯一一",
+      "bbox": [
+        90.024,
+        499.042,
+        504.31,
+        511.042
+      ],
+      "spans": [
+        {
+          "text": "吃的时候，尖椒兔上有黑点，说明用的油不新鲜）、",
+          "bbox": [
+            90.024,
+            499.042,
+            360.024,
+            511.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "水煮肉片",
+          "bbox": [
+            360.07,
+            499.042,
+            408.286,
+            511.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（这应该是唯一一",
+          "bbox": [
+            408.43,
+            499.042,
+            504.31,
+            511.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "水煮肉片"
+      ],
+      "red_segments": [
+        {
+          "text": "水煮肉片",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 585
+    },
+    {
+      "page": 34,
+      "text": "道我朋友和员外统一觉得好吃的）。",
+      "bbox": [
+        90.024,
+        522.058,
+        279.05,
+        535.342
+      ],
+      "spans": [
+        {
+          "text": "道我朋友和员外统一觉得好吃的）。",
+          "bbox": [
+            90.024,
+            522.442,
+            276.024,
+            534.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            276.05,
+            522.058,
+            279.05,
+            535.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 586
+    },
+    {
+      "page": 34,
+      "text": "我只能说，感兴趣的可以去探探店，美团评分看起来还行，周围人风评以",
+      "bbox": [
+        114.02,
+        545.842,
+        498.02,
+        557.842
+      ],
+      "spans": [
+        {
+          "text": "我只能说，感兴趣的可以去探探店，美团评分看起来还行，周围人风评以",
+          "bbox": [
+            114.02,
+            545.842,
+            498.02,
+            557.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 587
+    },
+    {
+      "page": 34,
+      "text": "及小红书上风评两极分化。",
+      "bbox": [
+        90.024,
+        568.858,
+        237.05,
+        582.142
+      ],
+      "spans": [
+        {
+          "text": "及小红书上风评两极分化。",
+          "bbox": [
+            90.024,
+            569.242,
+            234.024,
+            581.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            234.05,
+            568.858,
+            237.05,
+            582.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 588
+    },
+    {
+      "page": 34,
+      "text": "小骆川菜馆美团信息",
+      "bbox": [
+        243.65,
+        732.684,
+        354.67,
+        745.968
+      ],
+      "spans": [
+        {
+          "text": "小骆川菜馆美团信息",
+          "bbox": [
+            243.65,
+            733.068,
+            351.65,
+            745.068
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            351.67,
+            732.684,
+            354.67,
+            745.968
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 589
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p034-01",
+      "page": 34,
+      "order_on_page": 1,
+      "file": "media/p034_img01.png",
+      "xref": 226,
+      "bbox": [
+        196.4,
+        190.2,
+        398.85,
+        327.69
+      ],
+      "pixel_width": 634,
+      "pixel_height": 430,
+      "caption": "大军老东北家乡菜粗粮馆美团信息",
+      "sha256": "1202ad914648378acd137892559692b7b1341f287aa2c73bad2218a89a4f2be6",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p034-02",
+      "page": 34,
+      "order_on_page": 2,
+      "file": "media/p034_img02.png",
+      "xref": 227,
+      "bbox": [
+        175.4,
+        592.89,
+        419.7,
+        721.09
+      ],
+      "pixel_width": 750,
+      "pixel_height": 392,
+      "caption": "小骆川菜馆美团信息",
+      "sha256": "0da48b1cdec6061c747509921593474a6e297b9c1e8097dc2b587cfaea0a4025",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

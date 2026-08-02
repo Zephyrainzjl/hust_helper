@@ -1,0 +1,504 @@
+{
+  "schema_version": "1.0",
+  "page_number": 49,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "（2） 吉庆民俗街\n“过早户部巷，宵夜吉庆街”，不知道是啥时候的俗语，反正户部巷过早是\n不推荐的。这是湖北省首批非遗特色街区。感兴趣可以来吃吃逛逛。\n5.8  青山区\n（1） 武科大小吃街\n网上推荐的学校附近美食街，我还没去过，路过可以去看看。推荐几家\n店：雷哥烤面筋、锅包肉、丢丢甜、冰激凌豆腐、烧腊饭、山西麻辣拌、大里\n脊肉饼。",
+  "lines": [
+    {
+      "page": 49,
+      "text": "（2） 吉庆民俗街",
+      "bbox": [
+        90.024,
+        77.24,
+        189.05,
+        90.692
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            77.792,
+            102.024,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "2",
+          "bbox": [
+            102.02,
+            77.408,
+            108.02,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            77.792,
+            120.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            77.24,
+            123.356,
+            90.62
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "吉庆民俗街",
+          "bbox": [
+            126.02,
+            77.792,
+            186.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            186.05,
+            77.408,
+            189.05,
+            90.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 824
+    },
+    {
+      "page": 49,
+      "text": "“过早户部巷，宵夜吉庆街”，不知道是啥时候的俗语，反正户部巷过早是",
+      "bbox": [
+        114.02,
+        101.192,
+        504.02,
+        113.192
+      ],
+      "spans": [
+        {
+          "text": "“过早户部巷，宵夜吉庆街”，不知道是啥时候的俗语，反正户部巷过早是",
+          "bbox": [
+            114.02,
+            101.192,
+            504.02,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 825
+    },
+    {
+      "page": 49,
+      "text": "不推荐的。这是湖北省首批非遗特色街区。感兴趣可以来吃吃逛逛。",
+      "bbox": [
+        90.024,
+        124.208,
+        453.1,
+        137.492
+      ],
+      "spans": [
+        {
+          "text": "不推荐的。这是湖北省首批非遗特色街区。感兴趣可以来吃吃逛逛。",
+          "bbox": [
+            90.024,
+            124.592,
+            450.024,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            450.1,
+            124.208,
+            453.1,
+            137.492
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 826
+    },
+    {
+      "page": 49,
+      "text": "5.8  青山区",
+      "bbox": [
+        90.024,
+        150.154,
+        171.53,
+        165.893
+      ],
+      "spans": [
+        {
+          "text": "5.8",
+          "bbox": [
+            90.024,
+            150.35,
+            107.616,
+            165.893
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            107.54,
+            150.154,
+            111.443,
+            165.808
+          ],
+          "font": "ArialMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "青山区",
+          "bbox": [
+            126.02,
+            150.8,
+            168.14,
+            164.84
+          ],
+          "font": "SimSun",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            168.02,
+            150.35,
+            171.53,
+            165.893
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 14.04,
+      "order": 827
+    },
+    {
+      "page": 49,
+      "text": "（1） 武科大小吃街",
+      "bbox": [
+        90.024,
+        178.64,
+        201.05,
+        192.092
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            179.192,
+            102.024,
+            191.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "1",
+          "bbox": [
+            102.02,
+            178.808,
+            108.02,
+            192.092
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            179.192,
+            120.02,
+            191.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            178.64,
+            123.356,
+            192.02
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "武科大小吃街",
+          "bbox": [
+            126.02,
+            179.192,
+            198.02,
+            191.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            198.05,
+            178.808,
+            201.05,
+            192.092
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 828
+    },
+    {
+      "page": 49,
+      "text": "网上推荐的学校附近美食街，我还没去过，路过可以去看看。推荐几家",
+      "bbox": [
+        114.02,
+        202.592,
+        486.1,
+        214.592
+      ],
+      "spans": [
+        {
+          "text": "网上推荐的学校附近美食街，我还没去过，路过可以去看看。推荐几家",
+          "bbox": [
+            114.02,
+            202.592,
+            486.1,
+            214.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 829
+    },
+    {
+      "page": 49,
+      "text": "店：雷哥烤面筋、锅包肉、丢丢甜、冰激凌豆腐、烧腊饭、山西麻辣拌、大里",
+      "bbox": [
+        90.024,
+        225.992,
+        499.424,
+        237.992
+      ],
+      "spans": [
+        {
+          "text": "店：",
+          "bbox": [
+            90.024,
+            225.992,
+            114.024,
+            237.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "雷哥烤面筋、锅包肉、丢丢甜、冰激凌豆腐、烧腊饭、山西麻辣拌、大里",
+          "bbox": [
+            114.02,
+            225.992,
+            499.424,
+            237.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "雷哥烤面筋、锅包肉、丢丢甜、冰激凌豆腐、烧腊饭、山西麻辣拌、大里"
+      ],
+      "red_segments": [
+        {
+          "text": "雷哥烤面筋、锅包肉、丢丢甜、冰激凌豆腐、烧腊饭、山西麻辣拌、大里",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 830
+    },
+    {
+      "page": 49,
+      "text": "脊肉饼。",
+      "bbox": [
+        90.024,
+        249.038,
+        141.14,
+        262.322
+      ],
+      "spans": [
+        {
+          "text": "脊肉饼",
+          "bbox": [
+            90.024,
+            249.422,
+            126.132,
+            261.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。",
+          "bbox": [
+            126.26,
+            249.422,
+            138.26,
+            261.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            138.14,
+            249.038,
+            141.14,
+            262.322
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "脊肉饼"
+      ],
+      "red_segments": [
+        {
+          "text": "脊肉饼",
+          "at_line_start": true,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 831
+    }
+  ],
+  "images": []
+}

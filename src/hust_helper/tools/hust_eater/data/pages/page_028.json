@@ -1,0 +1,1168 @@
+{
+  "schema_version": "1.0",
+  "page_number": 28,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "3.3  江汉区\n（1） 铁棚子热干面\n这家店之前很出名，好几次上武汉文旅，我吃过一次，应该是属于老派热\n干面。老派热干面讲究芝麻酱的原汁原味，不会加入额外的汤汁，吃起来会有\n点干，但是更香。新派热干面会加入卤汁或者牛肉汤提味，让面吃起来不是那\n么干，更容易拌开，但是会冲散芝麻酱的香，融入了别的香味。之前说的汉味\n热干面和天声热干面就属于新派热干面。虽然说老派热干面比较干，但是芝麻\n酱的味道真的很香，推荐来尝试一下，但是之前没吃过热干面的可能会不太适\n应。他家的面窝我也很推荐，外圈软糯，中间很脆，特别好吃。\n铁棚子热干面美团信息\n（2） 雪梅鲜鱼糊汤粉店（北湖店）\n武汉文旅推荐的，说这家鱼糊汤粉很好吃，但是我早上受不了鱼糊汤粉中\n的胡椒味道，所以我吃不了。\n雪梅鲜鱼糊汤粉店美团信息\n（3） 严老幺烧麦\n武汉文旅推荐的，很火的一家店。网上特别推荐他家的重油烧麦和三鲜豆\n皮。我尝试过他家的重油烧麦，和鱼糊汤粉一样，很浓的胡椒味，我早上有点\n顶不住，但是味道很香。\n严老幺烧麦美团信息",
+  "lines": [
+    {
+      "page": 28,
+      "text": "3.3  江汉区",
+      "bbox": [
+        90.024,
+        79.954,
+        171.53,
+        95.693
+      ],
+      "spans": [
+        {
+          "text": "3.3",
+          "bbox": [
+            90.024,
+            80.15,
+            107.616,
+            95.693
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            107.54,
+            79.954,
+            111.443,
+            95.608
+          ],
+          "font": "ArialMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "江汉区",
+          "bbox": [
+            126.02,
+            80.6,
+            168.14,
+            94.64
+          ],
+          "font": "SimSun",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            168.02,
+            80.15,
+            171.53,
+            95.693
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 14.04,
+      "order": 476
+    },
+    {
+      "page": 28,
+      "text": "（1） 铁棚子热干面",
+      "bbox": [
+        90.024,
+        108.44,
+        201.05,
+        121.892
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            108.992,
+            102.024,
+            120.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "1",
+          "bbox": [
+            102.02,
+            108.608,
+            108.02,
+            121.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            108.992,
+            120.02,
+            120.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            108.44,
+            123.356,
+            121.82
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "铁棚子热干面",
+          "bbox": [
+            126.02,
+            108.992,
+            198.02,
+            120.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            198.05,
+            108.608,
+            201.05,
+            121.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 477
+    },
+    {
+      "page": 28,
+      "text": "这家店之前很出名，好几次上武汉文旅，我吃过一次，应该是属于老派热",
+      "bbox": [
+        114.02,
+        132.392,
+        498.22,
+        144.392
+      ],
+      "spans": [
+        {
+          "text": "这家店之前很出名，好几次上武汉文旅，我吃过一次，应该是属于",
+          "bbox": [
+            114.02,
+            132.392,
+            462.02,
+            144.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "老派热",
+          "bbox": [
+            462.1,
+            132.392,
+            498.22,
+            144.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "老派热"
+      ],
+      "red_segments": [
+        {
+          "text": "老派热",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 478
+    },
+    {
+      "page": 28,
+      "text": "干面。老派热干面讲究芝麻酱的原汁原味，不会加入额外的汤汁，吃起来会有",
+      "bbox": [
+        90.024,
+        155.792,
+        498.14,
+        167.792
+      ],
+      "spans": [
+        {
+          "text": "干面",
+          "bbox": [
+            90.024,
+            155.792,
+            114.144,
+            167.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。老派热干面讲究芝麻酱的原汁原味，不会加入额外的汤汁，吃起来会有",
+          "bbox": [
+            114.26,
+            155.792,
+            498.14,
+            167.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "干面"
+      ],
+      "red_segments": [
+        {
+          "text": "干面",
+          "at_line_start": true,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 479
+    },
+    {
+      "page": 28,
+      "text": "点干，但是更香。新派热干面会加入卤汁或者牛肉汤提味，让面吃起来不是那",
+      "bbox": [
+        90.024,
+        179.192,
+        498.07,
+        191.192
+      ],
+      "spans": [
+        {
+          "text": "点干，但是更香。新派热干面会加入卤汁或者牛肉汤提味，让面吃起来不是那",
+          "bbox": [
+            90.024,
+            179.192,
+            498.07,
+            191.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 480
+    },
+    {
+      "page": 28,
+      "text": "么干，更容易拌开，但是会冲散芝麻酱的香，融入了别的香味。之前说的汉味",
+      "bbox": [
+        90.024,
+        202.592,
+        498.024,
+        214.592
+      ],
+      "spans": [
+        {
+          "text": "么干，更容易拌开，但是会冲散芝麻酱的香，融入了别的香味。之前说的汉味",
+          "bbox": [
+            90.024,
+            202.592,
+            498.024,
+            214.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 481
+    },
+    {
+      "page": 28,
+      "text": "热干面和天声热干面就属于新派热干面。虽然说老派热干面比较干，但是芝麻",
+      "bbox": [
+        90.024,
+        225.992,
+        498.07,
+        237.992
+      ],
+      "spans": [
+        {
+          "text": "热干面和天声热干面就属于新派热干面。虽然说老派热干面比较干，但是芝麻",
+          "bbox": [
+            90.024,
+            225.992,
+            498.07,
+            237.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 482
+    },
+    {
+      "page": 28,
+      "text": "酱的味道真的很香，推荐来尝试一下，但是之前没吃过热干面的可能会不太适",
+      "bbox": [
+        90.024,
+        249.422,
+        498.05,
+        261.422
+      ],
+      "spans": [
+        {
+          "text": "酱的味道真的很香，推荐来尝试一下，但是之前没吃过热干面的可能会不太适",
+          "bbox": [
+            90.024,
+            249.422,
+            498.05,
+            261.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 483
+    },
+    {
+      "page": 28,
+      "text": "应。他家的面窝我也很推荐，外圈软糯，中间很脆，特别好吃。",
+      "bbox": [
+        90.024,
+        272.438,
+        429.22,
+        285.722
+      ],
+      "spans": [
+        {
+          "text": "应。他家的",
+          "bbox": [
+            90.024,
+            272.822,
+            150.02,
+            284.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "面窝",
+          "bbox": [
+            150.02,
+            272.822,
+            174.14,
+            284.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "我也很推荐，外圈软糯，中间很脆，特别好吃。",
+          "bbox": [
+            174.26,
+            272.822,
+            426.14,
+            284.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            426.22,
+            272.438,
+            429.22,
+            285.722
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "面窝"
+      ],
+      "red_segments": [
+        {
+          "text": "面窝",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 484
+    },
+    {
+      "page": 28,
+      "text": "铁棚子热干面美团信息",
+      "bbox": [
+        237.65,
+        373.838,
+        360.67,
+        387.122
+      ],
+      "spans": [
+        {
+          "text": "铁棚子热干面美团信息",
+          "bbox": [
+            237.65,
+            374.222,
+            357.65,
+            386.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            357.67,
+            373.838,
+            360.67,
+            387.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 485
+    },
+    {
+      "page": 28,
+      "text": "（2） 雪梅鲜鱼糊汤粉店（北湖店）",
+      "bbox": [
+        90.024,
+        397.07,
+        285.05,
+        410.522
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            397.622,
+            102.024,
+            409.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "2",
+          "bbox": [
+            102.02,
+            397.238,
+            108.02,
+            410.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            397.622,
+            120.02,
+            409.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            397.07,
+            123.356,
+            410.45
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "雪梅鲜鱼糊汤粉店（北湖店）",
+          "bbox": [
+            126.02,
+            397.622,
+            282.02,
+            409.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            282.05,
+            397.238,
+            285.05,
+            410.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 486
+    },
+    {
+      "page": 28,
+      "text": "武汉文旅推荐的，说这家鱼糊汤粉很好吃，但是我早上受不了鱼糊汤粉中",
+      "bbox": [
+        114.02,
+        421.042,
+        498.31,
+        433.042
+      ],
+      "spans": [
+        {
+          "text": "武汉文旅推荐的，说这家",
+          "bbox": [
+            114.02,
+            421.042,
+            246.02,
+            433.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "鱼糊汤粉",
+          "bbox": [
+            246.05,
+            421.042,
+            294.266,
+            433.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "很好吃，但是我早上受不了鱼糊汤粉中",
+          "bbox": [
+            294.43,
+            421.042,
+            498.31,
+            433.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "鱼糊汤粉"
+      ],
+      "red_segments": [
+        {
+          "text": "鱼糊汤粉",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 487
+    },
+    {
+      "page": 28,
+      "text": "的胡椒味道，所以我吃不了。",
+      "bbox": [
+        90.024,
+        444.058,
+        249.05,
+        457.342
+      ],
+      "spans": [
+        {
+          "text": "的胡椒味道，所以我吃不了。",
+          "bbox": [
+            90.024,
+            444.442,
+            246.024,
+            456.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            246.05,
+            444.058,
+            249.05,
+            457.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 488
+    },
+    {
+      "page": 28,
+      "text": "雪梅鲜鱼糊汤粉店美团信息",
+      "bbox": [
+        225.65,
+        545.458,
+        372.67,
+        558.742
+      ],
+      "spans": [
+        {
+          "text": "雪梅鲜鱼糊汤粉店美团信息",
+          "bbox": [
+            225.65,
+            545.842,
+            369.65,
+            557.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            369.67,
+            545.458,
+            372.67,
+            558.742
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 489
+    },
+    {
+      "page": 28,
+      "text": "（3） 严老幺烧麦",
+      "bbox": [
+        90.024,
+        568.69,
+        189.05,
+        582.142
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            569.242,
+            102.024,
+            581.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "3",
+          "bbox": [
+            102.02,
+            568.858,
+            108.02,
+            582.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            569.242,
+            120.02,
+            581.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            568.69,
+            123.356,
+            582.07
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "严老幺烧麦",
+          "bbox": [
+            126.02,
+            569.242,
+            186.02,
+            581.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            186.05,
+            568.858,
+            189.05,
+            582.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 490
+    },
+    {
+      "page": 28,
+      "text": "武汉文旅推荐的，很火的一家店。网上特别推荐他家的重油烧麦和三鲜豆",
+      "bbox": [
+        114.02,
+        592.672,
+        498.448,
+        604.672
+      ],
+      "spans": [
+        {
+          "text": "武汉文旅推荐的，很火的一家店。网上特别推荐他家的",
+          "bbox": [
+            114.02,
+            592.672,
+            402.02,
+            604.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "重油烧麦",
+          "bbox": [
+            402.07,
+            592.672,
+            450.286,
+            604.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "和",
+          "bbox": [
+            450.46,
+            592.672,
+            462.46,
+            604.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "三鲜豆",
+          "bbox": [
+            462.34,
+            592.672,
+            498.448,
+            604.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "重油烧麦",
+        "三鲜豆"
+      ],
+      "red_segments": [
+        {
+          "text": "重油烧麦",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "三鲜豆",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 491
+    },
+    {
+      "page": 28,
+      "text": "皮。我尝试过他家的重油烧麦，和鱼糊汤粉一样，很浓的胡椒味，我早上有点",
+      "bbox": [
+        90.024,
+        616.072,
+        498.02,
+        628.072
+      ],
+      "spans": [
+        {
+          "text": "皮",
+          "bbox": [
+            90.024,
+            616.072,
+            102.024,
+            628.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。我尝试过他家的重油烧麦，和鱼糊汤粉一样，很浓的胡椒味，我早上有点",
+          "bbox": [
+            102.14,
+            616.072,
+            498.02,
+            628.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "皮"
+      ],
+      "red_segments": [
+        {
+          "text": "皮",
+          "at_line_start": true,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 492
+    },
+    {
+      "page": 28,
+      "text": "顶不住，但是味道很香。",
+      "bbox": [
+        90.024,
+        639.088,
+        225.05,
+        652.372
+      ],
+      "spans": [
+        {
+          "text": "顶不住，但是味道很香。",
+          "bbox": [
+            90.024,
+            639.472,
+            222.024,
+            651.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            222.05,
+            639.088,
+            225.05,
+            652.372
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 493
+    },
+    {
+      "page": 28,
+      "text": "严老幺烧麦美团信息",
+      "bbox": [
+        243.65,
+        740.484,
+        354.67,
+        753.768
+      ],
+      "spans": [
+        {
+          "text": "严老幺烧麦美团信息",
+          "bbox": [
+            243.65,
+            740.868,
+            351.65,
+            752.868
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            351.67,
+            740.484,
+            354.67,
+            753.768
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 494
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p028-01",
+      "page": 28,
+      "order_on_page": 1,
+      "file": "media/p028_img01.png",
+      "xref": 205,
+      "bbox": [
+        206.55,
+        291.15,
+        388.7,
+        367.55
+      ],
+      "pixel_width": 557,
+      "pixel_height": 234,
+      "caption": "铁棚子热干面美团信息",
+      "sha256": "e21884735f740cfac1f31b6d4ced57758e6770607028a792e242ee9c7e22c909",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p028-02",
+      "page": 28,
+      "order_on_page": 2,
+      "file": "media/p028_img02.png",
+      "xref": 206,
+      "bbox": [
+        212.02,
+        463.22,
+        383.26,
+        538.77
+      ],
+      "pixel_width": 550,
+      "pixel_height": 242,
+      "caption": "雪梅鲜鱼糊汤粉店美团信息",
+      "sha256": "f87679c7a9d2a80a68a3f7efeb98f754ecfe0c8f09872e091d288d00bf621e1e",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p028-03",
+      "page": 28,
+      "order_on_page": 3,
+      "file": "media/p028_img03.png",
+      "xref": 207,
+      "bbox": [
+        211.4,
+        657.54,
+        383.63,
+        734.44
+      ],
+      "pixel_width": 519,
+      "pixel_height": 232,
+      "caption": "严老幺烧麦美团信息",
+      "sha256": "5bed2665c627cb1514dc00e5c16565564a158c92882888849acdc716289bf8ec",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

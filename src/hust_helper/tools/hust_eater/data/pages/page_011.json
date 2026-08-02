@@ -1,0 +1,1126 @@
+{
+  "schema_version": "1.0",
+  "page_number": 11,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "下面列举我最喜欢的几道菜：日式油淋鸡（算是炸鸡，特别好吃）、炸鲜奶\n（里面是果冻状的奶，很好吃！）、日式肥牛饭（本人最爱，带有一点汤汁，很\n好吃）、炸猪排（很不错）、炸鸡翅（很好吃！但是因为是现炸的，会比较慢，\n而且出来很烫）。\n再列举几个我朋友喜欢的菜：部队火锅（份量足，但是因为本人吃不了\n辣，所以只能吃个开头，后面煮开入味后我就遗憾退出）、辣白菜烤五花肉（很\n香，很脆，但是我吃不了太腻）、泡菜五花肉炒饭（我朋友最喜欢的饭，我不太\n习惯泡菜的味道，所以吃不惯）\n韩味屋美团信息\n（3） 三清羊肉粉：炸鸡、炒饭、炒粉、羊肉粉等\n据说这家店的炸鸡是以前华科校内的古德鸡王。我每次去这家店主要就是\n吃炸鸡，但是炸鸡吃不饱，所以就会附加点别的餐品。\n这家店我最推荐的就是炸鸡！不吹不黑，是我吃过最好吃的炸鸡！其他的\n炒物，碗底没有油，证明炒的火候和用油量控制的是不错的，我比较喜欢炒河\n粉，这个算是比较好吃的，其他的我觉得不难吃，但是没有刻意过来吃一趟的\n想法。它的菜单如图所示，从大众点评找的，和实际是一样的：\n三清羊肉粉菜单\n三清羊肉粉美团信息",
+  "lines": [
+    {
+      "page": 11,
+      "text": "下面列举我最喜欢的几道菜：日式油淋鸡（算是炸鸡，特别好吃）、炸鲜奶",
+      "bbox": [
+        114.02,
+        77.792,
+        504.448,
+        89.792
+      ],
+      "spans": [
+        {
+          "text": "下面列举我最喜欢的几道菜：",
+          "bbox": [
+            114.02,
+            77.792,
+            270.02,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "日式油淋鸡",
+          "bbox": [
+            270.05,
+            77.792,
+            330.266,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（算是炸鸡，特别好吃）、",
+          "bbox": [
+            330.43,
+            77.792,
+            468.31,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "炸鲜奶",
+          "bbox": [
+            468.34,
+            77.792,
+            504.448,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "日式油淋鸡",
+        "炸鲜奶"
+      ],
+      "red_segments": [
+        {
+          "text": "日式油淋鸡",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "炸鲜奶",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 201
+    },
+    {
+      "page": 11,
+      "text": "（里面是果冻状的奶，很好吃！）、日式肥牛饭（本人最爱，带有一点汤汁，很",
+      "bbox": [
+        90.024,
+        101.192,
+        498.31,
+        113.192
+      ],
+      "spans": [
+        {
+          "text": "（里面是果冻状的奶，很好吃！）、",
+          "bbox": [
+            90.024,
+            101.192,
+            270.024,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "日式肥牛饭",
+          "bbox": [
+            270.05,
+            101.192,
+            330.266,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（本人最爱，带有一点汤汁，很",
+          "bbox": [
+            330.31,
+            101.192,
+            498.31,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "日式肥牛饭"
+      ],
+      "red_segments": [
+        {
+          "text": "日式肥牛饭",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 202
+    },
+    {
+      "page": 11,
+      "text": "好吃）、炸猪排（很不错）、炸鸡翅（很好吃！但是因为是现炸的，会比较慢，",
+      "bbox": [
+        90.024,
+        124.592,
+        498.29,
+        136.592
+      ],
+      "spans": [
+        {
+          "text": "好吃）、",
+          "bbox": [
+            90.024,
+            124.592,
+            132.024,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "炸猪排",
+          "bbox": [
+            132.02,
+            124.592,
+            168.128,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（很不错）、",
+          "bbox": [
+            168.26,
+            124.592,
+            234.17,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "炸鸡翅",
+          "bbox": [
+            234.17,
+            124.592,
+            270.278,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（很好吃！但是因为是现炸的，会比较慢，",
+          "bbox": [
+            270.41,
+            124.592,
+            498.29,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "炸猪排",
+        "炸鸡翅"
+      ],
+      "red_segments": [
+        {
+          "text": "炸猪排",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "炸鸡翅",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 203
+    },
+    {
+      "page": 11,
+      "text": "而且出来很烫）。",
+      "bbox": [
+        90.024,
+        147.608,
+        183.05,
+        160.892
+      ],
+      "spans": [
+        {
+          "text": "而且出来很烫）。",
+          "bbox": [
+            90.024,
+            147.992,
+            180.02,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            180.05,
+            147.608,
+            183.05,
+            160.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 204
+    },
+    {
+      "page": 11,
+      "text": "再列举几个我朋友喜欢的菜：部队火锅（份量足，但是因为本人吃不了",
+      "bbox": [
+        114.02,
+        171.392,
+        486.31,
+        183.392
+      ],
+      "spans": [
+        {
+          "text": "再列举几个我朋友喜欢的菜：",
+          "bbox": [
+            114.02,
+            171.392,
+            270.05,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "部队火锅",
+          "bbox": [
+            270.05,
+            171.392,
+            318.266,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（份量足，但是因为本人吃不了",
+          "bbox": [
+            318.43,
+            171.392,
+            486.31,
+            183.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "部队火锅"
+      ],
+      "red_segments": [
+        {
+          "text": "部队火锅",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 205
+    },
+    {
+      "page": 11,
+      "text": "辣，所以只能吃个开头，后面煮开入味后我就遗憾退出）、辣白菜烤五花肉（很",
+      "bbox": [
+        90.024,
+        194.792,
+        504.58,
+        206.792
+      ],
+      "spans": [
+        {
+          "text": "辣，所以只能吃个开头，后面煮开入味后我就遗憾退出）、",
+          "bbox": [
+            90.024,
+            194.792,
+            396.024,
+            206.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "辣白菜烤五花肉",
+          "bbox": [
+            396.07,
+            194.792,
+            480.394,
+            206.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（很",
+          "bbox": [
+            480.58,
+            194.792,
+            504.58,
+            206.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "辣白菜烤五花肉"
+      ],
+      "red_segments": [
+        {
+          "text": "辣白菜烤五花肉",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 206
+    },
+    {
+      "page": 11,
+      "text": "香，很脆，但是我吃不了太腻）、泡菜五花肉炒饭（我朋友最喜欢的饭，我不太",
+      "bbox": [
+        90.024,
+        218.192,
+        504.43,
+        230.192
+      ],
+      "spans": [
+        {
+          "text": "香，很脆，但是我吃不了太腻）、",
+          "bbox": [
+            90.024,
+            218.192,
+            264.024,
+            230.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "泡菜五花肉炒饭",
+          "bbox": [
+            264.05,
+            218.192,
+            348.374,
+            230.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（我朋友最喜欢的饭，我不太",
+          "bbox": [
+            348.55,
+            218.192,
+            504.43,
+            230.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "泡菜五花肉炒饭"
+      ],
+      "red_segments": [
+        {
+          "text": "泡菜五花肉炒饭",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 207
+    },
+    {
+      "page": 11,
+      "text": "习惯泡菜的味道，所以吃不惯）",
+      "bbox": [
+        90.024,
+        241.238,
+        261.05,
+        254.522
+      ],
+      "spans": [
+        {
+          "text": "习惯泡菜的味道，所以吃不惯）",
+          "bbox": [
+            90.024,
+            241.622,
+            258.024,
+            253.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            258.05,
+            241.238,
+            261.05,
+            254.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 208
+    },
+    {
+      "page": 11,
+      "text": "韩味屋美团信息",
+      "bbox": [
+        255.65,
+        327.038,
+        342.67,
+        340.322
+      ],
+      "spans": [
+        {
+          "text": "韩味屋美团信息",
+          "bbox": [
+            255.65,
+            327.422,
+            339.65,
+            339.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            339.67,
+            327.038,
+            342.67,
+            340.322
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 209
+    },
+    {
+      "page": 11,
+      "text": "（3） 三清羊肉粉：炸鸡、炒饭、炒粉、羊肉粉等",
+      "bbox": [
+        90.024,
+        350.27,
+        357.07,
+        363.722
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            350.822,
+            102.024,
+            362.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "3",
+          "bbox": [
+            102.02,
+            350.438,
+            108.02,
+            363.722
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            350.822,
+            120.02,
+            362.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            350.27,
+            123.356,
+            363.65
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "三清羊肉粉：炸鸡、炒饭、炒粉、羊肉粉等",
+          "bbox": [
+            126.02,
+            350.822,
+            354.02,
+            362.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            354.07,
+            350.438,
+            357.07,
+            363.722
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 210
+    },
+    {
+      "page": 11,
+      "text": "据说这家店的炸鸡是以前华科校内的古德鸡王。我每次去这家店主要就是",
+      "bbox": [
+        114.02,
+        374.222,
+        498.02,
+        386.222
+      ],
+      "spans": [
+        {
+          "text": "据说这家店的炸鸡是以前华科校内的古德鸡王。我每次去这家店主要就是",
+          "bbox": [
+            114.02,
+            374.222,
+            498.02,
+            386.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 211
+    },
+    {
+      "page": 11,
+      "text": "吃炸鸡，但是炸鸡吃不饱，所以就会附加点别的餐品。",
+      "bbox": [
+        90.024,
+        397.238,
+        381.07,
+        410.522
+      ],
+      "spans": [
+        {
+          "text": "吃炸鸡，但是炸鸡吃不饱，所以就会附加点别的餐品。",
+          "bbox": [
+            90.024,
+            397.622,
+            378.024,
+            409.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            378.07,
+            397.238,
+            381.07,
+            410.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 212
+    },
+    {
+      "page": 11,
+      "text": "这家店我最推荐的就是炸鸡！不吹不黑，是我吃过最好吃的炸鸡！其他的",
+      "bbox": [
+        114.02,
+        421.042,
+        498.17,
+        433.042
+      ],
+      "spans": [
+        {
+          "text": "这家店我最推荐的就是",
+          "bbox": [
+            114.02,
+            421.042,
+            234.02,
+            433.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "炸鸡",
+          "bbox": [
+            234.05,
+            421.042,
+            258.17,
+            433.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "！不吹不黑，是我吃过最好吃的炸鸡！其他的",
+          "bbox": [
+            258.29,
+            421.042,
+            498.17,
+            433.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "炸鸡"
+      ],
+      "red_segments": [
+        {
+          "text": "炸鸡",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 213
+    },
+    {
+      "page": 11,
+      "text": "炒物，碗底没有油，证明炒的火候和用油量控制的是不错的，我比较喜欢炒河",
+      "bbox": [
+        90.024,
+        444.442,
+        498.22,
+        456.442
+      ],
+      "spans": [
+        {
+          "text": "炒物，碗底没有油，证明炒的火候和用油量控制的是不错的，我比较喜欢",
+          "bbox": [
+            90.024,
+            444.442,
+            474.02,
+            456.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "炒河",
+          "bbox": [
+            474.1,
+            444.442,
+            498.22,
+            456.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "炒河"
+      ],
+      "red_segments": [
+        {
+          "text": "炒河",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 214
+    },
+    {
+      "page": 11,
+      "text": "粉，这个算是比较好吃的，其他的我觉得不难吃，但是没有刻意过来吃一趟的",
+      "bbox": [
+        90.024,
+        467.842,
+        498.05,
+        479.842
+      ],
+      "spans": [
+        {
+          "text": "粉",
+          "bbox": [
+            90.024,
+            467.842,
+            102.024,
+            479.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "，这个算是比较好吃的，其他的我觉得不难吃，但是没有刻意过来吃一趟的",
+          "bbox": [
+            102.14,
+            467.842,
+            498.05,
+            479.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "粉"
+      ],
+      "red_segments": [
+        {
+          "text": "粉",
+          "at_line_start": true,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 215
+    },
+    {
+      "page": 11,
+      "text": "想法。它的菜单如图所示，从大众点评找的，和实际是一样的：",
+      "bbox": [
+        90.024,
+        490.858,
+        429.1,
+        504.142
+      ],
+      "spans": [
+        {
+          "text": "想法。它的菜单如图所示，从大众点评找的，和实际是一样的：",
+          "bbox": [
+            90.024,
+            491.242,
+            426.024,
+            503.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            426.1,
+            490.858,
+            429.1,
+            504.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 216
+    },
+    {
+      "page": 11,
+      "text": "三清羊肉粉菜单",
+      "bbox": [
+        255.65,
+        639.088,
+        342.67,
+        652.372
+      ],
+      "spans": [
+        {
+          "text": "三清羊肉粉菜单",
+          "bbox": [
+            255.65,
+            639.472,
+            339.65,
+            651.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            339.67,
+            639.088,
+            342.67,
+            652.372
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 217
+    },
+    {
+      "page": 11,
+      "text": "三清羊肉粉美团信息",
+      "bbox": [
+        243.65,
+        740.484,
+        354.67,
+        753.768
+      ],
+      "spans": [
+        {
+          "text": "三清羊肉粉美团信息",
+          "bbox": [
+            243.65,
+            740.868,
+            351.65,
+            752.868
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            351.67,
+            740.484,
+            354.67,
+            753.768
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 218
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p011-01",
+      "page": 11,
+      "order_on_page": 1,
+      "file": "media/p011_img01.png",
+      "xref": 141,
+      "bbox": [
+        227.7,
+        259.65,
+        367.58,
+        320.5
+      ],
+      "pixel_width": 440,
+      "pixel_height": 190,
+      "caption": "韩味屋美团信息",
+      "sha256": "ef0102abed6a0ead7307f206807088e04e4274832328289be4305a12a4e88bc5",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p011-02",
+      "page": 11,
+      "order_on_page": 2,
+      "file": "media/p011_img02.png",
+      "xref": 142,
+      "bbox": [
+        217.4,
+        511.07,
+        377.75,
+        631.32
+      ],
+      "pixel_width": 445,
+      "pixel_height": 334,
+      "caption": "三清羊肉粉菜单",
+      "sha256": "2773382e2b238cf65ad958907b73c95b682ccf2e04693311c9837c3abcaa9a10",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p011-03",
+      "page": 11,
+      "order_on_page": 3,
+      "file": "media/p011_img03.png",
+      "xref": 143,
+      "bbox": [
+        216.65,
+        658.49,
+        378.29,
+        732.79
+      ],
+      "pixel_width": 509,
+      "pixel_height": 234,
+      "caption": "三清羊肉粉美团信息",
+      "sha256": "839e5a2a8a44ba55fe92f3e21db7f0ed765f3846d73e1dab99f3db04fb64a508",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

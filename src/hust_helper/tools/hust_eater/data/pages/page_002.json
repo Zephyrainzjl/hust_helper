@@ -1,0 +1,2376 @@
+{
+  "schema_version": "1.0",
+  "page_number": 2,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "目录\n第一章  华科食堂篇 ................................................................. 4\n1.1  华科食堂一览 ............................................................................................. 4\n1.2  东区食堂 ..................................................................................................... 4\n1.3  中区食堂 ..................................................................................................... 6\n1.4  西区食堂 ..................................................................................................... 7\n第二章  华科周边美食篇 ......................................................... 9\n2.1  东区外 ......................................................................................................... 9\n2.2  中区外 ....................................................................................................... 13\n2.3  西区南 ....................................................................................................... 19\n2.4  西区西 ....................................................................................................... 21\n2.5  武大周边 ................................................................................................... 22\n第三章  武汉过早篇 ............................................................... 24\n3.1  洪山区 ....................................................................................................... 24\n3.2  武昌区 ....................................................................................................... 26\n3.3  江汉区 ....................................................................................................... 28\n3.4  江岸区 ....................................................................................................... 29\n3.5  硚口区 ....................................................................................................... 30\n3.6  汉阳区 ....................................................................................................... 31\n第四章  武汉美食篇 ............................................................... 33\n4.1  洪山区 ....................................................................................................... 33\n4.2  江夏区 ....................................................................................................... 35\n4.3  武昌区 ....................................................................................................... 35\n4.4  江岸区 ....................................................................................................... 37\n4.5  江汉区 ....................................................................................................... 40\n4.6  汉阳区 ....................................................................................................... 43\n4.7  蔡甸区 ....................................................................................................... 43\n4.8  黄陂区 ....................................................................................................... 43",
+  "lines": [
+    {
+      "page": 2,
+      "text": "目录",
+      "bbox": [
+        90.024,
+        79.67,
+        126.433,
+        97.083
+      ],
+      "spans": [
+        {
+          "text": "目录",
+          "bbox": [
+            90.024,
+            79.67,
+            121.944,
+            95.63
+          ],
+          "font": "SimSun",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            122.06,
+            80.452,
+            126.433,
+            97.083
+          ],
+          "font": "DengXian-Light",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 15.96,
+      "order": 3
+    },
+    {
+      "page": 2,
+      "text": "第一章  华科食堂篇 ................................................................. 4",
+      "bbox": [
+        90.024,
+        110.36,
+        507.965,
+        128.027
+      ],
+      "spans": [
+        {
+          "text": "第一章",
+          "bbox": [
+            90.024,
+            110.87,
+            137.904,
+            126.83
+          ],
+          "font": "SimSun",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            138.02,
+            115.638,
+            141.045,
+            127.141
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "华科食堂篇",
+          "bbox": [
+            156.02,
+            110.87,
+            235.932,
+            126.83
+          ],
+          "font": "SimSun",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ................................................................. 4",
+          "bbox": [
+            236.09,
+            110.36,
+            504.88,
+            128.027
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            115.638,
+            507.965,
+            127.141
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 15.96,
+      "order": 4
+    },
+    {
+      "page": 2,
+      "text": "1.1  华科食堂一览 ............................................................................................. 4",
+      "bbox": [
+        114.02,
+        139.808,
+        507.965,
+        153.092
+      ],
+      "spans": [
+        {
+          "text": "1.1",
+          "bbox": [
+            114.02,
+            139.808,
+            129.02,
+            153.092
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            141.558,
+            132.045,
+            153.061
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "华科食堂一览",
+          "bbox": [
+            144.98,
+            140.192,
+            216.98,
+            152.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ............................................................................................. 4",
+          "bbox": [
+            217.01,
+            139.808,
+            504.94,
+            153.092
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            141.558,
+            507.965,
+            153.061
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 5
+    },
+    {
+      "page": 2,
+      "text": "1.2  东区食堂 ..................................................................................................... 4",
+      "bbox": [
+        114.02,
+        163.208,
+        507.965,
+        176.492
+      ],
+      "spans": [
+        {
+          "text": "1.2",
+          "bbox": [
+            114.02,
+            163.208,
+            129.02,
+            176.492
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            164.958,
+            132.045,
+            176.461
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "东区食堂",
+          "bbox": [
+            144.98,
+            163.592,
+            192.98,
+            175.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ..................................................................................................... 4",
+          "bbox": [
+            193.01,
+            163.208,
+            504.94,
+            176.492
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            164.958,
+            507.965,
+            176.461
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 6
+    },
+    {
+      "page": 2,
+      "text": "1.3  中区食堂 ..................................................................................................... 6",
+      "bbox": [
+        114.02,
+        186.608,
+        507.965,
+        199.892
+      ],
+      "spans": [
+        {
+          "text": "1.3",
+          "bbox": [
+            114.02,
+            186.608,
+            129.02,
+            199.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            188.358,
+            132.045,
+            199.861
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "中区食堂",
+          "bbox": [
+            144.98,
+            186.992,
+            192.98,
+            198.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ..................................................................................................... 6",
+          "bbox": [
+            193.01,
+            186.608,
+            504.94,
+            199.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            188.358,
+            507.965,
+            199.861
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 7
+    },
+    {
+      "page": 2,
+      "text": "1.4  西区食堂 ..................................................................................................... 7",
+      "bbox": [
+        114.02,
+        210.008,
+        507.965,
+        223.292
+      ],
+      "spans": [
+        {
+          "text": "1.4",
+          "bbox": [
+            114.02,
+            210.008,
+            129.02,
+            223.292
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            211.758,
+            132.045,
+            223.261
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "西区食堂",
+          "bbox": [
+            144.98,
+            210.392,
+            192.98,
+            222.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ..................................................................................................... 7",
+          "bbox": [
+            193.01,
+            210.008,
+            504.94,
+            223.292
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            211.758,
+            507.965,
+            223.261
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 8
+    },
+    {
+      "page": 2,
+      "text": "第二章  华科周边美食篇 ......................................................... 9",
+      "bbox": [
+        90.024,
+        235.19,
+        507.965,
+        252.857
+      ],
+      "spans": [
+        {
+          "text": "第二章",
+          "bbox": [
+            90.024,
+            235.7,
+            137.904,
+            251.66
+          ],
+          "font": "SimSun",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            138.02,
+            240.468,
+            141.045,
+            251.971
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "华科周边美食篇",
+          "bbox": [
+            156.02,
+            235.7,
+            267.852,
+            251.66
+          ],
+          "font": "SimSun",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ......................................................... 9",
+          "bbox": [
+            268.01,
+            235.19,
+            504.88,
+            252.857
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            240.468,
+            507.965,
+            251.971
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 15.96,
+      "order": 9
+    },
+    {
+      "page": 2,
+      "text": "2.1  东区外 ......................................................................................................... 9",
+      "bbox": [
+        114.02,
+        264.638,
+        507.965,
+        277.922
+      ],
+      "spans": [
+        {
+          "text": "2.1",
+          "bbox": [
+            114.02,
+            264.638,
+            129.02,
+            277.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            266.388,
+            132.045,
+            277.891
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "东区外",
+          "bbox": [
+            144.98,
+            265.022,
+            180.98,
+            277.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ......................................................................................................... 9",
+          "bbox": [
+            181.01,
+            264.638,
+            504.94,
+            277.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            266.388,
+            507.965,
+            277.891
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 10
+    },
+    {
+      "page": 2,
+      "text": "2.2  中区外 ....................................................................................................... 13",
+      "bbox": [
+        114.02,
+        288.038,
+        507.965,
+        301.322
+      ],
+      "spans": [
+        {
+          "text": "2.2",
+          "bbox": [
+            114.02,
+            288.038,
+            129.02,
+            301.322
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            289.788,
+            132.045,
+            301.291
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "中区外",
+          "bbox": [
+            144.98,
+            288.422,
+            180.98,
+            300.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ....................................................................................................... 13",
+          "bbox": [
+            181.01,
+            288.038,
+            504.94,
+            301.322
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            289.788,
+            507.965,
+            301.291
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 11
+    },
+    {
+      "page": 2,
+      "text": "2.3  西区南 ....................................................................................................... 19",
+      "bbox": [
+        114.02,
+        311.438,
+        507.965,
+        324.722
+      ],
+      "spans": [
+        {
+          "text": "2.3",
+          "bbox": [
+            114.02,
+            311.438,
+            129.02,
+            324.722
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            313.188,
+            132.045,
+            324.691
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "西区南",
+          "bbox": [
+            144.98,
+            311.822,
+            180.98,
+            323.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ....................................................................................................... 19",
+          "bbox": [
+            181.01,
+            311.438,
+            504.94,
+            324.722
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            313.188,
+            507.965,
+            324.691
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 12
+    },
+    {
+      "page": 2,
+      "text": "2.4  西区西 ....................................................................................................... 21",
+      "bbox": [
+        114.02,
+        334.838,
+        507.965,
+        348.122
+      ],
+      "spans": [
+        {
+          "text": "2.4",
+          "bbox": [
+            114.02,
+            334.838,
+            129.02,
+            348.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            336.588,
+            132.045,
+            348.091
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "西区西",
+          "bbox": [
+            144.98,
+            335.222,
+            180.98,
+            347.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ....................................................................................................... 21",
+          "bbox": [
+            181.01,
+            334.838,
+            504.94,
+            348.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            336.588,
+            507.965,
+            348.091
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 13
+    },
+    {
+      "page": 2,
+      "text": "2.5  武大周边 ................................................................................................... 22",
+      "bbox": [
+        114.02,
+        358.238,
+        507.965,
+        371.522
+      ],
+      "spans": [
+        {
+          "text": "2.5",
+          "bbox": [
+            114.02,
+            358.238,
+            129.02,
+            371.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            359.988,
+            132.045,
+            371.491
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "武大周边",
+          "bbox": [
+            144.98,
+            358.622,
+            192.98,
+            370.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ................................................................................................... 22",
+          "bbox": [
+            193.01,
+            358.238,
+            504.94,
+            371.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            359.988,
+            507.965,
+            371.491
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 14
+    },
+    {
+      "page": 2,
+      "text": "第三章  武汉过早篇 ............................................................... 24",
+      "bbox": [
+        90.024,
+        383.39,
+        507.965,
+        401.057
+      ],
+      "spans": [
+        {
+          "text": "第三章",
+          "bbox": [
+            90.024,
+            383.9,
+            137.904,
+            399.86
+          ],
+          "font": "SimSun",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            138.02,
+            388.668,
+            141.045,
+            400.171
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "武汉过早篇",
+          "bbox": [
+            156.02,
+            383.9,
+            235.932,
+            399.86
+          ],
+          "font": "SimSun",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ............................................................... 24",
+          "bbox": [
+            236.09,
+            383.39,
+            505.0,
+            401.057
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            388.668,
+            507.965,
+            400.171
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 15.96,
+      "order": 15
+    },
+    {
+      "page": 2,
+      "text": "3.1  洪山区 ....................................................................................................... 24",
+      "bbox": [
+        114.02,
+        412.858,
+        507.965,
+        426.142
+      ],
+      "spans": [
+        {
+          "text": "3.1",
+          "bbox": [
+            114.02,
+            412.858,
+            129.02,
+            426.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            414.608,
+            132.045,
+            426.111
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "洪山区",
+          "bbox": [
+            144.98,
+            413.242,
+            180.98,
+            425.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ....................................................................................................... 24",
+          "bbox": [
+            181.01,
+            412.858,
+            504.94,
+            426.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            414.608,
+            507.965,
+            426.111
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 16
+    },
+    {
+      "page": 2,
+      "text": "3.2  武昌区 ....................................................................................................... 26",
+      "bbox": [
+        114.02,
+        436.258,
+        507.965,
+        449.542
+      ],
+      "spans": [
+        {
+          "text": "3.2",
+          "bbox": [
+            114.02,
+            436.258,
+            129.02,
+            449.542
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            438.008,
+            132.045,
+            449.511
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "武昌区",
+          "bbox": [
+            144.98,
+            436.642,
+            180.98,
+            448.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ....................................................................................................... 26",
+          "bbox": [
+            181.01,
+            436.258,
+            504.94,
+            449.542
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            438.008,
+            507.965,
+            449.511
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 17
+    },
+    {
+      "page": 2,
+      "text": "3.3  江汉区 ....................................................................................................... 28",
+      "bbox": [
+        114.02,
+        459.658,
+        507.965,
+        472.942
+      ],
+      "spans": [
+        {
+          "text": "3.3",
+          "bbox": [
+            114.02,
+            459.658,
+            129.02,
+            472.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            461.408,
+            132.045,
+            472.911
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "江汉区",
+          "bbox": [
+            144.98,
+            460.042,
+            180.98,
+            472.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ....................................................................................................... 28",
+          "bbox": [
+            181.01,
+            459.658,
+            504.94,
+            472.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            461.408,
+            507.965,
+            472.911
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 18
+    },
+    {
+      "page": 2,
+      "text": "3.4  江岸区 ....................................................................................................... 29",
+      "bbox": [
+        114.02,
+        483.058,
+        507.965,
+        496.342
+      ],
+      "spans": [
+        {
+          "text": "3.4",
+          "bbox": [
+            114.02,
+            483.058,
+            129.02,
+            496.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            484.808,
+            132.045,
+            496.311
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "江岸区",
+          "bbox": [
+            144.98,
+            483.442,
+            180.98,
+            495.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ....................................................................................................... 29",
+          "bbox": [
+            181.01,
+            483.058,
+            504.94,
+            496.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            484.808,
+            507.965,
+            496.311
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 19
+    },
+    {
+      "page": 2,
+      "text": "3.5  硚口区 ....................................................................................................... 30",
+      "bbox": [
+        114.02,
+        506.458,
+        507.965,
+        519.742
+      ],
+      "spans": [
+        {
+          "text": "3.5",
+          "bbox": [
+            114.02,
+            506.458,
+            129.02,
+            519.742
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            508.208,
+            132.045,
+            519.711
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "硚口区",
+          "bbox": [
+            144.98,
+            506.842,
+            180.98,
+            518.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ....................................................................................................... 30",
+          "bbox": [
+            181.01,
+            506.458,
+            504.94,
+            519.742
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            508.208,
+            507.965,
+            519.711
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 20
+    },
+    {
+      "page": 2,
+      "text": "3.6  汉阳区 ....................................................................................................... 31",
+      "bbox": [
+        114.02,
+        529.858,
+        507.965,
+        543.142
+      ],
+      "spans": [
+        {
+          "text": "3.6",
+          "bbox": [
+            114.02,
+            529.858,
+            129.02,
+            543.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            531.608,
+            132.045,
+            543.111
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "汉阳区",
+          "bbox": [
+            144.98,
+            530.242,
+            180.98,
+            542.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ....................................................................................................... 31",
+          "bbox": [
+            181.01,
+            529.858,
+            504.94,
+            543.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            531.608,
+            507.965,
+            543.111
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 21
+    },
+    {
+      "page": 2,
+      "text": "第四章  武汉美食篇 ............................................................... 33",
+      "bbox": [
+        90.024,
+        555.01,
+        507.965,
+        572.677
+      ],
+      "spans": [
+        {
+          "text": "第四章",
+          "bbox": [
+            90.024,
+            555.52,
+            137.904,
+            571.48
+          ],
+          "font": "SimSun",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            138.02,
+            560.288,
+            141.045,
+            571.791
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "武汉美食篇",
+          "bbox": [
+            156.02,
+            555.52,
+            235.932,
+            571.48
+          ],
+          "font": "SimSun",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ............................................................... 33",
+          "bbox": [
+            236.09,
+            555.01,
+            505.0,
+            572.677
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            560.288,
+            507.965,
+            571.791
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 15.96,
+      "order": 22
+    },
+    {
+      "page": 2,
+      "text": "4.1  洪山区 ....................................................................................................... 33",
+      "bbox": [
+        114.02,
+        584.488,
+        507.965,
+        597.772
+      ],
+      "spans": [
+        {
+          "text": "4.1",
+          "bbox": [
+            114.02,
+            584.488,
+            129.02,
+            597.772
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            586.238,
+            132.045,
+            597.741
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "洪山区",
+          "bbox": [
+            144.98,
+            584.872,
+            180.98,
+            596.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ....................................................................................................... 33",
+          "bbox": [
+            181.01,
+            584.488,
+            504.94,
+            597.772
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            586.238,
+            507.965,
+            597.741
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 23
+    },
+    {
+      "page": 2,
+      "text": "4.2  江夏区 ....................................................................................................... 35",
+      "bbox": [
+        114.02,
+        607.888,
+        507.965,
+        621.172
+      ],
+      "spans": [
+        {
+          "text": "4.2",
+          "bbox": [
+            114.02,
+            607.888,
+            129.02,
+            621.172
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            609.638,
+            132.045,
+            621.141
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "江夏区",
+          "bbox": [
+            144.98,
+            608.272,
+            180.98,
+            620.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ....................................................................................................... 35",
+          "bbox": [
+            181.01,
+            607.888,
+            504.94,
+            621.172
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            609.638,
+            507.965,
+            621.141
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 24
+    },
+    {
+      "page": 2,
+      "text": "4.3  武昌区 ....................................................................................................... 35",
+      "bbox": [
+        114.02,
+        631.288,
+        507.965,
+        644.572
+      ],
+      "spans": [
+        {
+          "text": "4.3",
+          "bbox": [
+            114.02,
+            631.288,
+            129.02,
+            644.572
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            633.038,
+            132.045,
+            644.541
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "武昌区",
+          "bbox": [
+            144.98,
+            631.672,
+            180.98,
+            643.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ....................................................................................................... 35",
+          "bbox": [
+            181.01,
+            631.288,
+            504.94,
+            644.572
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            633.038,
+            507.965,
+            644.541
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 25
+    },
+    {
+      "page": 2,
+      "text": "4.4  江岸区 ....................................................................................................... 37",
+      "bbox": [
+        114.02,
+        654.688,
+        507.965,
+        667.972
+      ],
+      "spans": [
+        {
+          "text": "4.4",
+          "bbox": [
+            114.02,
+            654.688,
+            129.02,
+            667.972
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            656.438,
+            132.045,
+            667.941
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "江岸区",
+          "bbox": [
+            144.98,
+            655.072,
+            180.98,
+            667.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ....................................................................................................... 37",
+          "bbox": [
+            181.01,
+            654.688,
+            504.94,
+            667.972
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            656.438,
+            507.965,
+            667.941
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 26
+    },
+    {
+      "page": 2,
+      "text": "4.5  江汉区 ....................................................................................................... 40",
+      "bbox": [
+        114.02,
+        678.088,
+        507.965,
+        691.372
+      ],
+      "spans": [
+        {
+          "text": "4.5",
+          "bbox": [
+            114.02,
+            678.088,
+            129.02,
+            691.372
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            679.838,
+            132.045,
+            691.341
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "江汉区",
+          "bbox": [
+            144.98,
+            678.472,
+            180.98,
+            690.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ....................................................................................................... 40",
+          "bbox": [
+            181.01,
+            678.088,
+            504.94,
+            691.372
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            679.838,
+            507.965,
+            691.341
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 27
+    },
+    {
+      "page": 2,
+      "text": "4.6  汉阳区 ....................................................................................................... 43",
+      "bbox": [
+        114.02,
+        701.488,
+        507.965,
+        714.772
+      ],
+      "spans": [
+        {
+          "text": "4.6",
+          "bbox": [
+            114.02,
+            701.488,
+            129.02,
+            714.772
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            703.238,
+            132.045,
+            714.741
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "汉阳区",
+          "bbox": [
+            144.98,
+            701.872,
+            180.98,
+            713.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ....................................................................................................... 43",
+          "bbox": [
+            181.01,
+            701.488,
+            504.94,
+            714.772
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            703.238,
+            507.965,
+            714.741
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 28
+    },
+    {
+      "page": 2,
+      "text": "4.7  蔡甸区 ....................................................................................................... 43",
+      "bbox": [
+        114.02,
+        724.888,
+        507.965,
+        738.172
+      ],
+      "spans": [
+        {
+          "text": "4.7",
+          "bbox": [
+            114.02,
+            724.888,
+            129.02,
+            738.172
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            726.638,
+            132.045,
+            738.141
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "蔡甸区",
+          "bbox": [
+            144.98,
+            725.272,
+            180.98,
+            737.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ....................................................................................................... 43",
+          "bbox": [
+            181.01,
+            724.888,
+            504.94,
+            738.172
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            726.638,
+            507.965,
+            738.141
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 29
+    },
+    {
+      "page": 2,
+      "text": "4.8  黄陂区 ....................................................................................................... 43",
+      "bbox": [
+        114.02,
+        748.308,
+        507.965,
+        761.592
+      ],
+      "spans": [
+        {
+          "text": "4.8",
+          "bbox": [
+            114.02,
+            748.308,
+            129.02,
+            761.592
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            129.02,
+            750.058,
+            132.045,
+            761.561
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "黄陂区",
+          "bbox": [
+            144.98,
+            748.692,
+            180.98,
+            760.692
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ....................................................................................................... 43",
+          "bbox": [
+            181.01,
+            748.308,
+            504.94,
+            761.592
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            504.94,
+            750.058,
+            507.965,
+            761.561
+          ],
+          "font": "DengXian",
+          "size": 11.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 30
+    }
+  ],
+  "images": []
+}

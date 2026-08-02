@@ -1,0 +1,1111 @@
+{
+  "schema_version": "1.0",
+  "page_number": 43,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "4.6  汉阳区\n（1） 恩施茶店牛肉（玫瑰苑南苑店）：牛肉火锅\n这家店真的太远了，但是我真的很想再去一次，牛肉嘎嘎好吃，属于是自\n助类型的火锅，强烈推荐恩施茶店牛肉锅！华科过去一趟单程就得一个半小\n时。你点了牛肉也可以中途换成牛杂，不限量吃，用一个桶给你加。\n恩施茶店牛肉美团信息\n4.7  蔡甸区\n（1） 嘎星牛骨头：火锅和湖北菜\n我蔡甸的本地朋友推荐我去吃的，牛骨头是真香，还有他的牛肉饼也很好\n吃。推荐菜：招牌牛骨头、牛肉饼、妈妈春卷。这家店也是有点远，过去不太\n方便。如果去花博汇或者后官湖的时候可以顺路过去吃。\n嘎星牛骨头美团信息\n4.8  黄陂区\n（1） 黄泥岗（前川店）\n这家店我两次自驾路过都吃了，吃的不同菜，看起来貌似挺火的。他点餐\n比较有特色，是去大厅看菜的原材料和成色，拿对应菜的牌子，然后给服务\n员，根据我用餐体验推荐几道菜：生态鮰鱼（大众点评第二，我两次都想吃，\n但是都是晚上，都卖完了，所以应该不会差）、老式红烧肉、黄陂三鲜、油醋汁",
+  "lines": [
+    {
+      "page": 43,
+      "text": "4.6  汉阳区",
+      "bbox": [
+        90.024,
+        79.954,
+        171.53,
+        95.693
+      ],
+      "spans": [
+        {
+          "text": "4.6",
+          "bbox": [
+            90.024,
+            80.15,
+            107.616,
+            95.693
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            107.54,
+            79.954,
+            111.443,
+            95.608
+          ],
+          "font": "ArialMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "汉阳区",
+          "bbox": [
+            126.02,
+            80.6,
+            168.14,
+            94.64
+          ],
+          "font": "SimSun",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            168.02,
+            80.15,
+            171.53,
+            95.693
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 14.04,
+      "order": 715
+    },
+    {
+      "page": 43,
+      "text": "（1） 恩施茶店牛肉（玫瑰苑南苑店）：牛肉火锅",
+      "bbox": [
+        90.024,
+        108.44,
+        351.07,
+        121.892
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            108.992,
+            102.024,
+            120.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "1",
+          "bbox": [
+            102.02,
+            108.608,
+            108.02,
+            121.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            108.992,
+            120.02,
+            120.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            108.44,
+            123.356,
+            121.82
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "恩施茶店牛肉（玫瑰苑南苑店）：牛肉火锅",
+          "bbox": [
+            126.02,
+            108.992,
+            348.02,
+            120.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            348.07,
+            108.608,
+            351.07,
+            121.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 716
+    },
+    {
+      "page": 43,
+      "text": "这家店真的太远了，但是我真的很想再去一次，牛肉嘎嘎好吃，属于是自",
+      "bbox": [
+        114.02,
+        132.392,
+        498.02,
+        144.392
+      ],
+      "spans": [
+        {
+          "text": "这家店真的太远了，但是我真的很想再去一次，牛肉嘎嘎好吃，属于是自",
+          "bbox": [
+            114.02,
+            132.392,
+            498.02,
+            144.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 717
+    },
+    {
+      "page": 43,
+      "text": "助类型的火锅，强烈推荐恩施茶店牛肉锅！华科过去一趟单程就得一个半小",
+      "bbox": [
+        90.024,
+        155.792,
+        486.43,
+        167.792
+      ],
+      "spans": [
+        {
+          "text": "助类型的火锅，强烈推荐",
+          "bbox": [
+            90.024,
+            155.792,
+            222.024,
+            167.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "恩施茶店牛肉锅",
+          "bbox": [
+            222.05,
+            155.792,
+            306.374,
+            167.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "！华科过去一趟单程就得一个半小",
+          "bbox": [
+            306.55,
+            155.792,
+            486.43,
+            167.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "恩施茶店牛肉锅"
+      ],
+      "red_segments": [
+        {
+          "text": "恩施茶店牛肉锅",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 718
+    },
+    {
+      "page": 43,
+      "text": "时。你点了牛肉也可以中途换成牛杂，不限量吃，用一个桶给你加。",
+      "bbox": [
+        90.024,
+        178.808,
+        453.1,
+        192.092
+      ],
+      "spans": [
+        {
+          "text": "时。你点了牛肉也可以中途换成牛杂，不限量吃，用一个桶给你加。",
+          "bbox": [
+            90.024,
+            179.192,
+            450.024,
+            191.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            450.1,
+            178.808,
+            453.1,
+            192.092
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 719
+    },
+    {
+      "page": 43,
+      "text": "恩施茶店牛肉美团信息",
+      "bbox": [
+        237.65,
+        311.438,
+        360.67,
+        324.722
+      ],
+      "spans": [
+        {
+          "text": "恩施茶店牛肉美团信息",
+          "bbox": [
+            237.65,
+            311.822,
+            357.65,
+            323.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            357.67,
+            311.438,
+            360.67,
+            324.722
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 720
+    },
+    {
+      "page": 43,
+      "text": "4.7  蔡甸区",
+      "bbox": [
+        90.024,
+        337.384,
+        171.53,
+        353.123
+      ],
+      "spans": [
+        {
+          "text": "4.7",
+          "bbox": [
+            90.024,
+            337.58,
+            107.616,
+            353.123
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            107.54,
+            337.384,
+            111.443,
+            353.038
+          ],
+          "font": "ArialMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "蔡甸区",
+          "bbox": [
+            126.02,
+            338.03,
+            168.14,
+            352.07
+          ],
+          "font": "SimSun",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            168.02,
+            337.58,
+            171.53,
+            353.123
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 14.04,
+      "order": 721
+    },
+    {
+      "page": 43,
+      "text": "（1） 嘎星牛骨头：火锅和湖北菜",
+      "bbox": [
+        90.024,
+        365.87,
+        273.05,
+        379.322
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            366.422,
+            102.024,
+            378.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "1",
+          "bbox": [
+            102.02,
+            366.038,
+            108.02,
+            379.322
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            366.422,
+            120.02,
+            378.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            365.87,
+            123.356,
+            379.25
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "嘎星牛骨头：火锅和湖北菜",
+          "bbox": [
+            126.02,
+            366.422,
+            270.02,
+            378.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            270.05,
+            366.038,
+            273.05,
+            379.322
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 722
+    },
+    {
+      "page": 43,
+      "text": "我蔡甸的本地朋友推荐我去吃的，牛骨头是真香，还有他的牛肉饼也很好",
+      "bbox": [
+        114.02,
+        389.822,
+        498.02,
+        401.822
+      ],
+      "spans": [
+        {
+          "text": "我蔡甸的本地朋友推荐我去吃的，牛骨头是真香，还有他的牛肉饼也很好",
+          "bbox": [
+            114.02,
+            389.822,
+            498.02,
+            401.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 723
+    },
+    {
+      "page": 43,
+      "text": "吃。推荐菜：招牌牛骨头、牛肉饼、妈妈春卷。这家店也是有点远，过去不太",
+      "bbox": [
+        90.024,
+        413.242,
+        498.79,
+        425.242
+      ],
+      "spans": [
+        {
+          "text": "吃。推荐菜：",
+          "bbox": [
+            90.024,
+            413.242,
+            162.024,
+            425.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "招牌牛骨头、牛肉饼、妈妈春卷",
+          "bbox": [
+            162.02,
+            413.242,
+            330.746,
+            425.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。这家店也是有点远，过去不太",
+          "bbox": [
+            330.79,
+            413.242,
+            498.79,
+            425.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "招牌牛骨头、牛肉饼、妈妈春卷"
+      ],
+      "red_segments": [
+        {
+          "text": "招牌牛骨头、牛肉饼、妈妈春卷",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 724
+    },
+    {
+      "page": 43,
+      "text": "方便。如果去花博汇或者后官湖的时候可以顺路过去吃。",
+      "bbox": [
+        90.024,
+        436.258,
+        393.07,
+        449.542
+      ],
+      "spans": [
+        {
+          "text": "方便。如果去花博汇或者后官湖的时候可以顺路过去吃。",
+          "bbox": [
+            90.024,
+            436.642,
+            390.024,
+            448.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            390.07,
+            436.258,
+            393.07,
+            449.542
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 725
+    },
+    {
+      "page": 43,
+      "text": "嘎星牛骨头美团信息",
+      "bbox": [
+        243.65,
+        600.088,
+        354.67,
+        613.372
+      ],
+      "spans": [
+        {
+          "text": "嘎星牛骨头美团信息",
+          "bbox": [
+            243.65,
+            600.472,
+            351.65,
+            612.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            351.67,
+            600.088,
+            354.67,
+            613.372
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 726
+    },
+    {
+      "page": 43,
+      "text": "4.8  黄陂区",
+      "bbox": [
+        90.024,
+        626.034,
+        171.53,
+        641.773
+      ],
+      "spans": [
+        {
+          "text": "4.8",
+          "bbox": [
+            90.024,
+            626.23,
+            107.616,
+            641.773
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            107.54,
+            626.034,
+            111.443,
+            641.688
+          ],
+          "font": "ArialMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "黄陂区",
+          "bbox": [
+            126.02,
+            626.68,
+            168.14,
+            640.72
+          ],
+          "font": "SimSun",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            168.02,
+            626.23,
+            171.53,
+            641.773
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 14.04,
+      "order": 727
+    },
+    {
+      "page": 43,
+      "text": "（1） 黄泥岗（前川店）",
+      "bbox": [
+        90.024,
+        654.52,
+        225.05,
+        667.972
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            655.072,
+            102.024,
+            667.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "1",
+          "bbox": [
+            102.02,
+            654.688,
+            108.02,
+            667.972
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            655.072,
+            120.02,
+            667.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            654.52,
+            123.356,
+            667.9
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "黄泥岗（前川店）",
+          "bbox": [
+            126.02,
+            655.072,
+            222.02,
+            667.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            222.05,
+            654.688,
+            225.05,
+            667.972
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 728
+    },
+    {
+      "page": 43,
+      "text": "这家店我两次自驾路过都吃了，吃的不同菜，看起来貌似挺火的。他点餐",
+      "bbox": [
+        114.02,
+        678.472,
+        498.02,
+        690.472
+      ],
+      "spans": [
+        {
+          "text": "这家店我两次自驾路过都吃了，吃的不同菜，看起来貌似挺火的。他点餐",
+          "bbox": [
+            114.02,
+            678.472,
+            498.02,
+            690.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 729
+    },
+    {
+      "page": 43,
+      "text": "比较有特色，是去大厅看菜的原材料和成色，拿对应菜的牌子，然后给服务",
+      "bbox": [
+        90.024,
+        701.872,
+        486.024,
+        713.872
+      ],
+      "spans": [
+        {
+          "text": "比较有特色，是去大厅看菜的原材料和成色，拿对应菜的牌子，然后给服务",
+          "bbox": [
+            90.024,
+            701.872,
+            486.024,
+            713.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 730
+    },
+    {
+      "page": 43,
+      "text": "员，根据我用餐体验推荐几道菜：生态鮰鱼（大众点评第二，我两次都想吃，",
+      "bbox": [
+        90.024,
+        725.272,
+        498.31,
+        737.272
+      ],
+      "spans": [
+        {
+          "text": "员，根据我用餐体验推荐几道菜：",
+          "bbox": [
+            90.024,
+            725.272,
+            270.024,
+            737.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "生态鮰鱼",
+          "bbox": [
+            270.05,
+            725.272,
+            318.266,
+            737.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（大众点评第二，我两次都想吃，",
+          "bbox": [
+            318.43,
+            725.272,
+            498.31,
+            737.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "生态鮰鱼"
+      ],
+      "red_segments": [
+        {
+          "text": "生态鮰鱼",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 731
+    },
+    {
+      "page": 43,
+      "text": "但是都是晚上，都卖完了，所以应该不会差）、老式红烧肉、黄陂三鲜、油醋汁",
+      "bbox": [
+        90.024,
+        748.692,
+        504.718,
+        760.692
+      ],
+      "spans": [
+        {
+          "text": "但是都是晚上，都卖完了，所以应该不会差）、",
+          "bbox": [
+            90.024,
+            748.692,
+            336.07,
+            760.692
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "老式红烧肉、黄陂三鲜、油醋汁",
+          "bbox": [
+            336.07,
+            748.692,
+            504.718,
+            760.692
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "老式红烧肉、黄陂三鲜、油醋汁"
+      ],
+      "red_segments": [
+        {
+          "text": "老式红烧肉、黄陂三鲜、油醋汁",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 732
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p043-01",
+      "page": 43,
+      "order_on_page": 1,
+      "file": "media/p043_img01.png",
+      "xref": 256,
+      "bbox": [
+        198.5,
+        198.15,
+        396.8,
+        304.6
+      ],
+      "pixel_width": 616,
+      "pixel_height": 330,
+      "caption": "恩施茶店牛肉美团信息",
+      "sha256": "259ce6ea447e42c8a4de231087c70405c5c6409c3f995e9b4f207d91f2c95fd1",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p043-02",
+      "page": 43,
+      "order_on_page": 2,
+      "file": "media/p043_img02.png",
+      "xref": 257,
+      "bbox": [
+        184.4,
+        458.89,
+        410.58,
+        589.89
+      ],
+      "pixel_width": 703,
+      "pixel_height": 407,
+      "caption": "嘎星牛骨头美团信息",
+      "sha256": "1e88eb5bd562ba7a52ce39c5b4e229f0508e393fc3c3dba19aa806967322d416",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

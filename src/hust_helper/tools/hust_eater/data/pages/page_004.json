@@ -1,0 +1,1620 @@
+{
+  "schema_version": "1.0",
+  "page_number": 4,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "第一章  华科食堂篇\n在介绍中，我会一一列举每个食堂有什么吃的，然后对我推荐的好吃的进\n行标红，特别好吃的会在标红的同时加黄色底色。（特此说明！我没吃过每个窗\n口，可能会漏掉一些美食，大家可以自己去发现！）\n1.1  华科食堂一览\n华科目前有 34 个食堂，下面按照东区、中区和西区来对食堂分布区域进行\n划分。\n首先是12 个东区食堂。目前包含：韵酒一二楼、东园一二三楼、东教工、\n学一一二楼、学二一二楼、韵苑 11 栋茶咖、东区 CBD。\n接着是9 个中区食堂。目前包含：东一一二楼、集贤楼一二楼、东华园、\n东三、紫荆园、喻园、集锦园。\n最后是13 个西区食堂。目前包括：西一一二楼（包含二楼民族窗口）、西\n二一二楼、百景园一二三楼、百惠园、西华园、绿园、菘邻里、紫菘食堂、陈\n怀民小吃街。\n列举完各个食堂，下面将就这些食堂中的美食进行介绍。特此说明，没有\n列举到的不代表不好吃，作者仅记录自己吃过的觉得好吃的窗口和菜品。\n1.2  东区食堂\n（1）  韵酒一楼：\n刀削面：很多朋友都反馈刀削面味道不错。\n素菜卷饼：位于煎烙窗口\n砂锅面：有点微辣\n沙拉脆皮鸡、可乐鸡：都位于饮料边上窗口\n酥肉小锅：真的是给你一口小锅，味道还不错\n馄饨窗口：金牌虾仁馄饨\n鲜肉小笼包、红油牛肉包；\n（2）  韵酒二楼：\n鸡腿汤：这是我在校内喝过最好喝的鸡腿汤，每周必喝\n土豆丝：蒸菜窗口的土豆丝，虽然说要 3 块钱，但是是我校内吃过最好吃的，",
+  "lines": [
+    {
+      "page": 4,
+      "text": "第一章  华科食堂篇",
+      "bbox": [
+        90.024,
+        78.936,
+        237.463,
+        97.083
+      ],
+      "spans": [
+        {
+          "text": "第一章",
+          "bbox": [
+            90.024,
+            79.67,
+            137.904,
+            95.63
+          ],
+          "font": "SimSun",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            138.02,
+            78.936,
+            142.457,
+            96.732
+          ],
+          "font": "ArialMT",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "华科食堂篇",
+          "bbox": [
+            153.02,
+            79.67,
+            232.932,
+            95.63
+          ],
+          "font": "SimSun",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            233.09,
+            80.452,
+            237.463,
+            97.083
+          ],
+          "font": "DengXian-Light",
+          "size": 15.96,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 15.96,
+      "order": 41
+    },
+    {
+      "page": 4,
+      "text": "在介绍中，我会一一列举每个食堂有什么吃的，然后对我推荐的好吃的进",
+      "bbox": [
+        114.02,
+        108.992,
+        498.02,
+        120.992
+      ],
+      "spans": [
+        {
+          "text": "在介绍中，我会一一列举每个食堂有什么吃的，然后对我推荐的好吃的进",
+          "bbox": [
+            114.02,
+            108.992,
+            498.02,
+            120.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 42
+    },
+    {
+      "page": 4,
+      "text": "行标红，特别好吃的会在标红的同时加黄色底色。（特此说明！我没吃过每个窗",
+      "bbox": [
+        90.024,
+        132.392,
+        504.862,
+        144.392
+      ],
+      "spans": [
+        {
+          "text": "行",
+          "bbox": [
+            90.024,
+            132.392,
+            102.024,
+            144.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "标红",
+          "bbox": [
+            102.02,
+            132.392,
+            126.14,
+            144.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "，特别好吃的会在标红的同时加",
+          "bbox": [
+            126.26,
+            132.392,
+            294.14,
+            144.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "黄色底色",
+          "bbox": [
+            294.19,
+            132.392,
+            342.298,
+            144.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。（",
+          "bbox": [
+            342.43,
+            132.392,
+            360.43,
+            144.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "特此说明！我没吃过每个窗",
+          "bbox": [
+            360.43,
+            132.392,
+            504.862,
+            144.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        }
+      ],
+      "red_texts": [
+        "标红",
+        "黄色底色",
+        "特此说明！我没吃过每个窗"
+      ],
+      "red_segments": [
+        {
+          "text": "标红",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "黄色底色",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "特此说明！我没吃过每个窗",
+          "at_line_start": false,
+          "at_line_end": true
+        }
+      ],
+      "max_size": 12.0,
+      "order": 43
+    },
+    {
+      "page": 4,
+      "text": "口，可能会漏掉一些美食，大家可以自己去发现！）",
+      "bbox": [
+        90.024,
+        155.408,
+        364.15,
+        168.692
+      ],
+      "spans": [
+        {
+          "text": "口，可能会漏掉一些美食，大家可以自己去发现！",
+          "bbox": [
+            90.024,
+            155.792,
+            354.996,
+            167.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "）",
+          "bbox": [
+            349.27,
+            155.792,
+            361.27,
+            167.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            361.15,
+            155.408,
+            364.15,
+            168.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "口，可能会漏掉一些美食，大家可以自己去发现！"
+      ],
+      "red_segments": [
+        {
+          "text": "口，可能会漏掉一些美食，大家可以自己去发现！",
+          "at_line_start": true,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 44
+    },
+    {
+      "page": 4,
+      "text": "1.1  华科食堂一览",
+      "bbox": [
+        90.024,
+        181.354,
+        213.56,
+        197.093
+      ],
+      "spans": [
+        {
+          "text": "1.1",
+          "bbox": [
+            90.024,
+            181.55,
+            107.616,
+            197.093
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            107.54,
+            181.354,
+            111.443,
+            197.008
+          ],
+          "font": "ArialMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "华科食堂一览",
+          "bbox": [
+            126.02,
+            182.0,
+            210.134,
+            196.04
+          ],
+          "font": "SimSun",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            210.05,
+            181.55,
+            213.56,
+            197.093
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 14.04,
+      "order": 45
+    },
+    {
+      "page": 4,
+      "text": "华科目前有 34 个食堂，下面按照东区、中区和西区来对食堂分布区域进行",
+      "bbox": [
+        114.02,
+        210.008,
+        504.05,
+        223.292
+      ],
+      "spans": [
+        {
+          "text": "华科目前有",
+          "bbox": [
+            114.02,
+            210.392,
+            174.02,
+            222.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "34",
+          "bbox": [
+            177.05,
+            210.008,
+            189.05,
+            223.292
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 个食堂，下面按照东区、中区和西区来对食堂分布区域进行",
+          "bbox": [
+            189.05,
+            210.392,
+            504.05,
+            222.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 46
+    },
+    {
+      "page": 4,
+      "text": "划分。",
+      "bbox": [
+        90.024,
+        233.408,
+        129.02,
+        246.692
+      ],
+      "spans": [
+        {
+          "text": "划分。",
+          "bbox": [
+            90.024,
+            233.792,
+            126.024,
+            245.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            126.02,
+            233.408,
+            129.02,
+            246.692
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 47
+    },
+    {
+      "page": 4,
+      "text": "首先是12 个东区食堂。目前包含：韵酒一二楼、东园一二三楼、东教工、",
+      "bbox": [
+        114.02,
+        256.838,
+        504.02,
+        270.122
+      ],
+      "spans": [
+        {
+          "text": "首先是",
+          "bbox": [
+            114.02,
+            257.222,
+            150.02,
+            269.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "12",
+          "bbox": [
+            153.02,
+            256.838,
+            165.02,
+            270.122
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 个东区食堂。目前包含：韵酒一二楼、东园一二三楼、东教工、",
+          "bbox": [
+            165.02,
+            257.222,
+            504.02,
+            269.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 48
+    },
+    {
+      "page": 4,
+      "text": "学一一二楼、学二一二楼、韵苑 11 栋茶咖、东区 CBD。",
+      "bbox": [
+        90.024,
+        280.238,
+        390.31,
+        293.522
+      ],
+      "spans": [
+        {
+          "text": "学一一二楼、学二一二楼、韵苑",
+          "bbox": [
+            90.024,
+            280.622,
+            258.024,
+            292.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "11",
+          "bbox": [
+            261.05,
+            280.238,
+            272.57,
+            293.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 栋茶咖、东区",
+          "bbox": [
+            272.57,
+            280.622,
+            347.57,
+            292.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "CBD",
+          "bbox": [
+            350.59,
+            280.238,
+            375.334,
+            293.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "。",
+          "bbox": [
+            375.31,
+            280.622,
+            387.31,
+            292.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            387.31,
+            280.238,
+            390.31,
+            293.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 49
+    },
+    {
+      "page": 4,
+      "text": "接着是9 个中区食堂。目前包含：东一一二楼、集贤楼一二楼、东华园、",
+      "bbox": [
+        114.02,
+        303.638,
+        498.02,
+        316.922
+      ],
+      "spans": [
+        {
+          "text": "接着是",
+          "bbox": [
+            114.02,
+            304.022,
+            150.02,
+            316.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "9",
+          "bbox": [
+            153.02,
+            303.638,
+            159.02,
+            316.922
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 个中区食堂。目前包含：东一一二楼、集贤楼一二楼、东华园、",
+          "bbox": [
+            159.02,
+            304.022,
+            498.02,
+            316.022
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 50
+    },
+    {
+      "page": 4,
+      "text": "东三、紫荆园、喻园、集锦园。",
+      "bbox": [
+        90.024,
+        327.038,
+        261.05,
+        340.322
+      ],
+      "spans": [
+        {
+          "text": "东三、紫荆园、喻园、集锦园。",
+          "bbox": [
+            90.024,
+            327.422,
+            258.024,
+            339.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            258.05,
+            327.038,
+            261.05,
+            340.322
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 51
+    },
+    {
+      "page": 4,
+      "text": "最后是13 个西区食堂。目前包括：西一一二楼（包含二楼民族窗口）、西",
+      "bbox": [
+        114.02,
+        350.438,
+        498.02,
+        363.722
+      ],
+      "spans": [
+        {
+          "text": "最后是",
+          "bbox": [
+            114.02,
+            350.822,
+            150.02,
+            362.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "13",
+          "bbox": [
+            153.02,
+            350.438,
+            165.02,
+            363.722
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 个西区食堂。目前包括：西一一二楼（包含二楼民族窗口）、西",
+          "bbox": [
+            165.02,
+            350.822,
+            498.02,
+            362.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 52
+    },
+    {
+      "page": 4,
+      "text": "二一二楼、百景园一二三楼、百惠园、西华园、绿园、菘邻里、紫菘食堂、陈",
+      "bbox": [
+        90.024,
+        374.222,
+        498.1,
+        386.222
+      ],
+      "spans": [
+        {
+          "text": "二一二楼、百景园一二三楼、百惠园、西华园、绿园、菘邻里、紫菘食堂、陈",
+          "bbox": [
+            90.024,
+            374.222,
+            498.1,
+            386.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 53
+    },
+    {
+      "page": 4,
+      "text": "怀民小吃街。",
+      "bbox": [
+        90.024,
+        397.238,
+        165.02,
+        410.522
+      ],
+      "spans": [
+        {
+          "text": "怀民小吃街。",
+          "bbox": [
+            90.024,
+            397.622,
+            162.02,
+            409.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            162.02,
+            397.238,
+            165.02,
+            410.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 54
+    },
+    {
+      "page": 4,
+      "text": "列举完各个食堂，下面将就这些食堂中的美食进行介绍。特此说明，没有",
+      "bbox": [
+        114.02,
+        421.042,
+        498.02,
+        433.042
+      ],
+      "spans": [
+        {
+          "text": "列举完各个食堂，下面将就这些食堂中的美食进行介绍。特此说明，没有",
+          "bbox": [
+            114.02,
+            421.042,
+            498.02,
+            433.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 55
+    },
+    {
+      "page": 4,
+      "text": "列举到的不代表不好吃，作者仅记录自己吃过的觉得好吃的窗口和菜品。",
+      "bbox": [
+        90.024,
+        444.058,
+        477.1,
+        457.342
+      ],
+      "spans": [
+        {
+          "text": "列举到的不代表不好吃，作者仅记录自己吃过的觉得好吃的窗口和菜品。",
+          "bbox": [
+            90.024,
+            444.442,
+            474.024,
+            456.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            474.1,
+            444.058,
+            477.1,
+            457.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 56
+    },
+    {
+      "page": 4,
+      "text": "1.2  东区食堂",
+      "bbox": [
+        90.024,
+        470.004,
+        185.6,
+        485.743
+      ],
+      "spans": [
+        {
+          "text": "1.2",
+          "bbox": [
+            90.024,
+            470.2,
+            107.616,
+            485.743
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            107.54,
+            470.004,
+            111.443,
+            485.658
+          ],
+          "font": "ArialMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "东区食堂",
+          "bbox": [
+            126.02,
+            470.65,
+            182.18,
+            484.69
+          ],
+          "font": "SimSun",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            182.09,
+            470.2,
+            185.6,
+            485.743
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 14.04,
+      "order": 57
+    },
+    {
+      "page": 4,
+      "text": "（1）  韵酒一楼：",
+      "bbox": [
+        90.024,
+        498.49,
+        195.05,
+        511.942
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            499.042,
+            102.024,
+            511.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "1",
+          "bbox": [
+            102.02,
+            498.658,
+            108.02,
+            511.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            499.042,
+            120.02,
+            511.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            498.49,
+            123.356,
+            511.87
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "韵酒一楼：",
+          "bbox": [
+            132.02,
+            499.042,
+            192.02,
+            511.042
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            192.05,
+            498.658,
+            195.05,
+            511.942
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 58
+    },
+    {
+      "page": 4,
+      "text": "刀削面：很多朋友都反馈刀削面味道不错。",
+      "bbox": [
+        90.024,
+        522.058,
+        321.07,
+        535.342
+      ],
+      "spans": [
+        {
+          "text": "刀削面：很多朋友都反馈刀削面味道不错。",
+          "bbox": [
+            90.024,
+            522.442,
+            318.024,
+            534.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            318.07,
+            522.058,
+            321.07,
+            535.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 59
+    },
+    {
+      "page": 4,
+      "text": "素菜卷饼：位于煎烙窗口",
+      "bbox": [
+        90.024,
+        545.458,
+        225.05,
+        558.742
+      ],
+      "spans": [
+        {
+          "text": "素菜卷饼：位于煎烙窗口",
+          "bbox": [
+            90.024,
+            545.842,
+            222.02,
+            557.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            222.05,
+            545.458,
+            225.05,
+            558.742
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 60
+    },
+    {
+      "page": 4,
+      "text": "砂锅面：有点微辣",
+      "bbox": [
+        90.024,
+        568.858,
+        189.05,
+        582.142
+      ],
+      "spans": [
+        {
+          "text": "砂锅面：有点微辣",
+          "bbox": [
+            90.024,
+            569.242,
+            186.024,
+            581.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            186.05,
+            568.858,
+            189.05,
+            582.142
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 61
+    },
+    {
+      "page": 4,
+      "text": "沙拉脆皮鸡、可乐鸡：都位于饮料边上窗口",
+      "bbox": [
+        90.024,
+        592.288,
+        321.07,
+        605.572
+      ],
+      "spans": [
+        {
+          "text": "沙拉脆皮鸡、可乐鸡：都位于饮料边上窗口",
+          "bbox": [
+            90.024,
+            592.672,
+            318.02,
+            604.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            318.07,
+            592.288,
+            321.07,
+            605.572
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 62
+    },
+    {
+      "page": 4,
+      "text": "酥肉小锅：真的是给你一口小锅，味道还不错",
+      "bbox": [
+        90.024,
+        615.688,
+        333.07,
+        628.972
+      ],
+      "spans": [
+        {
+          "text": "酥肉小锅：真的是给你一口小锅，味道还不错",
+          "bbox": [
+            90.024,
+            616.072,
+            330.024,
+            628.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            330.07,
+            615.688,
+            333.07,
+            628.972
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 63
+    },
+    {
+      "page": 4,
+      "text": "馄饨窗口：金牌虾仁馄饨",
+      "bbox": [
+        90.024,
+        639.088,
+        225.05,
+        652.372
+      ],
+      "spans": [
+        {
+          "text": "馄饨窗口：金牌虾仁馄饨",
+          "bbox": [
+            90.024,
+            639.472,
+            222.024,
+            651.472
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            222.05,
+            639.088,
+            225.05,
+            652.372
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 64
+    },
+    {
+      "page": 4,
+      "text": "鲜肉小笼包、红油牛肉包；",
+      "bbox": [
+        90.024,
+        662.488,
+        237.05,
+        675.772
+      ],
+      "spans": [
+        {
+          "text": "鲜肉小笼包、红油牛肉包；",
+          "bbox": [
+            90.024,
+            662.872,
+            234.024,
+            674.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            234.05,
+            662.488,
+            237.05,
+            675.772
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 65
+    },
+    {
+      "page": 4,
+      "text": "（2）  韵酒二楼：",
+      "bbox": [
+        90.024,
+        685.72,
+        195.05,
+        699.172
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            686.272,
+            102.024,
+            698.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "2",
+          "bbox": [
+            102.02,
+            685.888,
+            108.02,
+            699.172
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            686.272,
+            120.02,
+            698.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            685.72,
+            123.356,
+            699.1
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "韵酒二楼：",
+          "bbox": [
+            132.02,
+            686.272,
+            192.02,
+            698.272
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            192.05,
+            685.888,
+            195.05,
+            699.172
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 66
+    },
+    {
+      "page": 4,
+      "text": "鸡腿汤：这是我在校内喝过最好喝的鸡腿汤，每周必喝",
+      "bbox": [
+        90.024,
+        709.288,
+        381.07,
+        722.572
+      ],
+      "spans": [
+        {
+          "text": "鸡腿汤：这是我在校内喝过最好喝的鸡腿汤，每周必喝",
+          "bbox": [
+            90.024,
+            709.672,
+            378.024,
+            721.672
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            378.07,
+            709.288,
+            381.07,
+            722.572
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 67
+    },
+    {
+      "page": 4,
+      "text": "土豆丝：蒸菜窗口的土豆丝，虽然说要 3 块钱，但是是我校内吃过最好吃的，",
+      "bbox": [
+        90.024,
+        732.684,
+        498.07,
+        745.968
+      ],
+      "spans": [
+        {
+          "text": "土豆丝：蒸菜窗口的土豆丝，虽然说要",
+          "bbox": [
+            90.024,
+            733.068,
+            294.024,
+            745.068
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "3",
+          "bbox": [
+            297.07,
+            732.684,
+            303.07,
+            745.968
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 块钱，但是是我校内吃过最好吃的，",
+          "bbox": [
+            303.07,
+            733.068,
+            498.07,
+            745.068
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 68
+    }
+  ],
+  "images": []
+}

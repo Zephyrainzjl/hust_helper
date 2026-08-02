@@ -1,0 +1,1073 @@
+{
+  "schema_version": "1.0",
+  "page_number": 22,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "2.5  武大周边\n武大周边，其实主要就是武大南面的一块商圈和老街，区域就不给出来了。\n（1） 赵师傅东北菜\n这家店必须给到夯！是我在武汉吃到过最好吃的东北菜。我带东北的朋友\n去吃都是清一色好评。之前华科附近也有家东北菜我爱吃，但是出餐不稳定，5\n次有至少2 次难吃。但是赵师傅东北菜我去了 7 次，每次都特别好吃！\n先说几道我最喜欢的菜：锅包肉（在武汉吃过最好吃的锅包肉，不吹不\n黑）、东北大拌菜（每次吃完都觉得意犹未尽，还想再点）、地三鲜（炒的真的\n很香，朴素的食材能做得这么美味也是一种水平）。之前还点过一次铁锅炖，忘\n了是啥铁锅炖了，一定要记得给阿姨提前一小时打电话备菜，现场不能点铁锅\n炖。其他的菜点就完了，不会难吃。真没有推广的意思，我是真喜欢这家店。\n赵师傅东北菜美团信息\n（2） 三顾茅炉：火锅\n这家店我看评价挺高的，之前也有武大的朋友给我推荐，就在赵师傅东北\n菜边上，但是好几次我过去后没忍住，还是进了赵师傅东北菜，锅包肉真香。\n大家伙有空可以去试试三顾茅炉，我看网上推荐最多的是：牛三鲜火锅。\n三顾茅炉美团信息",
+  "lines": [
+    {
+      "page": 22,
+      "text": "2.5  武大周边",
+      "bbox": [
+        90.024,
+        79.954,
+        185.6,
+        95.693
+      ],
+      "spans": [
+        {
+          "text": "2.5",
+          "bbox": [
+            90.024,
+            80.15,
+            107.616,
+            95.693
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            107.54,
+            79.954,
+            111.443,
+            95.608
+          ],
+          "font": "ArialMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "武大周边",
+          "bbox": [
+            126.02,
+            80.6,
+            182.18,
+            94.64
+          ],
+          "font": "SimSun",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            182.09,
+            80.15,
+            185.6,
+            95.693
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 14.04,
+      "order": 380
+    },
+    {
+      "page": 22,
+      "text": "武大周边，其实主要就是武大南面的一块商圈和老街，区域就不给出来了。",
+      "bbox": [
+        90.024,
+        108.608,
+        489.1,
+        121.892
+      ],
+      "spans": [
+        {
+          "text": "武大周边，其实主要就是武大南面的一块商圈和老街，区域就不给出来了。",
+          "bbox": [
+            90.024,
+            108.992,
+            486.024,
+            120.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            486.1,
+            108.608,
+            489.1,
+            121.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 381
+    },
+    {
+      "page": 22,
+      "text": "（1） 赵师傅东北菜",
+      "bbox": [
+        90.024,
+        131.84,
+        201.05,
+        145.292
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            132.392,
+            102.024,
+            144.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "1",
+          "bbox": [
+            102.02,
+            132.008,
+            108.02,
+            145.292
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            132.392,
+            120.02,
+            144.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            131.84,
+            123.356,
+            145.22
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "赵师傅东北菜",
+          "bbox": [
+            126.02,
+            132.392,
+            198.02,
+            144.392
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            198.05,
+            132.008,
+            201.05,
+            145.292
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 382
+    },
+    {
+      "page": 22,
+      "text": "这家店必须给到夯！是我在武汉吃到过最好吃的东北菜。我带东北的朋友",
+      "bbox": [
+        114.02,
+        155.792,
+        498.02,
+        167.792
+      ],
+      "spans": [
+        {
+          "text": "这家店必须给到夯！是我在武汉吃到过最好吃的东北菜。我带东北的朋友",
+          "bbox": [
+            114.02,
+            155.792,
+            498.02,
+            167.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 383
+    },
+    {
+      "page": 22,
+      "text": "去吃都是清一色好评。之前华科附近也有家东北菜我爱吃，但是出餐不稳定，5",
+      "bbox": [
+        90.024,
+        178.808,
+        504.1,
+        192.092
+      ],
+      "spans": [
+        {
+          "text": "去吃都是清一色好评。之前华科附近也有家东北菜我爱吃，但是出餐不稳定，",
+          "bbox": [
+            90.024,
+            179.192,
+            498.05,
+            191.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "5",
+          "bbox": [
+            498.1,
+            178.808,
+            504.1,
+            192.092
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 384
+    },
+    {
+      "page": 22,
+      "text": "次有至少2 次难吃。但是赵师傅东北菜我去了 7 次，每次都特别好吃！",
+      "bbox": [
+        90.024,
+        202.208,
+        465.1,
+        215.492
+      ],
+      "spans": [
+        {
+          "text": "次有至少",
+          "bbox": [
+            90.024,
+            202.592,
+            138.024,
+            214.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "2",
+          "bbox": [
+            141.02,
+            202.208,
+            147.02,
+            215.492
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 次难吃。但是赵师傅东北菜我去了",
+          "bbox": [
+            147.02,
+            202.592,
+            330.02,
+            214.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "7",
+          "bbox": [
+            333.07,
+            202.208,
+            339.07,
+            215.492
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " 次，每次都特别好吃！",
+          "bbox": [
+            339.07,
+            202.592,
+            462.07,
+            214.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            462.1,
+            202.208,
+            465.1,
+            215.492
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 385
+    },
+    {
+      "page": 22,
+      "text": "先说几道我最喜欢的菜：锅包肉（在武汉吃过最好吃的锅包肉，不吹不",
+      "bbox": [
+        114.02,
+        225.992,
+        486.17,
+        237.992
+      ],
+      "spans": [
+        {
+          "text": "先说几道我最喜欢的菜：",
+          "bbox": [
+            114.02,
+            225.992,
+            246.02,
+            237.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "锅包肉",
+          "bbox": [
+            246.05,
+            225.992,
+            282.158,
+            237.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（在武汉吃过最好吃的锅包肉，不吹不",
+          "bbox": [
+            282.29,
+            225.992,
+            486.17,
+            237.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "锅包肉"
+      ],
+      "red_segments": [
+        {
+          "text": "锅包肉",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 386
+    },
+    {
+      "page": 22,
+      "text": "黑）、东北大拌菜（每次吃完都觉得意犹未尽，还想再点）、地三鲜（炒的真的",
+      "bbox": [
+        90.024,
+        249.422,
+        498.46,
+        261.422
+      ],
+      "spans": [
+        {
+          "text": "黑）、",
+          "bbox": [
+            90.024,
+            249.422,
+            120.024,
+            261.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "东北大拌菜",
+          "bbox": [
+            120.02,
+            249.422,
+            180.236,
+            261.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（每次吃完都觉得意犹未尽，还想再点）、",
+          "bbox": [
+            180.41,
+            249.422,
+            402.29,
+            261.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "地三鲜",
+          "bbox": [
+            402.31,
+            249.422,
+            438.418,
+            261.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（炒的真的",
+          "bbox": [
+            438.46,
+            249.422,
+            498.46,
+            261.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "东北大拌菜",
+        "地三鲜"
+      ],
+      "red_segments": [
+        {
+          "text": "东北大拌菜",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "地三鲜",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 387
+    },
+    {
+      "page": 22,
+      "text": "很香，朴素的食材能做得这么美味也是一种水平）。之前还点过一次铁锅炖，忘",
+      "bbox": [
+        90.024,
+        272.822,
+        504.34,
+        284.822
+      ],
+      "spans": [
+        {
+          "text": "很香，朴素的食材能做得这么美味也是一种水平）。之前还点过一次",
+          "bbox": [
+            90.024,
+            272.822,
+            444.024,
+            284.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "铁锅炖",
+          "bbox": [
+            444.1,
+            272.822,
+            480.208,
+            284.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "，忘",
+          "bbox": [
+            480.34,
+            272.822,
+            504.34,
+            284.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "铁锅炖"
+      ],
+      "red_segments": [
+        {
+          "text": "铁锅炖",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 388
+    },
+    {
+      "page": 22,
+      "text": "了是啥铁锅炖了，一定要记得给阿姨提前一小时打电话备菜，现场不能点铁锅",
+      "bbox": [
+        90.024,
+        296.222,
+        498.024,
+        308.222
+      ],
+      "spans": [
+        {
+          "text": "了是啥铁锅炖了，一定要记得给阿姨提前一小时打电话备菜，现场不能点铁锅",
+          "bbox": [
+            90.024,
+            296.222,
+            498.024,
+            308.222
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 389
+    },
+    {
+      "page": 22,
+      "text": "炖。其他的菜点就完了，不会难吃。真没有推广的意思，我是真喜欢这家店。",
+      "bbox": [
+        90.024,
+        319.238,
+        501.1,
+        332.522
+      ],
+      "spans": [
+        {
+          "text": "炖。其他的菜点就完了，不会难吃。真没有推广的意思，我是真喜欢这家店。",
+          "bbox": [
+            90.024,
+            319.622,
+            498.024,
+            331.622
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            498.1,
+            319.238,
+            501.1,
+            332.522
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 390
+    },
+    {
+      "page": 22,
+      "text": "赵师傅东北菜美团信息",
+      "bbox": [
+        237.65,
+        483.058,
+        360.67,
+        496.342
+      ],
+      "spans": [
+        {
+          "text": "赵师傅东北菜美团信息",
+          "bbox": [
+            237.65,
+            483.442,
+            357.65,
+            495.442
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            357.67,
+            483.058,
+            360.67,
+            496.342
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 391
+    },
+    {
+      "page": 22,
+      "text": "（2） 三顾茅炉：火锅",
+      "bbox": [
+        90.024,
+        506.29,
+        213.05,
+        519.742
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            506.842,
+            102.024,
+            518.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "2",
+          "bbox": [
+            102.02,
+            506.458,
+            108.02,
+            519.742
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            506.842,
+            120.02,
+            518.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            506.29,
+            123.356,
+            519.67
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "三顾茅炉：火锅",
+          "bbox": [
+            126.02,
+            506.842,
+            210.02,
+            518.842
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            210.05,
+            506.458,
+            213.05,
+            519.742
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 392
+    },
+    {
+      "page": 22,
+      "text": "这家店我看评价挺高的，之前也有武大的朋友给我推荐，就在赵师傅东北",
+      "bbox": [
+        114.02,
+        530.242,
+        498.02,
+        542.242
+      ],
+      "spans": [
+        {
+          "text": "这家店我看评价挺高的，之前也有武大的朋友给我推荐，就在赵师傅东北",
+          "bbox": [
+            114.02,
+            530.242,
+            498.02,
+            542.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 393
+    },
+    {
+      "page": 22,
+      "text": "菜边上，但是好几次我过去后没忍住，还是进了赵师傅东北菜，锅包肉真香。",
+      "bbox": [
+        90.024,
+        553.642,
+        498.024,
+        565.642
+      ],
+      "spans": [
+        {
+          "text": "菜边上，但是好几次我过去后没忍住，还是进了赵师傅东北菜，锅包肉真香。",
+          "bbox": [
+            90.024,
+            553.642,
+            498.024,
+            565.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 394
+    },
+    {
+      "page": 22,
+      "text": "大家伙有空可以去试试三顾茅炉，我看网上推荐最多的是：牛三鲜火锅。",
+      "bbox": [
+        90.024,
+        576.688,
+        477.34,
+        589.972
+      ],
+      "spans": [
+        {
+          "text": "大家伙有空可以去试试三顾茅炉，我看网上推荐最多的是：",
+          "bbox": [
+            90.024,
+            577.072,
+            402.024,
+            589.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "牛三鲜火锅",
+          "bbox": [
+            402.07,
+            577.072,
+            462.286,
+            589.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。",
+          "bbox": [
+            462.46,
+            577.072,
+            474.46,
+            589.072
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            474.34,
+            576.688,
+            477.34,
+            589.972
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "牛三鲜火锅"
+      ],
+      "red_segments": [
+        {
+          "text": "牛三鲜火锅",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 395
+    },
+    {
+      "page": 22,
+      "text": "三顾茅炉美团信息",
+      "bbox": [
+        249.65,
+        740.484,
+        348.67,
+        753.768
+      ],
+      "spans": [
+        {
+          "text": "三顾茅炉美团信息",
+          "bbox": [
+            249.65,
+            740.868,
+            345.65,
+            752.868
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            345.67,
+            740.484,
+            348.67,
+            753.768
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 396
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p022-01",
+      "page": 22,
+      "order_on_page": 1,
+      "file": "media/p022_img01.png",
+      "xref": 181,
+      "bbox": [
+        177.25,
+        337.3,
+        418.0,
+        477.5
+      ],
+      "pixel_width": 747,
+      "pixel_height": 435,
+      "caption": "赵师傅东北菜美团信息",
+      "sha256": "25648b0cda3abe39ba9dd4ca16debdcf6d57823aeb7e6d0b6f4f8566179bec79",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p022-02",
+      "page": 22,
+      "order_on_page": 2,
+      "file": "media/p022_img02.png",
+      "xref": 182,
+      "bbox": [
+        160.32,
+        595.04,
+        434.93,
+        734.39
+      ],
+      "pixel_width": 843,
+      "pixel_height": 426,
+      "caption": "三顾茅炉美团信息",
+      "sha256": "cca2eadcd8638339dd3ebe86cd6af78477fb87e9b765e30b7d1476fad0cddac2",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}

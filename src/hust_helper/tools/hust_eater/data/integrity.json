@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "source_pdf": {
+    "file": "source/HUSTer的干饭修养.pdf",
+    "sha256": "16df86c127beccedf27c49667eadb03777a62999d423c46bdb94a085f4438178",
+    "bytes": 3319892
+  },
+  "entities": {
+    "file": "entities.jsonl",
+    "sha256": "63f67e86d6addcb6f46dcadce5bbbc1d3fb2d9d4dc3b7708d8bfb550600a2a1e",
+    "records": 144
+  },
+  "pages": {
+    "json_files": 49,
+    "markdown_files": 49,
+    "combined_sha256": "ee59cc7fe8d733f313e2a4a3f7ec20b90ba216b69bec9ac5dafd7bef77a183a2"
+  },
+  "media": {
+    "png_files": 98,
+    "combined_sha256": "e04452753b5bde9e24396658a4c0e1f020f7819669f131e5866402afb7d8e5bb"
+  }
+}

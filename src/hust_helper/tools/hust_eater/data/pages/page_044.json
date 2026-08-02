@@ -1,0 +1,723 @@
+{
+  "schema_version": "1.0",
+  "page_number": 44,
+  "width_points": 595.32,
+  "height_points": 841.92,
+  "plain_text": "浸时蔬（这么一做比清炒时蔬好吃多了）、腊肉菜苔（很好吃）、脆皮乳鸽（我\n觉得这道菜在武汉没吃到过难吃的）、土肉烧田鸡鱼乔。\n问题也是一样的，距离远，没必要刻意过去吃，去黄陂玩经过的时候推荐\n来这家店吃一下。\n黄泥岗美团信息\n4.9  新洲区\n（1） 汪掌柜（新洲店）\n这家店也是一样的，我自驾的时候路过吃的，吃过两次，都很好吃。问题\n也一样，距离远，去将军山、道观河那边自驾的时候可以过来吃一下。推荐几\n道菜：珍珠豆腐丸子、汉派古法烧大白刁、排骨藕汤。\n汪掌柜美团信息",
+  "lines": [
+    {
+      "page": 44,
+      "text": "浸时蔬（这么一做比清炒时蔬好吃多了）、腊肉菜苔（很好吃）、脆皮乳鸽（我",
+      "bbox": [
+        90.024,
+        77.792,
+        498.7,
+        89.792
+      ],
+      "spans": [
+        {
+          "text": "浸时蔬",
+          "bbox": [
+            90.024,
+            77.792,
+            126.132,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（这么一做比清炒时蔬好吃多了）、",
+          "bbox": [
+            126.26,
+            77.792,
+            312.14,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "腊肉菜苔",
+          "bbox": [
+            312.19,
+            77.792,
+            360.298,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（很好吃）、",
+          "bbox": [
+            360.43,
+            77.792,
+            426.43,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "脆皮乳鸽",
+          "bbox": [
+            426.46,
+            77.792,
+            474.568,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "（我",
+          "bbox": [
+            474.7,
+            77.792,
+            498.7,
+            89.792
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "浸时蔬",
+        "腊肉菜苔",
+        "脆皮乳鸽"
+      ],
+      "red_segments": [
+        {
+          "text": "浸时蔬",
+          "at_line_start": true,
+          "at_line_end": false
+        },
+        {
+          "text": "腊肉菜苔",
+          "at_line_start": false,
+          "at_line_end": false
+        },
+        {
+          "text": "脆皮乳鸽",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 733
+    },
+    {
+      "page": 44,
+      "text": "觉得这道菜在武汉没吃到过难吃的）、土肉烧田鸡鱼乔。",
+      "bbox": [
+        90.024,
+        100.808,
+        387.43,
+        114.092
+      ],
+      "spans": [
+        {
+          "text": "觉得这道菜在武汉没吃到过难吃的）、",
+          "bbox": [
+            90.024,
+            101.192,
+            288.024,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "土肉烧田鸡鱼乔",
+          "bbox": [
+            288.05,
+            101.192,
+            372.374,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。",
+          "bbox": [
+            372.55,
+            101.192,
+            384.55,
+            113.192
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            384.43,
+            100.808,
+            387.43,
+            114.092
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "土肉烧田鸡鱼乔"
+      ],
+      "red_segments": [
+        {
+          "text": "土肉烧田鸡鱼乔",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 734
+    },
+    {
+      "page": 44,
+      "text": "问题也是一样的，距离远，没必要刻意过去吃，去黄陂玩经过的时候推荐",
+      "bbox": [
+        114.02,
+        124.592,
+        498.02,
+        136.592
+      ],
+      "spans": [
+        {
+          "text": "问题也是一样的，距离远，没必要刻意过去吃，去黄陂玩经过的时候推荐",
+          "bbox": [
+            114.02,
+            124.592,
+            498.02,
+            136.592
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 735
+    },
+    {
+      "page": 44,
+      "text": "来这家店吃一下。",
+      "bbox": [
+        90.024,
+        147.608,
+        189.05,
+        160.892
+      ],
+      "spans": [
+        {
+          "text": "来这家店吃一下。",
+          "bbox": [
+            90.024,
+            147.992,
+            186.024,
+            159.992
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            186.05,
+            147.608,
+            189.05,
+            160.892
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 736
+    },
+    {
+      "page": 44,
+      "text": "黄泥岗美团信息",
+      "bbox": [
+        255.65,
+        311.438,
+        342.67,
+        324.722
+      ],
+      "spans": [
+        {
+          "text": "黄泥岗美团信息",
+          "bbox": [
+            255.65,
+            311.822,
+            339.65,
+            323.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            339.67,
+            311.438,
+            342.67,
+            324.722
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 737
+    },
+    {
+      "page": 44,
+      "text": "4.9  新洲区",
+      "bbox": [
+        90.024,
+        337.384,
+        171.53,
+        353.123
+      ],
+      "spans": [
+        {
+          "text": "4.9",
+          "bbox": [
+            90.024,
+            337.58,
+            107.616,
+            353.123
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            107.54,
+            337.384,
+            111.443,
+            353.038
+          ],
+          "font": "ArialMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "新洲区",
+          "bbox": [
+            126.02,
+            338.03,
+            168.14,
+            352.07
+          ],
+          "font": "SimSun",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            168.02,
+            337.58,
+            171.53,
+            353.123
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 14.04,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 14.04,
+      "order": 738
+    },
+    {
+      "page": 44,
+      "text": "（1） 汪掌柜（新洲店）",
+      "bbox": [
+        90.024,
+        365.87,
+        225.05,
+        379.322
+      ],
+      "spans": [
+        {
+          "text": "（",
+          "bbox": [
+            90.024,
+            366.422,
+            102.024,
+            378.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "1",
+          "bbox": [
+            102.02,
+            366.038,
+            108.02,
+            379.322
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "）",
+          "bbox": [
+            108.02,
+            366.422,
+            120.02,
+            378.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            120.02,
+            365.87,
+            123.356,
+            379.25
+          ],
+          "font": "ArialMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "汪掌柜（新洲店）",
+          "bbox": [
+            126.02,
+            366.422,
+            222.02,
+            378.422
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            222.05,
+            366.038,
+            225.05,
+            379.322
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 739
+    },
+    {
+      "page": 44,
+      "text": "这家店也是一样的，我自驾的时候路过吃的，吃过两次，都很好吃。问题",
+      "bbox": [
+        114.02,
+        389.822,
+        498.1,
+        401.822
+      ],
+      "spans": [
+        {
+          "text": "这家店也是一样的，我自驾的时候路过吃的，吃过两次，都很好吃。问题",
+          "bbox": [
+            114.02,
+            389.822,
+            498.1,
+            401.822
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 740
+    },
+    {
+      "page": 44,
+      "text": "也一样，距离远，去将军山、道观河那边自驾的时候可以过来吃一下。推荐几",
+      "bbox": [
+        90.024,
+        413.242,
+        498.024,
+        425.242
+      ],
+      "spans": [
+        {
+          "text": "也一样，距离远，去将军山、道观河那边自驾的时候可以过来吃一下。推荐几",
+          "bbox": [
+            90.024,
+            413.242,
+            498.024,
+            425.242
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 741
+    },
+    {
+      "page": 44,
+      "text": "道菜：珍珠豆腐丸子、汉派古法烧大白刁、排骨藕汤。",
+      "bbox": [
+        90.024,
+        436.258,
+        382.03,
+        449.542
+      ],
+      "spans": [
+        {
+          "text": "道菜：",
+          "bbox": [
+            90.024,
+            436.642,
+            126.024,
+            448.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": "珍珠豆腐丸子、汉派古法烧大白刁、排骨藕汤",
+          "bbox": [
+            126.02,
+            436.642,
+            366.884,
+            448.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#ee0000",
+          "bold": false,
+          "highlighted_recommendation": true
+        },
+        {
+          "text": "。",
+          "bbox": [
+            367.15,
+            436.642,
+            379.15,
+            448.642
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            379.03,
+            436.258,
+            382.03,
+            449.542
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [
+        "珍珠豆腐丸子、汉派古法烧大白刁、排骨藕汤"
+      ],
+      "red_segments": [
+        {
+          "text": "珍珠豆腐丸子、汉派古法烧大白刁、排骨藕汤",
+          "at_line_start": false,
+          "at_line_end": false
+        }
+      ],
+      "max_size": 12.0,
+      "order": 742
+    },
+    {
+      "page": 44,
+      "text": "汪掌柜美团信息",
+      "bbox": [
+        255.65,
+        584.488,
+        342.67,
+        597.772
+      ],
+      "spans": [
+        {
+          "text": "汪掌柜美团信息",
+          "bbox": [
+            255.65,
+            584.872,
+            339.65,
+            596.872
+          ],
+          "font": "SimSun",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        },
+        {
+          "text": " ",
+          "bbox": [
+            339.67,
+            584.488,
+            342.67,
+            597.772
+          ],
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "color": "#000000",
+          "bold": false,
+          "highlighted_recommendation": false
+        }
+      ],
+      "red_texts": [],
+      "red_segments": [],
+      "max_size": 12.0,
+      "order": 743
+    }
+  ],
+  "images": [
+    {
+      "id": "media-p044-01",
+      "page": 44,
+      "order_on_page": 1,
+      "file": "media/p044_img01.png",
+      "xref": 259,
+      "bbox": [
+        165.6,
+        171.1,
+        429.68,
+        300.5
+      ],
+      "pixel_width": 811,
+      "pixel_height": 396,
+      "caption": "黄泥岗美团信息",
+      "sha256": "4f0636b4e154fe58a1302684729e5dd45ffbff2ded72b1790793fa932f73211a",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    },
+    {
+      "id": "media-p044-02",
+      "page": 44,
+      "order_on_page": 2,
+      "file": "media/p044_img02.png",
+      "xref": 260,
+      "bbox": [
+        167.15,
+        459.59,
+        428.03,
+        573.54
+      ],
+      "pixel_width": 805,
+      "pixel_height": 352,
+      "caption": "汪掌柜美团信息",
+      "sha256": "ac6101b7708681ace0f10234152a40d02f81cdf141ed2e12eb9ce39dba3f4c76",
+      "editable": true,
+      "source": "embedded_pdf_image"
+    }
+  ]
+}
