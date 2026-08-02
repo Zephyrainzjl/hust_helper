@@ -38,3 +38,36 @@ def run_app(ft, target):
         return runner(target)
     except TypeError:
         return runner(target=target)
+
+
+def padding_symmetric(ft, *, horizontal: float = 0, vertical: float = 0):
+    """Create symmetric padding across old and new Flet releases.
+
+    Flet 0.85 removed the deprecated module-level ``ft.padding`` helpers.
+    New releases expose ``ft.Padding.symmetric`` instead, while older
+    releases may only expose ``ft.padding.symmetric``.
+    """
+    padding_class = getattr(ft, "Padding", None)
+    symmetric = getattr(padding_class, "symmetric", None)
+    if callable(symmetric):
+        return symmetric(horizontal=horizontal, vertical=vertical)
+
+    padding_module = getattr(ft, "padding", None)
+    symmetric = getattr(padding_module, "symmetric", None)
+    if callable(symmetric):
+        return symmetric(horizontal=horizontal, vertical=vertical)
+
+    if padding_class is not None:
+        try:
+            return padding_class(
+                left=horizontal,
+                top=vertical,
+                right=horizontal,
+                bottom=vertical,
+            )
+        except TypeError:
+            pass
+
+    # PaddingValue also accepts a four-item sequence in supported Flet
+    # versions. Keep this final fallback free of version-specific imports.
+    return (horizontal, vertical, horizontal, vertical)

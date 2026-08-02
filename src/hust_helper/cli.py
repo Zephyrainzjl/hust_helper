@@ -24,7 +24,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="hust-helper", description="HUST campus-life helper")
     sub = parser.add_subparsers(dest="command", required=True)
 
-    stats = sub.add_parser("stats", help="Show bundled data counts")
+    sub.add_parser("stats", help="Show bundled data counts")
 
     search = sub.add_parser("search", help="Search food entries")
     search.add_argument("query", nargs="?", default="")
@@ -35,7 +35,14 @@ def build_parser() -> argparse.ArgumentParser:
     search.add_argument("--meal-period")
     search.add_argument("--visited")
     search.add_argument("--spicy", action="store_true")
+    search.add_argument("--avoid-spicy", action="store_true")
+    search.add_argument("--recommended-only", action="store_true")
     search.add_argument("--with-images", action="store_true")
+    search.add_argument("--with-price-notes", action="store_true")
+    search.add_argument("--external-only", action="store_true")
+    search.add_argument("--exclude", action="append", default=[])
+    search.add_argument("--sort", choices=["relevance", "recommendations", "visited", "source_page", "name"], default="relevance")
+    search.add_argument("--query-mode", choices=["smart", "all", "exact"], default="smart")
     search.add_argument("--limit", type=int, default=20)
     search.add_argument("--json", action="store_true")
 
@@ -66,15 +73,34 @@ def build_parser() -> argparse.ArgumentParser:
     restore = sub.add_parser("restore", help="Restore a hidden entry")
     restore.add_argument("entry_id")
 
-    chat = sub.add_parser("chat", help="Ask the food agent")
+    chat = sub.add_parser("chat", help="Ask the bundled-PDF food agent")
     chat.add_argument("question")
     chat.add_argument("--provider", default="openai")
     chat.add_argument("--model")
     chat.add_argument("--base-url")
     chat.add_argument("--api-key")
 
+    live = sub.add_parser("live-chat", help="Ask the independent real-time MCP food agent")
+    live.add_argument("question")
+    live.add_argument("--provider", default="siliconflow")
+    live.add_argument("--model", required=True)
+    live.add_argument("--base-url")
+    live.add_argument("--api-key", required=True)
+    live.add_argument("--amap-key")
+    live.add_argument("--mcp-json", help="JSON array or path to a JSON file containing extra MCP servers")
+    live.add_argument("--city", default="武汉")
+    live.add_argument("--center", default="华中科技大学")
+    live.add_argument("--radius", type=int, default=3000)
+
     sub.add_parser("gui", help="Launch the Flet GUI")
     return parser
+
+
+def _read_json_argument(value: str | None) -> str:
+    if not value:
+        return "[]"
+    path = Path(value)
+    return path.read_text(encoding="utf-8") if path.is_file() else value
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -92,7 +118,14 @@ def main(argv: list[str] | None = None) -> int:
             meal_period=args.meal_period,
             visited=args.visited,
             spicy=True if args.spicy else None,
+            avoid_spicy=args.avoid_spicy,
+            recommended_only=args.recommended_only,
             has_images=True if args.with_images else None,
+            has_price_notes=True if args.with_price_notes else None,
+            external_recommended=True if args.external_only else None,
+            exclude_terms=args.exclude,
+            sort_by=args.sort,
+            query_mode=args.query_mode,
             limit=args.limit,
         )
         if args.json:
@@ -124,11 +157,15 @@ def main(argv: list[str] | None = None) -> int:
         print(entry.id)
         return 0
     if args.command == "update":
-        changes = {key: value for key, value in {
-            "name": args.name,
-            "description": args.description,
-            "category": args.category,
-        }.items() if value is not None}
+        changes = {
+            key: value
+            for key, value in {
+                "name": args.name,
+                "description": args.description,
+                "category": args.category,
+            }.items()
+            if value is not None
+        }
         _print_entry(eater.update(args.entry_id, **changes))
         return 0
     if args.command == "delete":
@@ -145,6 +182,32 @@ def main(argv: list[str] | None = None) -> int:
             base_url=args.base_url,
         )
         print(FoodChatAgent(config).ask(args.question).text)
+        return 0
+    if args.command == "live-chat":
+        from hust_helper.realtime import (
+            MCPHub,
+            MCPServerConfig,
+            RealtimeFoodAgent,
+            parse_server_configs,
+        )
+
+        servers = []
+        if args.amap_key:
+            servers.append(MCPServerConfig.amap(args.amap_key))
+        servers.extend(parse_server_configs(_read_json_argument(args.mcp_json)))
+        servers = [server for server in servers if server.enabled]
+        if not servers:
+            print("At least one enabled MCP server is required.", file=sys.stderr)
+            return 2
+        config = LLMConfig.from_preset(
+            args.provider,
+            model=args.model,
+            api_key=args.api_key,
+            base_url=args.base_url,
+        )
+        context = f"默认城市：{args.city}；默认中心点：{args.center}；默认半径：{args.radius} 米。\n"
+        reply = RealtimeFoodAgent(config, MCPHub(servers)).ask(context + args.question)
+        print(reply.text)
         return 0
     if args.command == "gui":
         try:

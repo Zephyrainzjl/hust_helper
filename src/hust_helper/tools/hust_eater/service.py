@@ -24,7 +24,15 @@ class HustEaterService:
         visited: str | None = None,
         has_images: bool | None = None,
         spicy: bool | None = None,
+        avoid_spicy: bool = False,
+        recommended_only: bool = False,
+        has_price_notes: bool | None = None,
+        external_recommended: bool | None = None,
+        min_recommendations: int = 0,
         tags: list[str] | None = None,
+        exclude_terms: list[str] | None = None,
+        query_mode: str = "smart",
+        sort_by: str = "relevance",
         limit: int = 20,
     ) -> list[SearchResult]:
         engine = FoodSearchEngine(self.repository.list_entries())
@@ -37,9 +45,21 @@ class HustEaterService:
             visited=visited,
             has_images=has_images,
             spicy=spicy,
+            avoid_spicy=avoid_spicy,
+            recommended_only=recommended_only,
+            has_price_notes=has_price_notes,
+            external_recommended=external_recommended,
+            min_recommendations=min_recommendations,
             tags=tags or [],
+            exclude_terms=exclude_terms or [],
         )
-        return engine.search(query, filters=filters, limit=limit)
+        return engine.search(
+            query,
+            filters=filters,
+            limit=limit,
+            query_mode=query_mode,
+            sort_by=sort_by,
+        )
 
     def entries(self) -> list[FoodEntry]:
         return self.repository.list_entries()
