@@ -1,3 +1,39 @@
+PROJECT ORIGIN AND ACKNOWLEDGEMENT NOTICE
+
+This informational notice records the origin of the hust_helper project and
+does not modify, restrict, or replace the MIT License terms below.
+
+
+1. The project grew out of years of study, research, and shared dining
+   experiences within the author's research group at Huazhong University of
+   Science and Technology (HUST).
+
+   本项目源于作者所在课题组在华中科技大学多年的学习、科研与共同吃饭经历。
+
+2. The initial hust_eater guide was developed with reference to the PDF
+   “HUSTer 的干饭修养——HUST 求学七年的干饭经验”, written and provided by a
+   senior fellow from the HUST School of Mechanical Science and Engineering.
+   The source PDF is credited to “许少”.
+
+   hust_eater 的初始资料部分参考了华中科技大学机械学院师兄编写并提供的
+   《HUSTer 的干饭修养——HUST 求学七年的干饭经验》PDF，原 PDF 署名为
+   “许少 著”。
+
+3. The recommendations, additions, corrections, and taste notes also reflect
+   the real dining experiences shared by every friend of the author.
+
+   项目中的推荐、补充、修订与口味判断也凝结了作者每一位朋友的真实饮食
+   体验总结。
+
+The software code is licensed under the MIT License below. Source-guide text,
+menus, maps, screenshots, photographs, and other third-party content are
+subject to the separate notice in DATA_LICENSE.md.
+
+软件代码适用下方 MIT License。原始指南文字、菜单、地图、截图、照片及其他
+第三方内容适用 DATA_LICENSE.md 中的单独说明。
+
+-------------------------------------------------------------------------------
+
 MIT License
 
 Copyright (c) 2026, Jialiu Zeng

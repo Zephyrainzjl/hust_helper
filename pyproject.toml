@@ -59,6 +59,12 @@ all = [
   "PyMuPDF>=1.24",
 ]
 
+[project.urls]
+Homepage = "https://github.com/Zephyrainzjl/hust_helper"
+Repository = "https://github.com/Zephyrainzjl/hust_helper"
+Issues = "https://github.com/Zephyrainzjl/hust_helper/issues"
+Releases = "https://github.com/Zephyrainzjl/hust_helper/releases"
+
 [project.scripts]
 hust-helper = "hust_helper.cli:main"
 hust-eater = "hust_helper.cli:main"
