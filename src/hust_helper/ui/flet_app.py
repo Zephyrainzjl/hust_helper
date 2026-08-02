@@ -196,6 +196,15 @@ def main(page: ft.Page) -> None:
             )
         )
 
+    def reset_chat(_event=None) -> None:
+        agent = agent_holder.get("agent")
+        if agent is not None:
+            agent.reset()
+        chat_log.controls.clear()
+        chat_input.value = ""
+        chat_status.value = "对话历史与工具调用状态已重置；模型、Base URL 和 API Key 保持不变。"
+        page.update()
+
     def send_chat(_event=None) -> None:
         question = (chat_input.value or "").strip()
         if not question:
@@ -230,7 +239,18 @@ def main(page: ft.Page) -> None:
     chat_input.on_submit = send_chat
     chat_view = ft.Column(
         [
-            ft.Text("对话式找吃的", size=20, weight=_bold()),
+            ft.Row(
+                [
+                    ft.Text("对话式找吃的", size=20, weight=_bold()),
+                    button(
+                        ft,
+                        "重置对话",
+                        icon=icon(ft, "REFRESH"),
+                        on_click=reset_chat,
+                    ),
+                ],
+                wrap=True,
+            ),
             ft.Row([provider, model, base_url, api_key], wrap=True),
             chat_log,
             ft.Row([chat_input, button(ft, "发送", icon=icon(ft, "SEND"), on_click=send_chat)]),
