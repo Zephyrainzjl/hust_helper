@@ -38,7 +38,7 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-gui = ["flet>=0.28"]
+gui = ["flet[all]==0.86.5"]
 llm = ["litellm>=1.70"]
 realtime = ["mcp>=1.27"]
 secure-storage = ["keyring>=25"]
@@ -51,7 +51,7 @@ dev = [
   "ruff>=0.8",
 ]
 all = [
-  "flet>=0.28",
+  "flet[all]==0.86.5",
   "litellm>=1.70",
   "keyring>=25",
   "ipykernel>=6",

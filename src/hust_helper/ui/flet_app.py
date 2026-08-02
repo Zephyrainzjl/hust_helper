@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import base64
 import json
 import os
 import random
@@ -25,7 +24,7 @@ from .compat import (
     button,
     color,
     icon,
-    image_from_base64,
+    image_from_bytes,
     padding_symmetric,
     run_app,
 )
@@ -50,6 +49,11 @@ def _dropdown_option(value: str, label: str | None = None):
 def _scroll_auto():
     mode = getattr(ft, "ScrollMode", None)
     return getattr(mode, "AUTO", "auto") if mode else "auto"
+
+
+def _scroll_always():
+    mode = getattr(ft, "ScrollMode", None)
+    return getattr(mode, "ALWAYS", "always") if mode else "always"
 
 
 def _bold():
@@ -101,7 +105,17 @@ def _parse_csv(value: str | None) -> list[str]:
 def main(page: ft.Page) -> None:
     page.title = "HUST Helper · 华科生活助手"
     page.padding = 0
-    page.scroll = _scroll_auto()
+
+    # Flet 0.85 raises a layout error when ResponsiveRow receives unbounded
+    # horizontal constraints. Explicitly stretch root controls so every view
+    # receives a finite window width.
+    cross_axis = getattr(ft, "CrossAxisAlignment", None)
+    if cross_axis is not None:
+        page.horizontal_alignment = getattr(cross_axis, "STRETCH", None)
+    # The root page must remain height-bounded. Each workspace view owns
+    # its scrolling; otherwise an expanded child inside a scrollable Page
+    # can be laid out with zero height and appear completely blank.
+    page.scroll = None
     theme_mode = getattr(ft, "ThemeMode", None)
     if theme_mode is not None:
         page.theme_mode = getattr(theme_mode, "SYSTEM", None)
@@ -128,6 +142,7 @@ def main(page: ft.Page) -> None:
     primary_container = color(ft, "PRIMARY_CONTAINER", "#FFE2D6")
     surface = color(ft, "SURFACE", "#FFFFFF")
     surface_low = color(ft, "SURFACE_CONTAINER_LOW", "#F6F7FB")
+    surface_panel = color(ft, "SURFACE_CONTAINER", "#2A211E")
     surface_high = color(ft, "SURFACE_CONTAINER_HIGH", "#ECEEF4")
     error_container = color(ft, "ERROR_CONTAINER", "#FFDAD6")
 
@@ -138,7 +153,6 @@ def main(page: ft.Page) -> None:
     search_query = ft.TextField(
         label="搜索店名、菜品、区域、口味或原文描述",
         hint_text="例如：不辣的鸡汤、东区早餐、便宜的火锅",
-        expand=True,
         autofocus=True,
     )
     search_chapter = ft.Dropdown(
@@ -319,26 +333,73 @@ def main(page: ft.Page) -> None:
             detail_column.controls.append(ft.Text("标签：" + " · ".join(entry.tags), size=12))
         if entry.media_ids:
             detail_column.controls.append(ft.Text("原 PDF 图片", weight=_bold()))
-            gallery = ft.Row(wrap=True, spacing=10, run_spacing=10)
+
+            # Follow Flet's documented image-gallery layout: a single,
+            # non-wrapping, horizontally scrollable Row. A wrapping Row inside
+            # the vertically scrolling workspace can receive unstable height
+            # constraints in the desktop renderer and become a large grey
+            # ErrorWidget.
+            gallery = ft.Row(
+                wrap=False,
+                scroll=_scroll_always(),
+                spacing=10,
+                height=215,
+            )
             for media_id in entry.media_ids[:12]:
                 try:
-                    encoded = base64.b64encode(service.repository.image_bytes(media_id)).decode("ascii")
+                    image_data = service.repository.image_bytes(media_id)
                     record = service.repository.media_record(media_id)
+                    caption = record.get("caption") or media_id
+
                     gallery.controls.append(
-                        _card(
-                            ft.Column(
-                                [
-                                    image_from_base64(ft, encoded, width=230, height=155),
-                                    ft.Text(record.get("caption") or media_id, size=11, width=230),
-                                ],
-                                spacing=6,
+                        ft.Container(
+                            width=250,
+                            height=205,
+                            content=_card(
+                                ft.Column(
+                                    [
+                                        image_from_bytes(
+                                            ft,
+                                            image_data,
+                                            width=230,
+                                            height=155,
+                                        ),
+                                        ft.Text(
+                                            caption,
+                                            size=11,
+                                            width=230,
+                                            max_lines=2,
+                                        ),
+                                    ],
+                                    spacing=6,
+                                ),
+                                padding=8,
+                                bgcolor=surface_low,
                             ),
-                            padding=8,
-                            bgcolor=surface_low,
                         )
                     )
                 except Exception as exc:
-                    gallery.controls.append(ft.Text(f"{media_id}: {exc}", size=11))
+                    gallery.controls.append(
+                        ft.Container(
+                            width=250,
+                            height=205,
+                            content=_card(
+                                ft.Column(
+                                    [
+                                        ft.Icon(icon(ft, "BROKEN_IMAGE"), size=36),
+                                        ft.Text(
+                                            f"{media_id}\n{type(exc).__name__}: {exc}",
+                                            size=11,
+                                            selectable=True,
+                                        ),
+                                    ],
+                                    spacing=8,
+                                ),
+                                padding=12,
+                                bgcolor=error_container,
+                            ),
+                        )
+                    )
             detail_column.controls.append(gallery)
         page.update()
 
@@ -434,62 +495,82 @@ def main(page: ft.Page) -> None:
         return handler
 
     search_query.on_submit = do_search
-    discover_view = ft.Column(
+    discover_view = ft.ListView(
         [
             _card(
-                ft.ResponsiveRow(
+                ft.Column(
                     [
-                        ft.Container(
-                            content=ft.Column(
-                                [
-                                    ft.Text("今天吃什么？", size=31, weight=_bold()),
-                                    ft.Text(
-                                        "从华科食堂、学校周边、武汉过早、全城餐馆和夜市中快速筛选。",
-                                        size=14,
-                                    ),
-                                    ft.Row(
-                                        [
-                                            button(ft, "早餐", on_click=preset((search_meal, "breakfast"))),
-                                            button(
-                                                ft,
-                                                "校内食堂",
-                                                on_click=preset((search_venue, "campus_dining")),
-                                            ),
-                                            button(ft, "作者亲测", on_click=preset((search_visit, "visited_by_author"))),
-                                            button(ft, "尽量不辣", on_click=preset((avoid_spicy, True))),
-                                            button(ft, "夜市", on_click=preset((search_venue, "night_market"))),
-                                        ],
-                                        wrap=True,
-                                    ),
-                                ],
-                                spacing=10,
-                            ),
-                            col={"sm": 12, "md": 7},
+                        ft.Column(
+                            [
+                                ft.Text("今天吃什么？", size=31, weight=_bold()),
+                                ft.Text(
+                                    "从华科食堂、学校周边、武汉过早、全城餐馆和夜市中快速筛选。",
+                                    size=14,
+                                ),
+                                ft.Row(
+                                    [
+                                        button(ft, "早餐", on_click=preset((search_meal, "breakfast"))),
+                                        button(
+                                            ft,
+                                            "校内食堂",
+                                            on_click=preset((search_venue, "campus_dining")),
+                                        ),
+                                        button(ft, "作者亲测", on_click=preset((search_visit, "visited_by_author"))),
+                                        button(ft, "尽量不辣", on_click=preset((avoid_spicy, True))),
+                                        button(ft, "夜市", on_click=preset((search_venue, "night_market"))),
+                                    ],
+                                    wrap=True,
+                                ),
+                            ],
+                            spacing=10,
                         ),
-                        ft.Container(
-                            content=ft.ResponsiveRow(
-                                [
-                                    ft.Container(_metric(ft, str(counts["entries"]), "结构化地点", "STORE"), col=6),
-                                    ft.Container(_metric(ft, str(counts["images"]), "原始图片", "IMAGE"), col=6),
-                                    ft.Container(_metric(ft, str(counts["chapters"]), "主题章节", "MENU_BOOK"), col=6),
-                                    ft.Container(_metric(ft, "49", "PDF 页面", "PICTURE_AS_PDF"), col=6),
-                                ]
-                            ),
-                            col={"sm": 12, "md": 5},
+                        ft.Row(
+                            [
+                                ft.Container(
+                                    _metric(ft, str(counts["entries"]), "结构化地点", "STORE"),
+                                    width=220,
+                                ),
+                                ft.Container(
+                                    _metric(ft, str(counts["images"]), "原始图片", "IMAGE"),
+                                    width=220,
+                                ),
+                                ft.Container(
+                                    _metric(ft, str(counts["chapters"]), "主题章节", "MENU_BOOK"),
+                                    width=220,
+                                ),
+                                ft.Container(
+                                    _metric(ft, "49", "PDF 页面", "PICTURE_AS_PDF"),
+                                    width=220,
+                                ),
+                            ],
+                            wrap=True,
+                            spacing=10,
+                            run_spacing=10,
                         ),
-                    ]
+                    ],
+                    spacing=16,
                 ),
                 padding=22,
                 bgcolor=primary_container,
             ),
-            ft.Row(
-                [
-                    search_query,
-                    button(ft, "搜索", icon=icon(ft, "SEARCH"), on_click=do_search),
-                    button(ft, "随机一家", icon=icon(ft, "CASINO"), on_click=random_pick),
-                    button(ft, "清空", icon=icon(ft, "RESTART_ALT"), on_click=clear_search),
-                ],
-                wrap=True,
+            _card(
+                ft.Column(
+                    [
+                        search_query,
+                        ft.Row(
+                            [
+                                button(ft, "搜索", icon=icon(ft, "SEARCH"), on_click=do_search),
+                                button(ft, "随机一家", icon=icon(ft, "CASINO"), on_click=random_pick),
+                                button(ft, "清空", icon=icon(ft, "RESTART_ALT"), on_click=clear_search),
+                            ],
+                            wrap=True,
+                            spacing=10,
+                            run_spacing=10,
+                        ),
+                    ],
+                    spacing=10,
+                ),
+                bgcolor=surface_panel,
             ),
             _card(
                 ft.Column(
@@ -527,7 +608,7 @@ def main(page: ft.Page) -> None:
                 bgcolor=surface_low,
             ),
             search_status,
-            ft.ResponsiveRow(
+            ft.Row(
                 [
                     ft.Container(
                         content=_card(
@@ -537,7 +618,7 @@ def main(page: ft.Page) -> None:
                             ),
                             bgcolor=surface,
                         ),
-                        col={"sm": 12, "md": 5},
+                        expand=5,
                     ),
                     ft.Container(
                         content=_card(
@@ -547,12 +628,21 @@ def main(page: ft.Page) -> None:
                             ),
                             bgcolor=surface,
                         ),
-                        col={"sm": 12, "md": 7},
+                        expand=7,
                     ),
-                ]
+                ],
+                spacing=14,
+                vertical_alignment=getattr(
+                    getattr(ft, "CrossAxisAlignment", None),
+                    "START",
+                    None,
+                ),
             ),
         ],
         spacing=14,
+        expand=True,
+        padding=0,
+        build_controls_on_demand=False,
     )
 
     # ==================================================================
@@ -582,12 +672,15 @@ def main(page: ft.Page) -> None:
     local_chat_input = ft.TextField(
         label="根据内置指南问我",
         hint_text="例如：华科附近适合三个人、不太辣、预算友好的店",
-        expand=True,
         multiline=True,
-        min_lines=1,
-        max_lines=4,
+        min_lines=2,
+        max_lines=5,
     )
-    local_chat_log = ft.Column(spacing=10)
+    local_chat_log = ft.Column(
+        controls=[ft.Text("对话内容会显示在这里。", size=12)],
+        spacing=10,
+        scroll=_scroll_auto(),
+    )
     local_chat_status = ft.Text("没有 API Key 时，使用本地关键词检索，不调用网络模型。", size=12)
     local_agent_holder: dict[str, Any] = {"signature": None, "agent": None}
 
@@ -609,7 +702,7 @@ def main(page: ft.Page) -> None:
         agent = local_agent_holder.get("agent")
         if agent is not None:
             agent.reset()
-        local_chat_log.controls.clear()
+        local_chat_log.controls[:] = [ft.Text("对话内容会显示在这里。", size=12)]
         local_chat_status.value = "本地指南对话已重置；模型配置保持不变。"
         page.update()
 
@@ -617,6 +710,8 @@ def main(page: ft.Page) -> None:
         question = (preset_text or local_chat_input.value or "").strip()
         if not question:
             return
+        if len(local_chat_log.controls) == 1:
+            local_chat_log.controls.clear()
         append_chat(local_chat_log, "你", question)
         local_chat_input.value = ""
         local_chat_status.value = "正在查询内置指南并整理答案…"
@@ -650,7 +745,7 @@ def main(page: ft.Page) -> None:
         threading.Thread(target=worker, daemon=True).start()
 
     local_chat_input.on_submit = send_local_chat
-    local_chat_view = ft.Column(
+    local_chat_view = ft.ListView(
         [
             _card(
                 ft.Column(
@@ -689,17 +784,39 @@ def main(page: ft.Page) -> None:
                 ],
                 wrap=True,
             ),
-            _card(local_chat_log, bgcolor=surface),
-            ft.Row(
-                [
-                    local_chat_input,
-                    button(ft, "发送", icon=icon(ft, "SEND"), on_click=send_local_chat),
-                ],
-                wrap=True,
+            ft.Container(
+                content=local_chat_log,
+                height=300,
+                padding=16,
+                bgcolor=surface_panel,
+                border_radius=16,
+            ),
+            _card(
+                ft.Column(
+                    [
+                        local_chat_input,
+                        ft.Row(
+                            [
+                                button(
+                                    ft,
+                                    "发送",
+                                    icon=icon(ft, "SEND"),
+                                    on_click=send_local_chat,
+                                )
+                            ],
+                            spacing=10,
+                        ),
+                    ],
+                    spacing=10,
+                ),
+                bgcolor=surface_panel,
             ),
             local_chat_status,
         ],
         spacing=14,
+        expand=True,
+        padding=0,
+        build_controls_on_demand=False,
     )
 
     # ==================================================================
@@ -761,12 +878,15 @@ def main(page: ft.Page) -> None:
     live_chat_input = ft.TextField(
         label="实时找吃的",
         hint_text="例如：华科东门 3 公里内，现在营业、评分较高、适合两个人的清淡餐馆",
-        expand=True,
         multiline=True,
-        min_lines=1,
-        max_lines=4,
+        min_lines=2,
+        max_lines=5,
     )
-    live_chat_log = ft.Column(spacing=10)
+    live_chat_log = ft.Column(
+        controls=[ft.Text("实时 MCP 查询结果会显示在这里。", size=12)],
+        spacing=10,
+        scroll=_scroll_auto(),
+    )
     live_status = ft.Text("尚未连接 MCP。高德可直接使用官方 MCP；其他平台需要合法授权的连接器。", size=12)
     live_tools = ft.Text("可用工具：尚未检测", selectable=True, size=12)
     live_agent_holder: dict[str, Any] = {"signature": None, "agent": None, "hub": None}
@@ -851,7 +971,7 @@ def main(page: ft.Page) -> None:
         agent = live_agent_holder.get("agent")
         if agent is not None:
             agent.reset()
-        live_chat_log.controls.clear()
+        live_chat_log.controls[:] = [ft.Text("实时 MCP 查询结果会显示在这里。", size=12)]
         live_status.value = "实时 MCP 对话已重置；连接配置保持不变。"
         page.update()
 
@@ -859,6 +979,8 @@ def main(page: ft.Page) -> None:
         question = (preset_text or live_chat_input.value or "").strip()
         if not question:
             return
+        if len(live_chat_log.controls) == 1:
+            live_chat_log.controls.clear()
         append_chat(live_chat_log, "你", question)
         live_chat_input.value = ""
         live_status.value = "正在让模型调用实时 MCP 工具…"
@@ -893,7 +1015,7 @@ def main(page: ft.Page) -> None:
         threading.Thread(target=worker, daemon=True).start()
 
     live_chat_input.on_submit = send_live_chat
-    live_chat_view = ft.Column(
+    live_chat_view = ft.ListView(
         [
             _card(
                 ft.Column(
@@ -922,13 +1044,29 @@ def main(page: ft.Page) -> None:
             _card(
                 ft.Column(
                     [
-                        ft.Row(
+                        ft.Column(
                             [
-                                ft.Text("MCP 数据源", size=18, weight=_bold(), expand=True),
-                                button(ft, "载入授权连接器模板", on_click=load_mcp_template),
-                                button(ft, "测试连接", icon=icon(ft, "CLOUD_SYNC"), on_click=test_mcp),
+                                ft.Text("MCP 数据源", size=18, weight=_bold()),
+                                ft.Row(
+                                    [
+                                        button(
+                                            ft,
+                                            "载入授权连接器模板",
+                                            on_click=load_mcp_template,
+                                        ),
+                                        button(
+                                            ft,
+                                            "测试连接",
+                                            icon=icon(ft, "CLOUD_SYNC"),
+                                            on_click=test_mcp,
+                                        ),
+                                    ],
+                                    wrap=True,
+                                    spacing=10,
+                                    run_spacing=10,
+                                ),
                             ],
-                            wrap=True,
+                            spacing=8,
                         ),
                         extra_mcp,
                         ft.Text(
@@ -968,17 +1106,39 @@ def main(page: ft.Page) -> None:
                 ],
                 wrap=True,
             ),
-            _card(live_chat_log, bgcolor=surface),
-            ft.Row(
-                [
-                    live_chat_input,
-                    button(ft, "实时查询", icon=icon(ft, "TRAVEL_EXPLORE"), on_click=send_live_chat),
-                ],
-                wrap=True,
+            ft.Container(
+                content=live_chat_log,
+                height=300,
+                padding=16,
+                bgcolor=surface_panel,
+                border_radius=16,
+            ),
+            _card(
+                ft.Column(
+                    [
+                        live_chat_input,
+                        ft.Row(
+                            [
+                                button(
+                                    ft,
+                                    "实时查询",
+                                    icon=icon(ft, "TRAVEL_EXPLORE"),
+                                    on_click=send_live_chat,
+                                )
+                            ],
+                            spacing=10,
+                        ),
+                    ],
+                    spacing=10,
+                ),
+                bgcolor=surface_panel,
             ),
             live_status,
         ],
         spacing=14,
+        expand=True,
+        padding=0,
+        build_controls_on_demand=False,
     )
 
     # ==================================================================
@@ -1082,7 +1242,7 @@ def main(page: ft.Page) -> None:
     )
     detach_image = guarded(_detach_image)
 
-    editor_view = ft.Column(
+    editor_view = ft.ListView(
         [
             _card(
                 ft.Column(
@@ -1138,12 +1298,15 @@ def main(page: ft.Page) -> None:
             editor_status,
         ],
         spacing=14,
+        expand=True,
+        padding=0,
+        build_controls_on_demand=False,
     )
 
     # ==================================================================
     # About / architecture
     # ==================================================================
-    about_view = ft.Column(
+    about_view = ft.ListView(
         [
             _card(
                 ft.Column(
@@ -1155,13 +1318,16 @@ def main(page: ft.Page) -> None:
                 ),
                 bgcolor=primary_container,
             ),
-            ft.ResponsiveRow(
+            ft.Row(
                 [
-                    ft.Container(_metric(ft, str(counts["entries"]), "地点记录", "PLACE"), col={"sm": 6, "md": 3}),
-                    ft.Container(_metric(ft, str(counts["sections"]), "区域小节", "MAP"), col={"sm": 6, "md": 3}),
-                    ft.Container(_metric(ft, str(counts["images"]), "提取图片", "IMAGE"), col={"sm": 6, "md": 3}),
-                    ft.Container(_metric(ft, "2", "独立 AI 模式", "SMART_TOY"), col={"sm": 6, "md": 3}),
-                ]
+                    ft.Container(_metric(ft, str(counts["entries"]), "地点记录", "PLACE"), width=220),
+                    ft.Container(_metric(ft, str(counts["sections"]), "区域小节", "MAP"), width=220),
+                    ft.Container(_metric(ft, str(counts["images"]), "提取图片", "IMAGE"), width=220),
+                    ft.Container(_metric(ft, "2", "独立 AI 模式", "SMART_TOY"), width=220),
+                ],
+                wrap=True,
+                spacing=10,
+                run_spacing=10,
             ),
             _card(
                 ft.Column(
@@ -1190,17 +1356,31 @@ def main(page: ft.Page) -> None:
             ),
         ],
         spacing=14,
+        expand=True,
+        padding=0,
+        build_controls_on_demand=False,
     )
 
     # ==================================================================
     # Application shell
     # ==================================================================
-    view_host = ft.Column([discover_view], expand=True)
+    # The content slot itself is the expanding direct child of the root
+    # Column. Views are swapped through Container.content instead of nesting
+    # an expanded Column inside an unconstrained Container.
+    alignment_cls = getattr(ft, "Alignment", None)
+    top_left = getattr(alignment_cls, "TOP_LEFT", None) if alignment_cls else None
+
+    view_host = ft.Container(
+        content=discover_view,
+        padding=padding_symmetric(ft, horizontal=18, vertical=16),
+        expand=True,
+        alignment=top_left,
+    )
     nav_buttons: list[Any] = []
 
     def switch(view, title: str):
         def handler(_event=None):
-            view_host.controls = [view]
+            view_host.content = view
             section_title.value = title
             page.update()
 
@@ -1220,7 +1400,7 @@ def main(page: ft.Page) -> None:
     nav_buttons.extend(navigation.controls)
 
     header = ft.Container(
-        content=ft.Row(
+        content=ft.Column(
             [
                 ft.Row(
                     [
@@ -1235,22 +1415,50 @@ def main(page: ft.Page) -> None:
                     ],
                     spacing=10,
                 ),
-                ft.Container(expand=True),
                 navigation,
             ],
-            wrap=True,
+            spacing=10,
         ),
         padding=padding_symmetric(ft, horizontal=20, vertical=12),
         bgcolor=surface_high,
     )
-    page.add(
-        header,
-        ft.Container(
-            content=view_host,
-            padding=padding_symmetric(ft, horizontal=18, vertical=16),
+    # A single bounded root layout prevents the workspace from collapsing
+    # to zero height on desktop/Web builds.
+    app_shell = ft.Column(
+        [
+            header,
+            view_host,
+        ],
+        spacing=0,
+        expand=True,
+        horizontal_alignment=getattr(
+            getattr(ft, "CrossAxisAlignment", None),
+            "STRETCH",
+            None,
         ),
     )
-    do_search()
+
+    safe_area_cls = getattr(ft, "SafeArea", None)
+    root_control = (
+        safe_area_cls(content=app_shell, expand=True)
+        if safe_area_cls is not None
+        else app_shell
+    )
+    page.add(root_control)
+
+    # Populate after the controls are mounted. Any startup search failure is
+    # rendered as text instead of leaving a silent empty workspace.
+    try:
+        do_search()
+    except Exception as exc:
+        search_status.value = f"初始化搜索失败：{type(exc).__name__}: {exc}"
+        result_column.controls[:] = [
+            ft.Text(
+                "界面已加载，但本地数据初始化失败。请复制此错误信息进行排查。",
+                selectable=True,
+            )
+        ]
+        page.update()
 
 
 def run() -> None:
